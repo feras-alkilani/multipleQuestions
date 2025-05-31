@@ -41,27 +41,20 @@ function renderQuiz(questions) {
     questionText.textContent = `${index + 1} - ${q.question}`;
 
     questionText.onclick = async () => {
-      const checkAudio = async (url) => {
-        try {
-          const response = await fetch(url, { method: "HEAD" });
-          return response.ok;
-        } catch (error) {
-          return false;
-        }
-      };
+      const tryPlay = (player, url) =>
+        new Promise((resolve) => {
+          player.src = url;
+          player.oncanplaythrough = () => {
+            player.play();
+            resolve(true);
+          };
+          player.onerror = () => resolve(false);
+        });
 
-      if (await checkAudio(audioURL)) {
-        audioPlayer.src = audioURL;
-        audioPlayer.play();
-      } else if (await checkAudio(audioURL1)) {
-        audioPlayer1.src = audioURL1;
-        audioPlayer1.play();
-      } else if (await checkAudio(audioURL2)) {
-        audioPlayer2.src = audioURL2;
-        audioPlayer2.play();
-      } else {
-        console.log("No valid audio file found.");
-      }
+      if (await tryPlay(audioPlayer, audioURL)) return;
+      if (await tryPlay(audioPlayer1, audioURL1)) return;
+      if (await tryPlay(audioPlayer2, audioURL2)) return;
+      console.log("No valid audio file found.");
     };
 
     // === Youglish Button ===
