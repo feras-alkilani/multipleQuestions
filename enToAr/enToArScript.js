@@ -43,12 +43,17 @@ function renderQuiz(questions) {
     questionText.onclick = async () => {
       const tryPlay = (player, url) =>
         new Promise((resolve) => {
+          player.pause();
+          player.currentTime = 0;
           player.src = url;
           player.oncanplaythrough = () => {
             player.play();
             resolve(true);
           };
-          player.onerror = () => resolve(false);
+          player.onerror = () => {
+            console.log(`Audio file not found or can't be played: ${url}`);
+            resolve(false);
+          };
         });
 
       if (await tryPlay(audioPlayer, audioURL)) return;
