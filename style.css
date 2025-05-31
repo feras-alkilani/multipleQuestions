@@ -92,6 +92,7 @@ main {
 
 #enToAr,
 #arToEn,
+#enToDu,
 #duToEn,
 #duToAr {
   height: 250px;
@@ -107,6 +108,7 @@ main {
 
 #enToAr:hover,
 #arToEn:hover,
+#enToDu:hover,
 #duToEn:hover,
 #duToAr:hover {
   background-color: #00bfff;
