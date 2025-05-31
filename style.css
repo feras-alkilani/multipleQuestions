@@ -1,0 +1,158 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("images/background-pattern.png");
+  background-repeat: repeat;
+  background-size: auto;
+  background-attachment: fixed;
+}
+
+main {
+  flex: 1;
+}
+
+#quiz-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.question-container {
+  width: 25%;
+  margin: 20px 0;
+  box-sizing: border-box;
+}
+
+.question {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.questionsButtons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.answer {
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 80%;
+  display: block;
+}
+
+.correct {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+.incorrect {
+  background-color: #f44336;
+  color: #fff;
+}
+
+#correct-result,
+#wrong-result {
+  background: antiquewhite;
+  margin: 5px auto;
+  padding: 5px 0;
+  width: 300px;
+}
+
+.lang-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.question,
+.questionDiv {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.youglish {
+  height: 25px;
+  width: 34px;
+}
+
+#enToAr,
+#arToEn,
+#duToEn,
+#duToAr {
+  height: 250px;
+  width: 250px;
+  font-size: 50px;
+  font-weight: 500;
+  border: none;
+  border-radius: 10px;
+  background-color: #87cefa;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#enToAr:hover,
+#arToEn:hover,
+#duToEn:hover,
+#duToAr:hover {
+  background-color: #00bfff;
+  color: #ffeb3b;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #87cefa;
+  line-height: 50px; /* vertically center text */
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+#backToHome,
+#refresh {
+  width: 150px;
+  height: 50px;
+  padding: 10px;
+  margin: 10px auto 0;
+}
+
+@media (max-width: 768px) {
+  .question-container {
+    width: 100%;
+  }
+
+  #enToAr,
+  #arToEn,
+  #duToEn,
+  #duToAr {
+    height: 50px;
+    width: 250px;
+    font-size: 30px;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px;
+    background-color: #87cefa;
+    color: white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-top: 20px;
+  }
+}

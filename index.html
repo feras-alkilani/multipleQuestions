@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word's Test</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Word's Test</h1>
+      <h2>Please Select the Test</h2>
+
+      <div id="lang-buttons">
+        <button id="enToAr" onclick="playSoundAndGo('/enToAr/enToAr.html')">
+          En - Ar
+        </button>
+        <button id="arToEn" onclick="playSoundAndGo('/arToEn/arToEn.html')">
+          Ar - En
+        </button>
+        <button id="duToEn" onclick="playSoundAndGo('/duToEn/duToEn.html')">
+          Du - En
+        </button>
+        <button id="duToEn" onclick="playSoundAndGo('/duToAr/duToAr.html')">
+          Du - Ar
+        </button>
+      </div>
+
+      <audio
+        id="click-sound"
+        src="by the name of God.mp3"
+        preload="auto"
+      ></audio>
+
+      <script>
+        function playSoundAndGo(url) {
+          const audio = document.getElementById("click-sound");
+          audio.play();
+          audio.onended = () => {
+            window.location.href = url;
+          };
+        }
+      </script>
+    </main>
+
+    <footer>
+      <p>
+        Those tests had been made by:
+        <a href="https://www.linkedin.com/in/feras-alkilani/">Feras Alkilani</a>
+      </p>
+    </footer>
+  </body>
+</html>
