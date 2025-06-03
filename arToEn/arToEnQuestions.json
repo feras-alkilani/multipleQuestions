@@ -1,5 +1,2415 @@
 [
     {
+        "question": "الصناديق المشتركة",
+        "options": [
+            "mutual funds",
+            "pension",
+            "stocks",
+            "donations"
+        ],
+        "answer": "mutual funds"
+    },
+    {
+        "question": "متقطع",
+        "options": [
+            "sporadic",
+            "steady",
+            "seasonal",
+            "frequent"
+        ],
+        "answer": "sporadic"
+    },
+    {
+        "question": "موسمي",
+        "options": [
+            "seasonal",
+            "permanent",
+            "sporadic",
+            "stable"
+        ],
+        "answer": "seasonal"
+    },
+    {
+        "question": "شعبي",
+        "options": [
+            "folk",
+            "elite",
+            "urban",
+            "traditional"
+        ],
+        "answer": "folk"
+    },
+    {
+        "question": "العيش من التقاعد",
+        "options": [
+            "living off a pension",
+            "salary",
+            "interest",
+            "investing"
+        ],
+        "answer": "living off a pension"
+    },
+    {
+        "question": "يعزل",
+        "options": [
+            "isolate",
+            "connect",
+            "surround",
+            "group"
+        ],
+        "answer": "isolate"
+    },
+    {
+        "question": "بنس",
+        "options": [
+            "penny",
+            "dollar",
+            "cent",
+            "note"
+        ],
+        "answer": "penny"
+    },
+    {
+        "question": "ثابت",
+        "options": [
+            "steady",
+            "sporadic",
+            "seasonal",
+            "erratic"
+        ],
+        "answer": "steady"
+    },
+    {
+        "question": "مقياس الزيت",
+        "options": [
+            "dipstick",
+            "thermometer",
+            "gauge",
+            "nozzle"
+        ],
+        "answer": "dipstick"
+    },
+    {
+        "question": "افتراض",
+        "options": [
+            "assumption",
+            "fact",
+            "conclusion",
+            "evidence"
+        ],
+        "answer": "assumption"
+    },
+    {
+        "question": "فطِن",
+        "options": [
+            "savvy",
+            "naive",
+            "foolish",
+            "clumsy"
+        ],
+        "answer": "savvy"
+    },
+    {
+        "question": "قادِم من مرتبة",
+        "options": [
+            "hailing from tier",
+            "assigned by grade",
+            "born in rank",
+            "rising to class"
+        ],
+        "answer": "hailing from tier"
+    },
+    {
+        "question": "حضري",
+        "options": [
+            "urban",
+            "rural",
+            "traditional",
+            "natural"
+        ],
+        "answer": "urban"
+    },
+    {
+        "question": "سلوك هادئ",
+        "options": [
+            "calm demeanor",
+            "angry look",
+            "tense expression",
+            "nervous tone"
+        ],
+        "answer": "calm demeanor"
+    },
+    {
+        "question": "البَستَنة",
+        "options": [
+            "gardening",
+            "farming",
+            "forestry",
+            "landscaping"
+        ],
+        "answer": "gardening"
+    },
+    {
+        "question": "يُثري",
+        "options": [
+            "enrich",
+            "weaken",
+            "lessen",
+            "ignore"
+        ],
+        "answer": "enrich"
+    },
+    {
+        "question": "عاطفياً",
+        "options": [
+            "emotionally",
+            "physically",
+            "mentally",
+            "logically"
+        ],
+        "answer": "emotionally"
+    },
+    {
+        "question": "ذهنياً",
+        "options": [
+            "mentally",
+            "physically",
+            "emotionally",
+            "spiritually"
+        ],
+        "answer": "mentally"
+    },
+    {
+        "question": "واعي",
+        "options": [
+            "conscious",
+            "asleep",
+            "numb",
+            "unaware"
+        ],
+        "answer": "conscious"
+    },
+    {
+        "question": "السمعة",
+        "options": [
+            "reputation",
+            "rumor",
+            "opinion",
+            "status"
+        ],
+        "answer": "reputation"
+    },
+    {
+        "question": "يعتبر",
+        "options": [
+            "deems",
+            "ignores",
+            "dismisses",
+            "forgets"
+        ],
+        "answer": "deems"
+    },
+    {
+        "question": "لائق",
+        "options": [
+            "decent",
+            "awful",
+            "rude",
+            "terrible"
+        ],
+        "answer": "decent"
+    },
+    {
+        "question": "جثة",
+        "options": [
+            "coepus",
+            "body",
+            "corpse",
+            "cadaver"
+        ],
+        "answer": "coepus"
+    },
+    {
+        "question": "مصطلحات متخصصة",
+        "options": [
+            "jargon",
+            "language",
+            "vocabulary",
+            "grammar"
+        ],
+        "answer": "jargon"
+    },
+    {
+        "question": "بخصوص",
+        "options": [
+            "regarding to",
+            "according to",
+            "despite",
+            "in favor of"
+        ],
+        "answer": "regarding to"
+    },
+    {
+        "question": "تُقصف بالمعلومات",
+        "options": [
+            "bombarded",
+            "informed",
+            "briefed",
+            "updated"
+        ],
+        "answer": "bombarded"
+    },
+    {
+        "question": "مُخدم حسب الطلب",
+        "options": [
+            "catered",
+            "ignored",
+            "denied",
+            "refused"
+        ],
+        "answer": "catered"
+    },
+    {
+        "question": "شهية",
+        "options": [
+            "appetite",
+            "taste",
+            "hunger",
+            "diet"
+        ],
+        "answer": "appetite"
+    },
+    {
+        "question": "موجز",
+        "options": [
+            "concise",
+            "lengthy",
+            "detailed",
+            "verbose"
+        ],
+        "answer": "concise"
+    },
+    {
+        "question": "تطابق مثالي",
+        "options": [
+            "match made in heaven",
+            "random pair",
+            "unlikely couple",
+            "forced match"
+        ],
+        "answer": "match made in heaven"
+    },
+    {
+        "question": "بسيط لأقصى حد",
+        "options": [
+            "minimalistic",
+            "extravagant",
+            "decorated",
+            "cluttered"
+        ],
+        "answer": "minimalistic"
+    },
+    {
+        "question": "أسهل بكثير",
+        "options": [
+            "it is far more easier",
+            "it is a bit hard",
+            "it is less difficult",
+            "it is somewhat manageable"
+        ],
+        "answer": "it is far more easier"
+    },
+    {
+        "question": "بشكل كبير",
+        "options": [
+            "drastically",
+            "mildly",
+            "gently",
+            "slightly"
+        ],
+        "answer": "drastically"
+    },
+    {
+        "question": "يتوج",
+        "options": [
+            "culminates",
+            "starts",
+            "decreases",
+            "fails"
+        ],
+        "answer": "culminates"
+    },
+    {
+        "question": "شخص متعدد المهارات",
+        "options": [
+            "jack of all trades",
+            "expert",
+            "novice",
+            "specialist"
+        ],
+        "answer": "jack of all trades"
+    },
+    {
+        "question": "يرمز إلى",
+        "options": [
+            "denoted",
+            "hidden",
+            "excluded",
+            "omitted"
+        ],
+        "answer": "denoted"
+    },
+    {
+        "question": "يحكم على",
+        "options": [
+            "judge",
+            "observe",
+            "approve",
+            "discuss"
+        ],
+        "answer": "judge"
+    },
+    {
+        "question": "يتقمص شخصية",
+        "options": [
+            "impersonate",
+            "imitate",
+            "follow",
+            "lead"
+        ],
+        "answer": "impersonate"
+    },
+    {
+        "question": "يفهم بصعوبة، يتظاهر، يملأ مستند، يعانق",
+        "options": [
+            "make out",
+            "figure out",
+            "carry out",
+            "set up"
+        ],
+        "answer": "make out"
+    },
+    {
+        "question": "دقيق وخفي",
+        "options": [
+            "subtle",
+            "obvious",
+            "strong",
+            "visible"
+        ],
+        "answer": "subtle"
+    },
+    {
+        "question": "توحد",
+        "options": [
+            "uniformity",
+            "diversity",
+            "irregularity",
+            "inconsistency"
+        ],
+        "answer": "uniformity"
+    },
+    {
+        "question": "يُلطّف",
+        "options": [
+            "to tone",
+            "to boost",
+            "to worsen",
+            "to sharpen"
+        ],
+        "answer": "to tone"
+    },
+    {
+        "question": "الفريق بأكمله",
+        "options": [
+            "entire team",
+            "coach",
+            "few members",
+            "staff"
+        ],
+        "answer": "entire team"
+    },
+    {
+        "question": "استُقبِل",
+        "options": [
+            "greeted",
+            "ignored",
+            "avoided",
+            "rejected"
+        ],
+        "answer": "greeted"
+    },
+    {
+        "question": "قماش للرسم",
+        "options": [
+            "canvas",
+            "fabric",
+            "sheet",
+            "board"
+        ],
+        "answer": "canvas"
+    },
+    {
+        "question": "مفتش",
+        "options": [
+            "inspector",
+            "officer",
+            "manager",
+            "clerk"
+        ],
+        "answer": "inspector"
+    },
+    {
+        "question": "النسيج",
+        "options": [
+            "texture",
+            "mockup",
+            "instinctively",
+            "clarity"
+        ],
+        "answer": "texture"
+    },
+    {
+        "question": "نموذج عرض",
+        "options": [
+            "mockup",
+            "schematic",
+            "thumbnail",
+            "trait"
+        ],
+        "answer": "mockup"
+    },
+    {
+        "question": "قرص/قرصة",
+        "options": [
+            "pinching",
+            "fictional",
+            "overcome",
+            "debits"
+        ],
+        "answer": "pinching"
+    },
+    {
+        "question": "بشكل غريزي",
+        "options": [
+            "instinctively",
+            "persist",
+            "layman",
+            "to sum it all"
+        ],
+        "answer": "instinctively"
+    },
+    {
+        "question": "انفجار",
+        "options": [
+            "explosion",
+            "induce",
+            "trait",
+            "conceptulized"
+        ],
+        "answer": "explosion"
+    },
+    {
+        "question": "مخطط بياني",
+        "options": [
+            "schematic",
+            "mockup",
+            "thumbnail",
+            "testimonioals"
+        ],
+        "answer": "schematic"
+    },
+    {
+        "question": "بعثات استكشافية",
+        "options": [
+            "expeditions",
+            "hypothetical",
+            "trait",
+            "conceptulized"
+        ],
+        "answer": "expeditions"
+    },
+    {
+        "question": "يحفز",
+        "options": [
+            "induce",
+            "persist",
+            "overcome",
+            "layman"
+        ],
+        "answer": "induce"
+    },
+    {
+        "question": "عامل الإبهار",
+        "options": [
+            "wow factor",
+            "clarity",
+            "texture",
+            "schematic"
+        ],
+        "answer": "wow factor"
+    },
+    {
+        "question": "فيتا (كلمة لاتينية تعني الحياة)",
+        "options": [
+            "vita",
+            "vital",
+            "curriculum vitae",
+            "territory"
+        ],
+        "answer": "vita"
+    },
+    {
+        "question": "حيوي",
+        "options": [
+            "vital",
+            "trait",
+            "texture",
+            "induce"
+        ],
+        "answer": "vital"
+    },
+    {
+        "question": "يرجى إرسال سيرتك الذاتية",
+        "options": [
+            "Please send your vita",
+            "to conclude",
+            "not factored in",
+            "hypothetical"
+        ],
+        "answer": "Please send your vita"
+    },
+    {
+        "question": "السيرة الذاتية",
+        "options": [
+            "curriculum vitae",
+            "mockup",
+            "thumbnails",
+            "sense"
+        ],
+        "answer": "curriculum vitae"
+    },
+    {
+        "question": "غير شفاف",
+        "options": [
+            "opaque",
+            "crucial",
+            "to sum it all",
+            "trait"
+        ],
+        "answer": "opaque"
+    },
+    {
+        "question": "شركاتي",
+        "options": [
+            "corporate",
+            "fictional",
+            "overcome",
+            "texture"
+        ],
+        "answer": "corporate"
+    },
+    {
+        "question": "مثابر",
+        "options": [
+            "presistent",
+            "trait",
+            "clarity",
+            "venturing"
+        ],
+        "answer": "presistent"
+    },
+    {
+        "question": "حتى لا, كي لا, لئلا, من أجل تجنب أن",
+        "options": [
+            "lest",
+            "to sum it all",
+            "fictional",
+            "trait"
+        ],
+        "answer": "lest"
+    },
+    {
+        "question": "صور مصغرة",
+        "options": [
+            "thumbnails",
+            "mockup",
+            "wow factor",
+            "curriculum vitae"
+        ],
+        "answer": "thumbnails"
+    },
+    {
+        "question": "آراء العملاء",
+        "options": [
+            "testimonioals",
+            "explosion",
+            "conceptulized",
+            "hypothetical"
+        ],
+        "answer": "testimonioals"
+    },
+    {
+        "question": "لم يؤخذ بالحسبان",
+        "options": [
+            "not factored in",
+            "sense",
+            "trait",
+            "to conclude"
+        ],
+        "answer": "not factored in"
+    },
+    {
+        "question": "لاختتام",
+        "options": [
+            "to conclude",
+            "clarity",
+            "overcome",
+            "layman"
+        ],
+        "answer": "to conclude"
+    },
+    {
+        "question": "تم تصوره",
+        "options": [
+            "conceptulized",
+            "mapping out",
+            "vital",
+            "sense"
+        ],
+        "answer": "conceptulized"
+    },
+    {
+        "question": "إحساس",
+        "options": [
+            "sense",
+            "fictional",
+            "overcome",
+            "debits"
+        ],
+        "answer": "sense"
+    },
+    {
+        "question": "يتغلب",
+        "options": [
+            "overcome",
+            "persist",
+            "sense",
+            "to conclude"
+        ],
+        "answer": "overcome"
+    },
+    {
+        "question": "الوضوح",
+        "options": [
+            "clarity",
+            "opaque",
+            "trait",
+            "conceptulized"
+        ],
+        "answer": "clarity"
+    },
+    {
+        "question": "لتلخيص كل شيء",
+        "options": [
+            "to sum it all",
+            "trait",
+            "venturing",
+            "territory"
+        ],
+        "answer": "to sum it all"
+    },
+    {
+        "question": "المغامرة",
+        "options": [
+            "venturing",
+            "overcome",
+            "texture",
+            "fictional"
+        ],
+        "answer": "venturing"
+    },
+    {
+        "question": "إقليم",
+        "options": [
+            "territory",
+            "vita",
+            "clarity",
+            "schematic"
+        ],
+        "answer": "territory"
+    },
+    {
+        "question": "حاسم",
+        "options": [
+            "crucial",
+            "not factored in",
+            "trait",
+            "thumbnails"
+        ],
+        "answer": "crucial"
+    },
+    {
+        "question": "افتراضي",
+        "options": [
+            "hypothetical",
+            "fictional",
+            "schematic",
+            "mockup"
+        ],
+        "answer": "hypothetical"
+    },
+    {
+        "question": "خيالي",
+        "options": [
+            "fictional",
+            "sense",
+            "trait",
+            "texture"
+        ],
+        "answer": "fictional"
+    },
+    {
+        "question": "صفة",
+        "options": [
+            "trait",
+            "clarity",
+            "conceptulized",
+            "mapping out"
+        ],
+        "answer": "trait"
+    },
+    {
+        "question": "شخص عادي",
+        "options": [
+            "layman",
+            "presistent",
+            "mockup",
+            "debits"
+        ],
+        "answer": "layman"
+    },
+    {
+        "question": "رسم خريطة",
+        "options": [
+            "mapping out",
+            "schematic",
+            "trait",
+            "testimonioals"
+        ],
+        "answer": "mapping out"
+    },
+    {
+        "question": "الخصومات من الحساب V.S الديون",
+        "options": [
+            "debits V.S debts",
+            "curriculum vitae",
+            "opaque",
+            "clarity"
+        ],
+        "answer": "debits V.S debts"
+    },
+    {
+        "question": "حاسم",
+        "options": [
+            "crucial",
+            "opt in",
+            "advent",
+            "vital"
+        ],
+        "answer": "crucial"
+    },
+    {
+        "question": "الاشتراك الاختياري",
+        "options": [
+            "opt in",
+            "advent",
+            "vital",
+            "ease"
+        ],
+        "answer": "opt in"
+    },
+    {
+        "question": "ظهور",
+        "options": [
+            "advent",
+            "vital",
+            "ease",
+            "snitch"
+        ],
+        "answer": "advent"
+    },
+    {
+        "question": "حيوي",
+        "options": [
+            "vital",
+            "ease",
+            "snitch",
+            "pretty"
+        ],
+        "answer": "vital"
+    },
+    {
+        "question": "تسهيل",
+        "options": [
+            "ease",
+            "snitch",
+            "pretty",
+            "do not lose heart"
+        ],
+        "answer": "ease"
+    },
+    {
+        "question": "مخبر",
+        "options": [
+            "snitch",
+            "pretty",
+            "do not lose heart",
+            "faring"
+        ],
+        "answer": "snitch"
+    },
+    {
+        "question": "جميل",
+        "options": [
+            "pretty",
+            "do not lose heart",
+            "faring",
+            "key point"
+        ],
+        "answer": "pretty"
+    },
+    {
+        "question": "لا تفقد الأمل",
+        "options": [
+            "do not lose heart",
+            "faring",
+            "key point",
+            "thereby"
+        ],
+        "answer": "do not lose heart"
+    },
+    {
+        "question": "كيف تسير الأمور",
+        "options": [
+            "faring",
+            "key point",
+            "thereby",
+            "enforce"
+        ],
+        "answer": "faring"
+    },
+    {
+        "question": "النقطة الأساسية",
+        "options": [
+            "key point",
+            "thereby",
+            "enforce",
+            "credibility"
+        ],
+        "answer": "key point"
+    },
+    {
+        "question": "وبالتالي",
+        "options": [
+            "thereby",
+            "enforce",
+            "credibility",
+            "long run"
+        ],
+        "answer": "thereby"
+    },
+    {
+        "question": "يفرض / ينفذ",
+        "options": [
+            "enforce",
+            "credibility",
+            "long run",
+            "urge"
+        ],
+        "answer": "enforce"
+    },
+    {
+        "question": "المصداقية",
+        "options": [
+            "credibility",
+            "long run",
+            "urge",
+            "aligning"
+        ],
+        "answer": "credibility"
+    },
+    {
+        "question": "على المدى الطويل",
+        "options": [
+            "long run",
+            "urge",
+            "aligning",
+            "presence"
+        ],
+        "answer": "long run"
+    },
+    {
+        "question": "يحث / يدفع",
+        "options": [
+            "urge",
+            "aligning",
+            "presence",
+            "wireframing"
+        ],
+        "answer": "urge"
+    },
+    {
+        "question": "محاذاة",
+        "options": [
+            "aligning",
+            "presence",
+            "wireframing",
+            "heade over"
+        ],
+        "answer": "aligning"
+    },
+    {
+        "question": "وجود",
+        "options": [
+            "presence",
+            "wireframing",
+            "heade over",
+            "trial"
+        ],
+        "answer": "presence"
+    },
+    {
+        "question": "تصميم هيكلي",
+        "options": [
+            "wireframing",
+            "heade over",
+            "trial",
+            "I get asked"
+        ],
+        "answer": "wireframing"
+    },
+    {
+        "question": "التوجه نحو",
+        "options": [
+            "heade over",
+            "trial",
+            "I get asked",
+            "foresee"
+        ],
+        "answer": "heade over"
+    },
+    {
+        "question": "محاكمة (قانوني)",
+        "options": [
+            "trial (محاكمة)",
+            "trial (تجربة)",
+            "trial (محاولة)",
+            "trial (معاناة)"
+        ],
+        "answer": "trial (محاكمة)"
+    },
+    {
+        "question": "تجربة / اختبار",
+        "options": [
+            "trial (تجربة)",
+            "trial (محاولة)",
+            "trial (معاناة)",
+            "I get asked"
+        ],
+        "answer": "trial (تجربة)"
+    },
+    {
+        "question": "محاولة / تجربة أولى",
+        "options": [
+            "trial (محاولة)",
+            "trial (معاناة)",
+            "I get asked",
+            "foresee"
+        ],
+        "answer": "trial (محاولة)"
+    },
+    {
+        "question": "معاناة أو ابتلاء",
+        "options": [
+            "trial (معاناة)",
+            "I get asked",
+            "foresee",
+            "crop"
+        ],
+        "answer": "trial (معاناة)"
+    },
+    {
+        "question": "أنا أُسأل",
+        "options": [
+            "I get asked",
+            "foresee",
+            "crop",
+            "substantially"
+        ],
+        "answer": "I get asked"
+    },
+    {
+        "question": "يتوقع",
+        "options": [
+            "foresee",
+            "crop",
+            "substantially",
+            "charge by the hour"
+        ],
+        "answer": "foresee"
+    },
+    {
+        "question": "محصول / يحصد",
+        "options": [
+            "crop",
+            "substantially",
+            "charge by the hour",
+            "roadblocks"
+        ],
+        "answer": "crop"
+    },
+    {
+        "question": "بشكل كبير",
+        "options": [
+            "substantially",
+            "charge by the hour",
+            "roadblocks",
+            "onus"
+        ],
+        "answer": "substantially"
+    },
+    {
+        "question": "يتقاضى أجرًا بالساعة",
+        "options": [
+            "charge by the hour",
+            "roadblocks",
+            "onus",
+            "rest on you"
+        ],
+        "answer": "charge by the hour"
+    },
+    {
+        "question": "عوائق",
+        "options": [
+            "roadblocks",
+            "onus",
+            "rest on you",
+            "Terminologies"
+        ],
+        "answer": "roadblocks"
+    },
+    {
+        "question": "العبء / المسؤولية",
+        "options": [
+            "onus",
+            "rest on you",
+            "Terminologies",
+            "aspects"
+        ],
+        "answer": "onus"
+    },
+    {
+        "question": "يقع على عاتقك",
+        "options": [
+            "rest on you",
+            "Terminologies",
+            "aspects",
+            "persona"
+        ],
+        "answer": "rest on you"
+    },
+    {
+        "question": "المصطلحات",
+        "options": [
+            "Terminologies",
+            "aspects",
+            "persona",
+            "interchangeably"
+        ],
+        "answer": "Terminologies"
+    },
+    {
+        "question": "الجوانب",
+        "options": [
+            "aspects",
+            "persona",
+            "interchangeably",
+            "aesthetics"
+        ],
+        "answer": "aspects"
+    },
+    {
+        "question": "شخصية المستخدم",
+        "options": [
+            "persona",
+            "interchangeably",
+            "aesthetics",
+            "strike a balance"
+        ],
+        "answer": "persona"
+    },
+    {
+        "question": "بشكل متبادل",
+        "options": [
+            "interchangeably",
+            "aesthetics",
+            "strike a balance",
+            "appealing"
+        ],
+        "answer": "interchangeably"
+    },
+    {
+        "question": "الجماليات",
+        "options": [
+            "aesthetics",
+            "strike a balance",
+            "appealing",
+            "peg"
+        ],
+        "answer": "aesthetics"
+    },
+    {
+        "question": "تحقيق توازن",
+        "options": [
+            "strike a balance",
+            "appealing",
+            "peg",
+            "jargons"
+        ],
+        "answer": "strike a balance"
+    },
+    {
+        "question": "جذاب",
+        "options": [
+            "appealing",
+            "peg",
+            "jargons",
+            "by the means"
+        ],
+        "answer": "appealing"
+    },
+    {
+        "question": "وتد / تثبيت",
+        "options": [
+            "peg",
+            "jargons",
+            "by the means",
+            "convince"
+        ],
+        "answer": "peg"
+    },
+    {
+        "question": "مصطلحات متخصصة",
+        "options": [
+            "jargons",
+            "by the means",
+            "convince",
+            "cognitive"
+        ],
+        "answer": "jargons"
+    },
+    {
+        "question": "عن طريق",
+        "options": [
+            "by the means",
+            "convince",
+            "cognitive",
+            "packed"
+        ],
+        "answer": "by the means"
+    },
+    {
+        "question": "يقنع",
+        "options": [
+            "convince",
+            "cognitive",
+            "packed",
+            "tremendous"
+        ],
+        "answer": "convince"
+    },
+    {
+        "question": "معرفي",
+        "options": [
+            "cognitive",
+            "packed",
+            "tremendous",
+            "bling"
+        ],
+        "answer": "cognitive"
+    },
+    {
+        "question": "معبأ / مكتظ",
+        "options": [
+            "packed",
+            "tremendous",
+            "bling",
+            "observe"
+        ],
+        "answer": "packed"
+    },
+    {
+        "question": "هائل",
+        "options": [
+            "tremendous",
+            "bling",
+            "observe",
+            "nowhere"
+        ],
+        "answer": "tremendous"
+    },
+    {
+        "question": "لمعان / بريق",
+        "options": [
+            "bling",
+            "observe",
+            "nowhere",
+            "gamifies"
+        ],
+        "answer": "bling"
+    },
+    {
+        "question": "يراقب",
+        "options": [
+            "observe",
+            "nowhere",
+            "gamifies",
+            "curiosity"
+        ],
+        "answer": "observe"
+    },
+    {
+        "question": "في أي مكان",
+        "options": [
+            "nowhere",
+            "gamifies",
+            "curiosity",
+            "gamificatioon"
+        ],
+        "answer": "nowhere"
+    },
+    {
+        "question": "يجعل اللعبة ممتعة",
+        "options": [
+            "gamifies",
+            "curiosity",
+            "gamificatioon",
+            "engaged to someone"
+        ],
+        "answer": "gamifies"
+    },
+    {
+        "question": "الفضول",
+        "options": [
+            "curiosity",
+            "gamificatioon",
+            "engaged to someone",
+            "engage in an activity"
+        ],
+        "answer": "curiosity"
+    },
+    {
+        "question": "ت gamificatioon (نفس gamifies)",
+        "options": [
+            "gamificatioon",
+            "engaged to someone",
+            "engage in an activity",
+            "engage someone (attention)"
+        ],
+        "answer": "gamificatioon"
+    },
+    {
+        "question": "مخطوب لحد",
+        "options": [
+            "engaged to someone",
+            "engage in an activity",
+            "engage someone (attention)",
+            "engage someone (employment)"
+        ],
+        "answer": "engaged to someone"
+    },
+    {
+        "question": "يشارك في نشاط",
+        "options": [
+            "engage in an activity",
+            "engage someone (attention)",
+            "engage someone (employment)",
+            "engage with (conflict/battle)"
+        ],
+        "answer": "engage in an activity"
+    },
+    {
+        "question": "يجذب الانتباه",
+        "options": [
+            "engage someone (attention)",
+            "engage someone (employment)",
+            "engage with (conflict/battle)",
+            "urge"
+        ],
+        "answer": "engage someone (attention)"
+    },
+    {
+        "question": "يوظف / يستأجر",
+        "options": [
+            "engage someone (employment)",
+            "engage with (conflict/battle)",
+            "urge",
+            "aligning"
+        ],
+        "answer": "engage someone (employment)"
+    },
+    {
+        "question": "يشتبك مع (صراع/معركة)",
+        "options": [
+            "engage with (conflict/battle)",
+            "urge",
+            "aligning",
+            "presence"
+        ],
+        "answer": "engage with (conflict/battle)"
+    },
+    {
+        "question": "مريض",
+        "options": [
+            "unwell",
+            "smoothly",
+            "invented",
+            "capitalism"
+        ],
+        "answer": "unwell"
+    },
+    {
+        "question": "بسلاسة",
+        "options": [
+            "smoothly",
+            "nailing",
+            "grab",
+            "grapes"
+        ],
+        "answer": "smoothly"
+    },
+    {
+        "question": "مُختَرَع",
+        "options": [
+            "grab",
+            "capitalism",
+            "invented",
+            "indicative"
+        ],
+        "answer": "invented"
+    },
+    {
+        "question": "الرأسمالية",
+        "options": [
+            "capitalism",
+            "entrepreneurship",
+            "coalition",
+            "device"
+        ],
+        "answer": "capitalism"
+    },
+    {
+        "question": "عقد (عشر سنوات)",
+        "options": [
+            "decade",
+            "era",
+            "calendar",
+            "spring"
+        ],
+        "answer": "decade"
+    },
+    {
+        "question": "عصر",
+        "options": [
+            "era",
+            "decade",
+            "apprehensive",
+            "cementing"
+        ],
+        "answer": "era"
+    },
+    {
+        "question": "ريادة الأعمال",
+        "options": [
+            "entrepreneurship",
+            "capitalism",
+            "justify",
+            "centric"
+        ],
+        "answer": "entrepreneurship"
+    },
+    {
+        "question": "يشير إلى",
+        "options": [
+            "indicate",
+            "convey",
+            "grab",
+            "devise"
+        ],
+        "answer": "indicate"
+    },
+    {
+        "question": "متمحور",
+        "options": [
+            "centric",
+            "concise",
+            "calendar",
+            "exhibition"
+        ],
+        "answer": "centric"
+    },
+    {
+        "question": "الضبط الدقيق",
+        "options": [
+            "tuning",
+            "grasp",
+            "accelerating",
+            "cementing"
+        ],
+        "answer": "tuning"
+    },
+    {
+        "question": "إثراء",
+        "options": [
+            "enriching",
+            "justify",
+            "grab",
+            "stimulate"
+        ],
+        "answer": "enriching"
+    },
+    {
+        "question": "شخصيات خيالية/نماذج",
+        "options": [
+            "personas",
+            "device",
+            "spring",
+            "calendar"
+        ],
+        "answer": "personas"
+    },
+    {
+        "question": "انهيارات",
+        "options": [
+            "collapses",
+            "aftermath",
+            "coalition",
+            "grappling"
+        ],
+        "answer": "collapses"
+    },
+    {
+        "question": "النتائج / التَبِعات",
+        "options": [
+            "aftermath",
+            "stimulate",
+            "grab",
+            "entrepreneurship"
+        ],
+        "answer": "aftermath"
+    },
+    {
+        "question": "تحالف",
+        "options": [
+            "coalition",
+            "capitalism",
+            "era",
+            "justify"
+        ],
+        "answer": "coalition"
+    },
+    {
+        "question": "غير مسؤول",
+        "options": [
+            "irresponsible",
+            "irrelevant",
+            "rational",
+            "concise"
+        ],
+        "answer": "irresponsible"
+    },
+    {
+        "question": "ذو صلة",
+        "options": [
+            "relevant",
+            "irrelevant",
+            "grasp",
+            "calendar"
+        ],
+        "answer": "relevant"
+    },
+    {
+        "question": "غير ذو صلة",
+        "options": [
+            "irrelevant",
+            "relevant",
+            "exhibition",
+            "grab"
+        ],
+        "answer": "irrelevant"
+    },
+    {
+        "question": "غير منتظم",
+        "options": [
+            "irregular",
+            "rational",
+            "centric",
+            "calendar"
+        ],
+        "answer": "irregular"
+    },
+    {
+        "question": "عقلاني",
+        "options": [
+            "rational",
+            "apprehensive",
+            "stimulate",
+            "indicative"
+        ],
+        "answer": "rational"
+    },
+    {
+        "question": "مزّقته الحرب",
+        "options": [
+            "war-ravaged",
+            "collapses",
+            "tangible",
+            "grapes"
+        ],
+        "answer": "war-ravaged"
+    },
+    {
+        "question": "الصراع، المكافحة، التمسّك بشيء أو شخص بقوة",
+        "options": [
+            "grappling",
+            "grab",
+            "grasp",
+            "entrepreneurship"
+        ],
+        "answer": "grappling"
+    },
+    {
+        "question": "يمسك بسرعة، يخطف",
+        "options": [
+            "grab",
+            "grasp",
+            "grapes",
+            "justify"
+        ],
+        "answer": "grab"
+    },
+    {
+        "question": "يمسك بإحكام / يفهم بعمق",
+        "options": [
+            "grasp",
+            "grab",
+            "stimulate",
+            "device"
+        ],
+        "answer": "grasp"
+    },
+    {
+        "question": "عنب",
+        "options": [
+            "grapes",
+            "spring",
+            "calendar",
+            "nail"
+        ],
+        "answer": "grapes"
+    },
+    {
+        "question": "يتبنى",
+        "options": [
+            "adopt",
+            "devise",
+            "exemplify",
+            "justify"
+        ],
+        "answer": "adopt"
+    },
+    {
+        "question": "إباحي",
+        "options": [
+            "erotic",
+            "exhibition",
+            "personas",
+            "accelerating"
+        ],
+        "answer": "erotic"
+    },
+    {
+        "question": "معرض",
+        "options": [
+            "exhibition",
+            "calendar",
+            "era",
+            "capitalism"
+        ],
+        "answer": "exhibition"
+    },
+    {
+        "question": "مُحتمل / مُرتقب",
+        "options": [
+            "prospective",
+            "apprehensive",
+            "relevant",
+            "fine tuned"
+        ],
+        "answer": "prospective"
+    },
+    {
+        "question": "تعزيز / تثبيت",
+        "options": [
+            "cementing",
+            "indicate",
+            "grab",
+            "calendar"
+        ],
+        "answer": "cementing"
+    },
+    {
+        "question": "ملموس",
+        "options": [
+            "tangible",
+            "relevant",
+            "calendar",
+            "smoothly"
+        ],
+        "answer": "tangible"
+    },
+    {
+        "question": "تسريع",
+        "options": [
+            "accelerating",
+            "stimulate",
+            "grasp",
+            "acquire"
+        ],
+        "answer": "accelerating"
+    },
+    {
+        "question": "مُعدّ بدقة",
+        "options": [
+            "fine tuned",
+            "tuning",
+            "concise",
+            "cementing"
+        ],
+        "answer": "fine tuned"
+    },
+    {
+        "question": "موجز",
+        "options": [
+            "concise",
+            "centric",
+            "indicative",
+            "spring"
+        ],
+        "answer": "concise"
+    },
+    {
+        "question": "يتكوّن من",
+        "options": [
+            "consist of",
+            "include",
+            "compose",
+            "contain"
+        ],
+        "answer": "consist of"
+    },
+    {
+        "question": "نبع ماء",
+        "options": [
+            "spring",
+            "grapes",
+            "calendar",
+            "cementing"
+        ],
+        "answer": "spring"
+    },
+    {
+        "question": "تقويم - مصفاية",
+        "options": [
+            "Calandar - colander",
+            "calendar",
+            "colander",
+            "tuning"
+        ],
+        "answer": "Calandar - colander"
+    },
+    {
+        "question": "قلق / متوجس",
+        "options": [
+            "apprehensive",
+            "prospective",
+            "grab",
+            "nail"
+        ],
+        "answer": "apprehensive"
+    },
+    {
+        "question": "يبرر",
+        "options": [
+            "justify",
+            "exemplify",
+            "devise",
+            "acquire"
+        ],
+        "answer": "justify"
+    },
+    {
+        "question": "يُجسّد / يُمثّل",
+        "options": [
+            "exemplify",
+            "justify",
+            "convey",
+            "grasp"
+        ],
+        "answer": "exemplify"
+    },
+    {
+        "question": "يكتسب",
+        "options": [
+            "acquire",
+            "stimulate",
+            "indicate",
+            "devise"
+        ],
+        "answer": "acquire"
+    },
+    {
+        "question": "يبتكر - جهاز",
+        "options": [
+            "devise - device",
+            "acquire",
+            "grasp",
+            "grapes"
+        ],
+        "answer": "devise - device"
+    },
+    {
+        "question": "ينقل (معلومة، شعور)",
+        "options": [
+            "convey",
+            "indicate",
+            "stimulate",
+            "grasp"
+        ],
+        "answer": "convey"
+    },
+    {
+        "question": "يحفز",
+        "options": [
+            "stimulate",
+            "accelerate",
+            "cementing",
+            "justify"
+        ],
+        "answer": "stimulate"
+    },
+    {
+        "question": "قيّم",
+        "options": [
+            "assess",
+            "assist",
+            "assign",
+            "access"
+        ],
+        "answer": "assess"
+    },
+    {
+        "question": "رؤية عميقة",
+        "options": [
+            "insight",
+            "overview",
+            "outlook",
+            "vision"
+        ],
+        "answer": "insight"
+    },
+    {
+        "question": "إمكانات",
+        "options": [
+            "potential",
+            "ability",
+            "effort",
+            "talent"
+        ],
+        "answer": "potential"
+    },
+    {
+        "question": "أخلاقيات العمل",
+        "options": [
+            "work ethic",
+            "attitude",
+            "discipline",
+            "dedication"
+        ],
+        "answer": "work ethic"
+    },
+    {
+        "question": "كل أسبوعين",
+        "options": [
+            "biweekly",
+            "weekly",
+            "bimonthly",
+            "monthly"
+        ],
+        "answer": "biweekly"
+    },
+    {
+        "question": "أن يكون شهريًا",
+        "options": [
+            "be monthly",
+            "set monthly",
+            "occur monthly",
+            "stay monthly"
+        ],
+        "answer": "be monthly"
+    },
+    {
+        "question": "غير كافٍ",
+        "options": [
+            "insufficient",
+            "ineffective",
+            "incomplete",
+            "unavailable"
+        ],
+        "answer": "insufficient"
+    },
+    {
+        "question": "جانب",
+        "options": [
+            "aspect",
+            "angle",
+            "factor",
+            "phase"
+        ],
+        "answer": "aspect"
+    },
+    {
+        "question": "يعيق",
+        "options": [
+            "hindering",
+            "holding",
+            "delaying",
+            "disturbing"
+        ],
+        "answer": "hindering"
+    },
+    {
+        "question": "كامل",
+        "options": [
+            "entire",
+            "complete",
+            "total",
+            "overall"
+        ],
+        "answer": "entire"
+    },
+    {
+        "question": "تداخل",
+        "options": [
+            "overlaps",
+            "intersects",
+            "interferes",
+            "combines"
+        ],
+        "answer": "overlaps"
+    },
+    {
+        "question": "مستهلك",
+        "options": [
+            "consumer",
+            "buyer",
+            "client",
+            "shopper"
+        ],
+        "answer": "consumer"
+    },
+    {
+        "question": "أساسي / كامن",
+        "options": [
+            "underlying",
+            "fundamental",
+            "hidden",
+            "supporting"
+        ],
+        "answer": "underlying"
+    },
+    {
+        "question": "ميزة",
+        "options": [
+            "advantage",
+            "opportunity",
+            "benefit",
+            "gain"
+        ],
+        "answer": "advantage"
+    },
+    {
+        "question": "تسليم المهام",
+        "options": [
+            "handover",
+            "transfer",
+            "pass",
+            "handoff"
+        ],
+        "answer": "handover"
+    },
+    {
+        "question": "مشارك",
+        "options": [
+            "engaged",
+            "involved",
+            "occupied",
+            "interested"
+        ],
+        "answer": "engaged"
+    },
+    {
+        "question": "خاطب",
+        "options": [
+            "engaged to",
+            "married to",
+            "promised to",
+            "betrothed to"
+        ],
+        "answer": "engaged to"
+    },
+    {
+        "question": "إدخالات",
+        "options": [
+            "entries",
+            "inputs",
+            "fields",
+            "items"
+        ],
+        "answer": "entries"
+    },
+    {
+        "question": "مصحوب بـ",
+        "options": [
+            "accompanied",
+            "associated",
+            "combined",
+            "included"
+        ],
+        "answer": "accompanied"
+    },
+    {
+        "question": "بشكل صحيح",
+        "options": [
+            "properly",
+            "correctly",
+            "rightly",
+            "perfectly"
+        ],
+        "answer": "properly"
+    },
+    {
+        "question": "لن أحصل على مخالفات سرعة",
+        "options": [
+            "I will not getting the speeding tickets",
+            "I will avoid speeding",
+            "I won't be speeding",
+            "No speeding tickets for me"
+        ],
+        "answer": "I will not getting the speeding tickets"
+    },
+    {
+        "question": "موزع",
+        "options": [
+            "dispensed",
+            "distributed",
+            "delivered",
+            "given"
+        ],
+        "answer": "dispensed"
+    },
+    {
+        "question": "عرضة للأخطاء",
+        "options": [
+            "error prone",
+            "mistakeable",
+            "buggy",
+            "faulty"
+        ],
+        "answer": "error prone"
+    },
+    {
+        "question": "ملموس",
+        "options": [
+            "concrete",
+            "solid",
+            "firm",
+            "actual"
+        ],
+        "answer": "concrete"
+    },
+    {
+        "question": "سليم تمامًا",
+        "options": [
+            "Right as rain",
+            "Healthy and happy",
+            "All good",
+            "Perfectly fine"
+        ],
+        "answer": "Right as rain"
+    },
+    {
+        "question": "يتعهد",
+        "options": [
+            "persist",
+            "undertaking",
+            "poverty",
+            "detention"
+        ],
+        "answer": "undertaking"
+    },
+    {
+        "question": "يرفع ، يوصل",
+        "options": [
+            "lift",
+            "spike",
+            "ferry",
+            "nailing"
+        ],
+        "answer": "lift"
+    },
+    {
+        "question": "مصعد، رفعة، توصيلة",
+        "options": [
+            "lift",
+            "poverty",
+            "undertaking",
+            "nail"
+        ],
+        "answer": "lift"
+    },
+    {
+        "question": "احتجاز",
+        "options": [
+            "detention",
+            "disciplined",
+            "stability",
+            "nailing"
+        ],
+        "answer": "detention"
+    },
+    {
+        "question": "الاستقرار",
+        "options": [
+            "stability",
+            "exemption",
+            "persist",
+            "poverty"
+        ],
+        "answer": "stability"
+    },
+    {
+        "question": "ارتفاع حاد",
+        "options": [
+            "spike",
+            "nail",
+            "ferry",
+            "persist"
+        ],
+        "answer": "spike"
+    },
+    {
+        "question": "عبّارة",
+        "options": [
+            "ferry",
+            "lift",
+            "nailing",
+            "exemption"
+        ],
+        "answer": "ferry"
+    },
+    {
+        "question": "منضبط",
+        "options": [
+            "disciplined",
+            "exemption",
+            "persist",
+            "poverty"
+        ],
+        "answer": "disciplined"
+    },
+    {
+        "question": "الفقر",
+        "options": [
+            "poverty",
+            "nailing",
+            "ferry",
+            "nail"
+        ],
+        "answer": "poverty"
+    },
+    {
+        "question": "لا ... ولا",
+        "options": [
+            "neither ... nor",
+            "persist",
+            "nail",
+            "exemption"
+        ],
+        "answer": "neither ... nor"
+    },
+    {
+        "question": "مرارا و تكرارا",
+        "options": [
+            "persist",
+            "again and again",
+            "nail",
+            "resumed"
+        ],
+        "answer": "again and again"
+    },
+    {
+        "question": "يمشون جنبا إلى جنب",
+        "options": [
+            "hand over",
+            "scissors",
+            "They go hand in hand",
+            "alter"
+        ],
+        "answer": "They go hand in hand"
+    },
+    {
+        "question": "يمشون جنباً إلى جنب",
+        "options": [
+            "They walk side by side",
+            "roulette",
+            "bunch",
+            "persist"
+        ],
+        "answer": "They walk side by side"
+    },
+    {
+        "question": "فساد",
+        "options": [
+            "authority",
+            "dignity",
+            "reality",
+            "Corruption"
+        ],
+        "answer": "Corruption"
+    },
+    {
+        "question": "الواقع",
+        "options": [
+            "reality",
+            "desire",
+            "alter",
+            "wordy"
+        ],
+        "answer": "reality"
+    },
+    {
+        "question": "استأنف",
+        "options": [
+            "resumed",
+            "persist",
+            "investigation",
+            "alter"
+        ],
+        "answer": "resumed"
+    },
+    {
+        "question": "الكرامة",
+        "options": [
+            "dignity",
+            "authority",
+            "reality",
+            "nail"
+        ],
+        "answer": "dignity"
+    },
+    {
+        "question": "السلطة",
+        "options": [
+            "authority",
+            "dignity",
+            "persist",
+            "desire"
+        ],
+        "answer": "authority"
+    },
+    {
+        "question": "العيش بكرامة",
+        "options": [
+            "Living with dignity",
+            "wordy",
+            "head over",
+            "bunch"
+        ],
+        "answer": "Living with dignity"
+    },
+    {
+        "question": "الكرامة فوق كل شيء",
+        "options": [
+            "Dignity above all",
+            "desire",
+            "corruption",
+            "nailing"
+        ],
+        "answer": "Dignity above all"
+    },
+    {
+        "question": "أهان كرامته",
+        "options": [
+            "He insulted his dignity",
+            "resumed",
+            "inefficient",
+            "roulette"
+        ],
+        "answer": "He insulted his dignity"
+    },
+    {
+        "question": "تغيير تدريجي",
+        "options": [
+            "alter",
+            "evolov",
+            "Gradual change",
+            "reality"
+        ],
+        "answer": "Gradual change"
+    },
+    {
+        "question": "حتى الآن",
+        "options": [
+            "thus far",
+            "persist",
+            "desire",
+            "head over"
+        ],
+        "answer": "thus far"
+    },
+    {
+        "question": "مطوّل بالكلام",
+        "options": [
+            "wordy",
+            "scissors",
+            "nail",
+            "corruption"
+        ],
+        "answer": "wordy"
+    },
+    {
+        "question": "يتطور",
+        "options": [
+            "evolov",
+            "persist",
+            "nailing",
+            "investigation"
+        ],
+        "answer": "evolov"
+    },
+    {
+        "question": "لا أستطيع تحملك",
+        "options": [
+            "I can't stomach you",
+            "desire",
+            "inefficient",
+            "roulette"
+        ],
+        "answer": "I can't stomach you"
+    },
+    {
+        "question": "مقص",
+        "options": [
+            "scissors",
+            "nail",
+            "dignity",
+            "persist"
+        ],
+        "answer": "scissors"
+    },
+    {
+        "question": "توجه إلى",
+        "options": [
+            "head over",
+            "resumed",
+            "alter",
+            "corruption"
+        ],
+        "answer": "head over"
+    },
+    {
+        "question": "عدم التنبؤ",
+        "options": [
+            "unpredicubility",
+            "randomess",
+            "persist",
+            "scissors"
+        ],
+        "answer": "unpredicubility"
+    },
+    {
+        "question": "عشوائية التوزيع",
+        "options": [
+            "randomisition",
+            "roulette",
+            "wordy",
+            "inefficient"
+        ],
+        "answer": "randomisition"
+    },
+    {
+        "question": "العشوائية",
+        "options": [
+            "randomess",
+            "bunch",
+            "authority",
+            "alter"
+        ],
+        "answer": "randomess"
+    },
+    {
+        "question": "مجموعة",
+        "options": [
+            "bunch",
+            "dignity",
+            "persist",
+            "nail"
+        ],
+        "answer": "bunch"
+    },
+    {
+        "question": "رغبة، شهوة، أمنية قوية",
+        "options": [
+            "desire",
+            "persist",
+            "inefficient",
+            "nail"
+        ],
+        "answer": "desire"
+    },
+    {
+        "question": "يغيّر",
+        "options": [
+            "alter",
+            "resumed",
+            "nail",
+            "randomess"
+        ],
+        "answer": "alter"
+    },
+    {
+        "question": "غير فعّال",
+        "options": [
+            "inneficient",
+            "wordy",
+            "resumed",
+            "authority"
+        ],
+        "answer": "inneficient"
+    },
+    {
         "question": "محدب",
         "options": [
             "concave",
@@ -7028,6 +9438,256 @@
             "restriction"
         ],
         "answer": "Promotion"
+    },
+    {
+        "question": "مرارا و تكرارا",
+        "options": [
+            "persist",
+            "again and again",
+            "nail",
+            "resumed"
+        ],
+        "answer": "again and again"
+    },
+    {
+        "question": "يمشون جنبا إلى جنب",
+        "options": [
+            "hand over",
+            "scissors",
+            "They go hand in hand",
+            "alter"
+        ],
+        "answer": "They go hand in hand"
+    },
+    {
+        "question": "يمشون جنباً إلى جنب",
+        "options": [
+            "They walk side by side",
+            "roulette",
+            "bunch",
+            "persist"
+        ],
+        "answer": "They walk side by side"
+    },
+    {
+        "question": "فساد",
+        "options": [
+            "authority",
+            "dignity",
+            "reality",
+            "Corruption"
+        ],
+        "answer": "Corruption"
+    },
+    {
+        "question": "الواقع",
+        "options": [
+            "reality",
+            "desire",
+            "alter",
+            "wordy"
+        ],
+        "answer": "reality"
+    },
+    {
+        "question": "استأنف",
+        "options": [
+            "resumed",
+            "persist",
+            "investigation",
+            "alter"
+        ],
+        "answer": "resumed"
+    },
+    {
+        "question": "الكرامة",
+        "options": [
+            "dignity",
+            "authority",
+            "reality",
+            "nail"
+        ],
+        "answer": "dignity"
+    },
+    {
+        "question": "السلطة",
+        "options": [
+            "authority",
+            "dignity",
+            "persist",
+            "desire"
+        ],
+        "answer": "authority"
+    },
+    {
+        "question": "العيش بكرامة",
+        "options": [
+            "Living with dignity",
+            "wordy",
+            "head over",
+            "bunch"
+        ],
+        "answer": "Living with dignity"
+    },
+    {
+        "question": "الكرامة فوق كل شيء",
+        "options": [
+            "Dignity above all",
+            "desire",
+            "corruption",
+            "nailing"
+        ],
+        "answer": "Dignity above all"
+    },
+    {
+        "question": "أهان كرامته",
+        "options": [
+            "He insulted his dignity",
+            "resumed",
+            "inefficient",
+            "roulette"
+        ],
+        "answer": "He insulted his dignity"
+    },
+    {
+        "question": "تغيير تدريجي",
+        "options": [
+            "alter",
+            "evolov",
+            "Gradual change",
+            "reality"
+        ],
+        "answer": "Gradual change"
+    },
+    {
+        "question": "حتى الآن",
+        "options": [
+            "thus far",
+            "persist",
+            "desire",
+            "head over"
+        ],
+        "answer": "thus far"
+    },
+    {
+        "question": "مطوّل بالكلام",
+        "options": [
+            "wordy",
+            "scissors",
+            "nail",
+            "corruption"
+        ],
+        "answer": "wordy"
+    },
+    {
+        "question": "يتطور",
+        "options": [
+            "evolov",
+            "persist",
+            "nailing",
+            "investigation"
+        ],
+        "answer": "evolov"
+    },
+    {
+        "question": "لا أستطيع تحملك",
+        "options": [
+            "I can't stomach you",
+            "desire",
+            "inefficient",
+            "roulette"
+        ],
+        "answer": "I can't stomach you"
+    },
+    {
+        "question": "مقص",
+        "options": [
+            "scissors",
+            "nail",
+            "dignity",
+            "persist"
+        ],
+        "answer": "scissors"
+    },
+    {
+        "question": "توجه إلى",
+        "options": [
+            "head over",
+            "resumed",
+            "alter",
+            "corruption"
+        ],
+        "answer": "head over"
+    },
+    {
+        "question": "عدم التنبؤ",
+        "options": [
+            "unpredicubility",
+            "randomess",
+            "persist",
+            "scissors"
+        ],
+        "answer": "unpredicubility"
+    },
+    {
+        "question": "عشوائية التوزيع",
+        "options": [
+            "randomisition",
+            "roulette",
+            "wordy",
+            "inefficient"
+        ],
+        "answer": "randomisition"
+    },
+    {
+        "question": "العشوائية",
+        "options": [
+            "randomess",
+            "bunch",
+            "authority",
+            "alter"
+        ],
+        "answer": "randomess"
+    },
+    {
+        "question": "مجموعة",
+        "options": [
+            "bunch",
+            "dignity",
+            "persist",
+            "nail"
+        ],
+        "answer": "bunch"
+    },
+    {
+        "question": "رغبة، شهوة، أمنية قوية",
+        "options": [
+            "desire",
+            "persist",
+            "inefficient",
+            "nail"
+        ],
+        "answer": "desire"
+    },
+    {
+        "question": "يغيّر",
+        "options": [
+            "alter",
+            "resumed",
+            "nail",
+            "randomess"
+        ],
+        "answer": "alter"
+    },
+    {
+        "question": "غير فعّال",
+        "options": [
+            "inneficient",
+            "wordy",
+            "resumed",
+            "authority"
+        ],
+        "answer": "inneficient"
     },
     {
         "question": "حملة",
