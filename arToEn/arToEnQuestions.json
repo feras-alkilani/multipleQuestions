@@ -1,5 +1,235 @@
 [
     {
+        "question": "النقص",
+        "options": [
+            "shortages",
+            "boost",
+            "bunch",
+            "phase"
+        ],
+        "answer": "shortages"
+    },
+    {
+        "question": "مرحلة",
+        "options": [
+            "tribal",
+            "phase",
+            "moisture",
+            "relaxation"
+        ],
+        "answer": "phase"
+    },
+    {
+        "question": "طالما",
+        "options": [
+            "gone are the days",
+            "as long as",
+            "opt in",
+            "recap"
+        ],
+        "answer": "as long as"
+    },
+    {
+        "question": "الاسترخاء",
+        "options": [
+            "deliberately",
+            "relaxation",
+            "elongated",
+            "curriculum"
+        ],
+        "answer": "relaxation"
+    },
+    {
+        "question": "صدى",
+        "options": [
+            "echo",
+            "boost",
+            "childish",
+            "distract"
+        ],
+        "answer": "echo"
+    },
+    {
+        "question": "يعزز",
+        "options": [
+            "shortages",
+            "boost",
+            "moisture",
+            "phase"
+        ],
+        "answer": "boost"
+    },
+    {
+        "question": "ولّت الأيام",
+        "options": [
+            "gone are the days",
+            "well",
+            "opt out",
+            "elongated"
+        ],
+        "answer": "gone are the days"
+    },
+    {
+        "question": "جيدًا / على ما يرام",
+        "options": [
+            "well",
+            "fancy",
+            "childish",
+            "recap"
+        ],
+        "answer": "well"
+    },
+    {
+        "question": "طفولي",
+        "options": [
+            "childish",
+            "bunch",
+            "opt in",
+            "tribal"
+        ],
+        "answer": "childish"
+    },
+    {
+        "question": "يتبول",
+        "options": [
+            "elongated",
+            "to urinate",
+            "relaxation",
+            "shortages"
+        ],
+        "answer": "to urinate"
+    },
+    {
+        "question": "مستطيل الشكل / ممدود",
+        "options": [
+            "elongated",
+            "well",
+            "boost",
+            "curriculum"
+        ],
+        "answer": "elongated"
+    },
+    {
+        "question": "فاخر / متكلف",
+        "options": [
+            "fancy",
+            "moisture",
+            "childish",
+            "echo"
+        ],
+        "answer": "fancy"
+    },
+    {
+        "question": "يختار الدخول",
+        "options": [
+            "opt in",
+            "opt out",
+            "as long as",
+            "tribal"
+        ],
+        "answer": "opt in"
+    },
+    {
+        "question": "يختار الخروج",
+        "options": [
+            "opt out",
+            "opt in",
+            "recap",
+            "well"
+        ],
+        "answer": "opt out"
+    },
+    {
+        "question": "يتقلص",
+        "options": [
+            "shrinking",
+            "elongated",
+            "relaxation",
+            "boost"
+        ],
+        "answer": "shrinking"
+    },
+    {
+        "question": "ملخص",
+        "options": [
+            "recap",
+            "curriculum",
+            "tribal",
+            "distract"
+        ],
+        "answer": "recap"
+    },
+    {
+        "question": "أعقل العقول",
+        "options": [
+            "the wisest mind",
+            "well",
+            "phase",
+            "opt in"
+        ],
+        "answer": "the wisest mind"
+    },
+    {
+        "question": "يشتت",
+        "options": [
+            "distract",
+            "echo",
+            "bunch",
+            "moisture"
+        ],
+        "answer": "distract"
+    },
+    {
+        "question": "رطوبة",
+        "options": [
+            "moisture",
+            "phase",
+            "relaxation",
+            "shrinking"
+        ],
+        "answer": "moisture"
+    },
+    {
+        "question": "عن قصد",
+        "options": [
+            "deliberately",
+            "well",
+            "childish",
+            "fancy"
+        ],
+        "answer": "deliberately"
+    },
+    {
+        "question": "حفنة / مجموعة",
+        "options": [
+            "bunch",
+            "tribal",
+            "opt out",
+            "moisture"
+        ],
+        "answer": "bunch"
+    },
+    {
+        "question": "المنهج الدراسي",
+        "options": [
+            "curriculum",
+            "recap",
+            "elongated",
+            "boost"
+        ],
+        "answer": "curriculum"
+    },
+    {
+        "question": "قبلي / عشائري",
+        "options": [
+            "tribal",
+            "fancy",
+            "well",
+            "shrinking"
+        ],
+        "answer": "tribal"
+    },
+    {
         "question": "الصناديق المشتركة",
         "options": [
             "mutual funds",

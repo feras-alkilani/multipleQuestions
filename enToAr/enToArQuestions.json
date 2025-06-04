@@ -1,5 +1,235 @@
 [
     {
+        "question": "shortages",
+        "options": [
+            "نقص",
+            "زيادة",
+            "توفر",
+            "تراكم"
+        ],
+        "answer": "نقص"
+    },
+    {
+        "question": "phase",
+        "options": [
+            "مرحلة",
+            "نهاية",
+            "مهمة",
+            "زمن"
+        ],
+        "answer": "مرحلة"
+    },
+    {
+        "question": "As long as",
+        "options": [
+            "طالما",
+            "حتى",
+            "منذ",
+            "بعدما"
+        ],
+        "answer": "طالما"
+    },
+    {
+        "question": "relaxation",
+        "options": [
+            "استرخاء",
+            "توتر",
+            "ضغط",
+            "حركة"
+        ],
+        "answer": "استرخاء"
+    },
+    {
+        "question": "echo",
+        "options": [
+            "صدى",
+            "صوت",
+            "ضوء",
+            "موجة"
+        ],
+        "answer": "صدى"
+    },
+    {
+        "question": "boost",
+        "options": [
+            "تعزيز",
+            "تخفيض",
+            "منع",
+            "توقف"
+        ],
+        "answer": "تعزيز"
+    },
+    {
+        "question": "gone are the days",
+        "options": [
+            "ولّت الأيام",
+            "الوقت الآن",
+            "في الماضي القريب",
+            "لا زالت الأيام"
+        ],
+        "answer": "ولّت الأيام"
+    },
+    {
+        "question": "well",
+        "options": [
+            "حسنًا",
+            "ربما",
+            "أبدًا",
+            "غالبًا"
+        ],
+        "answer": "حسنًا"
+    },
+    {
+        "question": "childish",
+        "options": [
+            "طفولي",
+            "ناضج",
+            "جاد",
+            "ذكي"
+        ],
+        "answer": "طفولي"
+    },
+    {
+        "question": "to urinate",
+        "options": [
+            "يتبول",
+            "يتقيأ",
+            "ينام",
+            "يشرب"
+        ],
+        "answer": "يتبول"
+    },
+    {
+        "question": "elongated",
+        "options": [
+            "ممتد",
+            "قصير",
+            "مضغوط",
+            "صغير"
+        ],
+        "answer": "ممتد"
+    },
+    {
+        "question": "fancy",
+        "options": [
+            "فاخر",
+            "عادي",
+            "بسيط",
+            "ممل"
+        ],
+        "answer": "فاخر"
+    },
+    {
+        "question": "opt in",
+        "options": [
+            "الاشتراك",
+            "الانسحاب",
+            "الرفض",
+            "الإلغاء"
+        ],
+        "answer": "الاشتراك"
+    },
+    {
+        "question": "opt out",
+        "options": [
+            "الانسحاب",
+            "الاشتراك",
+            "التسجيل",
+            "القبول"
+        ],
+        "answer": "الانسحاب"
+    },
+    {
+        "question": "shrinking",
+        "options": [
+            "يتقلص",
+            "ينمو",
+            "يزيد",
+            "يتوسع"
+        ],
+        "answer": "يتقلص"
+    },
+    {
+        "question": "recap",
+        "options": [
+            "ملخص",
+            "شرح",
+            "تفصيل",
+            "نقاش"
+        ],
+        "answer": "ملخص"
+    },
+    {
+        "question": "the wisest mind",
+        "options": [
+            "أعقل عقل",
+            "أغبى عقل",
+            "عقل صغير",
+            "مخادع"
+        ],
+        "answer": "أعقل عقل"
+    },
+    {
+        "question": "distract",
+        "options": [
+            "يشتت",
+            "يركز",
+            "يجمع",
+            "يشرح"
+        ],
+        "answer": "يشتت"
+    },
+    {
+        "question": "moisture",
+        "options": [
+            "رطوبة",
+            "حرارة",
+            "ماء",
+            "ثلج"
+        ],
+        "answer": "رطوبة"
+    },
+    {
+        "question": "deliberately",
+        "options": [
+            "عن عمد",
+            "عن غير قصد",
+            "بطريقة عشوائية",
+            "بسرعة"
+        ],
+        "answer": "عن عمد"
+    },
+    {
+        "question": "bunch",
+        "options": [
+            "حفنة",
+            "عنصر",
+            "قطعة",
+            "كمية"
+        ],
+        "answer": "حفنة"
+    },
+    {
+        "question": "curriculum",
+        "options": [
+            "المنهج",
+            "الكتاب",
+            "الصف",
+            "الاختبار"
+        ],
+        "answer": "المنهج"
+    },
+    {
+        "question": "tribal",
+        "options": [
+            "قبلي",
+            "حضري",
+            "حديث",
+            "رسمي"
+        ],
+        "answer": "قبلي"
+    },
+    {
         "question": "mutual funds",
         "options": [
             "صناديق استثمارية",
