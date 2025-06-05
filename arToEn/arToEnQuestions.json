@@ -1,5 +1,775 @@
 [
     {
+        "question": "يُعدّل",
+        "options": [
+            "adjust",
+            "fix",
+            "change",
+            "reset"
+        ],
+        "answer": "adjust"
+    },
+    {
+        "question": "أنا أُنصت تماماً",
+        "options": [
+            "I can hear you",
+            "I nam all ears",
+            "I’m not listening",
+            "I agree"
+        ],
+        "answer": "I nam all ears"
+    },
+    {
+        "question": "أنا غاضب جداً",
+        "options": [
+            "I am yelling",
+            "I am upset",
+            "I am fuming",
+            "I am annoyed"
+        ],
+        "answer": "I am fuming"
+    },
+    {
+        "question": "عندي أمور أهم",
+        "options": [
+            "I have no time",
+            "I have bigger fish to fry",
+            "I have to go",
+            "I have a meeting"
+        ],
+        "answer": "I have bigger fish to fry"
+    },
+    {
+        "question": "شفاهي مغلقة (لن أفشي السر)",
+        "options": [
+            "my mouth is closed",
+            "my lips are sealed",
+            "I won’t talk",
+            "I keep it inside"
+        ],
+        "answer": "my lips are sealed"
+    },
+    {
+        "question": "وصفة طعام",
+        "options": [
+            "receipt",
+            "formula",
+            "recipe",
+            "instruction"
+        ],
+        "answer": "recipe"
+    },
+    {
+        "question": "ندم",
+        "options": [
+            "regret",
+            "regrets",
+            "sorry",
+            "pity"
+        ],
+        "answer": "regrets"
+    },
+    {
+        "question": "استُعيدت سمعته",
+        "options": [
+            "returned",
+            "revived",
+            "redeemed",
+            "restored"
+        ],
+        "answer": "redeemed"
+    },
+    {
+        "question": "موافقة",
+        "options": [
+            "approval",
+            "permit",
+            "consent",
+            "agreement"
+        ],
+        "answer": "consent"
+    },
+    {
+        "question": "كتلة أو حجم كبير",
+        "options": [
+            "mass",
+            "bulk",
+            "group",
+            "body"
+        ],
+        "answer": "mass"
+    },
+    {
+        "question": "فترة",
+        "options": [
+            "period",
+            "session",
+            "phase",
+            "season"
+        ],
+        "answer": "period"
+    },
+    {
+        "question": "incest",
+        "options": [
+            "incest",
+            "betrayal",
+            "hatred",
+            "revenge"
+        ],
+        "answer": "incest"
+    },
+    {
+        "question": "ندم",
+        "options": [
+            "regret",
+            "resentment",
+            "remorse",
+            "grief"
+        ],
+        "answer": "regret"
+    },
+    {
+        "question": "أنا متردد",
+        "options": [
+            "I am of two minds",
+            "I am stubborn",
+            "I am sure",
+            "I am decisive"
+        ],
+        "answer": "I am of two minds"
+    },
+    {
+        "question": "مستحيل",
+        "options": [
+            "noway",
+            "never",
+            "perhaps",
+            "maybe"
+        ],
+        "answer": "noway"
+    },
+    {
+        "question": "يؤسس",
+        "options": [
+            "set up",
+            "bring up",
+            "take down",
+            "tear apart"
+        ],
+        "answer": "set up"
+    },
+    {
+        "question": "ينطلق",
+        "options": [
+            "set off",
+            "take in",
+            "put out",
+            "back down"
+        ],
+        "answer": "set off"
+    },
+    {
+        "question": "يعوق",
+        "options": [
+            "set back",
+            "push forward",
+            "jump ahead",
+            "carry on"
+        ],
+        "answer": "set back"
+    },
+    {
+        "question": "رشوة",
+        "options": [
+            "bribery",
+            "theft",
+            "fraud",
+            "abuse"
+        ],
+        "answer": "bribery"
+    },
+    {
+        "question": "تزوير",
+        "options": [
+            "forgery",
+            "plagiarism",
+            "bribery",
+            "espionage"
+        ],
+        "answer": "forgery"
+    },
+    {
+        "question": "فساد",
+        "options": [
+            "corruption",
+            "loyalty",
+            "justice",
+            "honesty"
+        ],
+        "answer": "corruption"
+    },
+    {
+        "question": "ابتزاز",
+        "options": [
+            "extortion",
+            "theft",
+            "assault",
+            "robbery"
+        ],
+        "answer": "extortion"
+    },
+    {
+        "question": "تواطؤ",
+        "options": [
+            "collusion",
+            "confrontation",
+            "conflict",
+            "separation"
+        ],
+        "answer": "collusion"
+    },
+    {
+        "question": "مبارك",
+        "options": [
+            "blessed",
+            "cursed",
+            "forgotten",
+            "lost"
+        ],
+        "answer": "blessed"
+    },
+    {
+        "question": "مزدهر",
+        "options": [
+            "prosperous",
+            "poor",
+            "struggling",
+            "unstable"
+        ],
+        "answer": "prosperous"
+    },
+    {
+        "question": "مفتدى",
+        "options": [
+            "redeemed",
+            "condemned",
+            "forgotten",
+            "judged"
+        ],
+        "answer": "redeemed"
+    },
+    {
+        "question": "مغفور",
+        "options": [
+            "forgiven",
+            "punished",
+            "judged",
+            "blamed"
+        ],
+        "answer": "forgiven"
+    },
+    {
+        "question": "كامل",
+        "options": [
+            "whole",
+            "broken",
+            "damaged",
+            "missing"
+        ],
+        "answer": "whole"
+    },
+    {
+        "question": "موهوب",
+        "options": [
+            "talented",
+            "lazy",
+            "ignorant",
+            "untalented"
+        ],
+        "answer": "talented"
+    },
+    {
+        "question": "مبدع",
+        "options": [
+            "creative",
+            "boring",
+            "stale",
+            "repetitive"
+        ],
+        "answer": "creative"
+    },
+    {
+        "question": "واثق",
+        "options": [
+            "confident",
+            "nervous",
+            "doubtful",
+            "afraid"
+        ],
+        "answer": "confident"
+    },
+    {
+        "question": "آمن",
+        "options": [
+            "secured",
+            "vulnerable",
+            "exposed",
+            "lost"
+        ],
+        "answer": "secured"
+    },
+    {
+        "question": "منضبط",
+        "options": [
+            "disciplined",
+            "chaotic",
+            "rebellious",
+            "careless"
+        ],
+        "answer": "disciplined"
+    },
+    {
+        "question": "مركّز",
+        "options": [
+            "focused",
+            "distracted",
+            "unclear",
+            "unaware"
+        ],
+        "answer": "focused"
+    },
+    {
+        "question": "تعاوني",
+        "options": [
+            "collaborative",
+            "isolated",
+            "selfish",
+            "disconnected"
+        ],
+        "answer": "collaborative"
+    },
+    {
+        "question": "يوضّح",
+        "options": [
+            "illustrate",
+            "hide",
+            "confuse",
+            "deny"
+        ],
+        "answer": "illustrate"
+    },
+    {
+        "question": "المبدأ الذي أعتمد عليه عادةً",
+        "options": [
+            "rule",
+            "habit",
+            "my rule of thumb",
+            "policy"
+        ],
+        "answer": "my rule of thumb"
+    },
+    {
+        "question": "إذا كنت في مأزق",
+        "options": [
+            "in a rush",
+            "if you are in a pinch",
+            "by chance",
+            "on the move"
+        ],
+        "answer": "if you are in a pinch"
+    },
+    {
+        "question": "بشكل عام",
+        "options": [
+            "rarely",
+            "overall",
+            "partially",
+            "vaguely"
+        ],
+        "answer": "overall"
+    },
+    {
+        "question": "الانغماس في",
+        "options": [
+            "diving into",
+            "thinking of",
+            "giving up",
+            "turning away"
+        ],
+        "answer": "diving into"
+    },
+    {
+        "question": "كن مطمئنًا",
+        "options": [
+            "don't bother",
+            "rest assured",
+            "watch out",
+            "stay low"
+        ],
+        "answer": "rest assured"
+    },
+    {
+        "question": "الفوائد",
+        "options": [
+            "losses",
+            "gains",
+            "costs",
+            "benefits"
+        ],
+        "answer": "benefits"
+    },
+    {
+        "question": "الربح المالي أو الصافي في التجارة أو الأعمال.",
+        "options": [
+            "gain",
+            "profit",
+            "earnings",
+            "winning"
+        ],
+        "answer": "profit"
+    },
+    {
+        "question": "مكسب عام (ليس بالضرورة مالياً)",
+        "options": [
+            "gain",
+            "profit",
+            "earning",
+            "winning"
+        ],
+        "answer": "gain"
+    },
+    {
+        "question": "الربح الناتج عن عمل أو استثمار",
+        "options": [
+            "earnings",
+            "profit",
+            "gain",
+            "prize"
+        ],
+        "answer": "earnings"
+    },
+    {
+        "question": "ربح مسابقة أو مقامرة أو مباراة",
+        "options": [
+            "earnings",
+            "gain",
+            "winning",
+            "profit"
+        ],
+        "answer": "winning"
+    },
+    {
+        "question": "شرير - ماكر -ضار",
+        "options": [
+            "vindictive",
+            "malicious",
+            "heinous",
+            "manipulative"
+        ],
+        "answer": "malicious"
+    },
+    {
+        "question": "حقود - منتقم",
+        "options": [
+            "malicious",
+            "heinous",
+            "vindictive",
+            "jealous"
+        ],
+        "answer": "vindictive"
+    },
+    {
+        "question": "شنيع - فظيع",
+        "options": [
+            "vindictive",
+            "cruel",
+            "heinous",
+            "unjust"
+        ],
+        "answer": "heinous"
+    },
+    {
+        "question": "تحطم - تصادم",
+        "options": [
+            "crash",
+            "crush",
+            "smash",
+            "collapse"
+        ],
+        "answer": "crash"
+    },
+    {
+        "question": "سحق - تحطيم معنوي أو عاطفي",
+        "options": [
+            "break",
+            "smash",
+            "crush",
+            "crash"
+        ],
+        "answer": "crush"
+    },
+    {
+        "question": "لا تستخف بي",
+        "options": [
+            "do not underestimate me",
+            "don’t ignore me",
+            "don’t challenge me",
+            "do not overrate me"
+        ],
+        "answer": "do not underestimate me"
+    },
+    {
+        "question": "مخيف أو مرعب",
+        "options": [
+            "shocking",
+            "intimidating",
+            "disturbing",
+            "dangerous"
+        ],
+        "answer": "intimidating"
+    },
+    {
+        "question": "يتلاعب بدهاء",
+        "options": [
+            "control",
+            "handle",
+            "manipulate",
+            "mask"
+        ],
+        "answer": "manipulate"
+    },
+    {
+        "question": "إخفاء",
+        "options": [
+            "hiding",
+            "masking",
+            "shadowing",
+            "covering"
+        ],
+        "answer": "masking"
+    },
+    {
+        "question": "الأكثر منطقية لك",
+        "options": [
+            "the most sense to you",
+            "the more logic",
+            "most reasonable",
+            "makes sense more"
+        ],
+        "answer": "the most sense to you"
+    },
+    {
+        "question": "للمتابعة",
+        "options": [
+            "go with",
+            "to follow along",
+            "continue",
+            "keep going"
+        ],
+        "answer": "to follow along"
+    },
+    {
+        "question": "الغوص / التعمق",
+        "options": [
+            "dive",
+            "jump",
+            "fall",
+            "drop"
+        ],
+        "answer": "dive"
+    },
+    {
+        "question": "يُقيد",
+        "options": [
+            "restrict",
+            "limit",
+            "constrain",
+            "deny"
+        ],
+        "answer": "constrain"
+    },
+    {
+        "question": "قطع ناقص",
+        "options": [
+            "arc",
+            "circle",
+            "ellipce",
+            "loop"
+        ],
+        "answer": "ellipce"
+    },
+    {
+        "question": "قوس",
+        "options": [
+            "curve",
+            "arc",
+            "bend",
+            "loop"
+        ],
+        "answer": "arc"
+    },
+    {
+        "question": "مرتب",
+        "options": [
+            "tidy",
+            "tiny",
+            "clean",
+            "orderly"
+        ],
+        "answer": "tidy"
+    },
+    {
+        "question": "صغير جدًا",
+        "options": [
+            "small",
+            "slight",
+            "tiny",
+            "mini"
+        ],
+        "answer": "tiny"
+    },
+    {
+        "question": "مفيد بالمعلومات",
+        "options": [
+            "descriptive",
+            "informative",
+            "educative",
+            "expressive"
+        ],
+        "answer": "informative"
+    },
+    {
+        "question": "محسّن",
+        "options": [
+            "organized",
+            "optimized",
+            "configured",
+            "arranged"
+        ],
+        "answer": "optimized"
+    },
+    {
+        "question": "ثانوي",
+        "options": [
+            "minor",
+            "small",
+            "tiny",
+            "secondary"
+        ],
+        "answer": "minor"
+    },
+    {
+        "question": "توخى الحذر فيما تقول",
+        "options": [
+            "to be on eedshells",
+            "watch your mouth",
+            "choose your words",
+            "speak lightly"
+        ],
+        "answer": "to be on eedshells"
+    },
+    {
+        "question": "يكسب ود شخص بالمدح",
+        "options": [
+            "please someone",
+            "flatter",
+            "to curry favout with",
+            "gain trust"
+        ],
+        "answer": "to curry favout with"
+    },
+    {
+        "question": "متداخل - متشابك",
+        "options": [
+            "overlap",
+            "merge",
+            "blend",
+            "combine"
+        ],
+        "answer": "overlap"
+    },
+    {
+        "question": "يشرف على",
+        "options": [
+            "monitor",
+            "check",
+            "oversee",
+            "inspect"
+        ],
+        "answer": "oversee"
+    },
+    {
+        "question": "مبالغ فيه - فوق المعدل",
+        "options": [
+            "overwhelmed",
+            "overrated",
+            "exaggerated",
+            "overpriced"
+        ],
+        "answer": "overrated"
+    },
+    {
+        "question": "يجتاح - يسحق",
+        "options": [
+            "overwhelm",
+            "crush",
+            "defeat",
+            "invade"
+        ],
+        "answer": "overwhelmed"
+    },
+    {
+        "question": "لعب عيال",
+        "options": [
+            "hanky panky",
+            "silly play",
+            "nonsense",
+            "child’s play"
+        ],
+        "answer": "hanky panky"
+    },
+    {
+        "question": "دردشة",
+        "options": [
+            "small talk",
+            "gossip",
+            "chit chat",
+            "talking"
+        ],
+        "answer": "chit chat"
+    },
+    {
+        "question": "ضعيف الشخصية",
+        "options": [
+            "whishy washy",
+            "weak willed",
+            "timid",
+            "uncertain"
+        ],
+        "answer": "whishy washy"
+    },
+    {
+        "question": "ضعيف الإرادة",
+        "options": [
+            "whishy washy",
+            "coward",
+            "lazy",
+            "weak willed"
+        ],
+        "answer": "weak willed"
+    },
+    {
+        "question": "دقة قديمة",
+        "options": [
+            "fuddy duddy",
+            "old school",
+            "traditional",
+            "dated"
+        ],
+        "answer": "fuddy duddy"
+    },
+    {
         "question": "النقص",
         "options": [
             "shortages",
