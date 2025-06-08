@@ -1,5 +1,465 @@
 [
     {
+        "question": "الألعاب النارية",
+        "options": [
+            "fireworks",
+            "explode",
+            "injuries",
+            "committee"
+        ],
+        "answer": "fireworks"
+    },
+    {
+        "question": "ينفجر",
+        "options": [
+            "explode",
+            "findings",
+            "nationwide",
+            "favor"
+        ],
+        "answer": "explode"
+    },
+    {
+        "question": "محاباة",
+        "options": [
+            "favored",
+            "favor",
+            "commissioned",
+            "reassess"
+        ],
+        "answer": "favor"
+    },
+    {
+        "question": "على مستوى الدولة",
+        "options": [
+            "nationwide",
+            "majority",
+            "poll",
+            "Eve"
+        ],
+        "answer": "nationwide"
+    },
+    {
+        "question": "نتائج",
+        "options": [
+            "findings",
+            "legislation",
+            "explode",
+            "ultimately"
+        ],
+        "answer": "findings"
+    },
+    {
+        "question": "تشريع",
+        "options": [
+            "legislation",
+            "committee",
+            "poll",
+            "to illustrate"
+        ],
+        "answer": "legislation"
+    },
+    {
+        "question": "تم الكشف عنه",
+        "options": [
+            "revealed",
+            "similarly",
+            "favor",
+            "indeed"
+        ],
+        "answer": "revealed"
+    },
+    {
+        "question": "ذو أهمية",
+        "options": [
+            "significant",
+            "certainly",
+            "everyday",
+            "injuries"
+        ],
+        "answer": "significant"
+    },
+    {
+        "question": "الأغلبية",
+        "options": [
+            "majority",
+            "nationwide",
+            "commissioned",
+            "to sum up"
+        ],
+        "answer": "majority"
+    },
+    {
+        "question": "إصابات",
+        "options": [
+            "injuries",
+            "revealed",
+            "explode",
+            "initially"
+        ],
+        "answer": "injuries"
+    },
+    {
+        "question": "عشية",
+        "options": [
+            "Eve",
+            "to illustrate",
+            "poll",
+            "committee"
+        ],
+        "answer": "Eve"
+    },
+    {
+        "question": "مُفضل",
+        "options": [
+            "favored",
+            "favor",
+            "similarly",
+            "legislation"
+        ],
+        "answer": "favored"
+    },
+    {
+        "question": "لجنة",
+        "options": [
+            "committee",
+            "commissioned",
+            "poll",
+            "nationwide"
+        ],
+        "answer": "committee"
+    },
+    {
+        "question": "بتكليف",
+        "options": [
+            "commissioned",
+            "revealed",
+            "injuries",
+            "explode"
+        ],
+        "answer": "commissioned"
+    },
+    {
+        "question": "استطلاع رأي",
+        "options": [
+            "poll",
+            "committee",
+            "majority",
+            "significant"
+        ],
+        "answer": "poll"
+    },
+    {
+        "question": "إعادة تقييم",
+        "options": [
+            "reassess",
+            "to sum up",
+            "to illustrate",
+            "certainly"
+        ],
+        "answer": "reassess"
+    },
+    {
+        "question": "كل يوم",
+        "options": [
+            "every day",
+            "everyday",
+            "ultimately",
+            "illustrate"
+        ],
+        "answer": "every day"
+    },
+    {
+        "question": "يومي أو يومياً",
+        "options": [
+            "everyday",
+            "every day",
+            "initially",
+            "similarly"
+        ],
+        "answer": "everyday"
+    },
+    {
+        "question": "لتوضيح",
+        "options": [
+            "to illustrate",
+            "certainly",
+            "indeed",
+            "committee"
+        ],
+        "answer": "to illustrate"
+    },
+    {
+        "question": "بالتالي",
+        "options": [
+            "consequently",
+            "ultimately",
+            "significant",
+            "poll"
+        ],
+        "answer": "consequently"
+    },
+    {
+        "question": "بالتأكيد",
+        "options": [
+            "certainly",
+            "ultimately",
+            "everyday",
+            "majority"
+        ],
+        "answer": "certainly"
+    },
+    {
+        "question": "في النهاية",
+        "options": [
+            "ultimately",
+            "initially",
+            "to sum up",
+            "commissioned"
+        ],
+        "answer": "ultimately"
+    },
+    {
+        "question": "لتلخيص",
+        "options": [
+            "to sum up",
+            "indeed",
+            "every day",
+            "revealed"
+        ],
+        "answer": "to sum up"
+    },
+    {
+        "question": "بدايةً",
+        "options": [
+            "initially",
+            "similarly",
+            "consequently",
+            "favor"
+        ],
+        "answer": "initially"
+    },
+    {
+        "question": "بالمثل",
+        "options": [
+            "similarly",
+            "indeed",
+            "poll",
+            "injuries"
+        ],
+        "answer": "similarly"
+    },
+    {
+        "question": "في الواقع",
+        "options": [
+            "indeed",
+            "to sum up",
+            "revealed",
+            "committee"
+        ],
+        "answer": "indeed"
+    },
+    {
+        "question": "بنفس الطريقة",
+        "options": [
+            "in the same way",
+            "similarly",
+            "every day",
+            "significant"
+        ],
+        "answer": "in the same way"
+    },
+    {
+        "question": "شكك",
+        "options": [
+            "persist",
+            "questioned",
+            "exemption",
+            "nail"
+        ],
+        "answer": "questioned"
+    },
+    {
+        "question": "دوافع",
+        "options": [
+            "motives",
+            "integrity",
+            "exemption",
+            "caller"
+        ],
+        "answer": "motives"
+    },
+    {
+        "question": "نزاهة",
+        "options": [
+            "integrity",
+            "fragile",
+            "destruction",
+            "former"
+        ],
+        "answer": "integrity"
+    },
+    {
+        "question": "هش",
+        "options": [
+            "fragile",
+            "occupied",
+            "bargains",
+            "venture"
+        ],
+        "answer": "fragile"
+    },
+    {
+        "question": "استنتج",
+        "options": [
+            "conclude",
+            "persist",
+            "plentiful",
+            "foreigners"
+        ],
+        "answer": "conclude"
+    },
+    {
+        "question": "محترم",
+        "options": [
+            "hallowed",
+            "former",
+            "nip",
+            "dairy"
+        ],
+        "answer": "hallowed"
+    },
+    {
+        "question": "محتل أو مشغول",
+        "options": [
+            "occupied",
+            "politicians",
+            "either",
+            "tubs"
+        ],
+        "answer": "occupied"
+    },
+    {
+        "question": "تاجر",
+        "options": [
+            "bargains",
+            "politicians",
+            "venture",
+            "caller"
+        ],
+        "answer": "venture"
+    },
+    {
+        "question": "سياسيون",
+        "options": [
+            "politicians",
+            "foreigners",
+            "plentiful",
+            "nip"
+        ],
+        "answer": "politicians"
+    },
+    {
+        "question": "درج النقود أو محطة الدفع",
+        "options": [
+            "till",
+            "either",
+            "persist",
+            "vla"
+        ],
+        "answer": "till"
+    },
+    {
+        "question": "المبادرة",
+        "options": [
+            "initiative",
+            "invitation",
+            "create",
+            "attention"
+        ],
+        "answer": "initiative"
+    },
+    {
+        "question": "ما وراء",
+        "options": [
+            "above",
+            "before",
+            "beyond",
+            "beneath"
+        ],
+        "answer": "beyond"
+    },
+    {
+        "question": "فوضى - كتلة، هائل",
+        "options": [
+            "mess",
+            "mass",
+            "tiny",
+            "clean"
+        ],
+        "answer": "mess - mass"
+    },
+    {
+        "question": "قمع",
+        "options": [
+            "express",
+            "suppress",
+            "allow",
+            "free"
+        ],
+        "answer": "suppress"
+    },
+    {
+        "question": "الانتهاء",
+        "options": [
+            "ending",
+            "completion",
+            "starting",
+            "attempt"
+        ],
+        "answer": "completion"
+    },
+    {
+        "question": "قاموس المرادفات",
+        "options": [
+            "Thesaurus",
+            "Lexicon",
+            "Book",
+            "Guide"
+        ],
+        "answer": "Thesaurus"
+    },
+    {
+        "question": "مرادفات",
+        "options": [
+            "antonyms",
+            "synonyms",
+            "words",
+            "phrases"
+        ],
+        "answer": "synonyms"
+    },
+    {
+        "question": "يرجى تحديد النوع",
+        "options": [
+            "Choose the name",
+            "Please state the type",
+            "Mark it down",
+            "Pick the option"
+        ],
+        "answer": "Please state the type"
+    },
+    {
+        "question": "تجديد",
+        "options": [
+            "creation",
+            "fixing",
+            "renovation",
+            "replacement"
+        ],
+        "answer": "renovation"
+    },
+    {
         "question": "يُعدّل",
         "options": [
             "adjust",

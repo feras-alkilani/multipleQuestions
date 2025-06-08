@@ -1,4 +1,8 @@
 const audioPlayer = new Audio();
+const audioPlayer1 = new Audio();
+const audioPlayer2 = new Audio();
+let correctAnswers = 0;
+let wrongAnswers = 0;
 
 // to make the randomly answers
 function shuffleOptions(array) {
@@ -17,9 +21,6 @@ function shuffleArray(array) {
   }
   return arr;
 }
-
-let correctAnswers = 0;
-let wrongAnswers = 0;
 
 // Reading the questions from JSON file
 fetch("arToEnQuestions.json")
@@ -60,17 +61,38 @@ function renderQuiz(questions) {
         e.preventDefault();
       });
 
-      let word = answerDiv.innerText;
+      let word = answerDiv.innerText.toLowerCase();
       const audioURL = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
-      answerDiv.onclick = () => {
-        audioPlayer.src = audioURL;
-        audioPlayer.play();
-        selectAnswer(answerDiv, q.answer, option);
-      };
-      questionDiv.appendChild(answerDiv);
-    });
+      const audioURL1 = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-uk.mp3`;
+      const audioURL2 = `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${word}--_gb_1.mp3`;
 
-    quizContainer.appendChild(questionDiv);
+      answerDiv.onclick = async () => {
+        const tryPlay = (player, url) =>
+          new Promise((resolve) => {
+            player.pause();
+            player.currentTime = 0;
+            player.src = url;
+            player.oncanplaythrough = () => {
+              console.log(`Audio file found: ${url}`);
+              player.play();
+              resolve(true);
+            };
+            player.onerror = () => {
+              console.log(`Audio file not found or can't be played: ${url}`);
+              resolve(false);
+            };
+          });
+        selectAnswer(answerDiv, q.answer, option);
+
+        if (await tryPlay(audioPlayer, audioURL)) return;
+        if (await tryPlay(audioPlayer1, audioURL1)) return;
+        if (await tryPlay(audioPlayer2, audioURL2)) return;
+        console.log("No valid audio file found.");
+      };
+
+      questionDiv.appendChild(answerDiv);
+      quizContainer.appendChild(questionDiv);
+    });
   });
 }
 

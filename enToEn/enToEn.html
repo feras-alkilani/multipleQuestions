@@ -3,12 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Arabic To English</title>
-    <link rel="icon" href="data:," />
+    <title>English To English</title>
     <link rel="stylesheet" href="../style.css" />
   </head>
   <body>
-    <div class="quiz-container" id="quiz-container"></div>
+    <div id="quiz-container"></div>
     <div id="correct-result"></div>
     <div id="wrong-result"></div>
 
@@ -16,6 +15,7 @@
       <button id="backToHome" onclick="backToHome()">Back To Home</button>
       <button id="refresh" onclick="refresh()">Refresh</button>
     </div>
+
     <script>
       function backToHome() {
         window.location.href = "../index.html";
@@ -23,10 +23,10 @@
     </script>
     <script>
       function refresh() {
-        window.location.href = "";
+        location.reload();
       }
     </script>
 
-    <script src="arToEnScript.js"></script>
+    <script src="enToEnScript.js"></script>
   </body>
 </html>
