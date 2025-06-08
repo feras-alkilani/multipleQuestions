@@ -95,7 +95,9 @@ main {
 #enToDu,
 #duToEn,
 #duToAr,
-#enToEn {
+#enToEn,
+#drivingDuToEn,
+#drivingDuToAR {
   height: 250px;
   width: 250px;
   font-size: 50px;
@@ -111,8 +113,10 @@ main {
 #arToEn:hover,
 #enToDu:hover,
 #duToEn:hover,
-#enToEn:hover, {
-#duToAr:hover {
+#duToAr:hover,
+#enToEn:hover,
+#drivingDuToAR:hover,
+#drivingDuToEn:hover {
   background-color: #00bfff;
   color: #ffeb3b;
   cursor: pointer;
