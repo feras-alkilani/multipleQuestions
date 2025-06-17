@@ -1,5 +1,2025 @@
 [
     {
+        "question": "معايير القبول",
+        "options": [
+            "acceptance",
+            "rejection",
+            "negotiation",
+            "criteria"
+        ],
+        "answer": "criteria"
+    },
+    {
+        "question": "تعددية",
+        "options": [
+            "duality",
+            "multiplicity",
+            "singularity",
+            "repeat"
+        ],
+        "answer": "multiplicity"
+    },
+    {
+        "question": "إلزامي",
+        "options": [
+            "mandatory",
+            "optional",
+            "suggested",
+            "voluntary"
+        ],
+        "answer": "mandatory"
+    },
+    {
+        "question": "تراجع",
+        "options": [
+            "fallback",
+            "rollback",
+            "drop",
+            "abort"
+        ],
+        "answer": "rollback"
+    },
+    {
+        "question": "تأكيد الحفظ",
+        "options": [
+            "save",
+            "commit",
+            "record",
+            "log"
+        ],
+        "answer": "commit"
+    },
+    {
+        "question": "تزامن",
+        "options": [
+            "conflict",
+            "timing",
+            "parallel",
+            "concurrency"
+        ],
+        "answer": "concurrency"
+    },
+    {
+        "question": "قفل متفائل",
+        "options": [
+            "safe lock",
+            "optimistic locking",
+            "hard lock",
+            "concurrent lock"
+        ],
+        "answer": "optimistic locking"
+    },
+    {
+        "question": "متماسك",
+        "options": [
+            "messy",
+            "divided",
+            "cohesive",
+            "mixed"
+        ],
+        "answer": "cohesive"
+    },
+    {
+        "question": "غامض",
+        "options": [
+            "clear",
+            "mystic",
+            "mistic",
+            "vivid"
+        ],
+        "answer": "mistic"
+    },
+    {
+        "question": "حقن",
+        "options": [
+            "ejection",
+            "injection",
+            "rejection",
+            "selection"
+        ],
+        "answer": "injection"
+    },
+    {
+        "question": "يتيم",
+        "options": [
+            "alone",
+            "orphan",
+            "abandoned",
+            "lost"
+        ],
+        "answer": "orphan"
+    },
+    {
+        "question": "لا يوجد أفعال",
+        "options": [
+            "don't do",
+            "inactive",
+            "idle",
+            "don't have actions"
+        ],
+        "answer": "don't have actions"
+    },
+    {
+        "question": "إزعاج",
+        "options": [
+            "bother",
+            "ignore",
+            "disturbance",
+            "alert"
+        ],
+        "answer": "bother"
+    },
+    {
+        "question": "الانزعاج بشأن",
+        "options": [
+            "care",
+            "bother about",
+            "ignore it",
+            "worry"
+        ],
+        "answer": "bother about"
+    },
+    {
+        "question": "لماذا أنت منزعج بشأن ذلك؟",
+        "options": [
+            "what are you worried?",
+            "why you are bother about?",
+            "what's the matter?",
+            "are you okay?"
+        ],
+        "answer": "why you are bother about?"
+    },
+    {
+        "question": "تم حله",
+        "options": [
+            "closed",
+            "resolved",
+            "removed",
+            "fixed"
+        ],
+        "answer": "resolved"
+    },
+    {
+        "question": "الإصدارات المثبتة",
+        "options": [
+            "last versions",
+            "stable versions",
+            "fixed versions",
+            "patched versions"
+        ],
+        "answer": "fixed versions"
+    },
+    {
+        "question": "فضولي بشأن",
+        "options": [
+            "ask about",
+            "curious about",
+            "concerned",
+            "thinking"
+        ],
+        "answer": "curious about"
+    },
+    {
+        "question": "مجمع",
+        "options": [
+            "combined",
+            "merged",
+            "grouped",
+            "aggregated"
+        ],
+        "answer": "aggregated"
+    },
+    {
+        "question": "بويضة",
+        "options": [
+            "ovum",
+            "ova",
+            "egg",
+            "embryo"
+        ],
+        "answer": "ovum"
+    },
+    {
+        "question": "بويضات",
+        "options": [
+            "ovary",
+            "ova",
+            "ovum",
+            "cells"
+        ],
+        "answer": "ova"
+    },
+    {
+        "question": "اقتباس",
+        "options": [
+            "caption",
+            "reference",
+            "quote",
+            "statement"
+        ],
+        "answer": "quote"
+    },
+    {
+        "question": "تعليق توضيحي",
+        "options": [
+            "headline",
+            "title",
+            "caption",
+            "quote"
+        ],
+        "answer": "caption"
+    },
+    {
+        "question": "قابلية التشغيل البيني",
+        "options": [
+            "integration",
+            "interoperability",
+            "collaboration",
+            "connectivity"
+        ],
+        "answer": "interoperability"
+    },
+    {
+        "question": "متخفٍ",
+        "options": [
+            "invisible",
+            "incognito",
+            "hidden",
+            "anonymous"
+        ],
+        "answer": "incognito"
+    },
+    {
+        "question": "بشكل أعمى",
+        "options": [
+            "blind",
+            "blindness",
+            "blindly",
+            "obliviously"
+        ],
+        "answer": "blindly"
+    },
+    {
+        "question": "أعمى",
+        "options": [
+            "blindly",
+            "sightless",
+            "blind",
+            "dim"
+        ],
+        "answer": "blind"
+    },
+    {
+        "question": "مُطالبة / إدخال فوري",
+        "options": [
+            "alert",
+            "cue",
+            "prompt",
+            "signal"
+        ],
+        "answer": "prompt"
+    },
+    {
+        "question": "يخدم",
+        "options": [
+            "delivers",
+            "supplies",
+            "serves",
+            "offers"
+        ],
+        "answer": "serves"
+    },
+    {
+        "question": "ينفذ",
+        "options": [
+            "manage",
+            "implement",
+            "follow",
+            "operate"
+        ],
+        "answer": "implement"
+    },
+    {
+        "question": "يملأ",
+        "options": [
+            "fills",
+            "populates",
+            "loads",
+            "inputs"
+        ],
+        "answer": "populates"
+    },
+    {
+        "question": "رسمة عفوية",
+        "options": [
+            "sketch",
+            "drawing",
+            "doodle",
+            "scribble"
+        ],
+        "answer": "doodle"
+    },
+    {
+        "question": "مُكوّن",
+        "options": [
+            "composed",
+            "combined",
+            "written",
+            "assembled"
+        ],
+        "answer": "composed"
+    },
+    {
+        "question": "مُنقّح",
+        "options": [
+            "updated",
+            "corrected",
+            "revised",
+            "reviewed"
+        ],
+        "answer": "revised"
+    },
+    {
+        "question": "عدم الامتثال",
+        "options": [
+            "failing to comply",
+            "refusing",
+            "violating",
+            "ignoring rules"
+        ],
+        "answer": "failing to comply"
+    },
+    {
+        "question": "تقييم",
+        "options": [
+            "assessment",
+            "audit",
+            "estimation",
+            "appraisal"
+        ],
+        "answer": "appraisal"
+    },
+    {
+        "question": "توقّف مؤقت",
+        "options": [
+            "delay",
+            "pause",
+            "stall",
+            "hold"
+        ],
+        "answer": "stall"
+    },
+    {
+        "question": "محكمة تدقيق",
+        "options": [
+            "audit bureau",
+            "court of audit",
+            "financial court",
+            "oversight body"
+        ],
+        "answer": "court of audit"
+    },
+    {
+        "question": "فترة قصيرة",
+        "options": [
+            "moment",
+            "instant",
+            "short while",
+            "bit"
+        ],
+        "answer": "short while"
+    },
+    {
+        "question": "مبالغ غير مدفوعة",
+        "options": [
+            "pending dues",
+            "outstanding amounts",
+            "arrears",
+            "unpaid balances"
+        ],
+        "answer": "outstanding amounts"
+    },
+    {
+        "question": "بسلاسة",
+        "options": [
+            "without interruption",
+            "seamlessly",
+            "confusing",
+            "boring"
+        ],
+        "answer": "seamlessly"
+    },
+    {
+        "question": "يسمح",
+        "options": [
+            "allow",
+            "forbid",
+            "enforce",
+            "prevent"
+        ],
+        "answer": "allow"
+    },
+    {
+        "question": "يشوش",
+        "options": [
+            "clarify",
+            "obfuscate",
+            "simplify",
+            "interpret"
+        ],
+        "answer": "obfuscate"
+    },
+    {
+        "question": "نص نمطي",
+        "options": [
+            "boilerplate",
+            "official document",
+            "detailed plan",
+            "free text"
+        ],
+        "answer": "boilerplate"
+    },
+    {
+        "question": "لا توبخني",
+        "options": [
+            "Don't scold me",
+            "Don't punish me",
+            "Don't neglect me",
+            "Don't forget me"
+        ],
+        "answer": "Don't scold me"
+    },
+    {
+        "question": "لا تصغرني",
+        "options": [
+            "Don't belittle me",
+            "Don't ignore me",
+            "Don't reject me",
+            "Don't scratch me"
+        ],
+        "answer": "Don't belittle me"
+    },
+    {
+        "question": "لا تخدعني",
+        "options": [
+            "Don't fool me",
+            "Don't lie to me",
+            "Don't hurt me",
+            "Don't cheat me"
+        ],
+        "answer": "Don't fool me"
+    },
+    {
+        "question": "لا تستفزني",
+        "options": [
+            "Don't provoke me",
+            "Don't calm me",
+            "Don't avoid me",
+            "Don't incite me"
+        ],
+        "answer": "Don't provoke me"
+    },
+    {
+        "question": "لا تؤذيني",
+        "options": [
+            "Don't hurt me",
+            "Don't cause me pain",
+            "Don't wound me",
+            "Don't insult me"
+        ],
+        "answer": "Don't hurt me"
+    },
+    {
+        "question": "لا تكذب علي",
+        "options": [
+            "Don't lie to me",
+            "Don't cheat me",
+            "Don't fool me",
+            "Don't forget me"
+        ],
+        "answer": "Don't lie to me"
+    },
+    {
+        "question": "استقال من عمله",
+        "options": [
+            "He quit his job",
+            "He started his job",
+            "He left his place",
+            "He stopped working"
+        ],
+        "answer": "He quit his job"
+    },
+    {
+        "question": "أريد أن أقلع عن التدخين",
+        "options": [
+            "I want to quit smoking",
+            "I want to start smoking",
+            "I want to continue smoking",
+            "I love smoking"
+        ],
+        "answer": "I want to quit smoking"
+    },
+    {
+        "question": "هي ذكية جداً",
+        "options": [
+            "She is quite smart",
+            "She is somewhat smart",
+            "She is a little smart",
+            "She is extremely smart"
+        ],
+        "answer": "She is quite smart"
+    },
+    {
+        "question": "أنا متعب جداً اليوم",
+        "options": [
+            "I’m quite tired today",
+            "I’m a little tired today",
+            "I’m somewhat tired today",
+            "I’m rested today"
+        ],
+        "answer": "I’m quite tired today"
+    },
+    {
+        "question": "هذا منزل كبير جداً!",
+        "options": [
+            "That’s quite a big house!",
+            "That’s a small house",
+            "That’s an average house",
+            "That’s a normal house"
+        ],
+        "answer": "That’s quite a big house!"
+    },
+    {
+        "question": "quit-quite",
+        "options": [
+            "quit means stop / quite means very",
+            "quit means continue / quite means little",
+            "quit means start / quite means fast",
+            "quit means resign / quite means unlucky"
+        ],
+        "answer": "quit means stop / quite means very"
+    },
+    {
+        "question": "quite (أمريكي: غالباً تعني \"جداً\" / بريطاني: ممكن تعني \"نوعاً ما\")",
+        "options": [
+            "means very in American and somewhat in British",
+            "means somewhat in American and very in British",
+            "means little in American and British",
+            "means almost only in American"
+        ],
+        "answer": "means very in American and somewhat in British"
+    },
+    {
+        "question": "بعد الآن",
+        "options": [
+            "any longer",
+            "soon",
+            "always",
+            "at any time"
+        ],
+        "answer": "any longer"
+    },
+    {
+        "question": "على وفاق",
+        "options": [
+            "At one",
+            "At odds",
+            "In touch",
+            "On the sidelines"
+        ],
+        "answer": "At one"
+    },
+    {
+        "question": "على الإطلاق",
+        "options": [
+            "At all",
+            "A little",
+            "Somewhat",
+            "Never"
+        ],
+        "answer": "At all"
+    },
+    {
+        "question": "على الأكثر",
+        "options": [
+            "At most",
+            "At least",
+            "In the middle",
+            "Lowest"
+        ],
+        "answer": "At most"
+    },
+    {
+        "question": "على الأقل",
+        "options": [
+            "At least",
+            "At most",
+            "Limited",
+            "Insufficient"
+        ],
+        "answer": "At least"
+    },
+    {
+        "question": "في أحسن الأحوال",
+        "options": [
+            "Eventually",
+            "At worst",
+            "At best",
+            "Undoubtedly"
+        ],
+        "answer": "At best"
+    },
+    {
+        "question": "في أسوأ الأحوال",
+        "options": [
+            "At worst",
+            "Certainly",
+            "Consequently",
+            "Additionally"
+        ],
+        "answer": "At worst"
+    },
+    {
+        "question": "في البداية",
+        "options": [
+            "Eventually",
+            "At first",
+            "Nonetheless",
+            "At large"
+        ],
+        "answer": "At first"
+    },
+    {
+        "question": "في النهاية",
+        "options": [
+            "At last",
+            "Eventually",
+            "At best",
+            "Undoubtedly"
+        ],
+        "answer": "At last"
+    },
+    {
+        "question": "بوجه عام",
+        "options": [
+            "At large",
+            "Consequently",
+            "Certainly",
+            "Likewise"
+        ],
+        "answer": "At large"
+    },
+    {
+        "question": "بدون شك",
+        "options": [
+            "Nonetheless",
+            "Undoubtedly",
+            "Dismissal",
+            "Burglary"
+        ],
+        "answer": "Undoubtedly"
+    },
+    {
+        "question": "وبالمثل",
+        "options": [
+            "Likewise",
+            "Compensation",
+            "Eventually",
+            "At worst"
+        ],
+        "answer": "Likewise"
+    },
+    {
+        "question": "وبناءً على ذلك",
+        "options": [
+            "Eventually",
+            "At first",
+            "Consequently",
+            "At best"
+        ],
+        "answer": "Consequently"
+    },
+    {
+        "question": "على الرغم من ذلك",
+        "options": [
+            "At large",
+            "Certainly",
+            "Nonetheless",
+            "Crocodile"
+        ],
+        "answer": "Nonetheless"
+    },
+    {
+        "question": "بالإضافة إلى ذلك",
+        "options": [
+            "Additionally",
+            "Dismissal",
+            "Burglary",
+            "Eventually"
+        ],
+        "answer": "Additionally"
+    },
+    {
+        "question": "في نهاية المطاف",
+        "options": [
+            "Eventually",
+            "At first",
+            "At worst",
+            "Civiliazation"
+        ],
+        "answer": "Eventually"
+    },
+    {
+        "question": "بكل تأكيد",
+        "options": [
+            "Certainly",
+            "Scandal",
+            "At best",
+            "Sovereignty"
+        ],
+        "answer": "Certainly"
+    },
+    {
+        "question": "السيادة",
+        "options": [
+            "Sovereignty",
+            "Dismissal",
+            "Compensation",
+            "Burglary"
+        ],
+        "answer": "Sovereignty"
+    },
+    {
+        "question": "فضيحة",
+        "options": [
+            "Scandal",
+            "Crocodile",
+            "Nailing",
+            "Eventually"
+        ],
+        "answer": "Scandal"
+    },
+    {
+        "question": "بنتهاوس",
+        "options": [
+            "Penthouse",
+            "Sovereignty",
+            "Compensation",
+            "Nail"
+        ],
+        "answer": "Penthouse"
+    },
+    {
+        "question": "تمساح",
+        "options": [
+            "Nail",
+            "Crocodile",
+            "Dismissal",
+            "Eventually"
+        ],
+        "answer": "Crocodile"
+    },
+    {
+        "question": "فصل من العمل",
+        "options": [
+            "Dismissal",
+            "Burglary",
+            "Penthouse",
+            "Likewise"
+        ],
+        "answer": "Dismissal"
+    },
+    {
+        "question": "سطو",
+        "options": [
+            "Burglary",
+            "Scandal",
+            "At large",
+            "Eventually"
+        ],
+        "answer": "Burglary"
+    },
+    {
+        "question": "تعويض",
+        "options": [
+            "Compensation",
+            "Certainly",
+            "Dismissal",
+            "Undoubtedly"
+        ],
+        "answer": "Compensation"
+    },
+    {
+        "question": "حضارة",
+        "options": [
+            "Civiliazation",
+            "Eventually",
+            "Scandal",
+            "Penthouse"
+        ],
+        "answer": "Civiliazation"
+    },
+    {
+        "question": "العائد على الاستثمار",
+        "options": [
+            "ROI",
+            "guarding",
+            "exemption",
+            "persist"
+        ],
+        "answer": "ROI"
+    },
+    {
+        "question": "بحاجة إلى",
+        "options": [
+            "in need",
+            "in short",
+            "in vain",
+            "in cash"
+        ],
+        "answer": "in need"
+    },
+    {
+        "question": "نقدًا",
+        "options": [
+            "in cash",
+            "in vain",
+            "in short",
+            "in a rush"
+        ],
+        "answer": "in cash"
+    },
+    {
+        "question": "عبثًا",
+        "options": [
+            "in vain",
+            "in need",
+            "in cash",
+            "guarding"
+        ],
+        "answer": "in vain"
+    },
+    {
+        "question": "باختصار",
+        "options": [
+            "in short",
+            "in vain",
+            "in cash",
+            "in a rush"
+        ],
+        "answer": "in short"
+    },
+    {
+        "question": "مستعجل",
+        "options": [
+            "in a rush",
+            "in need",
+            "in vain",
+            "spotless"
+        ],
+        "answer": "in a rush"
+    },
+    {
+        "question": "في ورطة",
+        "options": [
+            "in a pikkle",
+            "in short",
+            "in a rush",
+            "dull"
+        ],
+        "answer": "in a pikkle"
+    },
+    {
+        "question": "مرهق",
+        "options": [
+            "exhausted",
+            "fascinating",
+            "boiling",
+            "brilliant"
+        ],
+        "answer": "exhausted"
+    },
+    {
+        "question": "رائع (ذكي أو مدهش)",
+        "options": [
+            "brilliant",
+            "spotless",
+            "dull",
+            "boiling"
+        ],
+        "answer": "brilliant"
+    },
+    {
+        "question": "يغلي (حرارة مفرطة)",
+        "options": [
+            "boiling",
+            "fascinating",
+            "brilliant",
+            "in a rush"
+        ],
+        "answer": "boiling"
+    },
+    {
+        "question": "نظيف تمامًا",
+        "options": [
+            "spotless",
+            "dull",
+            "boiling",
+            "exemption"
+        ],
+        "answer": "spotless"
+    },
+    {
+        "question": "باهت / ممل",
+        "options": [
+            "dull",
+            "brilliant",
+            "boiling",
+            "fascinating"
+        ],
+        "answer": "dull"
+    },
+    {
+        "question": "رائع / ساحر",
+        "options": [
+            "fascinating",
+            "dull",
+            "spotless",
+            "exhausted"
+        ],
+        "answer": "fascinating"
+    },
+    {
+        "question": "جلب",
+        "options": [
+            "retrive",
+            "nailing",
+            "persist",
+            "guarding"
+        ],
+        "answer": "retrive"
+    },
+    {
+        "question": "العائد على الاستثمار",
+        "options": [
+            "ROI: Return on Investment",
+            "OOO: Out of Office",
+            "TBD: To Be Determined",
+            "ETA: Estimated Time of Arrival"
+        ],
+        "answer": "ROI: Return on Investment"
+    },
+    {
+        "question": "يتم تحديده لاحقًا",
+        "options": [
+            "COB: Close of Business",
+            "WFH: Work From Home",
+            "TBD: To Be Determined",
+            "YTD: Year To Date"
+        ],
+        "answer": "TBD: To Be Determined"
+    },
+    {
+        "question": "خارج المكتب",
+        "options": [
+            "OOO: Out of Office",
+            "ETA: Estimated Time of Arrival",
+            "EOD: End of Day",
+            "ROI: Return on Investment"
+        ],
+        "answer": "OOO: Out of Office"
+    },
+    {
+        "question": "من بداية السنة حتى الآن",
+        "options": [
+            "TBD: To Be Determined",
+            "YTD: Year To Date",
+            "WFH: Work From Home",
+            "EOD: End of Day"
+        ],
+        "answer": "YTD: Year To Date"
+    },
+    {
+        "question": "الوقت المتوقع للوصول أو الإنجاز",
+        "options": [
+            "EOD: End of Day",
+            "WFH: Work From Home",
+            "ETA: Estimated Time of Arrival",
+            "COB: Close of Business"
+        ],
+        "answer": "ETA: Estimated Time of Arrival"
+    },
+    {
+        "question": "العمل من المنزل",
+        "options": [
+            "OOO: Out of Office",
+            "WFH: Work From Home",
+            "COB: Close of Business",
+            "ROI: Return on Investment"
+        ],
+        "answer": "WFH: Work From Home"
+    },
+    {
+        "question": "نهاية يوم العمل",
+        "options": [
+            "EOD: End of Day",
+            "COB: Close of Business",
+            "TBD: To Be Determined",
+            "ETA: Estimated Time of Arrival"
+        ],
+        "answer": "COB: Close of Business"
+    },
+    {
+        "question": "نهاية اليوم",
+        "options": [
+            "EOD: End of Day",
+            "WFH: Work From Home",
+            "YTD: Year To Date",
+            "ROI: Return on Investment"
+        ],
+        "answer": "EOD: End of Day"
+    },
+    {
+        "question": "التجمّع",
+        "options": [
+            "rally",
+            "calling",
+            "rETA: Estimated Time of Arrivalliation",
+            "elegantly"
+        ],
+        "answer": "rally"
+    },
+    {
+        "question": "الدعوة إلى",
+        "options": [
+            "rETA: Estimated Time of Arrivalliation",
+            "calling for",
+            "rally",
+            "coherent"
+        ],
+        "answer": "calling for"
+    },
+    {
+        "question": "الانتقام",
+        "options": [
+            "rally",
+            "rETA: Estimated Time of Arrivalliation",
+            "elegantly",
+            "WFH: Work From Home"
+        ],
+        "answer": "rETA: Estimated Time of Arrivalliation"
+    },
+    {
+        "question": "بشكل أنيق",
+        "options": [
+            "elegantly",
+            "coherent",
+            "calling for",
+            "TBD: To Be Determined"
+        ],
+        "answer": "elegantly"
+    },
+    {
+        "question": "بمجرد ما نخلص من هالشي",
+        "options": [
+            "Once we have that out of the way",
+            "End of Day",
+            "RETA: Estimated Time of Arrivalliation",
+            "Work From Home"
+        ],
+        "answer": "Once we have that out of the way"
+    },
+    {
+        "question": "متماسك أو مترابط منطقيًا",
+        "options": [
+            "coherent",
+            "elegantly",
+            "rally",
+            "ETA: Estimated Time of Arrival"
+        ],
+        "answer": "coherent"
+    },
+    {
+        "question": "عرض توضيحي",
+        "options": [
+            "demonstration",
+            "celebration",
+            "democracy",
+            "installation"
+        ],
+        "answer": "demonstration"
+    },
+    {
+        "question": "أغلب الأوقات",
+        "options": [
+            "oftentimes",
+            "rarely",
+            "always",
+            "immediately"
+        ],
+        "answer": "oftentimes"
+    },
+    {
+        "question": "الصور أظهرت الحطام وهو يحترق",
+        "options": [
+            "Visuals showed debris on fire",
+            "Debris was collected",
+            "The visuals were unclear",
+            "Everything was clean"
+        ],
+        "answer": "Visuals showed debris on fire"
+    },
+    {
+        "question": "الإقلاع",
+        "options": [
+            "landing",
+            "taking off",
+            "boarding",
+            "parking"
+        ],
+        "answer": "taking off"
+    },
+    {
+        "question": "مقيد / متجه إلى",
+        "options": [
+            "bound",
+            "free",
+            "released",
+            "relaxed"
+        ],
+        "answer": "bound"
+    },
+    {
+        "question": "ثلث دراسي",
+        "options": [
+            "semester",
+            "trimester",
+            "year",
+            "session"
+        ],
+        "answer": "trimester"
+    },
+    {
+        "question": "متى موعد الولادة؟",
+        "options": [
+            "What's your name?",
+            "Are you okay?",
+            "When are you due?",
+            "Do you need help?"
+        ],
+        "answer": "When are you due?"
+    },
+    {
+        "question": "ستنجب الأسبوع القادم",
+        "options": [
+            "She's not pregnant",
+            "She's due next week.",
+            "She delivered last week",
+            "She is at work"
+        ],
+        "answer": "She's due next week."
+    },
+    {
+        "question": "الدفع مستحق غداً",
+        "options": [
+            "The payment is delayed",
+            "The payment is due tomorrow.",
+            "Payment was made",
+            "Payment is not necessary"
+        ],
+        "answer": "The payment is due tomorrow."
+    },
+    {
+        "question": "يجب أن تُظهر الاحترام الواجب",
+        "options": [
+            "You must ignore",
+            "You must give due respect.",
+            "You can disrespect",
+            "Respect is optional"
+        ],
+        "answer": "You must give due respect."
+    },
+    {
+        "question": "حامل",
+        "options": [
+            "injured",
+            "pregnant",
+            "tired",
+            "hungry"
+        ],
+        "answer": "pregnant"
+    },
+    {
+        "question": "الحمد لله",
+        "options": [
+            "thank you",
+            "praise God",
+            "sorry",
+            "goodbye"
+        ],
+        "answer": "praise God"
+    },
+    {
+        "question": "انتقامي",
+        "options": [
+            "vindictive",
+            "forgiving",
+            "peaceful",
+            "naive"
+        ],
+        "answer": "vindictive"
+    },
+    {
+        "question": "استهجان",
+        "options": [
+            "appreciation",
+            "deprecation",
+            "celebration",
+            "donation"
+        ],
+        "answer": "deprecation"
+    },
+    {
+        "question": "لقد طفح الكيل",
+        "options": [
+            "That’s enough",
+            "that dows it",
+            "It’s fine",
+            "Let’s wait"
+        ],
+        "answer": "that dows it"
+    },
+    {
+        "question": "يمسك",
+        "options": [
+            "grap",
+            "grab",
+            "drop",
+            "throw"
+        ],
+        "answer": "grab"
+    },
+    {
+        "question": "لنأخذ قضمة / وجبة خفيفة",
+        "options": [
+            "let’s wait",
+            "let's grab a bite",
+            "don’t eat",
+            "skip dinner"
+        ],
+        "answer": "let's grab a bite"
+    },
+    {
+        "question": "بديهي",
+        "options": [
+            "logical",
+            "intuitive",
+            "complex",
+            "unclear"
+        ],
+        "answer": "intuitive"
+    },
+    {
+        "question": "حرق",
+        "options": [
+            "burn",
+            "scratch",
+            "fracture",
+            "sprain"
+        ],
+        "answer": "burn"
+    },
+    {
+        "question": "كسر",
+        "options": [
+            "sting",
+            "fracture",
+            "bump",
+            "rash"
+        ],
+        "answer": "fracture"
+    },
+    {
+        "question": "التواء",
+        "options": [
+            "swelling",
+            "bruise",
+            "sprain",
+            "corn"
+        ],
+        "answer": "sprain"
+    },
+    {
+        "question": "انتفاخ",
+        "options": [
+            "splinter",
+            "scratch",
+            "swelling",
+            "sting"
+        ],
+        "answer": "swelling"
+    },
+    {
+        "question": "كدمة",
+        "options": [
+            "bruise",
+            "redness",
+            "corn",
+            "rash"
+        ],
+        "answer": "bruise"
+    },
+    {
+        "question": "شظية",
+        "options": [
+            "tack",
+            "splinter",
+            "bump",
+            "burn"
+        ],
+        "answer": "splinter"
+    },
+    {
+        "question": "طفح جلدي",
+        "options": [
+            "rash",
+            "reduction",
+            "blessing",
+            "nail"
+        ],
+        "answer": "rash"
+    },
+    {
+        "question": "قطة (حقود)",
+        "options": [
+            "catty",
+            "corny",
+            "tacky",
+            "bully"
+        ],
+        "answer": "catty"
+    },
+    {
+        "question": "ذرة (مبتذل)",
+        "options": [
+            "corny",
+            "tacky",
+            "nailing",
+            "persist"
+        ],
+        "answer": "corny"
+    },
+    {
+        "question": "مسمار صغير (ذوق سيء)",
+        "options": [
+            "tack",
+            "bull",
+            "sting",
+            "nail"
+        ],
+        "answer": "tack"
+    },
+    {
+        "question": "ثور (متنمر)",
+        "options": [
+            "bull",
+            "bully",
+            "scratch",
+            "feast"
+        ],
+        "answer": "bully"
+    },
+    {
+        "question": "يركض (سائل)",
+        "options": [
+            "run",
+            "runny",
+            "waiter",
+            "nailing"
+        ],
+        "answer": "runny"
+    },
+    {
+        "question": "نعمة",
+        "options": [
+            "gratitute",
+            "feast",
+            "blessing",
+            "relatives"
+        ],
+        "answer": "blessing"
+    },
+    {
+        "question": "عيد",
+        "options": [
+            "feast",
+            "sacrifice",
+            "burn",
+            "corn"
+        ],
+        "answer": "feast"
+    },
+    {
+        "question": "امتنان",
+        "options": [
+            "gratitute",
+            "waiter",
+            "runny",
+            "bruise"
+        ],
+        "answer": "gratitute"
+    },
+    {
+        "question": "أقارب",
+        "options": [
+            "relatives",
+            "splinter",
+            "sting",
+            "exemption"
+        ],
+        "answer": "relatives"
+    },
+    {
+        "question": "تضحية",
+        "options": [
+            "pilgrims",
+            "sacrifice",
+            "fracture",
+            "corny"
+        ],
+        "answer": "sacrifice"
+    },
+    {
+        "question": "حجاج",
+        "options": [
+            "pilgrims",
+            "relatives",
+            "scratch",
+            "rash"
+        ],
+        "answer": "pilgrims"
+    },
+    {
+        "question": "نادل - نادلة",
+        "options": [
+            "waiter-waitress",
+            "landlord",
+            "widow",
+            "actor"
+        ],
+        "answer": "waiter-waitress"
+    },
+    {
+        "question": "ممثل - ممثلة",
+        "options": [
+            "prince",
+            "feast",
+            "actor-actress",
+            "widower"
+        ],
+        "answer": "actor-actress"
+    },
+    {
+        "question": "أمير - أميرة",
+        "options": [
+            "prince-princess",
+            "blessing",
+            "landlady",
+            "splinter"
+        ],
+        "answer": "prince-princess"
+    },
+    {
+        "question": "أرمل - أرملة",
+        "options": [
+            "widower",
+            "widower-widow",
+            "gratitute",
+            "nail"
+        ],
+        "answer": "widower-widow"
+    },
+    {
+        "question": "مالك - مالكة",
+        "options": [
+            "landlord-landlady",
+            "landlady",
+            "corny",
+            "run"
+        ],
+        "answer": "landlord-landlady"
+    },
+    {
+        "question": "خطيب - خطيبة",
+        "options": [
+            "Fiancé-Fiancée",
+            "Fiancée",
+            "exemption",
+            "catty"
+        ],
+        "answer": "Fiancé-Fiancée"
+    },
+    {
+        "question": "بقايا",
+        "options": [
+            "remnants",
+            "sacrifice",
+            "nailing",
+            "bull"
+        ],
+        "answer": "remnants"
+    },
+    {
+        "question": "نمط غير محبذ",
+        "options": [
+            "pattern",
+            "anti-patterns",
+            "habit",
+            "design"
+        ],
+        "answer": "anti-patterns"
+    },
+    {
+        "question": "تضحية",
+        "options": [
+            "offer",
+            "sacrifice",
+            "loss",
+            "gift"
+        ],
+        "answer": "sacrifice"
+    },
+    {
+        "question": "ضيق",
+        "options": [
+            "tight",
+            "dense",
+            "harsh",
+            "compact"
+        ],
+        "answer": "tight"
+    },
+    {
+        "question": "بشكل فعال",
+        "options": [
+            "quickly",
+            "efficiently",
+            "easily",
+            "strongly"
+        ],
+        "answer": "efficiently"
+    },
+    {
+        "question": "هل تود أن تبدأ بتعريف مناسب؟",
+        "options": [
+            "How are you?",
+            "Would open for a proper introduction?",
+            "Do you agree?",
+            "Is this your final decision?"
+        ],
+        "answer": "Would open for a proper introduction?"
+    },
+    {
+        "question": "شخصياً",
+        "options": [
+            "in place",
+            "individually",
+            "in person",
+            "alone"
+        ],
+        "answer": "in person"
+    },
+    {
+        "question": "احتيال",
+        "options": [
+            "scam",
+            "fraud",
+            "error",
+            "bribe"
+        ],
+        "answer": "fraud"
+    },
+    {
+        "question": "يستهلك",
+        "options": [
+            "use",
+            "consume",
+            "take",
+            "spend"
+        ],
+        "answer": "consume"
+    },
+    {
+        "question": "جائزة",
+        "options": [
+            "gift",
+            "award",
+            "prize",
+            "certificate"
+        ],
+        "answer": "prize"
+    },
+    {
+        "question": "غش",
+        "options": [
+            "lying",
+            "stealing",
+            "cheating",
+            "copying"
+        ],
+        "answer": "cheating"
+    },
+    {
+        "question": "بشكل متبادل",
+        "options": [
+            "alternatively",
+            "mutually",
+            "individually",
+            "together"
+        ],
+        "answer": "mutually"
+    },
+    {
+        "question": "الظروف",
+        "options": [
+            "cases",
+            "scenarios",
+            "problems",
+            "circumstances"
+        ],
+        "answer": "circumstances"
+    },
+    {
+        "question": "بشكل متزايد",
+        "options": [
+            "increasingly",
+            "strongly",
+            "often",
+            "rapidly"
+        ],
+        "answer": "increasingly"
+    },
+    {
+        "question": "يحافظ على",
+        "options": [
+            "protect",
+            "sustain",
+            "maintain",
+            "carry"
+        ],
+        "answer": "maintain"
+    },
+    {
+        "question": "غرور",
+        "options": [
+            "arrogance",
+            "swagger",
+            "confidence",
+            "boast"
+        ],
+        "answer": "swagger"
+    },
+    {
+        "question": "من المؤسف",
+        "options": [
+            "It's okay",
+            "Never mind",
+            "It's a pity",
+            "Let it go"
+        ],
+        "answer": "It's a pity"
+    },
+    {
+        "question": "تعديل بسيط",
+        "options": [
+            "shift",
+            "tweak",
+            "rotate",
+            "change"
+        ],
+        "answer": "tweak"
+    },
+    {
+        "question": "ضبط بدقة",
+        "options": [
+            "fix",
+            "adjust",
+            "fine tune",
+            "repair"
+        ],
+        "answer": "fine tune"
+    },
+    {
+        "question": "موجز",
+        "options": [
+            "brief",
+            "short",
+            "quick",
+            "summary"
+        ],
+        "answer": "brief"
+    },
+    {
+        "question": "بشكل دوري",
+        "options": [
+            "always",
+            "periodically",
+            "randomly",
+            "frequently"
+        ],
+        "answer": "periodically"
+    },
+    {
+        "question": "يسعى",
+        "options": [
+            "try",
+            "strive",
+            "reach",
+            "seek"
+        ],
+        "answer": "strive"
+    },
+    {
+        "question": "مُعبر عنه",
+        "options": [
+            "spoken",
+            "described",
+            "explessed",
+            "shown"
+        ],
+        "answer": "explessed"
+    },
+    {
+        "question": "إزالة/إسقاط",
+        "options": [
+            "break",
+            "take down",
+            "remove",
+            "erase"
+        ],
+        "answer": "take down"
+    },
+    {
+        "question": "يُقدّر",
+        "options": [
+            "expect",
+            "measure",
+            "estimate",
+            "assume"
+        ],
+        "answer": "estimate"
+    },
+    {
+        "question": "قوي البنية",
+        "options": [
+            "strong",
+            "robust",
+            "solid",
+            "resilient"
+        ],
+        "answer": "robust"
+    },
+    {
+        "question": "بشكل موسع",
+        "options": [
+            "widely",
+            "extensivly",
+            "broadly",
+            "thoroughly"
+        ],
+        "answer": "extensivly"
+    },
+    {
+        "question": "بديهي",
+        "options": [
+            "obvious",
+            "intuitive",
+            "clear",
+            "simple"
+        ],
+        "answer": "intuitive"
+    },
+    {
+        "question": "جميل نوعاً ما",
+        "options": [
+            "handsome",
+            "attractive",
+            "pretty",
+            "elegant"
+        ],
+        "answer": "pretty"
+    },
+    {
+        "question": "جرح",
+        "options": [
+            "hit",
+            "injury",
+            "cut",
+            "scratch"
+        ],
+        "answer": "cut"
+    },
+    {
+        "question": "عطل أو خلل",
+        "options": [
+            "malfunction",
+            "boarding",
+            "podium",
+            "stylus"
+        ],
+        "answer": "malfunction"
+    },
+    {
+        "question": "الصعود إلى الطائرة أو المركبة",
+        "options": [
+            "boarding",
+            "blame",
+            "soloed",
+            "cyclist"
+        ],
+        "answer": "boarding"
+    },
+    {
+        "question": "سوق ما بعد البيع",
+        "options": [
+            "aftermarket",
+            "overall lead",
+            "predate",
+            "nail"
+        ],
+        "answer": "aftermarket"
+    },
+    {
+        "question": "محبط أو مثير للغضب",
+        "options": [
+            "frustrating",
+            "spans",
+            "boarding",
+            "stylus pen"
+        ],
+        "answer": "frustrating"
+    },
+    {
+        "question": "يسبق زمنياً",
+        "options": [
+            "predate",
+            "great for",
+            "consecutive",
+            "podium"
+        ],
+        "answer": "predate"
+    },
+    {
+        "question": "يستمر لأسبوع",
+        "options": [
+            "week-long",
+            "harshest",
+            "peloton",
+            "nail"
+        ],
+        "answer": "week-long"
+    },
+    {
+        "question": "يلوم",
+        "options": [
+            "blame",
+            "nailing",
+            "soloed",
+            "featuring"
+        ],
+        "answer": "blame"
+    },
+    {
+        "question": "مقرف للغاية",
+        "options": [
+            "Too gross.",
+            "Notorious",
+            "harshest",
+            "persist"
+        ],
+        "answer": "Too gross."
+    },
+    {
+        "question": "قلم شاشة لمس",
+        "options": [
+            "stylus pen",
+            "boarding",
+            "peloton",
+            "persist"
+        ],
+        "answer": "stylus pen"
+    },
+    {
+        "question": "مجموعة راكبي الدراجات",
+        "options": [
+            "peloton",
+            "stylus",
+            "persist",
+            "boarding"
+        ],
+        "answer": "peloton"
+    },
+    {
+        "question": "منصة التتويج",
+        "options": [
+            "podium",
+            "exemption",
+            "frustrating",
+            "nail"
+        ],
+        "answer": "podium"
+    },
+    {
+        "question": "راكب دراجة",
+        "options": [
+            "cyclist",
+            "nailing",
+            "predate",
+            "spans"
+        ],
+        "answer": "cyclist"
+    },
+    {
+        "question": "متتالي",
+        "options": [
+            "consecutive",
+            "great for",
+            "persist",
+            "nail"
+        ],
+        "answer": "consecutive"
+    },
+    {
+        "question": "الصدارة العامة",
+        "options": [
+            "overall lead",
+            "nailing",
+            "stylus pen",
+            "soloed"
+        ],
+        "answer": "overall lead"
+    },
+    {
+        "question": "يمتد عبر",
+        "options": [
+            "spans",
+            "boarding",
+            "nail",
+            "cyclist"
+        ],
+        "answer": "spans"
+    },
+    {
+        "question": "تتميز بـ",
+        "options": [
+            "featuring",
+            "nail",
+            "nailing",
+            "blame"
+        ],
+        "answer": "featuring"
+    },
+    {
+        "question": "انفرد بالمهمة",
+        "options": [
+            "soloed",
+            "persist",
+            "podium",
+            "stylus"
+        ],
+        "answer": "soloed"
+    },
+    {
+        "question": "سيء السمعة",
+        "options": [
+            "Notorious",
+            "consecutive",
+            "week-long",
+            "peloton"
+        ],
+        "answer": "Notorious"
+    },
+    {
+        "question": "الأقسى",
+        "options": [
+            "harshest",
+            "great for",
+            "stylus",
+            "exemption"
+        ],
+        "answer": "harshest"
+    },
+    {
+        "question": "جيد من أجل",
+        "options": [
+            "great for",
+            "malfunction",
+            "nailing",
+            "podium"
+        ],
+        "answer": "great for"
+    },
+    {
         "question": "الألعاب النارية",
         "options": [
             "fireworks",
@@ -1744,7 +3764,7 @@
         "options": [
             "concise",
             "lengthy",
-            "detailed",
+            "dETA: Estimated Time of Arrivaliled",
             "verbose"
         ],
         "answer": "concise"
@@ -7022,7 +9042,7 @@
     {
         "question": "نحاس",
         "options": [
-            "metal",
+            "mETA: Estimated Time of Arrivall",
             "gold",
             "wood",
             "copper"
@@ -7604,7 +9624,7 @@
         "options": [
             "precise",
             "concise",
-            "detailed",
+            "dETA: Estimated Time of Arrivaliled",
             "narrow"
         ],
         "answer": "precise"
@@ -10573,7 +12593,7 @@
         "question": "ما عندي رد",
         "options": [
             "you got me there",
-            "Retails",
+            "RETA: Estimated Time of Arrivalils",
             "Promotion",
             "burnout"
         ],
@@ -10662,12 +12682,12 @@
     {
         "question": "تجار تجزئة",
         "options": [
-            "Retailers",
+            "RETA: Estimated Time of Arrivalilers",
             "hard right / far-right",
             "stakeholders",
             "courage"
         ],
-        "answer": "Retailers"
+        "answer": "RETA: Estimated Time of Arrivalilers"
     },
     {
         "question": "مؤسسة",

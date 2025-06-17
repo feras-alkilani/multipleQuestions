@@ -70,7 +70,7 @@ main {
   width: 300px;
 }
 
-#lang-buttons {
+.lang-buttons {
   display: flex;
   justify-content: center;
   gap: 30px;
@@ -97,6 +97,8 @@ main {
 #duToAr,
 #enToEn,
 #drivingDuToEn,
+#ingerburegeing,
+#welkom,
 #drivingDuToAR {
   height: 250px;
   width: 250px;
@@ -116,6 +118,8 @@ main {
 #duToAr:hover,
 #enToEn:hover,
 #drivingDuToAR:hover,
+#welkom:hover,
+#ingerburegeing:hover,
 #drivingDuToEn:hover {
   background-color: #00bfff;
   color: #ffeb3b;
