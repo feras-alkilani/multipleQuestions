@@ -1,5 +1,404 @@
 [
     {
+        "question": "experiencing",
+        "options": [
+            "Feeling, undergoing, facing",
+            "Ignoring, avoiding, denying",
+            "Forgetting, imagining, inventing",
+            "Watching, skipping, dancing"
+        ],
+        "answer": "Feeling, undergoing, facing"
+    },
+    {
+        "question": "expenses",
+        "options": [
+            "Costs, charges, outlays",
+            "Profits, savings, bonuses",
+            "Plans, ideas, thoughts",
+            "Tricks, lies, guesses"
+        ],
+        "answer": "Costs, charges, outlays"
+    },
+    {
+        "question": "installments",
+        "options": [
+            "Payments, portions, parts",
+            "Bonuses, gifts, extras",
+            "Surprises, shocks, accidents",
+            "Errors, faults, failures"
+        ],
+        "answer": "Payments, portions, parts"
+    },
+    {
+        "question": "consequences",
+        "options": [
+            "Results, outcomes, effects",
+            "Causes, sources, roots",
+            "Wishes, hopes, dreams",
+            "Lies, tricks, illusions"
+        ],
+        "answer": "Results, outcomes, effects"
+    },
+    {
+        "question": "claim",
+        "options": [
+            "Assert, demand, request",
+            "Deny, hide, ignore",
+            "Forget, leave, neglect",
+            "Hide, shrink, fade"
+        ],
+        "answer": "Assert, demand, request"
+    },
+    {
+        "question": "bailiff",
+        "options": [
+            "Officer, enforcer, deputy",
+            "Judge, lawyer, juror",
+            "Witness, victim, friend",
+            "Guard, prisoner, cleaner"
+        ],
+        "answer": "Officer, enforcer, deputy"
+    },
+    {
+        "question": "time and again",
+        "options": [
+            "Repeatedly, frequently, constantly",
+            "Rarely, never, occasionally",
+            "Suddenly, quickly, fast",
+            "Slowly, softly, gently"
+        ],
+        "answer": "Repeatedly, frequently, constantly"
+    },
+    {
+        "question": "address the nation",
+        "options": [
+            "Speak, announce, declare",
+            "Hide, silence, vanish",
+            "Joke, sing, dance",
+            "Lie, twist, fake"
+        ],
+        "answer": "Speak, announce, declare"
+    },
+    {
+        "question": "address the issue",
+        "options": [
+            "Tackle, discuss, resolve",
+            "Avoid, ignore, dismiss",
+            "Pause, wait, stall",
+            "Move, shift, shake"
+        ],
+        "answer": "Tackle, discuss, resolve"
+    },
+    {
+        "question": "climate",
+        "options": [
+            "Weather, atmosphere, conditions",
+            "Storm, flood, tornado",
+            "Light, heat, sun",
+            "Place, city, town"
+        ],
+        "answer": "Weather, atmosphere, conditions"
+    },
+    {
+        "question": "adhere",
+        "options": [
+            "Follow, obey, stick",
+            "Break, leave, avoid",
+            "Watch, wait, think",
+            "Guess, try, pretend"
+        ],
+        "answer": "Follow, obey, stick"
+    },
+    {
+        "question": "arrears",
+        "options": [
+            "Debts, dues, backlog",
+            "Savings, profits, bonuses",
+            "Plans, goals, wishes",
+            "Tasks, chores, breaks"
+        ],
+        "answer": "Debts, dues, backlog"
+    },
+    {
+        "question": "compassionate",
+        "options": [
+            "Caring, kind, empathetic",
+            "Cold, harsh, mean",
+            "Angry, bitter, cruel",
+            "Quiet, distant, silent"
+        ],
+        "answer": "Caring, kind, empathetic"
+    },
+    {
+        "question": "merciful",
+        "options": [
+            "Kind, forgiving, gentle",
+            "Strict, firm, rigid",
+            "Tough, angry, brutal",
+            "Fast, quick, sharp"
+        ],
+        "answer": "Kind, forgiving, gentle"
+    },
+    {
+        "question": "upheavalss",
+        "options": [
+            "Disruption, turmoil, chaos",
+            "Peace, order, calm",
+            "Silence, rest, sleep",
+            "Delay, pause, stop"
+        ],
+        "answer": "Disruption, turmoil, chaos"
+    },
+    {
+        "question": "combatant",
+        "options": [
+            "Fighter, soldier, warrior",
+            "Civilian, child, elder",
+            "Leader, speaker, thinker",
+            "Painter, poet, dreamer"
+        ],
+        "answer": "Fighter, soldier, warrior"
+    },
+    {
+        "question": "unprecedented",
+        "options": [
+            "Unique, unmatched, extraordinary",
+            "Common, usual, frequent",
+            "Normal, simple, dull",
+            "Slow, late, lazy"
+        ],
+        "answer": "Unique, unmatched, extraordinary"
+    },
+    {
+        "question": "acceleration",
+        "options": [
+            "Speeding, quickening, hastening",
+            "Stopping, delaying, blocking",
+            "Cooling, softening, relaxing",
+            "Turning, flipping, dropping"
+        ],
+        "answer": "Speeding, quickening, hastening"
+    },
+    {
+        "question": "rampid",
+        "options": [
+            "Widespread, unchecked, uncontrolled",
+            "Minor, rare, isolated",
+            "Slow, stable, safe",
+            "Lost, broken, faded"
+        ],
+        "answer": "Widespread, unchecked, uncontrolled"
+    },
+    {
+        "question": "hyperchange",
+        "options": [
+            "Rapid, extreme, transformation",
+            "Stagnant, mild, pause",
+            "Still, calm, silent",
+            "Soft, low, smooth"
+        ],
+        "answer": "Rapid, extreme, transformation"
+    },
+    {
+        "question": "misinformation",
+        "options": [
+            "Falsehood, untruth, deception",
+            "Truth, fact, reality",
+            "Plan, theory, guess",
+            "Joke, story, poem"
+        ],
+        "answer": "Falsehood, untruth, deception"
+    },
+    {
+        "question": "raging",
+        "options": [
+            "Furious, intense, wild",
+            "Calm, slow, weak",
+            "Small, tiny, soft",
+            "Fake, short, silent"
+        ],
+        "answer": "Furious, intense, wild"
+    },
+    {
+        "question": "cruel",
+        "options": [
+            "Harsh, brutal, unkind",
+            "Gentle, kind, soft",
+            "Fair, just, decent",
+            "Silly, light, fun"
+        ],
+        "answer": "Harsh, brutal, unkind"
+    },
+    {
+        "question": "beyond",
+        "options": [
+            "Outside, past, further",
+            "Within, inside, near",
+            "Under, below, close",
+            "Above, upper, ceiling"
+        ],
+        "answer": "Outside, past, further"
+    },
+    {
+        "question": "disruption",
+        "options": [
+            "Disturbance, interruption, breakdown",
+            "Stability, order, peace",
+            "Calm, silence, balance",
+            "Flow, motion, rhythm"
+        ],
+        "answer": "Disturbance, interruption, breakdown"
+    },
+    {
+        "question": "untethered",
+        "options": [
+            "Free, unbound, disconnected",
+            "Tied, fixed, secure",
+            "Bounded, locked, held",
+            "Closed, hidden, covered"
+        ],
+        "answer": "Free, unbound, disconnected"
+    },
+    {
+        "question": "gravity",
+        "options": [
+            "Pull, weight, force",
+            "Push, lift, jump",
+            "Spin, throw, move",
+            "Wave, shake, blink"
+        ],
+        "answer": "Pull, weight, force"
+    },
+    {
+        "question": "gravity",
+        "options": [
+            "Seriousness, importance, severity",
+            "Joke, fun, play",
+            "Lightness, ease, freedom",
+            "Smile, laugh, cheer"
+        ],
+        "answer": "Seriousness, importance, severity"
+    },
+    {
+        "question": "unravelling",
+        "options": [
+            "Unfolding, disclosing, falling",
+            "Building, forming, growing",
+            "Hiding, masking, denying",
+            "Connecting, joining, linking"
+        ],
+        "answer": "Unfolding, disclosing, falling"
+    },
+    {
+        "question": "truth shifts",
+        "options": [
+            "Distortions, changes, twists",
+            "Facts, certainties, proofs",
+            "Lies, myths, tales",
+            "Dreams, plans, visions"
+        ],
+        "answer": "Distortions, changes, twists"
+    },
+    {
+        "question": "hatred",
+        "options": [
+            "Loathing, animosity, hostility",
+            "Love, care, kindness",
+            "Peace, silence, rest",
+            "Hope, wish, dream"
+        ],
+        "answer": "Loathing, animosity, hostility"
+    },
+    {
+        "question": "division",
+        "options": [
+            "Separation, split, partition",
+            "Unity, peace, harmony",
+            "Choice, vote, idea",
+            "Color, size, shape"
+        ],
+        "answer": "Separation, split, partition"
+    },
+    {
+        "question": "thrive",
+        "options": [
+            "Grow, prosper, succeed",
+            "Fall, fail, drop",
+            "Hide, wait, stop",
+            "Sit, stay, sleep"
+        ],
+        "answer": "Grow, prosper, succeed"
+    },
+    {
+        "question": "moderation",
+        "options": [
+            "Balance, restraint, control",
+            "Excess, overuse, indulgence",
+            "Cut, break, slice",
+            "Change, move, jump"
+        ],
+        "answer": "Balance, restraint, control"
+    },
+    {
+        "question": "losing ground",
+        "options": [
+            "Declining, retreating, weakening",
+            "Winning, gaining, rising",
+            "Running, jumping, spinning",
+            "Standing, waiting, watching"
+        ],
+        "answer": "Declining, retreating, weakening"
+    },
+    {
+        "question": "ideological",
+        "options": [
+            "Philosophical, political, doctrinal",
+            "Emotional, random, sudden",
+            "Physical, external, visible",
+            "Light, soft, playful"
+        ],
+        "answer": "Philosophical, political, doctrinal"
+    },
+    {
+        "question": "extremes",
+        "options": [
+            "Limits, extremes, ends",
+            "Center, middle, core",
+            "Calm, mild, medium",
+            "Short, fast, low"
+        ],
+        "answer": "Limits, extremes, ends"
+    },
+    {
+        "question": "chaos",
+        "options": [
+            "Confusion, disorder, turmoil",
+            "Peace, calm, order",
+            "Truth, fact, logic",
+            "Pause, wait, sleep"
+        ],
+        "answer": "Confusion, disorder, turmoil"
+    },
+    {
+        "question": "we risk",
+        "options": [
+            "Expose, endanger, threaten",
+            "Protect, shield, defend",
+            "Hide, cover, bury",
+            "Plan, wait, avoid"
+        ],
+        "answer": "Expose, endanger, threaten"
+    },
+    {
+        "question": "we risk",
+        "options": [
+            "Jeopardize, gamble, venture",
+            "Secure, guard, support",
+            "Calm, settle, ease",
+            "Observe, analyze, report"
+        ],
+        "answer": "Jeopardize, gamble, venture"
+    },{
         "question": "acceptance criteria",
         "options": [
             "Standards, requirements, conditions",
