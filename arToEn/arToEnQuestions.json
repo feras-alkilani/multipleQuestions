@@ -1,4 +1,396 @@
 [
+    [
+        {
+            "question": "يعاني",
+            "options": [
+                "experience",
+                "persist",
+                "argue",
+                "disclose"
+            ],
+            "answer": "experience"
+        },
+        {
+            "question": "نفقات",
+            "options": [
+                "expenses",
+                "revenues",
+                "assets",
+                "debts"
+            ],
+            "answer": "expenses"
+        },
+        {
+            "question": "أقساط",
+            "options": [
+                "installments",
+                "receipts",
+                "payments",
+                "invoices"
+            ],
+            "answer": "installments"
+        },
+        {
+            "question": "عواقب",
+            "options": [
+                "consequences",
+                "coincidences",
+                "conditions",
+                "complications"
+            ],
+            "answer": "consequences"
+        },
+        {
+            "question": "يدّعي",
+            "options": [
+                "claim",
+                "blame",
+                "warn",
+                "insist"
+            ],
+            "answer": "claim"
+        },
+        {
+            "question": "محضر قضائي",
+            "options": [
+                "bailiff",
+                "lawyer",
+                "prosecutor",
+                "judge"
+            ],
+            "answer": "bailiff"
+        },
+        {
+            "question": "مراراً وتكراراً",
+            "options": [
+                "time and again",
+                "again on time",
+                "again and over",
+                "first and foremost"
+            ],
+            "answer": "time and again"
+        },
+        {
+            "question": "يلقي خطاباً للأمة",
+            "options": [
+                "address the nation",
+                "speak to the people",
+                "announce publically",
+                "issue decree"
+            ],
+            "answer": "address the nation"
+        },
+        {
+            "question": "يتناول مسألة",
+            "options": [
+                "address the issue",
+                "highlight the fact",
+                "open the case",
+                "deal with matter"
+            ],
+            "answer": "address the issue"
+        },
+        {
+            "question": "المناخ",
+            "options": [
+                "climate",
+                "weather",
+                "temperature",
+                "environment"
+            ],
+            "answer": "climate"
+        },
+        {
+            "question": "يلتزم",
+            "options": [
+                "adhere",
+                "admire",
+                "adjust",
+                "adopt"
+            ],
+            "answer": "adhere"
+        },
+        {
+            "question": "متأخرات",
+            "options": [
+                "arrears",
+                "interests",
+                "bonds",
+                "loans"
+            ],
+            "answer": "arrears"
+        },
+        {
+            "question": "حنون",
+            "options": [
+                "compassionate",
+                "polite",
+                "generous",
+                "calm"
+            ],
+            "answer": "compassionate"
+        },
+        {
+            "question": "رحيم",
+            "options": [
+                "merciful",
+                "noble",
+                "kind",
+                "helpful"
+            ],
+            "answer": "merciful"
+        },
+        {
+            "question": "اضطرابات",
+            "options": [
+                "upheavals",
+                "obstacles",
+                "tensions",
+                "disorders"
+            ],
+            "answer": "upheavals"
+        },
+        {
+            "question": "مقاتل",
+            "options": [
+                "combatant",
+                "aggressor",
+                "soldier",
+                "defender"
+            ],
+            "answer": "combatant"
+        },
+        {
+            "question": "غير مسبوق",
+            "options": [
+                "unprecedented",
+                "historic",
+                "legendary",
+                "extensive"
+            ],
+            "answer": "unprecedented"
+        },
+        {
+            "question": "تسارع",
+            "options": [
+                "acceleration",
+                "expansion",
+                "exaggeration",
+                "elevation"
+            ],
+            "answer": "acceleration"
+        },
+        {
+            "question": "مفرط الانتشار",
+            "options": [
+                "rampid",
+                "rapid",
+                "widespread",
+                "overloaded"
+            ],
+            "answer": "rampid"
+        },
+        {
+            "question": "تغيّر مفرط وسريع",
+            "options": [
+                "hyperchange",
+                "hyperdrive",
+                "overchange",
+                "megashift"
+            ],
+            "answer": "hyperchange"
+        },
+        {
+            "question": "معلومات مضللة",
+            "options": [
+                "misinformation",
+                "disinformation",
+                "propaganda",
+                "misleading"
+            ],
+            "answer": "misinformation"
+        },
+        {
+            "question": "مشتعل",
+            "options": [
+                "raging",
+                "blazing",
+                "flaming",
+                "storming"
+            ],
+            "answer": "raging"
+        },
+        {
+            "question": "قاسٍ",
+            "options": [
+                "cruel",
+                "strict",
+                "fierce",
+                "rough"
+            ],
+            "answer": "cruel"
+        },
+        {
+            "question": "ما وراء",
+            "options": [
+                "beyond",
+                "above",
+                "after",
+                "within"
+            ],
+            "answer": "beyond"
+        },
+        {
+            "question": "تعطيل",
+            "options": [
+                "disruption",
+                "interruption",
+                "distortion",
+                "shutdown"
+            ],
+            "answer": "disruption"
+        },
+        {
+            "question": "غير مرتبط / غير مقيّد",
+            "options": [
+                "untethered",
+                "unbound",
+                "unhooked",
+                "unleashed"
+            ],
+            "answer": "untethered"
+        },
+        {
+            "question": "الخطورة",
+            "options": [
+                "gravity",
+                "severity",
+                "intensity",
+                "weight"
+            ],
+            "answer": "gravity"
+        },
+        {
+            "question": "تفكك",
+            "options": [
+                "unravelling",
+                "collapse",
+                "breaking",
+                "splitting"
+            ],
+            "answer": "unravelling"
+        },
+        {
+            "question": "تحولات الحقيقة",
+            "options": [
+                "truth shifts",
+                "truth changes",
+                "fact twists",
+                "reality warps"
+            ],
+            "answer": "truth shifts"
+        },
+        {
+            "question": "كراهية",
+            "options": [
+                "hatred",
+                "anger",
+                "disgust",
+                "rage"
+            ],
+            "answer": "hatred"
+        },
+        {
+            "question": "انقسام",
+            "options": [
+                "division",
+                "dispute",
+                "fragmentation",
+                "separation"
+            ],
+            "answer": "division"
+        },
+        {
+            "question": "يزدهر",
+            "options": [
+                "thrive",
+                "grow",
+                "expand",
+                "evolve"
+            ],
+            "answer": "thrive"
+        },
+        {
+            "question": "اعتدال",
+            "options": [
+                "moderation",
+                "balance",
+                "stability",
+                "caution"
+            ],
+            "answer": "moderation"
+        },
+        {
+            "question": "نفقد الأرضية",
+            "options": [
+                "losing ground",
+                "backsliding",
+                "receding",
+                "falling behind"
+            ],
+            "answer": "losing ground"
+        },
+        {
+            "question": "أيديولوجي",
+            "options": [
+                "ideological",
+                "idealistic",
+                "intellectual",
+                "political"
+            ],
+            "answer": "ideological"
+        },
+        {
+            "question": "تطرفات",
+            "options": [
+                "extremes",
+                "edges",
+                "limits",
+                "boundaries"
+            ],
+            "answer": "extremes"
+        },
+        {
+            "question": "فوضى",
+            "options": [
+                "chaos",
+                "anarchy",
+                "conflict",
+                "turmoil"
+            ],
+            "answer": "chaos"
+        },
+        {
+            "question": "نحن نُخاطر بـ",
+            "options": [
+                "we risk",
+                "we challenge",
+                "we endanger",
+                "we expose"
+            ],
+            "answer": "we risk"
+        },
+        {
+            "question": "نحن نُعرّض أنفسنا لـ",
+            "options": [
+                "we risk",
+                "we suffer",
+                "we open ourselves to",
+                "we face"
+            ],
+            "answer": "we risk"
+        }
+    ],
     {
         "question": "معايير القبول",
         "options": [
