@@ -1,5 +1,124 @@
 [
    {
+    "question": "checken",
+    "options": ["to check", "warranty", "towel", "mechanic"],
+    "answer": "to check"
+  },
+  {
+    "question": "de garantie",
+    "options": ["warranty", "to check", "solution", "pizza"],
+    "answer": "warranty"
+  },
+  {
+    "question": "de handdoek",
+    "options": ["towel", "mechanic", "initial (letter)", "defective"],
+    "answer": "towel"
+  },
+  {
+    "question": "de monteur",
+    "options": ["mechanic", "soaking wet", "to work (to succeed)", "broken"],
+    "answer": "mechanic"
+  },
+  {
+    "question": "de oplossing",
+    "options": ["solution", "odd", "to try", "monitor"],
+    "answer": "solution"
+  },
+  {
+    "question": "de pizza",
+    "options": ["pizza", "to respond", "strange", "to send"],
+    "answer": "pizza"
+  },
+  {
+    "question": "de voorletter",
+    "options": ["initial (letter)", "again", "programme", "underwear"],
+    "answer": "initial (letter)"
+  },
+  {
+    "question": "defect",
+    "options": ["defective", "broken", "odd", "to try"],
+    "answer": "defective"
+  },
+  {
+    "question": "het beeldscherm",
+    "options": ["monitor", "soaking wet", "to check", "to send"],
+    "answer": "monitor"
+  },
+  {
+    "question": "het laken",
+    "options": ["sheet", "solution", "to work (to succeed)", "to respond"],
+    "answer": "sheet"
+  },
+  {
+    "question": "het ondergoed",
+    "options": ["underwear", "again", "strange", "broken"],
+    "answer": "underwear"
+  },
+  {
+    "question": "kletsnat",
+    "options": ["soaking wet", "to try", "mechanic", "to send"],
+    "answer": "soaking wet"
+  },
+  {
+    "question": "lukken",
+    "options": ["to work (to succeed)", "to check", "odd", "warranty"],
+    "answer": "to work (to succeed)"
+  },
+  {
+    "question": "meevallen",
+    "options": ["to turn out better than expected", "broken", "monitor", "pizza"],
+    "answer": "to turn out better than expected"
+  },
+  {
+    "question": "opeens",
+    "options": ["suddenly", "underwear", "mechanic", "initial (letter)"],
+    "answer": "suddenly"
+  },
+  {
+    "question": "opnieuw",
+    "options": ["again", "to respond", "solution", "odd"],
+    "answer": "again"
+  },
+  {
+    "question": "proberen",
+    "options": ["to try", "soaking wet", "pizza", "to check"],
+    "answer": "to try"
+  },
+  {
+    "question": "raar",
+    "options": ["odd", "warranty", "monitor", "to send"],
+    "answer": "odd"
+  },
+  {
+    "question": "reageren",
+    "options": ["to respond", "broken", "initial (letter)", "to turn out better than expected"],
+    "answer": "to respond"
+  },
+  {
+    "question": "vanmorgen",
+    "options": ["this morning", "defective", "mechanic", "solution"],
+    "answer": "this morning"
+  },
+  {
+    "question": "verzenden",
+    "options": ["to send", "to try", "pizza", "soaking wet"],
+    "answer": "to send"
+  },
+  {
+    "question": "vreemd",
+    "options": ["strange", "monitor", "warranty", "to respond"],
+    "answer": "strange"
+  },
+  {
+    "question": "het programma",
+    "options": ["programme", "odd", "underwear", "to check"],
+    "answer": "programme"
+  },
+  {
+    "question": "stuk",
+    "options": ["broken", "to work (to succeed)", "initial (letter)", "pizza"],
+    "answer": "broken"
+  },{
     "question": "besparen",
     "options": ["to save", "shower", "hallway", "degree"],
     "answer": "to save"
