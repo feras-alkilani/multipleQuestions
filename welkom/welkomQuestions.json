@@ -1,1126 +1,1744 @@
 [
-  [
-    {
-      "question": "aanvragen",
-      "options": [
-        "education",
-        "to request, to apply for",
-        "to give birth",
-        "parental contribution"
-      ],
-      "answer": "to request, to apply for"
-    },
-    {
-      "question": "de aardrijkskunde",
-      "options": [
-        "geography",
-        "family doctor, GP",
-        "dependent",
-        "subject"
-      ],
-      "answer": "geography"
-    },
-    {
-      "question": "de advocaat",
-      "options": [
-        "lawyer",
-        "training, education",
-        "pre-schooler",
-        "at lunchtime"
-      ],
-      "answer": "lawyer"
-    },
-    {
-      "question": "afhankelijk",
-      "options": [
-        "dependent",
-        "pre-school",
-        "after-school care",
-        "Islamic"
-      ],
-      "answer": "dependent"
-    },
-    {
-      "question": "de basisschool",
-      "options": [
-        "primary/elementary school",
-        "adolescent, teenager",
-        "maternity assistance",
-        "to mistreat"
-      ],
-      "answer": "primary/elementary school"
-    },
-    {
-      "question": "de begrafenis",
-      "options": [
-        "funeral",
-        "freedom",
-        "primary/elementary school",
-        "at lunchtime"
-      ],
-      "answer": "funeral"
-    },
-    {
-      "question": "de belasting",
-      "options": [
-        "pre-schooler",
-        "to tinker, to play",
-        "tax(es), tax authorities",
-        "subject"
-      ],
-      "answer": "tax(es), tax authorities"
-    },
-    {
-      "question": "het beroepsonderwijs",
-      "options": [
-        "pregnant",
-        "responsible",
-        "vocational/professional training",
-        "secondary education"
-      ],
-      "answer": "vocational/professional training"
-    },
-    {
-      "question": "bevallen",
-      "options": [
-        "parental contribution",
-        "illness, disease",
-        "toddlers’ playroom, playgroup",
-        "to give birth"
-      ],
-      "answer": "to give birth"
-    },
-    {
-      "question": "de bevalling",
-      "options": [
-        "vocational/professional training",
-        "birth",
-        "respect",
-        "higher general secondary education"
-      ],
-      "answer": "birth"
-    },
-    {
-      "question": "bewegen",
-      "options": [
-        "gynaecologist",
-        "to move",
-        "uniform",
-        "pre-schooler"
-      ],
-      "answer": "to move"
-    },
-    {
-      "question": "de bibliotheek",
-      "options": [
-        "geography",
-        "slip, form",
-        "Youth Care Agency",
-        "library"
-      ],
-      "answer": "library"
-    },
-    {
-      "question": "de brugklas",
-      "options": [
-        "organization",
-        "first class",
-        "to mistreat",
-        "respect"
-      ],
-      "answer": "first class"
-    },
-    {
-      "question": "de buitenschoolse opvang",
-      "options": [
-        "adolescent, teenager",
-        "baby’s book",
-        "responsible",
-        "out of school care"
-      ],
-      "answer": "out of school care"
-    },
-    {
-      "question": "Bureau Jeugdzorg",
-      "options": [
-        "system",
-        "Youth Care Agency",
-        "education",
-        "pre-university education"
-      ],
-      "answer": "Youth Care Agency"
-    },
-    {
-      "question": "het consultatiebureau",
-      "options": [
-        "teacher",
-        "school guide/prospectus",
-        "intermediate vocational education",
-        "consultation office, infant welfare centre"
-      ],
-      "answer": "consultation office, infant welfare centre"
-    },
-    {
-      "question": "het continurooster",
-      "options": [
-        "system",
-        "arithmetic",
-        "health insurance",
-        "continuous timetable (no breaks between classes)"
-      ],
-      "answer": "continuous timetable (no breaks between classes)"
-    },
-    {
-      "question": "doorstromen",
-      "options": [
-        "higher vocational education",
-        "health insurance",
-        "to count",
-        "move up, move on"
-      ],
-      "answer": "move up, move on"
-    },
-    {
-      "question": "het gastouderbureau",
-      "options": [
-        "baby-sitting/child care agency",
-        "punishment",
-        "uniform",
-        "after-school care"
-      ],
-      "answer": "baby-sitting/child care agency"
-    },
-    {
-      "question": "de gelegenheid",
-      "options": [
-        "opportunity",
-        "parents’ night",
-        "higher general secondary education",
-        "secondary education"
-      ],
-      "answer": "opportunity"
-    },
-    {
-      "question": "het geloof",
-      "options": [
-        "continuous timetable (no breaks between classes)",
-        "religion",
-        "compulsory education",
-        "pre-school"
-      ],
-      "answer": "religion"
-    },
-    {
-      "question": "de geschiedenis",
-      "options": [
-        "test",
-        "baby-sitter",
-        "history",
-        "obstetrician"
-      ],
-      "answer": "history"
-    },
-    {
-      "question": "het groeiboekje",
-      "options": [
-        "higher vocational education",
-        "education",
-        "baby’s book",
-        "age"
-      ],
-      "answer": "baby’s book"
-    },
-    {
-      "question": "groeien",
-      "options": [
-        "to grow",
-        "to travel without paying a fare",
-        "university",
-        "secondary education"
-      ],
-      "answer": "to grow"
-    },
-    {
-      "question": "de gymnastiek",
-      "options": [
-        "lawyer",
-        "history",
-        "to enrol, to register",
-        "gymnastics"
-      ],
-      "answer": "gymnastics"
-    },
-    {
-      "question": "de gynaecoloog",
-      "options": [
-        "secondary education",
-        "gynaecologist",
-        "obstetrician",
-        "break, pause"
-      ],
-      "answer": "gynaecologist"
-    },
-    {
-      "question": "de handicap",
-      "options": [
-        "pre-school",
-        "handicap, disability",
-        "to measure",
-        "to mistreat"
-      ],
-      "answer": "handicap, disability"
-    },
-    {
-      "question": "de handtekening",
-      "options": [
-        "signature",
-        "Social Insurance Bank",
-        "to move",
-        "to move house, shift"
-      ],
-      "answer": "signature"
-    },
-    {
-      "question": "de havo",
-      "options": [
-        "higher general secondary education",
-        "to weigh",
-        "to read (out aloud) to",
-        "age"
-      ],
-      "answer": "higher general secondary education"
-    },
-    {
-      "question": "het hbo",
-      "options": [
-        "compulsory",
-        "higher vocational education",
-        "compulsory education",
-        "to study"
-      ],
-      "answer": "higher vocational education"
-    },
-    {
-      "question": "de huisarts",
-      "options": [
-        "(child) rearing/raising",
-        "family doctor, GP",
-        "to draw",
-        "punishment"
-      ],
-      "answer": "family doctor, GP"
-    },
-    {
-      "question": "het inkomen",
-      "options": [
-        "after-school care",
-        "income",
-        "parental contribution",
-        "baby’s book"
-      ],
-      "answer": "income"
-    },
-    {
-      "question": "inschrijven",
-      "options": [
-        "to enrol, to register",
-        "library",
-        "intermediate vocational education",
-        "arithmetic"
-      ],
-      "answer": "to enrol, to register"
-    },
-    {
-      "question": "islamitisch",
-      "options": [
-        "Islamic",
-        "teacher",
-        "to request, to apply for",
-        "income"
-      ],
-      "answer": "Islamic"
-    },
-    {
-      "question": "de juf",
-      "options": [
-        "first class",
-        "library",
-        "pre-school",
-        "teacher"
-      ],
-      "answer": "teacher"
-    },
-    {
-      "question": "de kinderbijslag",
-      "options": [
-        "obstetrician",
-        "history",
-        "adolescent, teenager",
-        "child endowment/benefit"
-      ],
-      "answer": "child endowment/benefit"
-    },
-    {
-      "question": "het kinderdagverblijf",
-      "options": [
-        "public school",
-        "breakfast",
-        "crèche, day care centre",
-        "age"
-      ],
-      "answer": "crèche, day care centre"
-    },
-    {
-      "question": "de kinderopvang",
-      "options": [
-        "to request, to apply for",
-        "child care",
-        "child endowment/benefit",
-        "baby-sitter"
-      ],
-      "answer": "child care"
-    },
-    {
-      "question": "de kinderopvangtoeslag",
-      "options": [
-        "to grow",
-        "website",
-        "punishment",
-        "child care subsidy"
-      ],
-      "answer": "child care subsidy"
-    },
-    {
-      "question": "de kleuter",
-      "options": [
-        "pre-schooler",
-        "opportunity",
-        "Islamic",
-        "first class"
-      ],
-      "answer": "pre-schooler"
-    },
-    {
-      "question": "knutselen",
-      "options": [
-        "sporting club",
-        "vocational/professional training",
-        "baby-sitter",
-        "to tinker, to play"
-      ],
-      "answer": "to tinker, to play"
-    },
-    {
-      "question": "de kraamhulp",
-      "options": [
-        "to grow",
-        "maternity assistance",
-        "consultation office, infant welfare centre",
-        "compulsory"
-      ],
-      "answer": "maternity assistance"
-    },
-    {
-      "question": "de leeftijd",
-      "options": [
-        "training, education",
-        "organization",
-        "to read (out aloud) to",
-        "age"
-      ],
-      "answer": "age"
-    },
-    {
-      "question": "de leerplicht",
-      "options": [
-        "compulsory education",
-        "illness, disease",
-        "history",
-        "adult"
-      ],
-      "answer": "compulsory education"
-    },
-    {
-      "question": "het lid",
-      "options": [
-        "member",
-        "age",
-        "out of school care",
-        "system"
-      ],
-      "answer": "member"
-    },
-    {
-      "question": "het liedje",
-      "options": [
-        "training, education",
-        "continuous timetable (no breaks between classes)",
-        "first class",
-        "song"
-      ],
-      "answer": "song"
-    },
-    {
-      "question": "de mavo",
-      "options": [
-        "out of school care",
-        "compulsory education",
-        "secondary education",
-        "member"
-      ],
-      "answer": "secondary education"
-    },
-    {
-      "question": "het mbo",
-      "options": [
-        "at lunchtime",
-        "website",
-        "intermediate vocational education",
-        "government"
-      ],
-      "answer": "intermediate vocational education"
-    },
-    {
-      "question": "meten",
-      "options": [
-        "free choice of school",
-        "geography",
-        "secondary education",
-        "to measure"
-      ],
-      "answer": "to measure"
-    },
-    {
-      "question": "de middelbare school",
-      "options": [
-        "to study",
-        "lawyer",
-        "secondary/high school",
-        "respect"
-      ],
-      "answer": "secondary/high school"
-    },
-    {
-      "question": "mishandelen",
-      "options": [
-        "website",
-        "to mistreat",
-        "system",
-        "vocational/professional training"
-      ],
-      "answer": "to mistreat"
-    },
-    {
-      "question": "de naschoolse opvang",
-      "options": [
-        "secondary education",
-        "vaccination",
-        "after-school care",
-        "sporting club"
-      ],
-      "answer": "after-school care"
-    },
-    {
-      "question": "het niveau",
-      "options": [
-        "level",
-        "to count",
-        "nutrition",
-        "to enrol, to register"
-      ],
-      "answer": "level"
-    },
-    {
-      "question": "het onderwijs",
-      "options": [
-        "pre-school",
-        "education",
-        "(child) rearing/raising",
-        "parents’ night"
-      ],
-      "answer": "education"
-    },
-    {
-      "question": "het ontbijt",
-      "options": [
-        "argument",
-        "secondary education",
-        "breakfast",
-        "education"
-      ],
-      "answer": "breakfast"
-    },
-    {
-      "question": "de ontwikkeling",
-      "options": [
-        "development",
-        "to read (out aloud) to",
-        "to count",
-        "pre-university education"
-      ],
-      "answer": "development"
-    },
-    {
-      "question": "openbaar",
-      "options": [
-        "secondary education",
-        "argument",
-        "public",
-        "to give birth"
-      ],
-      "answer": "public"
-    },
-    {
-      "question": "de openbare school",
-      "options": [
-        "to mistreat",
-        "break, pause",
-        "to tinker, to play",
-        "public school"
-      ],
-      "answer": "public school"
-    },
-    {
-      "question": "de opleiding",
-      "options": [
-        "toddlers’ playroom, playgroup",
-        "geography",
-        "toddler",
-        "training, education"
-      ],
-      "answer": "training, education"
-    },
-    {
-      "question": "de oppas",
-      "options": [
-        "secondary education",
-        "baby-sitting/child care agency",
-        "obstetrician",
-        "baby-sitter"
-      ],
-      "answer": "baby-sitter"
-    },
-    {
-      "question": "de opvoeding",
-      "options": [
-        "(child) rearing/raising",
-        "library",
-        "gynaecologist",
-        "consultation office, infant welfare centre"
-      ],
-      "answer": "(child) rearing/raising"
-    },
-    {
-      "question": "de organisatie",
-      "options": [
-        "history",
-        "arithmetic",
-        "waiting list",
-        "organization"
-      ],
-      "answer": "organization"
-    },
-    {
-      "question": "de ouderavond",
-      "options": [
-        "parents’ night",
-        "higher vocational education",
-        "out of school care",
-        "child care subsidy"
-      ],
-      "answer": "parents’ night"
-    },
-    {
-      "question": "de ouderbijdrage",
-      "options": [
-        "income",
-        "to stay at school during lunch break",
-        "parental contribution",
-        "geography"
-      ],
-      "answer": "parental contribution"
-    },
-    {
-      "question": "overblijven",
-      "options": [
-        "age",
-        "to draw",
-        "to stay at school during lunch break",
-        "to move house, shift"
-      ],
-      "answer": "to stay at school during lunch break"
-    },
-    {
-      "question": "de pauze",
-      "options": [
-        "secondary education",
-        "library",
-        "pre-university education",
-        "break, pause"
-      ],
-      "answer": "break, pause"
-    },
-    {
-      "question": "de peuter",
-      "options": [
-        "toddler",
-        "report",
-        "to study",
-        "Social Insurance Bank"
-      ],
-      "answer": "toddler"
-    },
-    {
-      "question": "de peuterspeelzaal",
-      "options": [
-        "vocational/professional training",
-        "slip, form",
-        "toddlers’ playroom, playgroup",
-        "permission"
-      ],
-      "answer": "toddlers’ playroom, playgroup"
-    },
-    {
-      "question": "de prik",
-      "options": [
-        "to grow",
-        "first class",
-        "pre-school",
-        "injection, shot"
-      ],
-      "answer": "injection, shot"
-    },
-    {
-      "question": "de puber",
-      "options": [
-        "respect",
-        "lower secondary professional education",
-        "geography",
-        "adolescent, teenager"
-      ],
-      "answer": "adolescent, teenager"
-    },
-    {
-      "question": "het rapport",
-      "options": [
-        "organization",
-        "uniform",
-        "report",
-        "gymnastics"
-      ],
-      "answer": "report"
-    },
-    {
-      "question": "de regering",
-      "options": [
-        "intermediate vocational education",
-        "government",
-        "Islamic",
-        "after-school care"
-      ],
-      "answer": "government"
-    },
-    {
-      "question": "rekenen",
-      "options": [
-        "lower secondary professional education",
-        "arithmetic",
-        "report",
-        "family doctor, GP"
-      ],
-      "answer": "arithmetic"
-    },
-    {
-      "question": "het respect",
-      "options": [
-        "dependent",
-        "vocational/professional training",
-        "age",
-        "respect"
-      ],
-      "answer": "respect"
-    },
-    {
-      "question": "de ruzie",
-      "options": [
-        "pre-schooler",
-        "geography",
-        "freedom",
-        "argument"
-      ],
-      "answer": "argument"
-    },
-    {
-      "question": "de schoolgids",
-      "options": [
-        "school guide/prospectus",
-        "arithmetic",
-        "permission",
-        "free choice of school"
-      ],
-      "answer": "school guide/prospectus"
-    },
-    {
-      "question": "het schoolreisje",
-      "options": [
-        "to read (out aloud) to",
-        "pre-university education",
-        "school trip, excursion",
-        "geography"
-      ],
-      "answer": "school trip, excursion"
-    },
-    {
-      "question": "de Sociale Verzekeringsbank",
-      "options": [
-        "parents’ night",
-        "Social Insurance Bank",
-        "system",
-        "library"
-      ],
-      "answer": "Social Insurance Bank"
-    },
-    {
-      "question": "de sportclub",
-      "options": [
-        "funeral",
-        "education",
-        "sporting club",
-        "to travel without paying a fare"
-      ],
-      "answer": "sporting club"
-    },
-    {
-      "question": "de straf",
-      "options": [
-        "punishment",
-        "tax(es), tax authorities",
-        "compulsory education",
-        "opportunity"
-      ],
-      "answer": "punishment"
-    },
-    {
-      "question": "het strookje",
-      "options": [
-        "public school",
-        "slip, form",
-        "report",
-        "move up, move on"
-      ],
-      "answer": "slip, form"
-    },
-    {
-      "question": "het systeem",
-      "options": [
-        "baby’s book",
-        "system",
-        "responsible",
-        "government"
-      ],
-      "answer": "system"
-    },
-    {
-      "question": "studeren",
-      "options": [
-        "to study",
-        "toddler",
-        "gymnastics",
-        "public school"
-      ],
-      "answer": "to study"
-    },
-    {
-      "question": "tekenen",
-      "options": [
-        "respect",
-        "pre-schooler",
-        "to draw",
-        "adult"
-      ],
-      "answer": "to draw"
-    },
-    {
-      "question": "tellen",
-      "options": [
-        "member",
-        "song",
-        "to count",
-        "toddler"
-      ],
-      "answer": "to count"
-    },
-    {
-      "question": "de test",
-      "options": [
-        "to grow",
-        "pregnant",
-        "parental contribution",
-        "test"
-      ],
-      "answer": "test"
-    },
-    {
-      "question": "de toestemming",
-      "options": [
-        "permission",
-        "handicap, disability",
-        "member",
-        "arithmetic"
-      ],
-      "answer": "permission"
-    },
-    {
-      "question": "tussen de middag",
-      "options": [
-        "at lunchtime",
-        "organization",
-        "adult",
-        "report"
-      ],
-      "answer": "at lunchtime"
-    },
-    {
-      "question": "het uniform",
-      "options": [
-        "to grow",
-        "uniform",
-        "out of school care",
-        "parents’ night"
-      ],
-      "answer": "uniform"
-    },
-    {
-      "question": "de universiteit",
-      "options": [
-        "university",
-        "sporting club",
-        "(child) rearing/raising",
-        "to move"
-      ],
-      "answer": "university"
-    },
-    {
-      "question": "de vaccinatie",
-      "options": [
-        "vaccination",
-        "freedom",
-        "pre-school",
-        "child care subsidy"
-      ],
-      "answer": "vaccination"
-    },
-    {
-      "question": "het vak",
-      "options": [
-        "primary/elementary school",
-        "subject",
-        "teacher",
-        "lower secondary professional education"
-      ],
-      "answer": "subject"
-    },
-    {
-      "question": "verantwoordelijk",
-      "options": [
-        "responsible",
-        "history",
-        "free choice of school",
-        "secondary education"
-      ],
-      "answer": "responsible"
-    },
-    {
-      "question": "verhuizen",
-      "options": [
-        "vaccination",
-        "teacher",
-        "nutrition",
-        "to move house, shift"
-      ],
-      "answer": "to move house, shift"
-    },
-    {
-      "question": "de verloskundige",
-      "options": [
-        "age",
-        "breakfast",
-        "obstetrician",
-        "pre-schooler"
-      ],
-      "answer": "obstetrician"
-    },
-    {
-      "question": "verplicht",
-      "options": [
-        "break, pause",
-        "website",
-        "compulsory",
-        "school guide/prospectus"
-      ],
-      "answer": "compulsory"
-    },
-    {
-      "question": "het vmbo",
-      "options": [
-        "lower secondary professional education",
-        "compulsory education",
-        "test",
-        "primary/elementary school"
-      ],
-      "answer": "lower secondary professional education"
-    },
-    {
-      "question": "de voeding",
-      "options": [
-        "pregnant",
-        "toddler",
-        "higher vocational education",
-        "nutrition"
-      ],
-      "answer": "nutrition"
-    },
-    {
-      "question": "volwassen",
-      "options": [
-        "adult",
-        "pre-school",
-        "to give birth",
-        "to move"
-      ],
-      "answer": "adult"
-    },
-    {
-      "question": "voorlezen",
-      "options": [
-        "to tinker, to play",
-        "to read (out aloud) to",
-        "secondary/high school",
-        "toddler"
-      ],
-      "answer": "to read (out aloud) to"
-    },
-    {
-      "question": "de voorschool",
-      "options": [
-        "out of school care",
-        "consultation office, infant welfare centre",
-        "pre-school",
-        "organization"
-      ],
-      "answer": "pre-school"
-    },
-    {
-      "question": "het voortgezet onderwijs",
-      "options": [
-        "maternity assistance",
-        "level",
-        "secondary education",
-        "permission"
-      ],
-      "answer": "secondary education"
-    },
-    {
-      "question": "de vrijheid",
-      "options": [
-        "respect",
-        "to move house, shift",
-        "report",
-        "freedom"
-      ],
-      "answer": "freedom"
-    },
-    {
-      "question": "de vrijheid van onderwijs",
-      "options": [
-        "free choice of school",
-        "baby-sitter",
-        "training, education",
-        "Youth Care Agency"
-      ],
-      "answer": "free choice of school"
-    },
-    {
-      "question": "het vwo",
-      "options": [
-        "pre-university education",
-        "geography",
-        "system",
-        "secondary education"
-      ],
-      "answer": "pre-university education"
-    },
-    {
-      "question": "de wachtlijst",
-      "options": [
-        "geography",
-        "child care subsidy",
-        "waiting list",
-        "to weigh"
-      ],
-      "answer": "waiting list"
-    },
-    {
-      "question": "de website",
-      "options": [
-        "age",
-        "handicap, disability",
-        "website",
-        "higher vocational education"
-      ],
-      "answer": "website"
-    },
-    {
-      "question": "wegen",
-      "options": [
-        "to count",
-        "uniform",
-        "to weigh",
-        "dependent"
-      ],
-      "answer": "to weigh"
-    },
-    {
-      "question": "de ziekte",
-      "options": [
-        "Islamic",
-        "to move house, shift",
-        "illness, disease",
-        "break, pause"
-      ],
-      "answer": "illness, disease"
-    },
-    {
-      "question": "de zorgverzekering",
-      "options": [
-        "health insurance",
-        "school trip, excursion",
-        "income",
-        "to count"
-      ],
-      "answer": "health insurance"
-    },
-    {
-      "question": "zwanger",
-      "options": [
-        "to weigh",
-        "to mistreat",
-        "pregnant",
-        "at lunchtime"
-      ],
-      "answer": "pregnant"
-    },
-    {
-      "question": "zwart reizen",
-      "options": [
-        "illness, disease",
-        "teacher",
-        "to travel without paying a fare",
-        "pre-schooler"
-      ],
-      "answer": "to travel without paying a fare"
-    }
-  ],
+  {
+    "question": "de aangifte",
+    "options": [
+      "building, construction",
+      "funny, crazy",
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "employment office"
+    ],
+    "answer": "to submit a statement of income to the tax office; to report something (to the police)"
+  },
+  {
+    "question": "aanvragen",
+    "options": [
+      "to keep, store",
+      "to request, to apply for",
+      "municipality, city, local council",
+      "conversation, interview"
+    ],
+    "answer": "to request, to apply for"
+  },
+  {
+    "question": "de administratie",
+    "options": [
+      "garage",
+      "to enrol, register",
+      "(work) performance interview",
+      "administration"
+    ],
+    "answer": "administration"
+  },
+  {
+    "question": "de advertentie",
+    "options": [
+      "patience",
+      "(classified) advertisement",
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "trade, commerce"
+    ],
+    "answer": "(classified) advertisement"
+  },
+  {
+    "question": "de afdeling",
+    "options": [
+      "department, section",
+      "flexible",
+      "helmet",
+      "employment contract"
+    ],
+    "answer": "department, section"
+  },
+  {
+    "question": "afsluiten (verzekeringen)",
+    "options": [
+      "to take out (insurance)",
+      "diploma, degree",
+      "municipality, city, local council",
+      "manager"
+    ],
+    "answer": "to take out (insurance)"
+  },
+  {
+    "question": "het arbeidscontract",
+    "options": [
+      "someone with a ‘flextime’ working contract",
+      "employment contract",
+      "municipality, city, local council",
+      "demand"
+    ],
+    "answer": "employment contract"
+  },
+  {
+    "question": "arbeidsongeschikt",
+    "options": [
+      "flexible",
+      "chief, supervisor",
+      "to keep, store",
+      "unfit/unable to work (due to illness or handicap)"
+    ],
+    "answer": "unfit/unable to work (due to illness or handicap)"
+  },
+  {
+    "question": "de arbeidsvoorwaarde",
+    "options": [
+      "to build, construct",
+      "condition of employment",
+      "to take out (insurance)",
+      "garage"
+    ],
+    "answer": "condition of employment"
+  },
+  {
+    "question": "de Arbowet",
+    "options": [
+      "chief, supervisor",
+      "full-time",
+      "to enrol, register",
+      "labour law"
+    ],
+    "answer": "labour law"
+  },
+  {
+    "question": "het bedrijf (eigen bedrijf)",
+    "options": [
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "joke",
+      "building, construction",
+      "firm, concern, company (own/private company)"
+    ],
+    "answer": "firm, concern, company (own/private company)"
+  },
+  {
+    "question": "de belasting",
+    "options": [
+      "tax(es)",
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "to keep, store",
+      "firm, concern, company (own/private company)"
+    ],
+    "answer": "tax(es)"
+  },
+  {
+    "question": "betrouwbaar",
+    "options": [
+      "helmet",
+      "security",
+      "health",
+      "reliable, dependable"
+    ],
+    "answer": "reliable, dependable"
+  },
+  {
+    "question": "de beveiliging",
+    "options": [
+      "full-time",
+      "security",
+      "annual statement (of earnings)",
+      "further training"
+    ],
+    "answer": "security"
+  },
+  {
+    "question": "bewaren",
+    "options": [
+      "to keep, store",
+      "(classified) advertisement",
+      "administration",
+      "security"
+    ],
+    "answer": "to keep, store"
+  },
+  {
+    "question": "bidden",
+    "options": [
+      "job requirements",
+      "tax(es)",
+      "to pray",
+      "department, section"
+    ],
+    "answer": "to pray"
+  },
+  {
+    "question": "de bijscholing",
+    "options": [
+      "chauffeur, driver",
+      "further training",
+      "garage",
+      "discrimination"
+    ],
+    "answer": "further training"
+  },
+  {
+    "question": "de bijstand",
+    "options": [
+      "demand",
+      "health",
+      "supplementary benefit, welfare, social security",
+      "employment office"
+    ],
+    "answer": "supplementary benefit, welfare, social security"
+  },
+  {
+    "question": "de bouw",
+    "options": [
+      "building, construction",
+      "unfit/unable to work (due to illness or handicap)",
+      "gross (salary)",
+      "(hotel and) catering (industry)"
+    ],
+    "answer": "building, construction"
+  },
+  {
+    "question": "bouwen",
+    "options": [
+      "security",
+      "collective agreement on conditions of employment",
+      "to build, construct",
+      "colleague, workmate, co-worker"
+    ],
+    "answer": "to build, construct"
+  },
+  {
+    "question": "bruto (salaris)",
+    "options": [
+      "to build, construct",
+      "cv, curriculum vitae, résumé",
+      "patience",
+      "gross (salary)"
+    ],
+    "answer": "gross (salary)"
+  },
+  {
+    "question": "de cao (collectieve arbeidsovereenkomst)",
+    "options": [
+      "collective agreement on conditions of employment",
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "to request, to apply for",
+      "flexible"
+    ],
+    "answer": "collective agreement on conditions of employment"
+  },
+  {
+    "question": "de chauffeur",
+    "options": [
+      "reliable, dependable",
+      "compliment",
+      "chauffeur, driver",
+      "services sector"
+    ],
+    "answer": "chauffeur, driver"
+  },
+  {
+    "question": "de chef",
+    "options": [
+      "chief, supervisor",
+      "funny, crazy",
+      "manager",
+      "firm, concern, company (own/private company)"
+    ],
+    "answer": "chief, supervisor"
+  },
+  {
+    "question": "de collega",
+    "options": [
+      "someone who perseveres/does not give up",
+      "colleague, workmate, co-worker",
+      "building, construction",
+      "diploma, degree"
+    ],
+    "answer": "colleague, workmate, co-worker"
+  },
+  {
+    "question": "het compliment",
+    "options": [
+      "gross (salary)",
+      "health",
+      "diploma, degree",
+      "compliment"
+    ],
+    "answer": "compliment"
+  },
+  {
+    "question": "het conflict",
+    "options": [
+      "diploma, degree",
+      "initiative",
+      "conflict",
+      "labour law"
+    ],
+    "answer": "conflict"
+  },
+  {
+    "question": "het contract",
+    "options": [
+      "contract",
+      "gross (salary)",
+      "formal, official",
+      "chauffeur, driver"
+    ],
+    "answer": "contract"
+  },
+  {
+    "question": "creatief",
+    "options": [
+      "health",
+      "administration",
+      "creative",
+      "chauffeur, driver"
+    ],
+    "answer": "creative"
+  },
+  {
+    "question": "het cv (curriculum vitae)",
+    "options": [
+      "condition of employment",
+      "cv, curriculum vitae, résumé",
+      "initiative",
+      "reliable, dependable"
+    ],
+    "answer": "cv, curriculum vitae, résumé"
+  },
+  {
+    "question": "het CWI (Centrum voor Werk en Inkomen)",
+    "options": [
+      "employment office",
+      "to take out (insurance)",
+      "building, construction",
+      "to build, construct"
+    ],
+    "answer": "employment office"
+  },
+  {
+    "question": "de dienstensector",
+    "options": [
+      "garage",
+      "someone with a ‘flextime’ working contract",
+      "conflict",
+      "services sector"
+    ],
+    "answer": "services sector"
+  },
+  {
+    "question": "digitaal",
+    "options": [
+      "someone with a ‘flextime’ working contract",
+      "security",
+      "digital",
+      "income"
+    ],
+    "answer": "digital"
+  },
+  {
+    "question": "het diploma",
+    "options": [
+      "diploma, degree",
+      "handy, deft, clever with ones hands",
+      "conflict",
+      "annual statement (of earnings)"
+    ],
+    "answer": "diploma, degree"
+  },
+  {
+    "question": "de directeur",
+    "options": [
+      "health",
+      "flexible",
+      "someone who perseveres/does not give up",
+      "manager"
+    ],
+    "answer": "manager"
+  },
+  {
+    "question": "de discriminatie",
+    "options": [
+      "services sector",
+      "labour law",
+      "discrimination",
+      "further training"
+    ],
+    "answer": "discrimination"
+  },
+  {
+    "question": "de doorzetter",
+    "options": [
+      "to pray",
+      "health",
+      "someone who perseveres/does not give up",
+      "experience"
+    ],
+    "answer": "someone who perseveres/does not give up"
+  },
+  {
+    "question": "de eis",
+    "options": [
+      "further training",
+      "handy, deft, clever with ones hands",
+      "collective agreement on conditions of employment",
+      "demand"
+    ],
+    "answer": "demand"
+  },
+  {
+    "question": "de ervaring",
+    "options": [
+      "building, construction",
+      "helmet",
+      "experience",
+      "to keep, store"
+    ],
+    "answer": "experience"
+  },
+  {
+    "question": "flexibel",
+    "options": [
+      "tax(es)",
+      "job requirements",
+      "gross (salary)",
+      "flexible"
+    ],
+    "answer": "flexible"
+  },
+  {
+    "question": "de flexwerker",
+    "options": [
+      "annual statement (of earnings)",
+      "administration",
+      "someone with a ‘flextime’ working contract",
+      "initiative"
+    ],
+    "answer": "someone with a ‘flextime’ working contract"
+  },
+  {
+    "question": "formeel",
+    "options": [
+      "formal, official",
+      "municipality, city, local council",
+      "to keep, store",
+      "full-time"
+    ],
+    "answer": "formal, official"
+  },
+  {
+    "question": "fulltime",
+    "options": [
+      "demand",
+      "contract",
+      "building, construction",
+      "full-time"
+    ],
+    "answer": "full-time"
+  },
+  {
+    "question": "de functie",
+    "options": [
+      "digital",
+      "annual statement (of earnings)",
+      "position, job, work",
+      "gross (salary)"
+    ],
+    "answer": "position, job, work"
+  },
+  {
+    "question": "de functie-eis",
+    "options": [
+      "someone with a ‘flextime’ working contract",
+      "job requirements",
+      "diploma, degree",
+      "flexible"
+    ],
+    "answer": "job requirements"
+  },
+  {
+    "question": "het functioneringsgesprek",
+    "options": [
+      "further training",
+      "funny, crazy",
+      "full-time",
+      "(work) performance interview"
+    ],
+    "answer": "(work) performance interview"
+  },
+  {
+    "question": "de garage",
+    "options": [
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "full-time",
+      "someone who perseveres/does not give up",
+      "garage"
+    ],
+    "answer": "garage"
+  },
+  {
+    "question": "het geduld",
+    "options": [
+      "employment contract",
+      "department, section",
+      "initiative",
+      "patience"
+    ],
+    "answer": "patience"
+  },
+  {
+    "question": "gek",
+    "options": [
+      "administration",
+      "funny, crazy",
+      "position, job, work",
+      "joke"
+    ],
+    "answer": "funny, crazy"
+  },
+  {
+    "question": "de gemeente",
+    "options": [
+      "trade, commerce",
+      "municipality, city, local council",
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "labour law"
+    ],
+    "answer": "municipality, city, local council"
+  },
+  {
+    "question": "het gesprek",
+    "options": [
+      "condition of employment",
+      "gross (salary)",
+      "(hotel and) catering (industry)",
+      "conversation, interview"
+    ],
+    "answer": "conversation, interview"
+  },
+  {
+    "question": "de gezondheid",
+    "options": [
+      "handy, deft, clever with ones hands",
+      "diploma, degree",
+      "health",
+      "experience"
+    ],
+    "answer": "health"
+  },
+  {
+    "question": "de gezondheidszorg",
+    "options": [
+      "someone with a ‘flextime’ working contract",
+      "job requirements",
+      "reliable, dependable",
+      "health care"
+    ],
+    "answer": "health care"
+  },
+  {
+    "question": "het grapje/de grap",
+    "options": [
+      "joke",
+      "condition of employment",
+      "to submit a statement of income to the tax office; to report something (to the police)",
+      "firm, concern, company (own/private company)"
+    ],
+    "answer": "joke"
+  },
+  {
+    "question": "de handel",
+    "options": [
+      "administration",
+      "unfit/unable to work (due to illness or handicap)",
+      "trade, commerce",
+      "initiative"
+    ],
+    "answer": "trade, commerce"
+  },
+  {
+    "question": "handig",
+    "options": [
+      "formal, official",
+      "handy, deft, clever with ones hands",
+      "manager",
+      "unfit/unable to work (due to illness or handicap)"
+    ],
+    "answer": "handy, deft, clever with ones hands"
+  },
+  {
+    "question": "de helm",
+    "options": [
+      "helmet",
+      "supplementary benefit, welfare, social security",
+      "reliable, dependable",
+      "patience"
+    ],
+    "answer": "helmet"
+  },
+  {
+    "question": "de horeca",
+    "options": [
+      "collective agreement on conditions of employment",
+      "helmet",
+      "building, construction",
+      "(hotel and) catering (industry)"
+    ],
+    "answer": "(hotel and) catering (industry)"
+  },
+  {
+    "question": "het initiatief",
+    "options": [
+      "initiative",
+      "(hotel and) catering (industry)",
+      "someone who perseveres/does not give up",
+      "employment contract"
+    ],
+    "answer": "initiative"
+  },
+  {
+    "question": "het inkomen",
+    "options": [
+      "building, construction",
+      "income",
+      "compliment",
+      "full-time"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "inschrijven",
+    "options": [
+      "to enrol, register",
+      "conversation, interview",
+      "someone with a ‘flextime’ working contract",
+      "annual statement (of earnings)"
+    ],
+    "answer": "to enrol, register"
+  },
+  {
+    "question": "de jaaropgave",
+    "options": [
+      "annual statement (of earnings)",
+      "colleague, workmate, co-worker",
+      "garage",
+      "joke"
+    ],
+    "answer": "annual statement (of earnings)"
+  },
+  {
+    "question": "aanvragen",
+    "options": [
+      "education",
+      "to request, to apply for",
+      "to give birth",
+      "parental contribution"
+    ],
+    "answer": "to request, to apply for"
+  },
+  {
+    "question": "de aardrijkskunde",
+    "options": [
+      "geography",
+      "family doctor, GP",
+      "dependent",
+      "subject"
+    ],
+    "answer": "geography"
+  },
+  {
+    "question": "de advocaat",
+    "options": [
+      "lawyer",
+      "training, education",
+      "pre-schooler",
+      "at lunchtime"
+    ],
+    "answer": "lawyer"
+  },
+  {
+    "question": "afhankelijk",
+    "options": [
+      "dependent",
+      "pre-school",
+      "after-school care",
+      "Islamic"
+    ],
+    "answer": "dependent"
+  },
+  {
+    "question": "de basisschool",
+    "options": [
+      "primary/elementary school",
+      "adolescent, teenager",
+      "maternity assistance",
+      "to mistreat"
+    ],
+    "answer": "primary/elementary school"
+  },
+  {
+    "question": "de begrafenis",
+    "options": [
+      "funeral",
+      "freedom",
+      "primary/elementary school",
+      "at lunchtime"
+    ],
+    "answer": "funeral"
+  },
+  {
+    "question": "de belasting",
+    "options": [
+      "pre-schooler",
+      "to tinker, to play",
+      "tax(es), tax authorities",
+      "subject"
+    ],
+    "answer": "tax(es), tax authorities"
+  },
+  {
+    "question": "het beroepsonderwijs",
+    "options": [
+      "pregnant",
+      "responsible",
+      "vocational/professional training",
+      "secondary education"
+    ],
+    "answer": "vocational/professional training"
+  },
+  {
+    "question": "bevallen",
+    "options": [
+      "parental contribution",
+      "illness, disease",
+      "toddlers’ playroom, playgroup",
+      "to give birth"
+    ],
+    "answer": "to give birth"
+  },
+  {
+    "question": "de bevalling",
+    "options": [
+      "vocational/professional training",
+      "birth",
+      "respect",
+      "higher general secondary education"
+    ],
+    "answer": "birth"
+  },
+  {
+    "question": "bewegen",
+    "options": [
+      "gynaecologist",
+      "to move",
+      "uniform",
+      "pre-schooler"
+    ],
+    "answer": "to move"
+  },
+  {
+    "question": "de bibliotheek",
+    "options": [
+      "geography",
+      "slip, form",
+      "Youth Care Agency",
+      "library"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "de brugklas",
+    "options": [
+      "organization",
+      "first class",
+      "to mistreat",
+      "respect"
+    ],
+    "answer": "first class"
+  },
+  {
+    "question": "de buitenschoolse opvang",
+    "options": [
+      "adolescent, teenager",
+      "baby’s book",
+      "responsible",
+      "out of school care"
+    ],
+    "answer": "out of school care"
+  },
+  {
+    "question": "Bureau Jeugdzorg",
+    "options": [
+      "system",
+      "Youth Care Agency",
+      "education",
+      "pre-university education"
+    ],
+    "answer": "Youth Care Agency"
+  },
+  {
+    "question": "het consultatiebureau",
+    "options": [
+      "teacher",
+      "school guide/prospectus",
+      "intermediate vocational education",
+      "consultation office, infant welfare centre"
+    ],
+    "answer": "consultation office, infant welfare centre"
+  },
+  {
+    "question": "het continurooster",
+    "options": [
+      "system",
+      "arithmetic",
+      "health insurance",
+      "continuous timetable (no breaks between classes)"
+    ],
+    "answer": "continuous timetable (no breaks between classes)"
+  },
+  {
+    "question": "doorstromen",
+    "options": [
+      "higher vocational education",
+      "health insurance",
+      "to count",
+      "move up, move on"
+    ],
+    "answer": "move up, move on"
+  },
+  {
+    "question": "het gastouderbureau",
+    "options": [
+      "baby-sitting/child care agency",
+      "punishment",
+      "uniform",
+      "after-school care"
+    ],
+    "answer": "baby-sitting/child care agency"
+  },
+  {
+    "question": "de gelegenheid",
+    "options": [
+      "opportunity",
+      "parents’ night",
+      "higher general secondary education",
+      "secondary education"
+    ],
+    "answer": "opportunity"
+  },
+  {
+    "question": "het geloof",
+    "options": [
+      "continuous timetable (no breaks between classes)",
+      "religion",
+      "compulsory education",
+      "pre-school"
+    ],
+    "answer": "religion"
+  },
+  {
+    "question": "de geschiedenis",
+    "options": [
+      "test",
+      "baby-sitter",
+      "history",
+      "obstetrician"
+    ],
+    "answer": "history"
+  },
+  {
+    "question": "het groeiboekje",
+    "options": [
+      "higher vocational education",
+      "education",
+      "baby’s book",
+      "age"
+    ],
+    "answer": "baby’s book"
+  },
+  {
+    "question": "groeien",
+    "options": [
+      "to grow",
+      "to travel without paying a fare",
+      "university",
+      "secondary education"
+    ],
+    "answer": "to grow"
+  },
+  {
+    "question": "de gymnastiek",
+    "options": [
+      "lawyer",
+      "history",
+      "to enrol, to register",
+      "gymnastics"
+    ],
+    "answer": "gymnastics"
+  },
+  {
+    "question": "de gynaecoloog",
+    "options": [
+      "secondary education",
+      "gynaecologist",
+      "obstetrician",
+      "break, pause"
+    ],
+    "answer": "gynaecologist"
+  },
+  {
+    "question": "de handicap",
+    "options": [
+      "pre-school",
+      "handicap, disability",
+      "to measure",
+      "to mistreat"
+    ],
+    "answer": "handicap, disability"
+  },
+  {
+    "question": "de handtekening",
+    "options": [
+      "signature",
+      "Social Insurance Bank",
+      "to move",
+      "to move house, shift"
+    ],
+    "answer": "signature"
+  },
+  {
+    "question": "de havo",
+    "options": [
+      "higher general secondary education",
+      "to weigh",
+      "to read (out aloud) to",
+      "age"
+    ],
+    "answer": "higher general secondary education"
+  },
+  {
+    "question": "het hbo",
+    "options": [
+      "compulsory",
+      "higher vocational education",
+      "compulsory education",
+      "to study"
+    ],
+    "answer": "higher vocational education"
+  },
+  {
+    "question": "de huisarts",
+    "options": [
+      "(child) rearing/raising",
+      "family doctor, GP",
+      "to draw",
+      "punishment"
+    ],
+    "answer": "family doctor, GP"
+  },
+  {
+    "question": "het inkomen",
+    "options": [
+      "after-school care",
+      "income",
+      "parental contribution",
+      "baby’s book"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "inschrijven",
+    "options": [
+      "to enrol, to register",
+      "library",
+      "intermediate vocational education",
+      "arithmetic"
+    ],
+    "answer": "to enrol, to register"
+  },
+  {
+    "question": "islamitisch",
+    "options": [
+      "Islamic",
+      "teacher",
+      "to request, to apply for",
+      "income"
+    ],
+    "answer": "Islamic"
+  },
+  {
+    "question": "de juf",
+    "options": [
+      "first class",
+      "library",
+      "pre-school",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "de kinderbijslag",
+    "options": [
+      "obstetrician",
+      "history",
+      "adolescent, teenager",
+      "child endowment/benefit"
+    ],
+    "answer": "child endowment/benefit"
+  },
+  {
+    "question": "het kinderdagverblijf",
+    "options": [
+      "public school",
+      "breakfast",
+      "crèche, day care centre",
+      "age"
+    ],
+    "answer": "crèche, day care centre"
+  },
+  {
+    "question": "de kinderopvang",
+    "options": [
+      "to request, to apply for",
+      "child care",
+      "child endowment/benefit",
+      "baby-sitter"
+    ],
+    "answer": "child care"
+  },
+  {
+    "question": "de kinderopvangtoeslag",
+    "options": [
+      "to grow",
+      "website",
+      "punishment",
+      "child care subsidy"
+    ],
+    "answer": "child care subsidy"
+  },
+  {
+    "question": "de kleuter",
+    "options": [
+      "pre-schooler",
+      "opportunity",
+      "Islamic",
+      "first class"
+    ],
+    "answer": "pre-schooler"
+  },
+  {
+    "question": "knutselen",
+    "options": [
+      "sporting club",
+      "vocational/professional training",
+      "baby-sitter",
+      "to tinker, to play"
+    ],
+    "answer": "to tinker, to play"
+  },
+  {
+    "question": "de kraamhulp",
+    "options": [
+      "to grow",
+      "maternity assistance",
+      "consultation office, infant welfare centre",
+      "compulsory"
+    ],
+    "answer": "maternity assistance"
+  },
+  {
+    "question": "de leeftijd",
+    "options": [
+      "training, education",
+      "organization",
+      "to read (out aloud) to",
+      "age"
+    ],
+    "answer": "age"
+  },
+  {
+    "question": "de leerplicht",
+    "options": [
+      "compulsory education",
+      "illness, disease",
+      "history",
+      "adult"
+    ],
+    "answer": "compulsory education"
+  },
+  {
+    "question": "het lid",
+    "options": [
+      "member",
+      "age",
+      "out of school care",
+      "system"
+    ],
+    "answer": "member"
+  },
+  {
+    "question": "het liedje",
+    "options": [
+      "training, education",
+      "continuous timetable (no breaks between classes)",
+      "first class",
+      "song"
+    ],
+    "answer": "song"
+  },
+  {
+    "question": "de mavo",
+    "options": [
+      "out of school care",
+      "compulsory education",
+      "secondary education",
+      "member"
+    ],
+    "answer": "secondary education"
+  },
+  {
+    "question": "het mbo",
+    "options": [
+      "at lunchtime",
+      "website",
+      "intermediate vocational education",
+      "government"
+    ],
+    "answer": "intermediate vocational education"
+  },
+  {
+    "question": "meten",
+    "options": [
+      "free choice of school",
+      "geography",
+      "secondary education",
+      "to measure"
+    ],
+    "answer": "to measure"
+  },
+  {
+    "question": "de middelbare school",
+    "options": [
+      "to study",
+      "lawyer",
+      "secondary/high school",
+      "respect"
+    ],
+    "answer": "secondary/high school"
+  },
+  {
+    "question": "mishandelen",
+    "options": [
+      "website",
+      "to mistreat",
+      "system",
+      "vocational/professional training"
+    ],
+    "answer": "to mistreat"
+  },
+  {
+    "question": "de naschoolse opvang",
+    "options": [
+      "secondary education",
+      "vaccination",
+      "after-school care",
+      "sporting club"
+    ],
+    "answer": "after-school care"
+  },
+  {
+    "question": "het niveau",
+    "options": [
+      "level",
+      "to count",
+      "nutrition",
+      "to enrol, to register"
+    ],
+    "answer": "level"
+  },
+  {
+    "question": "het onderwijs",
+    "options": [
+      "pre-school",
+      "education",
+      "(child) rearing/raising",
+      "parents’ night"
+    ],
+    "answer": "education"
+  },
+  {
+    "question": "het ontbijt",
+    "options": [
+      "argument",
+      "secondary education",
+      "breakfast",
+      "education"
+    ],
+    "answer": "breakfast"
+  },
+  {
+    "question": "de ontwikkeling",
+    "options": [
+      "development",
+      "to read (out aloud) to",
+      "to count",
+      "pre-university education"
+    ],
+    "answer": "development"
+  },
+  {
+    "question": "openbaar",
+    "options": [
+      "secondary education",
+      "argument",
+      "public",
+      "to give birth"
+    ],
+    "answer": "public"
+  },
+  {
+    "question": "de openbare school",
+    "options": [
+      "to mistreat",
+      "break, pause",
+      "to tinker, to play",
+      "public school"
+    ],
+    "answer": "public school"
+  },
+  {
+    "question": "de opleiding",
+    "options": [
+      "toddlers’ playroom, playgroup",
+      "geography",
+      "toddler",
+      "training, education"
+    ],
+    "answer": "training, education"
+  },
+  {
+    "question": "de oppas",
+    "options": [
+      "secondary education",
+      "baby-sitting/child care agency",
+      "obstetrician",
+      "baby-sitter"
+    ],
+    "answer": "baby-sitter"
+  },
+  {
+    "question": "de opvoeding",
+    "options": [
+      "(child) rearing/raising",
+      "library",
+      "gynaecologist",
+      "consultation office, infant welfare centre"
+    ],
+    "answer": "(child) rearing/raising"
+  },
+  {
+    "question": "de organisatie",
+    "options": [
+      "history",
+      "arithmetic",
+      "waiting list",
+      "organization"
+    ],
+    "answer": "organization"
+  },
+  {
+    "question": "de ouderavond",
+    "options": [
+      "parents’ night",
+      "higher vocational education",
+      "out of school care",
+      "child care subsidy"
+    ],
+    "answer": "parents’ night"
+  },
+  {
+    "question": "de ouderbijdrage",
+    "options": [
+      "income",
+      "to stay at school during lunch break",
+      "parental contribution",
+      "geography"
+    ],
+    "answer": "parental contribution"
+  },
+  {
+    "question": "overblijven",
+    "options": [
+      "age",
+      "to draw",
+      "to stay at school during lunch break",
+      "to move house, shift"
+    ],
+    "answer": "to stay at school during lunch break"
+  },
+  {
+    "question": "de pauze",
+    "options": [
+      "secondary education",
+      "library",
+      "pre-university education",
+      "break, pause"
+    ],
+    "answer": "break, pause"
+  },
+  {
+    "question": "de peuter",
+    "options": [
+      "toddler",
+      "report",
+      "to study",
+      "Social Insurance Bank"
+    ],
+    "answer": "toddler"
+  },
+  {
+    "question": "de peuterspeelzaal",
+    "options": [
+      "vocational/professional training",
+      "slip, form",
+      "toddlers’ playroom, playgroup",
+      "permission"
+    ],
+    "answer": "toddlers’ playroom, playgroup"
+  },
+  {
+    "question": "de prik",
+    "options": [
+      "to grow",
+      "first class",
+      "pre-school",
+      "injection, shot"
+    ],
+    "answer": "injection, shot"
+  },
+  {
+    "question": "de puber",
+    "options": [
+      "respect",
+      "lower secondary professional education",
+      "geography",
+      "adolescent, teenager"
+    ],
+    "answer": "adolescent, teenager"
+  },
+  {
+    "question": "het rapport",
+    "options": [
+      "organization",
+      "uniform",
+      "report",
+      "gymnastics"
+    ],
+    "answer": "report"
+  },
+  {
+    "question": "de regering",
+    "options": [
+      "intermediate vocational education",
+      "government",
+      "Islamic",
+      "after-school care"
+    ],
+    "answer": "government"
+  },
+  {
+    "question": "rekenen",
+    "options": [
+      "lower secondary professional education",
+      "arithmetic",
+      "report",
+      "family doctor, GP"
+    ],
+    "answer": "arithmetic"
+  },
+  {
+    "question": "het respect",
+    "options": [
+      "dependent",
+      "vocational/professional training",
+      "age",
+      "respect"
+    ],
+    "answer": "respect"
+  },
+  {
+    "question": "de ruzie",
+    "options": [
+      "pre-schooler",
+      "geography",
+      "freedom",
+      "argument"
+    ],
+    "answer": "argument"
+  },
+  {
+    "question": "de schoolgids",
+    "options": [
+      "school guide/prospectus",
+      "arithmetic",
+      "permission",
+      "free choice of school"
+    ],
+    "answer": "school guide/prospectus"
+  },
+  {
+    "question": "het schoolreisje",
+    "options": [
+      "to read (out aloud) to",
+      "pre-university education",
+      "school trip, excursion",
+      "geography"
+    ],
+    "answer": "school trip, excursion"
+  },
+  {
+    "question": "de Sociale Verzekeringsbank",
+    "options": [
+      "parents’ night",
+      "Social Insurance Bank",
+      "system",
+      "library"
+    ],
+    "answer": "Social Insurance Bank"
+  },
+  {
+    "question": "de sportclub",
+    "options": [
+      "funeral",
+      "education",
+      "sporting club",
+      "to travel without paying a fare"
+    ],
+    "answer": "sporting club"
+  },
+  {
+    "question": "de straf",
+    "options": [
+      "punishment",
+      "tax(es), tax authorities",
+      "compulsory education",
+      "opportunity"
+    ],
+    "answer": "punishment"
+  },
+  {
+    "question": "het strookje",
+    "options": [
+      "public school",
+      "slip, form",
+      "report",
+      "move up, move on"
+    ],
+    "answer": "slip, form"
+  },
+  {
+    "question": "het systeem",
+    "options": [
+      "baby’s book",
+      "system",
+      "responsible",
+      "government"
+    ],
+    "answer": "system"
+  },
+  {
+    "question": "studeren",
+    "options": [
+      "to study",
+      "toddler",
+      "gymnastics",
+      "public school"
+    ],
+    "answer": "to study"
+  },
+  {
+    "question": "tekenen",
+    "options": [
+      "respect",
+      "pre-schooler",
+      "to draw",
+      "adult"
+    ],
+    "answer": "to draw"
+  },
+  {
+    "question": "tellen",
+    "options": [
+      "member",
+      "song",
+      "to count",
+      "toddler"
+    ],
+    "answer": "to count"
+  },
+  {
+    "question": "de test",
+    "options": [
+      "to grow",
+      "pregnant",
+      "parental contribution",
+      "test"
+    ],
+    "answer": "test"
+  },
+  {
+    "question": "de toestemming",
+    "options": [
+      "permission",
+      "handicap, disability",
+      "member",
+      "arithmetic"
+    ],
+    "answer": "permission"
+  },
+  {
+    "question": "tussen de middag",
+    "options": [
+      "at lunchtime",
+      "organization",
+      "adult",
+      "report"
+    ],
+    "answer": "at lunchtime"
+  },
+  {
+    "question": "het uniform",
+    "options": [
+      "to grow",
+      "uniform",
+      "out of school care",
+      "parents’ night"
+    ],
+    "answer": "uniform"
+  },
+  {
+    "question": "de universiteit",
+    "options": [
+      "university",
+      "sporting club",
+      "(child) rearing/raising",
+      "to move"
+    ],
+    "answer": "university"
+  },
+  {
+    "question": "de vaccinatie",
+    "options": [
+      "vaccination",
+      "freedom",
+      "pre-school",
+      "child care subsidy"
+    ],
+    "answer": "vaccination"
+  },
+  {
+    "question": "het vak",
+    "options": [
+      "primary/elementary school",
+      "subject",
+      "teacher",
+      "lower secondary professional education"
+    ],
+    "answer": "subject"
+  },
+  {
+    "question": "verantwoordelijk",
+    "options": [
+      "responsible",
+      "history",
+      "free choice of school",
+      "secondary education"
+    ],
+    "answer": "responsible"
+  },
+  {
+    "question": "verhuizen",
+    "options": [
+      "vaccination",
+      "teacher",
+      "nutrition",
+      "to move house, shift"
+    ],
+    "answer": "to move house, shift"
+  },
+  {
+    "question": "de verloskundige",
+    "options": [
+      "age",
+      "breakfast",
+      "obstetrician",
+      "pre-schooler"
+    ],
+    "answer": "obstetrician"
+  },
+  {
+    "question": "verplicht",
+    "options": [
+      "break, pause",
+      "website",
+      "compulsory",
+      "school guide/prospectus"
+    ],
+    "answer": "compulsory"
+  },
+  {
+    "question": "het vmbo",
+    "options": [
+      "lower secondary professional education",
+      "compulsory education",
+      "test",
+      "primary/elementary school"
+    ],
+    "answer": "lower secondary professional education"
+  },
+  {
+    "question": "de voeding",
+    "options": [
+      "pregnant",
+      "toddler",
+      "higher vocational education",
+      "nutrition"
+    ],
+    "answer": "nutrition"
+  },
+  {
+    "question": "volwassen",
+    "options": [
+      "adult",
+      "pre-school",
+      "to give birth",
+      "to move"
+    ],
+    "answer": "adult"
+  },
+  {
+    "question": "voorlezen",
+    "options": [
+      "to tinker, to play",
+      "to read (out aloud) to",
+      "secondary/high school",
+      "toddler"
+    ],
+    "answer": "to read (out aloud) to"
+  },
+  {
+    "question": "de voorschool",
+    "options": [
+      "out of school care",
+      "consultation office, infant welfare centre",
+      "pre-school",
+      "organization"
+    ],
+    "answer": "pre-school"
+  },
+  {
+    "question": "het voortgezet onderwijs",
+    "options": [
+      "maternity assistance",
+      "level",
+      "secondary education",
+      "permission"
+    ],
+    "answer": "secondary education"
+  },
+  {
+    "question": "de vrijheid",
+    "options": [
+      "respect",
+      "to move house, shift",
+      "report",
+      "freedom"
+    ],
+    "answer": "freedom"
+  },
+  {
+    "question": "de vrijheid van onderwijs",
+    "options": [
+      "free choice of school",
+      "baby-sitter",
+      "training, education",
+      "Youth Care Agency"
+    ],
+    "answer": "free choice of school"
+  },
+  {
+    "question": "het vwo",
+    "options": [
+      "pre-university education",
+      "geography",
+      "system",
+      "secondary education"
+    ],
+    "answer": "pre-university education"
+  },
+  {
+    "question": "de wachtlijst",
+    "options": [
+      "geography",
+      "child care subsidy",
+      "waiting list",
+      "to weigh"
+    ],
+    "answer": "waiting list"
+  },
+  {
+    "question": "de website",
+    "options": [
+      "age",
+      "handicap, disability",
+      "website",
+      "higher vocational education"
+    ],
+    "answer": "website"
+  },
+  {
+    "question": "wegen",
+    "options": [
+      "to count",
+      "uniform",
+      "to weigh",
+      "dependent"
+    ],
+    "answer": "to weigh"
+  },
+  {
+    "question": "de ziekte",
+    "options": [
+      "Islamic",
+      "to move house, shift",
+      "illness, disease",
+      "break, pause"
+    ],
+    "answer": "illness, disease"
+  },
+  {
+    "question": "de zorgverzekering",
+    "options": [
+      "health insurance",
+      "school trip, excursion",
+      "income",
+      "to count"
+    ],
+    "answer": "health insurance"
+  },
+  {
+    "question": "zwanger",
+    "options": [
+      "to weigh",
+      "to mistreat",
+      "pregnant",
+      "at lunchtime"
+    ],
+    "answer": "pregnant"
+  },
+  {
+    "question": "zwart reizen",
+    "options": [
+      "illness, disease",
+      "teacher",
+      "to travel without paying a fare",
+      "pre-schooler"
+    ],
+    "answer": "to travel without paying a fare"
+  },
   {
     "question": "de dief?",
     "options": [
