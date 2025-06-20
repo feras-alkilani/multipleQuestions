@@ -1,5 +1,234 @@
 [
   {
+    "question": "bewegen",
+    "options": [
+      "to move",
+      "activity",
+      "injury",
+      "playground"
+    ],
+    "answer": "to move"
+  },
+  {
+    "question": "de activiteit",
+    "options": [
+      "activity",
+      "to be true for",
+      "almost",
+      "serious"
+    ],
+    "answer": "activity"
+  },
+  {
+    "question": "de blessure",
+    "options": [
+      "injury",
+      "gym",
+      "to lift",
+      "weekend"
+    ],
+    "answer": "injury"
+  },
+  {
+    "question": "de speeltuin",
+    "options": [
+      "playground",
+      "watch (children)",
+      "heavy",
+      "finge"
+    ],
+    "answer": "playground"
+  },
+  {
+    "question": "de sportschool",
+    "options": [
+      "gym",
+      "weekend",
+      "to train",
+      "serious"
+    ],
+    "answer": "gym"
+  },
+  {
+    "question": "de vinger",
+    "options": [
+      "finger",
+      "heavy",
+      "to swim",
+      "playground"
+    ],
+    "answer": "finger"
+  },
+  {
+    "question": "ernstig",
+    "options": [
+      "serious",
+      "to hope",
+      "almost",
+      "permanent"
+    ],
+    "answer": "serious"
+  },
+  {
+    "question": "gelden",
+    "options": [
+      "to be true for",
+      "activity",
+      "to lift",
+      "gym"
+    ],
+    "answer": "to be true for"
+  },
+  {
+    "question": "gisteren",
+    "options": [
+      "yesterday",
+      "swimming pool",
+      "to train",
+      "weekend"
+    ],
+    "answer": "yesterday"
+  },
+  {
+    "question": "haast",
+    "options": [
+      "almost",
+      "to swim",
+      "permanent",
+      "to hope"
+    ],
+    "answer": "almost"
+  },
+  {
+    "question": "het zwembad",
+    "options": [
+      "swimming pool",
+      "playground",
+      "to move",
+      "injury"
+    ],
+    "answer": "swimming pool"
+  },
+  {
+    "question": "hopen",
+    "options": [
+      "to hope",
+      "activity",
+      "heavy",
+      "to swim"
+    ],
+    "answer": "to hope"
+  },
+  {
+    "question": "leven",
+    "options": [
+      "to live",
+      "to train",
+      "permanent",
+      "weekend"
+    ],
+    "answer": "to live"
+  },
+  {
+    "question": "niets",
+    "options": [
+      "nothing",
+      "to lift",
+      "heavy",
+      "gym"
+    ],
+    "answer": "nothing"
+  },
+  {
+    "question": "optillen",
+    "options": [
+      "to lift",
+      "to move",
+      "playground",
+      "serious"
+    ],
+    "answer": "to lift"
+  },
+  {
+    "question": "sporten",
+    "options": [
+      "to do sports",
+      "injury",
+      "almost",
+      "permanent"
+    ],
+    "answer": "to do sports"
+  },
+  {
+    "question": "trainen",
+    "options": [
+      "to train",
+      "heavy",
+      "activity",
+      "to hope"
+    ],
+    "answer": "to train"
+  },
+  {
+    "question": "vast",
+    "options": [
+      "permanent",
+      "to be true for",
+      "weekend",
+      "to move"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "voorlopig",
+    "options": [
+      "for the time being",
+      "to swim",
+      "injury",
+      "to lift"
+    ],
+    "answer": "for the time being"
+  },
+  {
+    "question": "zwemmen",
+    "options": [
+      "to swim",
+      "playground",
+      "gym",
+      "activity"
+    ],
+    "answer": "to swim"
+  },
+  {
+    "question": "het weekend",
+    "options": [
+      "weekend",
+      "to live",
+      "serious",
+      "to train"
+    ],
+    "answer": "weekend"
+  },
+  {
+    "question": "oppassen",
+    "options": [
+      "watch (children)",
+      "activity",
+      "to hope",
+      "almost"
+    ],
+    "answer": "watch (children)"
+  },
+  {
+    "question": "zwaar",
+    "options": [
+      "heavy",
+      "to move",
+      "to train",
+      "nothing"
+    ],
+    "answer": "heavy"
+  },{
     "question": "allebei",
     "options": [
       "both",
