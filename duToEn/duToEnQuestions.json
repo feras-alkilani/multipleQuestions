@@ -1,5 +1,139 @@
 [
-   {
+     {
+    "question": "basketball",
+    "options": ["basketball", "surfing", "rafting", "image"],
+    "answer": "basketball"
+  },
+  {
+    "question": "dansen",
+    "options": ["to dance", "extreme", "rowing", "challenge"],
+    "answer": "to dance"
+  },
+  {
+    "question": "de afbeelding",
+    "options": ["image", "to sweat", "person", "ball sport"],
+    "answer": "image"
+  },
+  {
+    "question": "de balsport",
+    "options": ["ball sport", "rafting", "to fight", "strength training"],
+    "answer": "ball sport"
+  },
+  {
+    "question": "de inspanning",
+    "options": ["exertion", "surfing", "basketball", "to win"],
+    "answer": "exertion"
+  },
+  {
+    "question": "de kracht",
+    "options": ["strength", "image", "to work together", "rowing"],
+    "answer": "strength"
+  },
+  {
+    "question": "de krachttraining",
+    "options": ["strength training", "team sport", "horseback riding", "to google"],
+    "answer": "strength training"
+  },
+  {
+    "question": "de mens",
+    "options": ["person", "to fight", "rafting", "image"],
+    "answer": "person"
+  },
+  {
+    "question": "de teamsport",
+    "options": ["team sport", "strength", "challenge", "mountain biking"],
+    "answer": "team sport"
+  },
+  {
+    "question": "de tegenstander",
+    "options": ["opponent", "to win", "wild", "to sweat"],
+    "answer": "opponent"
+  },
+  {
+    "question": "de uitdaging",
+    "options": ["challenge", "person", "ball sport", "to google"],
+    "answer": "challenge"
+  },
+  {
+    "question": "de voorkeur",
+    "options": ["preference", "rafting", "to dance", "image"],
+    "answer": "preference"
+  },
+  {
+    "question": "extreem",
+    "options": ["extreme", "strength", "surfing", "basketball"],
+    "answer": "extreme"
+  },
+  {
+    "question": "googelen",
+    "options": ["to google", "challenge", "team sport", "to fight"],
+    "answer": "to google"
+  },
+  {
+    "question": "het rondje",
+    "options": ["lap", "to sweat", "rowing", "opponent"],
+    "answer": "lap"
+  },
+  {
+    "question": "individueel",
+    "options": ["individually", "mountain biking", "to win", "image"],
+    "answer": "individually"
+  },
+  {
+    "question": "mountainbiken",
+    "options": ["mountain biking", "to google", "wild", "exertion"],
+    "answer": "mountain biking"
+  },
+  {
+    "question": "paardrijden",
+    "options": ["horseback riding", "to dance", "challenge", "rafting"],
+    "answer": "horseback riding"
+  },
+  {
+    "question": "roeien",
+    "options": ["rowing", "surfing", "to win", "strength"],
+    "answer": "rowing"
+  },
+  {
+    "question": "samenwerken",
+    "options": ["to work together", "image", "team sport", "horseback riding"],
+    "answer": "to work together"
+  },
+  {
+    "question": "surfen",
+    "options": ["surfing", "exertion", "to sweat", "person"],
+    "answer": "surfing"
+  },
+  {
+    "question": "varen",
+    "options": ["rafting", "strength training", "to google", "ball sport"],
+    "answer": "rafting"
+  },
+  {
+    "question": "vechten",
+    "options": ["to fight", "wild", "rowing", "to work together"],
+    "answer": "to fight"
+  },
+  {
+    "question": "waterpolo",
+    "options": ["water polo", "preference", "to dance", "strength"],
+    "answer": "water polo"
+  },
+  {
+    "question": "wild",
+    "options": ["wild", "to win", "to sweat", "image"],
+    "answer": "wild"
+  },
+  {
+    "question": "winnen",
+    "options": ["to win", "challenge", "basketball", "to google"],
+    "answer": "to win"
+  },
+  {
+    "question": "zweten",
+    "options": ["to sweat", "rowing", "horseback riding", "lap"],
+    "answer": "to sweat"
+  },{
     "question": "afstappen",
     "options": ["get off", "interest", "email", "instruction"],
     "answer": "get off"
