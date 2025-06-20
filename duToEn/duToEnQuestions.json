@@ -1,5 +1,119 @@
 [
    {
+    "question": "afhalen",
+    "options": ["to pick up", "to read", "care", "cost"],
+    "answer": "to pick up"
+  },
+  {
+    "question": "de administratie",
+    "options": ["administrative department", "guide", "internship", "treat"],
+    "answer": "administrative department"
+  },
+  {
+    "question": "de gids",
+    "options": ["guide", "intern", "newsletter", "pupil"],
+    "answer": "guide"
+  },
+  {
+    "question": "de kleuter",
+    "options": ["preschool child", "teacher", "start", "school year"],
+    "answer": "preschool child"
+  },
+  {
+    "question": "de kosten",
+    "options": ["cost", "care", "version", "importance"],
+    "answer": "cost"
+  },
+  {
+    "question": "de leerkracht",
+    "options": ["teacher", "to sign up", "internship", "toddler"],
+    "answer": "teacher"
+  },
+  {
+    "question": "de leerling",
+    "options": ["pupil", "to treat", "guide", "paper"],
+    "answer": "pupil"
+  },
+  {
+    "question": "de nieuwsbrief",
+    "options": ["newsletter", "administrative department", "start", "intern"],
+    "answer": "newsletter"
+  },
+  {
+    "question": "de opleiding",
+    "options": ["education", "in between lessons", "care", "importance"],
+    "answer": "education"
+  },
+  {
+    "question": "de opvang",
+    "options": ["care", "to pick up", "intern", "school year"],
+    "answer": "care"
+  },
+  {
+    "question": "de peuter",
+    "options": ["toddler", "pupil", "guide", "to read"],
+    "answer": "toddler"
+  },
+  {
+    "question": "de stage",
+    "options": ["internship", "administrative department", "to treat", "cost"],
+    "answer": "internship"
+  },
+  {
+    "question": "de stagiaire",
+    "options": ["intern", "newsletter", "preschool child", "to sign up"],
+    "answer": "intern"
+  },
+  {
+    "question": "de traktatie",
+    "options": ["treat", "importance", "start", "education"],
+    "answer": "treat"
+  },
+  {
+    "question": "de versie",
+    "options": ["version", "toddler", "care", "to treat"],
+    "answer": "version"
+  },
+  {
+    "question": "het begin",
+    "options": ["start", "intern", "administrative department", "pupil"],
+    "answer": "start"
+  },
+  {
+    "question": "het belang",
+    "options": ["importance", "guide", "internship", "to sign up"],
+    "answer": "importance"
+  },
+  {
+    "question": "het schooljaar",
+    "options": ["school year", "to pick up", "newsletter", "preschool child"],
+    "answer": "school year"
+  },
+  {
+    "question": "papieren",
+    "options": ["(made of) paper", "intern", "teacher", "to treat"],
+    "answer": "(made of) paper"
+  },
+  {
+    "question": "trakteren",
+    "options": ["to treat", "cost", "care", "to read"],
+    "answer": "to treat"
+  },
+  {
+    "question": "tussenschools",
+    "options": ["in between lessons", "internship", "school year", "toddler"],
+    "answer": "in between lessons"
+  },
+  {
+    "question": "voorlezen",
+    "options": ["to read", "guide", "importance", "intern"],
+    "answer": "to read"
+  },
+  {
+    "question": "zich inschrijven",
+    "options": ["to sign up", "start", "newsletter", "preschool child"],
+    "answer": "to sign up"
+  },{
     "question": "allemaal",
     "options": ["all of it", "yuck", "better", "school diary"],
     "answer": "all of it"
