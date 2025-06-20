@@ -1,5 +1,134 @@
 [
    {
+    "question": "afwachten",
+    "options": ["to wait for", "already", "boss", "uncle"],
+    "answer": "to wait for"
+  },
+  {
+    "question": "alvast",
+    "options": ["already", "to propose", "female teacher", "butchery"],
+    "answer": "already"
+  },
+  {
+    "question": "antwoord",
+    "options": ["answer", "permission", "row", "cheap / favorable"],
+    "answer": "answer"
+  },
+  {
+    "question": "april",
+    "options": ["April", "strange / crazy", "ticket", "schoolyard"],
+    "answer": "April"
+  },
+  {
+    "question": "België",
+    "options": ["Belgium", "to throw away", "uncle", "permission"],
+    "answer": "Belgium"
+  },
+  {
+    "question": "de baas",
+    "options": ["boss", "to wait for", "female teacher", "cheap / favorable"],
+    "answer": "boss"
+  },
+  {
+    "question": "de collega",
+    "options": ["colleague", "answer", "schoolyard", "already"],
+    "answer": "colleague"
+  },
+  {
+    "question": "de juf",
+    "options": ["female teacher", "to throw away", "thereafter", "to propose"],
+    "answer": "female teacher"
+  },
+  {
+    "question": "de kantine",
+    "options": ["canteen", "row", "strange / crazy", "uncle"],
+    "answer": "canteen"
+  },
+  {
+    "question": "de oom",
+    "options": ["uncle", "cheap / favorable", "ticket", "to wait for"],
+    "answer": "uncle"
+  },
+  {
+    "question": "de rij",
+    "options": ["row", "permission", "answer", "already"],
+    "answer": "row"
+  },
+  {
+    "question": "de slagerij",
+    "options": ["butchery", "female teacher", "schoolyard", "to throw away"],
+    "answer": "butchery"
+  },
+  {
+    "question": "de tante",
+    "options": ["aunt", "to propose", "thereafter", "cheap / favorable"],
+    "answer": "aunt"
+  },
+  {
+    "question": "de toestemming",
+    "options": ["permission", "strange / crazy", "answer", "to wait for"],
+    "answer": "permission"
+  },
+  {
+    "question": "erna",
+    "options": ["thereafter", "to wait for", "to throw away", "female teacher"],
+    "answer": "thereafter"
+  },
+  {
+    "question": "gek",
+    "options": ["strange / crazy", "uncle", "row", "cheap / favorable"],
+    "answer": "strange / crazy"
+  },
+  {
+    "question": "het geduld",
+    "options": ["patience", "ticket", "to propose", "already"],
+    "answer": "patience"
+  },
+  {
+    "question": "het kaartje",
+    "options": ["ticket", "to throw away", "female teacher", "thereafter"],
+    "answer": "ticket"
+  },
+  {
+    "question": "het schoolplein",
+    "options": ["schoolyard", "to wait for", "answer", "cheap / favorable"],
+    "answer": "schoolyard"
+  },
+  {
+    "question": "het Suikerfeest",
+    "options": ["Sugar Feast", "strange / crazy", "uncle", "already"],
+    "answer": "Sugar Feast"
+  },
+  {
+    "question": "hoeven",
+    "options": ["to have to", "permission", "butchery", "aunt"],
+    "answer": "to have to"
+  },
+  {
+    "question": "hoezo",
+    "options": ["why do you ask?", "thereafter", "female teacher", "ticket"],
+    "answer": "why do you ask?"
+  },
+  {
+    "question": "verkeerd",
+    "options": ["wrong", "already", "to wait for", "uncle"],
+    "answer": "wrong"
+  },
+  {
+    "question": "voordelig",
+    "options": ["cheap / favorable", "answer", "row", "to throw away"],
+    "answer": "cheap / favorable"
+  },
+  {
+    "question": "voorstellen",
+    "options": ["to propose", "strange / crazy", "ticket", "aunt"],
+    "answer": "to propose"
+  },
+  {
+    "question": "weggooien",
+    "options": ["to throw away", "permission", "female teacher", "to wait for"],
+    "answer": "to throw away"
+  },{
     "question": "antwoorden",
     "options": ["to answer", "mad", "baby-sitter", "honest"],
     "answer": "to answer"
