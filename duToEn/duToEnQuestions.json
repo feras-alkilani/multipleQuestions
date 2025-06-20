@@ -1,5 +1,124 @@
 [
     {
+    "question": "de accijns",
+    "options": ["excise duty", "army", "forest", "benefit"],
+    "answer": "excise duty"
+  },
+  {
+    "question": "de belasting",
+    "options": ["tax", "engine", "levee", "cigarette"],
+    "answer": "tax"
+  },
+  {
+    "question": "de benzine",
+    "options": ["gasoline", "sewer", "van", "government"],
+    "answer": "gasoline"
+  },
+  {
+    "question": "de bestelauto",
+    "options": ["delivery van", "truck", "tax money", "child benefit"],
+    "answer": "delivery van"
+  },
+  {
+    "question": "de dijk",
+    "options": ["levee", "wage tax", "army", "motor vehicle tax"],
+    "answer": "levee"
+  },
+  {
+    "question": "de huurtoeslag",
+    "options": ["rent benefit", "motor vehicle", "forest", "passenger car"],
+    "answer": "rent benefit"
+  },
+  {
+    "question": "de kinderbijslag",
+    "options": ["child benefit", "cigarette", "council", "tax money"],
+    "answer": "child benefit"
+  },
+  {
+    "question": "de loonbelasting",
+    "options": ["wage tax", "excise duty", "army", "motor"],
+    "answer": "wage tax"
+  },
+  {
+    "question": "de motor",
+    "options": ["engine", "gasoline", "sewer", "government"],
+    "answer": "engine"
+  },
+  {
+    "question": "de motorrijtuigenbelasting",
+    "options": ["motor vehicle tax", "benefit", "delivery van", "tax"],
+    "answer": "motor vehicle tax"
+  },
+  {
+    "question": "de overheid",
+    "options": ["government", "tax money", "child benefit", "army"],
+    "answer": "government"
+  },
+  {
+    "question": "de personenauto",
+    "options": ["passenger car", "healthcare benefit", "levee", "truck"],
+    "answer": "passenger car"
+  },
+  {
+    "question": "de regering",
+    "options": ["government", "forest", "motor", "tax money"],
+    "answer": "government"
+  },
+  {
+    "question": "de sigaret",
+    "options": ["cigarette", "wage tax", "delivery van", "healthcare benefit"],
+    "answer": "cigarette"
+  },
+  {
+    "question": "de toeslag",
+    "options": ["benefit", "engine", "army", "sewer"],
+    "answer": "benefit"
+  },
+  {
+    "question": "de vrachtauto",
+    "options": ["truck", "excise duty", "council", "passenger car"],
+    "answer": "truck"
+  },
+  {
+    "question": "de zorgtoeslag",
+    "options": ["healthcare benefit", "motor vehicle", "van", "forest"],
+    "answer": "healthcare benefit"
+  },
+  {
+    "question": "het belastinggeld",
+    "options": ["tax money", "benefit", "motor vehicle tax", "engine"],
+    "answer": "tax money"
+  },
+  {
+    "question": "het bestuur",
+    "options": ["council", "gasoline", "sewer", "rent benefit"],
+    "answer": "council"
+  },
+  {
+    "question": "het bos",
+    "options": ["forest", "motor vehicle", "army", "tax"],
+    "answer": "forest"
+  },
+  {
+    "question": "het busje",
+    "options": ["van", "tax money", "child benefit", "delivery van"],
+    "answer": "van"
+  },
+  {
+    "question": "het leger",
+    "options": ["army", "motor", "wage tax", "council"],
+    "answer": "army"
+  },
+  {
+    "question": "het motorrijtuig",
+    "options": ["motor vehicle", "levee", "engine", "truck"],
+    "answer": "motor vehicle"
+  },
+  {
+    "question": "het riool",
+    "options": ["sewer", "rent benefit", "gasoline", "benefit"],
+    "answer": "sewer"
+  },{
     "question": "de afvoer",
     "options": ["drain", "object", "support", "pen"],
     "answer": "drain"
