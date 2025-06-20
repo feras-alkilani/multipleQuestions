@@ -1,5 +1,134 @@
 [
    {
+    "question": "aanmelden",
+    "options": ["to sign up", "upcoming", "to activate", "registration"],
+    "answer": "to sign up"
+  },
+  {
+    "question": "aanstaande",
+    "options": ["upcoming", "to sign up", "to activate", "registration"],
+    "answer": "upcoming"
+  },
+  {
+    "question": "activeren",
+    "options": ["to activate", "to sign up", "to delete", "to steal"],
+    "answer": "to activate"
+  },
+  {
+    "question": "de aanmelding",
+    "options": ["registration", "insurance", "subscription", "airline ticket"],
+    "answer": "registration"
+  },
+  {
+    "question": "de basis",
+    "options": ["base", "to download", "to copy", "to drink coffee"],
+    "answer": "base"
+  },
+  {
+    "question": "de betaling",
+    "options": ["payment", "criminal", "to activate", "to warn"],
+    "answer": "payment"
+  },
+  {
+    "question": "de gebruikersnaam",
+    "options": ["username", "insurance", "to steal", "to copy"],
+    "answer": "username"
+  },
+  {
+    "question": "de kleindochter",
+    "options": ["granddaughter", "to download", "to be bored", "to sign up"],
+    "answer": "granddaughter"
+  },
+  {
+    "question": "de misdadiger",
+    "options": ["criminal", "to warn", "to pick out", "to activate"],
+    "answer": "criminal"
+  },
+  {
+    "question": "de verzekering",
+    "options": ["insurance", "to steal", "upcoming", "to activate"],
+    "answer": "insurance"
+  },
+  {
+    "question": "downloaden",
+    "options": ["to download", "to activate", "to be bored", "to copy"],
+    "answer": "to download"
+  },
+  {
+    "question": "het abonnement",
+    "options": ["subscription", "to delete", "base", "to warn"],
+    "answer": "subscription"
+  },
+  {
+    "question": "het programma",
+    "options": ["programme", "to pick out", "to copy", "to activate"],
+    "answer": "programme"
+  },
+  {
+    "question": "het risico",
+    "options": ["risk", "to be bored", "to steal", "to activate"],
+    "answer": "risk"
+  },
+  {
+    "question": "het vliegticket",
+    "options": ["airline ticket", "registration", "to copy", "to warn"],
+    "answer": "airline ticket"
+  },
+  {
+    "question": "het wachtwoord",
+    "options": ["password", "to warn", "to pick out", "to be bored"],
+    "answer": "password"
+  },
+  {
+    "question": "ingewikkeld",
+    "options": ["complicated", "to steal", "to activate", "to copy"],
+    "answer": "complicated"
+  },
+  {
+    "question": "koffiedrinken",
+    "options": ["to drink coffee", "to warn", "to sign up", "to copy"],
+    "answer": "to drink coffee"
+  },
+  {
+    "question": "kopiëren",
+    "options": ["to copy", "to be bored", "registration", "to warn"],
+    "answer": "to copy"
+  },
+  {
+    "question": "onzeker",
+    "options": ["insecure", "to steal", "to pick out", "to activate"],
+    "answer": "insecure"
+  },
+  {
+    "question": "stelen",
+    "options": ["to steal", "to warn", "to sign up", "to copy"],
+    "answer": "to steal"
+  },
+  {
+    "question": "uitkiezen",
+    "options": ["to pick out", "to activate", "to be bored", "to copy"],
+    "answer": "to pick out"
+  },
+  {
+    "question": "verwijderen",
+    "options": ["to delete", "to warn", "registration", "to copy"],
+    "answer": "to delete"
+  },
+  {
+    "question": "waarschuwen",
+    "options": ["to warn", "to steal", "to be bored", "to sign up"],
+    "answer": "to warn"
+  },
+  {
+    "question": "zich ontwikkelen",
+    "options": ["to develop", "to warn", "to steal", "to copy"],
+    "answer": "to develop"
+  },
+  {
+    "question": "zich vervelen",
+    "options": ["to be bored", "to pick out", "to warn", "to activate"],
+    "answer": "to be bored"
+  },{
     "question": "achteraf",
     "options": ["in hindsight", "brilliant", "evening", "paper"],
     "answer": "in hindsight"
