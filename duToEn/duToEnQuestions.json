@@ -1,5 +1,134 @@
 [
    {
+    "question": "aantal",
+    "options": ["several", "to cancel", "doctor", "growth"],
+    "answer": "several"
+  },
+  {
+    "question": "afzeggen",
+    "options": ["to cancel", "unexpectedly", "nurse", "vaccination"],
+    "answer": "to cancel"
+  },
+  {
+    "question": "bespreken",
+    "options": ["to discuss", "to test", "child health centre", "letter"],
+    "answer": "to discuss"
+  },
+  {
+    "question": "bijwerking",
+    "options": ["side effect", "growth", "to inform", "measles"],
+    "answer": "side effect"
+  },
+  {
+    "question": "de arts",
+    "options": ["doctor", "rubella", "business day", "nutrition"],
+    "answer": "doctor"
+  },
+  {
+    "question": "de bof",
+    "options": ["mumps", "pregnancy", "extensive", "to cancel"],
+    "answer": "mumps"
+  },
+  {
+    "question": "de brief",
+    "options": ["letter", "unexpectedly", "doctor", "to discuss"],
+    "answer": "letter"
+  },
+  {
+    "question": "de groei",
+    "options": ["growth", "to test", "nurse", "vaccination"],
+    "answer": "growth"
+  },
+  {
+    "question": "de jeugd",
+    "options": ["young people", "to inform", "child health centre", "side effect"],
+    "answer": "young people"
+  },
+  {
+    "question": "de vaccinatie",
+    "options": ["vaccination", "mumps", "growth", "business day"],
+    "answer": "vaccination"
+  },
+  {
+    "question": "de verhoging",
+    "options": ["elevation", "to cancel", "letter", "unexpectedly"],
+    "answer": "elevation"
+  },
+  {
+    "question": "de verpleegkundige",
+    "options": ["nurse", "doctor", "to discuss", "disease"],
+    "answer": "nurse"
+  },
+  {
+    "question": "de voeding",
+    "options": ["nutrition", "to inform", "to test", "growth"],
+    "answer": "nutrition"
+  },
+  {
+    "question": "de werkdag",
+    "options": ["business day", "mumps", "child health centre", "pregnancy"],
+    "answer": "business day"
+  },
+  {
+    "question": "de ziekte",
+    "options": ["disease", "to cancel", "rubella", "to discuss"],
+    "answer": "disease"
+  },
+  {
+    "question": "de zwangerschap",
+    "options": ["pregnancy", "doctor", "to test", "nutrition"],
+    "answer": "pregnancy"
+  },
+  {
+    "question": "het consultatiebureau",
+    "options": ["child health centre", "growth", "to inform", "letter"],
+    "answer": "child health centre"
+  },
+  {
+    "question": "het gehoor",
+    "options": ["hearing", "nurse", "side effect", "to cancel"],
+    "answer": "hearing"
+  },
+  {
+    "question": "het recht",
+    "options": ["right", "unexpectedly", "to test", "to discuss"],
+    "answer": "right"
+  },
+  {
+    "question": "informeren",
+    "options": ["to inform", "pregnancy", "business day", "mumps"],
+    "answer": "to inform"
+  },
+  {
+    "question": "mazelen",
+    "options": ["measles", "letter", "doctor", "growth"],
+    "answer": "measles"
+  },
+  {
+    "question": "onverwacht",
+    "options": ["unexpectedly", "nutrition", "to cancel", "disease"],
+    "answer": "unexpectedly"
+  },
+  {
+    "question": "rodehond",
+    "options": ["rubella", "to discuss", "nurse", "business day"],
+    "answer": "rubella"
+  },
+  {
+    "question": "testen",
+    "options": ["to test", "doctor", "mumps", "letter"],
+    "answer": "to test"
+  },
+  {
+    "question": "uitgebreid",
+    "options": ["extensive", "side effect", "to inform", "growth"],
+    "answer": "extensive"
+  },
+  {
+    "question": "bereikbaar",
+    "options": ["accessible", "pregnancy", "child health centre", "to cancel"],
+    "answer": "accessible"
+  },{
     "question": "brengen",
     "options": ["to bring", "to hug", "to rub / to spread", "to cut"],
     "answer": "to bring"
