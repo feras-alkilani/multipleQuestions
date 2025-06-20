@@ -1,5 +1,129 @@
 [
    {
+    "question": "de ademhaling",
+    "options": ["breathing", "movement", "condition", "chance"],
+    "answer": "breathing"
+  },
+  {
+    "question": "de beweging",
+    "options": ["chance", "movement", "chore", "muscle"],
+    "answer": "movement"
+  },
+  {
+    "question": "de conditie",
+    "options": ["(physical) condition", "toilet", "fit", "guilty"],
+    "answer": "(physical) condition"
+  },
+  {
+    "question": "de kans",
+    "options": ["chance", "running", "intensive", "used"],
+    "answer": "chance"
+  },
+  {
+    "question": "de klus",
+    "options": ["chore", "kickboxing", "guilty", "to reduce"],
+    "answer": "chore"
+  },
+  {
+    "question": "de spier",
+    "options": ["muscle", "kickboxing", "guilty", "to reduce"],
+    "answer": "muscle"
+  },
+  {
+    "question": "de wc",
+    "options": ["toilet", "movement", "condition", "chance"],
+    "answer": "toilet"
+  },
+  {
+    "question": "fit",
+    "options": ["fit", "used", "guilty", "moderately"],
+    "answer": "fit"
+  },
+  {
+    "question": "fitness",
+    "options": ["fitness", "to vacuum", "to climb the stairs", "kickboxing"],
+    "answer": "fitness"
+  },
+  {
+    "question": "gewend",
+    "options": ["used", "running", "physical", "domestic"],
+    "answer": "used"
+  },
+  {
+    "question": "hardlopen",
+    "options": ["running", "toilet", "to reduce", "to continue doing something"],
+    "answer": "running"
+  },
+  {
+    "question": "het hart",
+    "options": ["heart", "kickboxing", "to climb the stairs", "moderately"],
+    "answer": "heart"
+  },
+  {
+    "question": "het overgewicht",
+    "options": ["overweight", "guilty", "to vacuum", "chore"],
+    "answer": "overweight"
+  },
+  {
+    "question": "huishoudelijk",
+    "options": ["domestic", "intensive", "guilty", "used"],
+    "answer": "domestic"
+  },
+  {
+    "question": "intensief",
+    "options": ["intensive", "chore", "kickboxing", "to reduce"],
+    "answer": "intensive"
+  },
+  {
+    "question": "kickboksen",
+    "options": ["kickboxing", "running", "guilty", "chance"],
+    "answer": "kickboxing"
+  },
+  {
+    "question": "lichamelijk",
+    "options": ["physical", "used", "to vacuum", "to continue doing something"],
+    "answer": "physical"
+  },
+  {
+    "question": "matig",
+    "options": ["moderately", "running", "chore", "muscle"],
+    "answer": "moderately"
+  },
+  {
+    "question": "minstens",
+    "options": ["at least", "to reduce", "used", "toilet"],
+    "answer": "at least"
+  },
+  {
+    "question": "schuldig",
+    "options": ["guilty", "fitness", "kickboxing", "chore"],
+    "answer": "guilty"
+  },
+  {
+    "question": "stofzuigen",
+    "options": ["to vacuum", "running", "movement", "condition"],
+    "answer": "to vacuum"
+  },
+  {
+    "question": "traplopen",
+    "options": ["to climb the stairs", "to continue doing something", "to reduce", "guilty"],
+    "answer": "to climb the stairs"
+  },
+  {
+    "question": "verminderen",
+    "options": ["to reduce", "kickboxing", "used", "running"],
+    "answer": "to reduce"
+  },
+  {
+    "question": "volhouden",
+    "options": ["to continue doing something", "chore", "movement", "to vacuum"],
+    "answer": "to continue doing something"
+  },
+  {
+    "question": "kloppen",
+    "options": ["to beat", "used", "moderately", "chore"],
+    "answer": "to beat"
+  },{
     "question": "alledaags",
     "options": ["everyday", "skill", "to click", "foreign"],
     "answer": "everyday"
