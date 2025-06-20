@@ -1,5 +1,114 @@
 [
    {
+    "question": "bezig",
+    "options": ["busy", "pocket", "wallet", "broken"],
+    "answer": "busy"
+  },
+  {
+    "question": "de band",
+    "options": ["(conveyor) belt / tyre", "egg", "bad luck", "just"],
+    "answer": "(conveyor) belt / tyre"
+  },
+  {
+    "question": "de fietsenmaker",
+    "options": ["bicycle repair shop", "to come home", "awake", "incredible"],
+    "answer": "bicycle repair shop"
+  },
+  {
+    "question": "de huissleutel",
+    "options": ["house key", "then / afterwards", "spare", "pocket"],
+    "answer": "house key"
+  },
+  {
+    "question": "de jaszak",
+    "options": ["coat pocket", "broken", "wallet", "punctured"],
+    "answer": "coat pocket"
+  },
+  {
+    "question": "de pech",
+    "options": ["bad luck", "in the meantime", "over / past", "just"],
+    "answer": "bad luck"
+  },
+  {
+    "question": "de portemonnee",
+    "options": ["wallet", "spare", "pocket", "incredible"],
+    "answer": "wallet"
+  },
+  {
+    "question": "de reserve",
+    "options": ["spare", "bicycle repair shop", "broken", "awake"],
+    "answer": "spare"
+  },
+  {
+    "question": "de zak",
+    "options": ["pocket", "egg", "bad luck", "broken"],
+    "answer": "pocket"
+  },
+  {
+    "question": "erachter komen",
+    "options": ["to find out", "to come home", "then / afterwards", "incredible"],
+    "answer": "to find out"
+  },
+  {
+    "question": "gebroken",
+    "options": ["broken", "spare", "awake", "just"],
+    "answer": "broken"
+  },
+  {
+    "question": "inmiddels",
+    "options": ["in the meantime", "over / past", "to find out", "bad luck"],
+    "answer": "in the meantime"
+  },
+  {
+    "question": "lek",
+    "options": ["punctured", "egg", "to come home", "awake"],
+    "answer": "punctured"
+  },
+  {
+    "question": "net",
+    "options": ["just", "broken", "spare", "bad luck"],
+    "answer": "just"
+  },
+  {
+    "question": "onderweg",
+    "options": ["on the way", "pocket", "awake", "then / afterwards"],
+    "answer": "on the way"
+  },
+  {
+    "question": "ongelofelijk",
+    "options": ["incredible", "wallet", "egg", "to come home"],
+    "answer": "incredible"
+  },
+  {
+    "question": "thuiskomen",
+    "options": ["to come home", "in the meantime", "just", "bad luck"],
+    "answer": "to come home"
+  },
+  {
+    "question": "uiteindelijk",
+    "options": ["in the end", "punctured", "spare", "awake"],
+    "answer": "in the end"
+  },
+  {
+    "question": "vervolgens",
+    "options": ["then / afterwards", "egg", "wallet", "pocket"],
+    "answer": "then / afterwards"
+  },
+  {
+    "question": "voorbij",
+    "options": ["over / past", "awake", "bicycle repair shop", "to find out"],
+    "answer": "over / past"
+  },
+  {
+    "question": "wakker",
+    "options": ["awake", "broken", "bad luck", "pocket"],
+    "answer": "awake"
+  },
+  {
+    "question": "het ei",
+    "options": ["egg", "spare", "just", "incredible"],
+    "answer": "egg"
+  },{
     "question": "alweer",
     "options": ["already", "advertisement", "playpen", "century"],
     "answer": "already"
