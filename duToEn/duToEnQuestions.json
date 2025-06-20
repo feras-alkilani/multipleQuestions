@@ -1,5 +1,134 @@
 [
     {
+    "question": "absoluut",
+    "options": ["absolutely", "detergent", "overview", "stupid"],
+    "answer": "absolutely"
+  },
+  {
+    "question": "bezuinigen op",
+    "options": ["to cut down on", "luxury", "dentist", "overview"],
+    "answer": "to cut down on"
+  },
+  {
+    "question": "dagelijks",
+    "options": ["daily", "to cancel", "poor", "income"],
+    "answer": "daily"
+  },
+  {
+    "question": "de bezuiniging",
+    "options": ["cutback", "rich", "absolutely", "social security benefits"],
+    "answer": "cutback"
+  },
+  {
+    "question": "de bijstand",
+    "options": ["social security benefits", "debt", "cable television", "luxury"],
+    "answer": "social security benefits"
+  },
+  {
+    "question": "de caissière",
+    "options": ["cashier", "expenses", "health insurance", "full-time"],
+    "answer": "cashier"
+  },
+  {
+    "question": "de geldzaken",
+    "options": ["financial matters", "recurring expenses", "to cancel", "absolutely"],
+    "answer": "financial matters"
+  },
+  {
+    "question": "de inkomsten",
+    "options": ["income", "stupid", "to get by", "cashier"],
+    "answer": "income"
+  },
+  {
+    "question": "de kabel-tv",
+    "options": ["cable television", "part-time", "detergent", "poor"],
+    "answer": "cable television"
+  },
+  {
+    "question": "de schuld",
+    "options": ["debt", "daily", "to get by", "rich"],
+    "answer": "debt"
+  },
+  {
+    "question": "de tandarts",
+    "options": ["dentist", "overview", "to cut down on", "stupid"],
+    "answer": "dentist"
+  },
+  {
+    "question": "de uitgaven",
+    "options": ["expenses", "full-time", "cable television", "luxury"],
+    "answer": "expenses"
+  },
+  {
+    "question": "de vaste lasten",
+    "options": ["recurring expenses", "absolutely", "social security benefits", "detergent"],
+    "answer": "recurring expenses"
+  },
+  {
+    "question": "de zorgverzekering",
+    "options": ["health insurance", "thrifty", "income", "daily"],
+    "answer": "health insurance"
+  },
+  {
+    "question": "het gevolg",
+    "options": ["consequence", "rich", "to cancel", "debt"],
+    "answer": "consequence"
+  },
+  {
+    "question": "het overzicht",
+    "options": ["overview", "cashier", "luxury", "to get by"],
+    "answer": "overview"
+  },
+  {
+    "question": "het wasmiddel",
+    "options": ["detergent", "poor", "cable television", "dentist"],
+    "answer": "detergent"
+  },
+  {
+    "question": "luxe",
+    "options": ["luxury", "expenses", "to cancel", "part-time"],
+    "answer": "luxury"
+  },
+  {
+    "question": "opzeggen",
+    "options": ["to cancel", "overview", "income", "to get by"],
+    "answer": "to cancel"
+  },
+  {
+    "question": "parttime",
+    "options": ["part-time", "recurring expenses", "absolutely", "debt"],
+    "answer": "part-time"
+  },
+  {
+    "question": "rijk",
+    "options": ["rich", "detergent", "luxury", "to get by"],
+    "answer": "rich"
+  },
+  {
+    "question": "rondkomen",
+    "options": ["to get by", "cable television", "cashier", "consequence"],
+    "answer": "to get by"
+  },
+  {
+    "question": "stom",
+    "options": ["stupid", "to cancel", "part-time", "daily"],
+    "answer": "stupid"
+  },
+  {
+    "question": "zuinig",
+    "options": ["thrifty", "detergent", "expenses", "debt"],
+    "answer": "thrifty"
+  },
+  {
+    "question": "arm",
+    "options": ["poor", "income", "dentist", "cable television"],
+    "answer": "poor"
+  },
+  {
+    "question": "fulltime",
+    "options": ["full-time", "rich", "luxury", "to get by"],
+    "answer": "full-time"
+  },{
     "question": "afwassen",
     "options": ["to do the dishes", "to deliver", "to bend down", "to reserve"],
     "answer": "to do the dishes"
