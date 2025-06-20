@@ -1,5 +1,119 @@
 [
    {
+    "question": "de bedoeling",
+    "options": ["intention", "contribution", "toaster", "coat"],
+    "answer": "intention"
+  },
+  {
+    "question": "de bijdrage",
+    "options": ["contribution", "intention", "repair", "tools"],
+    "answer": "contribution"
+  },
+  {
+    "question": "de broodrooster",
+    "options": ["toaster", "coat", "leg", "hole"],
+    "answer": "toaster"
+  },
+  {
+    "question": "de gebruiksaanwijzing",
+    "options": ["operating instructions", "volunteer", "rip", "loose"],
+    "answer": "operating instructions"
+  },
+  {
+    "question": "de jas",
+    "options": ["coat", "sewing machine", "hole", "tools"],
+    "answer": "coat"
+  },
+  {
+    "question": "de naaimachine",
+    "options": ["sewing machine", "toaster", "knowledge", "repair"],
+    "answer": "sewing machine"
+  },
+  {
+    "question": "de poot",
+    "options": ["leg", "rip", "intention", "operating instructions"],
+    "answer": "leg"
+  },
+  {
+    "question": "de reparatie",
+    "options": ["repair", "volunteer", "coat", "to pay attention"],
+    "answer": "repair"
+  },
+  {
+    "question": "de scheur",
+    "options": ["rip", "tools", "sewing machine", "contribution"],
+    "answer": "rip"
+  },
+  {
+    "question": "de smartphone",
+    "options": ["smartphone", "voluntary", "while", "objective"],
+    "answer": "smartphone"
+  },
+  {
+    "question": "de vrijwilliger",
+    "options": ["volunteer", "material", "to solve", "coat"],
+    "answer": "volunteer"
+  },
+  {
+    "question": "enthousiast",
+    "options": ["enthusiastic", "repair", "loose", "knowledge"],
+    "answer": "enthusiastic"
+  },
+  {
+    "question": "het doel",
+    "options": ["objective", "operating instructions", "rip", "to pay attention"],
+    "answer": "objective"
+  },
+  {
+    "question": "het gaatje",
+    "options": ["hole", "contribution", "while", "toaster"],
+    "answer": "hole"
+  },
+  {
+    "question": "het gereedschap",
+    "options": ["tools", "to pay attention", "voluntary", "repair"],
+    "answer": "tools"
+  },
+  {
+    "question": "het materiaal",
+    "options": ["material", "sewing machine", "coat", "intention"],
+    "answer": "material"
+  },
+  {
+    "question": "los",
+    "options": ["loose", "while", "objective", "to solve"],
+    "answer": "loose"
+  },
+  {
+    "question": "opletten",
+    "options": ["to pay attention", "volunteer", "tools", "rip"],
+    "answer": "to pay attention"
+  },
+  {
+    "question": "oplossen",
+    "options": ["to solve", "coat", "operating instructions", "voluntary"],
+    "answer": "to solve"
+  },
+  {
+    "question": "terwijl",
+    "options": ["while", "toaster", "to pay attention", "material"],
+    "answer": "while"
+  },
+  {
+    "question": "verdwijnen",
+    "options": ["to disappear", "to solve", "coat", "toaster"],
+    "answer": "to disappear"
+  },
+  {
+    "question": "vrijwillig",
+    "options": ["voluntary", "rip", "repair", "to pay attention"],
+    "answer": "voluntary"
+  },
+  {
+    "question": "de kennis",
+    "options": ["knowledge", "intention", "tools", "while"],
+    "answer": "knowledge"
+  },{
     "question": "bezig",
     "options": ["busy", "pocket", "wallet", "broken"],
     "answer": "busy"
