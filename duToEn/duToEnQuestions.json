@@ -1,5 +1,129 @@
 [
-     {
+    {
+    "question": "afwassen",
+    "options": ["to do the dishes", "to deliver", "to bend down", "to reserve"],
+    "answer": "to do the dishes"
+  },
+  {
+    "question": "bezorgen",
+    "options": ["to deliver", "to carry", "to sleep in", "to reserve"],
+    "answer": "to deliver"
+  },
+  {
+    "question": "bukken",
+    "options": ["to bend down", "to break down", "to lift", "to call in sick"],
+    "answer": "to bend down"
+  },
+  {
+    "question": "de bediening",
+    "options": ["waiting staff", "restaurant", "plate", "profession"],
+    "answer": "waiting staff"
+  },
+  {
+    "question": "de knie",
+    "options": ["knee", "stiff", "gardener", "butcher"],
+    "answer": "knee"
+  },
+  {
+    "question": "de metselaar",
+    "options": ["mason", "carpenter", "housemate", "butcher"],
+    "answer": "mason"
+  },
+  {
+    "question": "de schilder",
+    "options": ["(house)painter", "gardener", "knee", "restaurant"],
+    "answer": "(house)painter"
+  },
+  {
+    "question": "de slager",
+    "options": ["butcher", "mason", "to carry", "waiting staff"],
+    "answer": "butcher"
+  },
+  {
+    "question": "de timmerman",
+    "options": ["carpenter", "painter", "gardener", "resident"],
+    "answer": "carpenter"
+  },
+  {
+    "question": "de tuinman",
+    "options": ["gardener", "butcher", "restaurant", "to sleep in"],
+    "answer": "gardener"
+  },
+  {
+    "question": "de verhuizing",
+    "options": ["move", "profession", "to bend down", "constantly"],
+    "answer": "move"
+  },
+  {
+    "question": "het beroep",
+    "options": ["profession", "move", "both", "until"],
+    "answer": "profession"
+  },
+  {
+    "question": "het bord",
+    "options": ["plate", "to deliver", "to carry", "knee"],
+    "answer": "plate"
+  },
+  {
+    "question": "het bovenhuis",
+    "options": ["upstairs apartment", "restaurant", "housemate", "profession"],
+    "answer": "upstairs apartment"
+  },
+  {
+    "question": "het restaurant",
+    "options": ["restaurant", "plate", "move", "butcher"],
+    "answer": "restaurant"
+  },
+  {
+    "question": "reserveren",
+    "options": ["to reserve", "to deliver", "to sleep in", "to bend down"],
+    "answer": "to reserve"
+  },
+  {
+    "question": "sjouwen",
+    "options": ["to carry", "to lift", "to call in sick", "to break down"],
+    "answer": "to carry"
+  },
+  {
+    "question": "stijf",
+    "options": ["stiff", "knee", "plate", "both"],
+    "answer": "stiff"
+  },
+  {
+    "question": "stukgaan",
+    "options": ["to break down", "to bend down", "to reserve", "to carry"],
+    "answer": "to break down"
+  },
+  {
+    "question": "tillen",
+    "options": ["to lift", "to sleep in", "to do the dishes", "to call in sick"],
+    "answer": "to lift"
+  },
+  {
+    "question": "totdat",
+    "options": ["until", "both", "important", "resident"],
+    "answer": "until"
+  },
+  {
+    "question": "uitslapen",
+    "options": ["to sleep in", "to carry", "to lift", "to deliver"],
+    "answer": "to sleep in"
+  },
+  {
+    "question": "voortdurend",
+    "options": ["constantly", "until", "to do the dishes", "to reserve"],
+    "answer": "constantly"
+  },
+  {
+    "question": "zich ziek melden",
+    "options": ["to call in sick", "to break down", "to carry", "to lift"],
+    "answer": "to call in sick"
+  },
+  {
+    "question": "serveren",
+    "options": ["to serve", "to deliver", "to bend down", "to call in sick"],
+    "answer": "to serve"
+  }, {
     "question": "basketball",
     "options": ["basketball", "surfing", "rafting", "image"],
     "answer": "basketball"
