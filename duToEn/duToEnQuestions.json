@@ -1,5 +1,124 @@
 [
    {
+    "question": "de bloem",
+    "options": ["flower", "wedding", "photo", "guest"],
+    "answer": "flower"
+  },
+  {
+    "question": "de bruiloft",
+    "options": ["wedding", "photographer", "hairdresser", "ring"],
+    "answer": "wedding"
+  },
+  {
+    "question": "de foto",
+    "options": ["photo", "hotel", "bouquet", "grandpa"],
+    "answer": "photo"
+  },
+  {
+    "question": "de fotograaf",
+    "options": ["photographer", "city hall", "bouquet", "flower"],
+    "answer": "photographer"
+  },
+  {
+    "question": "de gast",
+    "options": ["guest", "grandma", "space", "men's suit"],
+    "answer": "guest"
+  },
+  {
+    "question": "de huwelijksreis",
+    "options": ["honeymoon", "hairdresser", "to pick out", "modern"],
+    "answer": "honeymoon"
+  },
+  {
+    "question": "de kapper",
+    "options": ["hairdresser", "to forget", "bouquet", "ring"],
+    "answer": "hairdresser"
+  },
+  {
+    "question": "de oma",
+    "options": ["Grandma", "exciting", "wedding dress", "to expect"],
+    "answer": "Grandma"
+  },
+  {
+    "question": "de opa",
+    "options": ["Grandpa", "to take place", "flower", "mailbox"],
+    "answer": "Grandpa"
+  },
+  {
+    "question": "de ring",
+    "options": ["ring", "photo", "to pick up", "bouquet"],
+    "answer": "ring"
+  },
+  {
+    "question": "de ruimte",
+    "options": ["space", "hotel", "men's suit", "modern"],
+    "answer": "space"
+  },
+  {
+    "question": "de trouwjurk",
+    "options": ["wedding dress", "grandma", "to expect", "to forget"],
+    "answer": "wedding dress"
+  },
+  {
+    "question": "doorgaan",
+    "options": ["to take place", "exciting", "hairdresser", "city hall"],
+    "answer": "to take place"
+  },
+  {
+    "question": "het boeket",
+    "options": ["bouquet", "to pick up", "flower", "to pick out"],
+    "answer": "bouquet"
+  },
+  {
+    "question": "het hotel",
+    "options": ["hotel", "wedding", "photo", "modern"],
+    "answer": "hotel"
+  },
+  {
+    "question": "het pak",
+    "options": ["men's suit", "honeymoon", "grandpa", "to forget"],
+    "answer": "men's suit"
+  },
+  {
+    "question": "het stadhuis",
+    "options": ["city hall", "to expect", "guest", "mailbox"],
+    "answer": "city hall"
+  },
+  {
+    "question": "modern",
+    "options": ["modern", "bouquet", "grandma", "to take place"],
+    "answer": "modern"
+  },
+  {
+    "question": "uitzoeken",
+    "options": ["to pick (out)", "exciting", "flower", "wedding dress"],
+    "answer": "to pick (out)"
+  },
+  {
+    "question": "vergeten",
+    "options": ["to forget", "photographer", "hairdresser", "honeymoon"],
+    "answer": "to forget"
+  },
+  {
+    "question": "verwachten",
+    "options": ["to expect", "wedding", "photo", "space"],
+    "answer": "to expect"
+  },
+  {
+    "question": "de bus",
+    "options": ["(mail)box", "to pick up", "men's suit", "city hall"],
+    "answer": "(mail)box"
+  },
+  {
+    "question": "ophalen",
+    "options": ["to pick up", "exciting", "bouquet", "guest"],
+    "answer": "to pick up"
+  },
+  {
+    "question": "spannend",
+    "options": ["exciting", "hotel", "grandpa", "to forget"],
+    "answer": "exciting"
+  },{
     "question": "adopteren",
     "options": ["to adopt", "to change", "to divorce", "to live together"],
     "answer": "to adopt"
