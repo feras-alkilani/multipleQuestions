@@ -1,5 +1,119 @@
 [
    {
+    "question": "adopteren",
+    "options": ["to adopt", "to change", "to divorce", "to live together"],
+    "answer": "to adopt"
+  },
+  {
+    "question": "automatisch",
+    "options": ["obvious", "automatically", "unmarried", "love"],
+    "answer": "automatically"
+  },
+  {
+    "question": "bepalen",
+    "options": ["to determine", "to exist", "average", "care"],
+    "answer": "to determine"
+  },
+  {
+    "question": "bestaan",
+    "options": ["to exist", "to change", "one", "grandparent"],
+    "answer": "to exist"
+  },
+  {
+    "question": "bovendien",
+    "options": ["moreover", "average", "partner", "partly"],
+    "answer": "moreover"
+  },
+  {
+    "question": "de ene",
+    "options": ["one", "love", "law", "to adopt"],
+    "answer": "one"
+  },
+  {
+    "question": "de grootouder",
+    "options": ["grandparent", "care", "to live together", "unmarried"],
+    "answer": "grandparent"
+  },
+  {
+    "question": "de liefde",
+    "options": ["love", "to determine", "to divorce", "average"],
+    "answer": "love"
+  },
+  {
+    "question": "de opvoeding",
+    "options": ["upbringing", "moreover", "to exist", "partner"],
+    "answer": "upbringing"
+  },
+  {
+    "question": "de partner",
+    "options": ["partner", "marriage", "to change", "obvious"],
+    "answer": "partner"
+  },
+  {
+    "question": "de wet",
+    "options": ["law", "to adopt", "care", "automatically"],
+    "answer": "law"
+  },
+  {
+    "question": "deels",
+    "options": ["partly", "love", "to divorce", "grandparent"],
+    "answer": "partly"
+  },
+  {
+    "question": "het huwelijk",
+    "options": ["marriage", "to determine", "one", "average"],
+    "answer": "marriage"
+  },
+  {
+    "question": "ongetrouwd",
+    "options": ["unmarried", "to live together", "law", "to adopt"],
+    "answer": "unmarried"
+  },
+  {
+    "question": "samenwonen",
+    "options": ["to live together", "to divorce", "to determine", "care"],
+    "answer": "to live together"
+  },
+  {
+    "question": "scheiden",
+    "options": ["to divorce", "moreover", "automatically", "love"],
+    "answer": "to divorce"
+  },
+  {
+    "question": "steeds",
+    "options": ["increasingly", "partly", "law", "grandparent"],
+    "answer": "increasingly"
+  },
+  {
+    "question": "tegenwoordig",
+    "options": ["nowadays", "partner", "to adopt", "to change"],
+    "answer": "nowadays"
+  },
+  {
+    "question": "vanzelfsprekend",
+    "options": ["obvious", "to divorce", "upbringing", "one"],
+    "answer": "obvious"
+  },
+  {
+    "question": "veranderen",
+    "options": ["to change", "average", "to live together", "love"],
+    "answer": "to change"
+  },
+  {
+    "question": "vroeger",
+    "options": ["in the past", "care", "unmarried", "moreover"],
+    "answer": "in the past"
+  },
+  {
+    "question": "de zorg",
+    "options": ["care", "automatically", "to adopt", "to determine"],
+    "answer": "care"
+  },
+  {
+    "question": "gemiddeld",
+    "options": ["average", "partner", "to live together", "law"],
+    "answer": "average"
+  },{
     "question": "aanhebben",
     "options": ["to wear", "to bake", "to complain", "to skype"],
     "answer": "to wear"
