@@ -1,5 +1,294 @@
 [
-   {
+    {
+    "question": "binnenlopen",
+    "options": [
+      "to walk in",
+      "promotion",
+      "library",
+      "choice"
+    ],
+    "answer": "to walk in"
+  },
+  {
+    "question": "de actie",
+    "options": [
+      "promotion",
+      "loan period",
+      "possibility",
+      "member"
+    ],
+    "answer": "promotion"
+  },
+  {
+    "question": "de bibliotheek",
+    "options": [
+      "library",
+      "to set up",
+      "monitor",
+      "WiFi"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "de keuze",
+    "options": [
+      "choice",
+      "membership",
+      "digital",
+      "to reserve"
+    ],
+    "answer": "choice"
+  },
+  {
+    "question": "de leentermijn",
+    "options": [
+      "loan period",
+      "trial membership",
+      "tablet",
+      "exciting"
+    ],
+    "answer": "loan period"
+  },
+  {
+    "question": "de mogelijkheid",
+    "options": [
+      "possibility",
+      "item",
+      "to study",
+      "reading book"
+    ],
+    "answer": "possibility"
+  },
+  {
+    "question": "de pc",
+    "options": [
+      "pc",
+      "special",
+      "library",
+      "promotion"
+    ],
+    "answer": "pc"
+  },
+  {
+    "question": "de strip",
+    "options": [
+      "comic book",
+      "member",
+      "tablet",
+      "to finish reading"
+    ],
+    "answer": "comic book"
+  },
+  {
+    "question": "de studieplek",
+    "options": [
+      "place to study",
+      "WiFi",
+      "unlimited",
+      "digital"
+    ],
+    "answer": "place to study"
+  },
+  {
+    "question": "digitaal",
+    "options": [
+      "digital",
+      "promotion",
+      "to reserve",
+      "thousands"
+    ],
+    "answer": "digital"
+  },
+  {
+    "question": "duizenden",
+    "options": [
+      "thousands",
+      "library",
+      "trial membership",
+      "to study"
+    ],
+    "answer": "thousands"
+  },
+  {
+    "question": "het lid",
+    "options": [
+      "member",
+      "choice",
+      "tablet",
+      "special"
+    ],
+    "answer": "member"
+  },
+  {
+    "question": "het lidmaatschap",
+    "options": [
+      "membership",
+      "item",
+      "monitor",
+      "exciting"
+    ],
+    "answer": "membership"
+  },
+  {
+    "question": "het luisterboek",
+    "options": [
+      "listening book",
+      "promotion",
+      "unlimited",
+      "to finish reading"
+    ],
+    "answer": "listening book"
+  },
+  {
+    "question": "het proeflidmaatschap",
+    "options": [
+      "trial membership",
+      "WiFi",
+      "to walk in",
+      "library"
+    ],
+    "answer": "trial membership"
+  },
+  {
+    "question": "het scherm",
+    "options": [
+      "monitor",
+      "to reserve",
+      "special",
+      "promotion"
+    ],
+    "answer": "monitor"
+  },
+  {
+    "question": "het voorleesboek",
+    "options": [
+      "reading book",
+      "member",
+      "tablet",
+      "exciting"
+    ],
+    "answer": "reading book"
+  },
+  {
+    "question": "informatief",
+    "options": [
+      "informative",
+      "to study",
+      "unlimited",
+      "item"
+    ],
+    "answer": "informative"
+  },
+  {
+    "question": "inrichten",
+    "options": [
+      "to set up",
+      "promotion",
+      "library",
+      "WiFi"
+    ],
+    "answer": "to set up"
+  },
+  {
+    "question": "onbeperkt",
+    "options": [
+      "unlimited",
+      "trial membership",
+      "special",
+      "monitor"
+    ],
+    "answer": "unlimited"
+  },
+  {
+    "question": "reserveren",
+    "options": [
+      "to reserve",
+      "to walk in",
+      "membership",
+      "choice"
+    ],
+    "answer": "to reserve"
+  },
+  {
+    "question": "spannend",
+    "options": [
+      "exciting",
+      "digital",
+      "item",
+      "WiFi"
+    ],
+    "answer": "exciting"
+  },
+  {
+    "question": "speciaal",
+    "options": [
+      "special",
+      "member",
+      "library",
+      "to study"
+    ],
+    "answer": "special"
+  },
+  {
+    "question": "studeren",
+    "options": [
+      "to study",
+      "promotion",
+      "monitor",
+      "thousands"
+    ],
+    "answer": "to study"
+  },
+  {
+    "question": "stuk",
+    "options": [
+      "item",
+      "trial membership",
+      "choice",
+      "WiFi"
+    ],
+    "answer": "item"
+  },
+  {
+    "question": "uithebben",
+    "options": [
+      "to finish reading",
+      "membership",
+      "to walk in",
+      "digital"
+    ],
+    "answer": "to finish reading"
+  },
+  {
+    "question": "verlengen",
+    "options": [
+      "to extend",
+      "special",
+      "tablet",
+      "monitor"
+    ],
+    "answer": "to extend"
+  },
+  {
+    "question": "wifi",
+    "options": [
+      "WiFi",
+      "promotion",
+      "library",
+      "exciting"
+    ],
+    "answer": "WiFi"
+  },
+  {
+    "question": "de tablet",
+    "options": [
+      "tablet",
+      "to study",
+      "choice",
+      "to reserve"
+    ],
+    "answer": "tablet"
+  },{
     "question": "bereid",
     "options": ["prepared", "accessible", "to offer", "gross"],
     "answer": "prepared"
