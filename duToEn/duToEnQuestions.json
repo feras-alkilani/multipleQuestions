@@ -1,5 +1,124 @@
 [
    {
+    "question": "daarom",
+    "options": ["that's why", "activity", "director", "parent volunteer"],
+    "answer": "that's why"
+  },
+  {
+    "question": "de activiteit",
+    "options": ["activity", "carer", "effort", "helpful"],
+    "answer": "activity"
+  },
+  {
+    "question": "de directeur",
+    "options": ["director", "only", "proud", "to paint"],
+    "answer": "director"
+  },
+  {
+    "question": "de hulpouder",
+    "options": ["parent volunteer", "outing", "to give (to take along)", "card"],
+    "answer": "parent volunteer"
+  },
+  {
+    "question": "de klassenouder",
+    "options": ["class parent", "great", "to organize", "farewell (party)"],
+    "answer": "class parent"
+  },
+  {
+    "question": "de moeite",
+    "options": ["effort", "long lasting", "fantastic", "with great pleasure"],
+    "answer": "effort"
+  },
+  {
+    "question": "de sfeer",
+    "options": ["atmosphere", "incredible", "to do carpentry", "resident"],
+    "answer": "atmosphere"
+  },
+  {
+    "question": "de sportdag",
+    "options": ["sports day", "helpful", "to paint", "farewell (party)"],
+    "answer": "sports day"
+  },
+  {
+    "question": "de verzorger",
+    "options": ["carer", "card", "proud", "organize"],
+    "answer": "carer"
+  },
+  {
+    "question": "dolgraag",
+    "options": ["with great pleasure", "only", "great", "incredible"],
+    "answer": "with great pleasure"
+  },
+  {
+    "question": "enig",
+    "options": ["only", "activity", "to paint", "to organize"],
+    "answer": "only"
+  },
+  {
+    "question": "fantastisch",
+    "options": ["fantastic", "effort", "parent volunteer", "farewell (party)"],
+    "answer": "fantastic"
+  },
+  {
+    "question": "geweldig",
+    "options": ["great", "director", "carer", "proud"],
+    "answer": "great"
+  },
+  {
+    "question": "het afscheid",
+    "options": ["farewell (party)", "incredible", "to do carpentry", "class parent"],
+    "answer": "farewell (party)"
+  },
+  {
+    "question": "het uitstapje",
+    "options": ["outing", "only", "helpful", "with great pleasure"],
+    "answer": "outing"
+  },
+  {
+    "question": "langdurig",
+    "options": ["long lasting", "to give (to take along)", "activity", "proud"],
+    "answer": "long lasting"
+  },
+  {
+    "question": "meegeven",
+    "options": ["to give (to take along)", "director", "great", "to paint"],
+    "answer": "to give (to take along)"
+  },
+  {
+    "question": "organiseren",
+    "options": ["to organize", "fantastic", "carer", "only"],
+    "answer": "to organize"
+  },
+  {
+    "question": "timmeren",
+    "options": ["(to do) carpentry", "helpful", "parent volunteer", "with great pleasure"],
+    "answer": "(to do) carpentry"
+  },
+  {
+    "question": "trots",
+    "options": ["proud", "incredible", "outing", "farewell (party)"],
+    "answer": "proud"
+  },
+  {
+    "question": "verven",
+    "options": ["to paint", "activity", "director", "carer"],
+    "answer": "to paint"
+  },
+  {
+    "question": "het kaartje",
+    "options": ["card", "fantastic", "class parent", "great"],
+    "answer": "card"
+  },
+  {
+    "question": "nuttig",
+    "options": ["helpful", "only", "with great pleasure", "to give (to take along)"],
+    "answer": "helpful"
+  },
+  {
+    "question": "ongelooflijk",
+    "options": ["incredible", "proud", "farewell (party)", "activity"],
+    "answer": "incredible"
+  },{
     "question": "afhalen",
     "options": ["to pick up", "to read", "care", "cost"],
     "answer": "to pick up"
