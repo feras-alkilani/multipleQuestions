@@ -1,5 +1,109 @@
 [
    {
+    "question": "alweer",
+    "options": ["already", "advertisement", "playpen", "century"],
+    "answer": "already"
+  },
+  {
+    "question": "de advertentie",
+    "options": ["advertisement", "memory", "basement", "high chair"],
+    "answer": "advertisement"
+  },
+  {
+    "question": "de box",
+    "options": ["playpen", "stroller", "mattress", "remark"],
+    "answer": "playpen"
+  },
+  {
+    "question": "de eeuw",
+    "options": ["century", "cradle", "bed(stead)", "to keep"],
+    "answer": "century"
+  },
+  {
+    "question": "de herinnering",
+    "options": ["memory", "including", "to seem", "to add"],
+    "answer": "memory"
+  },
+  {
+    "question": "de kelder",
+    "options": ["basement", "worth", "to get rid of", "pity (it's a pity)"],
+    "answer": "basement"
+  },
+  {
+    "question": "de kinderstoel",
+    "options": ["high chair", "the other day", "characteristic", "bed(stead)"],
+    "answer": "high chair"
+  },
+  {
+    "question": "de kinderwagen",
+    "options": ["stroller", "playpen", "remark", "memory"],
+    "answer": "stroller"
+  },
+  {
+    "question": "de matras",
+    "options": ["mattress", "advertisement", "to keep", "including"],
+    "answer": "mattress"
+  },
+  {
+    "question": "de opmerking",
+    "options": ["remark", "cradle", "already", "pity (it's a pity)"],
+    "answer": "remark"
+  },
+  {
+    "question": "de wieg",
+    "options": ["cradle", "basement", "to add", "to seem"],
+    "answer": "cradle"
+  },
+  {
+    "question": "het kenmerk",
+    "options": ["characteristic", "high chair", "to get rid of", "the other day"],
+    "answer": "characteristic"
+  },
+  {
+    "question": "het ledikant",
+    "options": ["bed(stead)", "advertisement", "to keep", "already"],
+    "answer": "bed(stead)"
+  },
+  {
+    "question": "houden",
+    "options": ["to keep", "including", "memory", "playpen"],
+    "answer": "to keep"
+  },
+  {
+    "question": "inclusief",
+    "options": ["including", "worth", "remark", "to add"],
+    "answer": "including"
+  },
+  {
+    "question": "lijken",
+    "options": ["to seem", "advertisement", "the other day", "stroller"],
+    "answer": "to seem"
+  },
+  {
+    "question": "toevoegen",
+    "options": ["to add", "already", "bed(stead)", "pity (it's a pity)"],
+    "answer": "to add"
+  },
+  {
+    "question": "waard",
+    "options": ["worth", "playpen", "to seem", "memory"],
+    "answer": "worth"
+  },
+  {
+    "question": "wegdoen",
+    "options": ["to get rid of", "cradle", "high chair", "advertisement"],
+    "answer": "to get rid of"
+  },
+  {
+    "question": "zonde",
+    "options": ["pity (it's a pity)", "stroller", "bed(stead)", "already"],
+    "answer": "pity (it's a pity)"
+  },
+  {
+    "question": "laatst",
+    "options": ["the other day", "characteristic", "to keep", "to add"],
+    "answer": "the other day"
+  },{
     "question": "aantal",
     "options": ["several", "to cancel", "doctor", "growth"],
     "answer": "several"
