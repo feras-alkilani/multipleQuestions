@@ -1,5 +1,134 @@
 [
    {
+    "question": "besparen",
+    "options": ["to save", "shower", "hallway", "degree"],
+    "answer": "to save"
+  },
+  {
+    "question": "de douche",
+    "options": ["shower", "microwave", "sock", "laundry"],
+    "answer": "shower"
+  },
+  {
+    "question": "de gang",
+    "options": ["hallway", "temperature", "heating", "wool"],
+    "answer": "hallway"
+  },
+  {
+    "question": "de graad",
+    "options": ["degree", "simple", "half full", "ten euros"],
+    "answer": "degree"
+  },
+  {
+    "question": "de magnetron",
+    "options": ["microwave", "toilet", "short", "woollen"],
+    "answer": "microwave"
+  },
+  {
+    "question": "de sok",
+    "options": ["sock", "dirty", "sensible", "probably"],
+    "answer": "sock"
+  },
+  {
+    "question": "de temperatuur",
+    "options": ["temperature", "to fill", "to turn off", "to switch off"],
+    "answer": "temperature"
+  },
+  {
+    "question": "de verwarming",
+    "options": ["heating", "at least", "to notice", "under"],
+    "answer": "heating"
+  },
+  {
+    "question": "de was",
+    "options": ["laundry", "in the winter", "to save", "simple"],
+    "answer": "laundry"
+  },
+  {
+    "question": "de wol",
+    "options": ["wool", "dirty", "to fill", "short"],
+    "answer": "wool"
+  },
+  {
+    "question": "eenvoudig",
+    "options": ["simple", "sensible", "dirty", "to turn off"],
+    "answer": "simple"
+  },
+  {
+    "question": "halfvol",
+    "options": ["half full", "probably", "to switch off", "hallway"],
+    "answer": "half full"
+  },
+  {
+    "question": "het tientje",
+    "options": ["ten euros", "laundry", "woollen", "to notice"],
+    "answer": "ten euros"
+  },
+  {
+    "question": "het toilet",
+    "options": ["toilet", "under", "microwave", "simple"],
+    "answer": "toilet"
+  },
+  {
+    "question": "kort",
+    "options": ["short", "probably", "to fill", "dirty"],
+    "answer": "short"
+  },
+  {
+    "question": "merken",
+    "options": ["to notice", "woollen", "heating", "sock"],
+    "answer": "to notice"
+  },
+  {
+    "question": "minimaal",
+    "options": ["at least", "to switch off", "simple", "dirty"],
+    "answer": "at least"
+  },
+  {
+    "question": "onder",
+    "options": ["under", "laundry", "hallway", "short"],
+    "answer": "under"
+  },
+  {
+    "question": "s winters",
+    "options": ["in the winter", "microwave", "probably", "to save"],
+    "answer": "in the winter"
+  },
+  {
+    "question": "uitdoen",
+    "options": ["to switch off", "dirty", "to notice", "woollen"],
+    "answer": "to switch off"
+  },
+  {
+    "question": "uitzetten",
+    "options": ["to turn off", "sock", "to fill", "at least"],
+    "answer": "to turn off"
+  },
+  {
+    "question": "verstandig",
+    "options": ["sensible", "short", "to switch off", "in the winter"],
+    "answer": "sensible"
+  },
+  {
+    "question": "vuil",
+    "options": ["dirty", "hallway", "to save", "half full"],
+    "answer": "dirty"
+  },
+  {
+    "question": "vullen",
+    "options": ["to fill", "laundry", "to turn off", "probably"],
+    "answer": "to fill"
+  },
+  {
+    "question": "waarschijnlijk",
+    "options": ["probably", "to notice", "sock", "simple"],
+    "answer": "probably"
+  },
+  {
+    "question": "wollen",
+    "options": ["woollen", "heating", "to fill", "dirty"],
+    "answer": "woollen"
+  },{
     "question": "de elektriciteit",
     "options": ["electricity", "supplier", "meter", "bill"],
     "answer": "electricity"
