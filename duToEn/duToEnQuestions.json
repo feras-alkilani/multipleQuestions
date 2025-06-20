@@ -1,5 +1,139 @@
 [
     {
+    "question": "de afvoer",
+    "options": ["drain", "object", "support", "pen"],
+    "answer": "drain"
+  },
+  {
+    "question": "de balie",
+    "options": ["reception desk", "building", "exception", "authority"],
+    "answer": "reception desk"
+  },
+  {
+    "question": "de factuur",
+    "options": ["invoice", "finances", "to tell", "pen"],
+    "answer": "invoice"
+  },
+  {
+    "question": "de factuurdatum",
+    "options": ["invoice date", "support", "very crowded", "object"],
+    "answer": "invoice date"
+  },
+  {
+    "question": "de financiën",
+    "options": ["finances", "authority", "diverse", "to postpone"],
+    "answer": "finances"
+  },
+  {
+    "question": "de inhoud",
+    "options": ["content", "building", "invoice", "pen"],
+    "answer": "content"
+  },
+  {
+    "question": "de instantie",
+    "options": ["authority", "object", "to tell", "support"],
+    "answer": "authority"
+  },
+  {
+    "question": "de pen",
+    "options": ["pen", "drain", "invoice number", "postponement"],
+    "answer": "pen"
+  },
+  {
+    "question": "de pomp",
+    "options": ["pump", "support", "serious", "to increase"],
+    "answer": "pump"
+  },
+  {
+    "question": "de steun",
+    "options": ["support", "financial", "invoice", "reception desk"],
+    "answer": "support"
+  },
+  {
+    "question": "de uitzondering",
+    "options": ["exception", "customer number", "building", "to vary"],
+    "answer": "exception"
+  },
+  {
+    "question": "de voorrijkosten",
+    "options": ["call-out charge", "finances", "object", "pen"],
+    "answer": "call-out charge"
+  },
+  {
+    "question": "divers",
+    "options": ["diverse", "serious", "to increase", "authority"],
+    "answer": "diverse"
+  },
+  {
+    "question": "financieel",
+    "options": ["financial", "invoice", "support", "postponement of payment"],
+    "answer": "financial"
+  },
+  {
+    "question": "groeien",
+    "options": ["to increase", "to be located", "to postpone", "diverse"],
+    "answer": "to increase"
+  },
+  {
+    "question": "het factuurnummer",
+    "options": ["invoice number", "drain", "to tell", "object"],
+    "answer": "invoice number"
+  },
+  {
+    "question": "het gebouw",
+    "options": ["building", "serious", "reception desk", "invoice"],
+    "answer": "building"
+  },
+  {
+    "question": "het klantnummer",
+    "options": ["customer number", "to vary", "content", "very crowded"],
+    "answer": "customer number"
+  },
+  {
+    "question": "het uitstel",
+    "options": ["postponement", "to postpone", "invoice number", "authority"],
+    "answer": "postponement"
+  },
+  {
+    "question": "het uitstel van betaling",
+    "options": ["postponement of payment", "finances", "pen", "support"],
+    "answer": "postponement of payment"
+  },
+  {
+    "question": "het voorwerp",
+    "options": ["object", "call-out charge", "invoice date", "to tell"],
+    "answer": "object"
+  },
+  {
+    "question": "serieus",
+    "options": ["serious", "financial", "building", "to be located"],
+    "answer": "serious"
+  },
+  {
+    "question": "stampvol",
+    "options": ["very crowded", "drain", "to vary", "invoice"],
+    "answer": "very crowded"
+  },
+  {
+    "question": "uitstellen",
+    "options": ["to postpone", "diverse", "to tell", "exception"],
+    "answer": "to postpone"
+  },
+  {
+    "question": "variëren",
+    "options": ["to vary", "object", "customer number", "support"],
+    "answer": "to vary"
+  },
+  {
+    "question": "vertellen",
+    "options": ["to tell", "building", "to increase", "drain"],
+    "answer": "to tell"
+  },
+  {
+    "question": "zitten",
+    "options": ["to be located", "invoice date", "reception desk", "to postpone"],
+    "answer": "to be located"
+  },{
     "question": "afbetalen",
     "options": ["pay off", "to end", "installment", "rule"],
     "answer": "pay off"
