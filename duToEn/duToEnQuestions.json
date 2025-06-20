@@ -1,5 +1,144 @@
 [
    {
+    "question": "bederven",
+    "options": ["to spoil", "to mean", "to visit", "population"],
+    "answer": "to spoil"
+  },
+  {
+    "question": "betekenen",
+    "options": ["to mean", "to spoil", "to visit", "cake"],
+    "answer": "to mean"
+  },
+  {
+    "question": "bezoeken",
+    "options": ["to visit", "to mean", "to spoil", "CD"],
+    "answer": "to visit"
+  },
+  {
+    "question": "de bevolking",
+    "options": ["population", "cake", "to spoil", "soda"],
+    "answer": "population"
+  },
+  {
+    "question": "de cake",
+    "options": ["cake", "population", "CD", "birthday"],
+    "answer": "cake"
+  },
+  {
+    "question": "de cd",
+    "options": ["CD", "cake", "king", "soda"],
+    "answer": "CD"
+  },
+  {
+    "question": "de frisdrank",
+    "options": ["soda", "king", "queen", "gift"],
+    "answer": "soda"
+  },
+  {
+    "question": "de koning",
+    "options": ["king", "queen", "birthday", "glass"],
+    "answer": "king"
+  },
+  {
+    "question": "de koningin",
+    "options": ["queen", "king", "gift", "can"],
+    "answer": "queen"
+  },
+  {
+    "question": "de verjaardag",
+    "options": ["birthday", "walk", "glass", "CD"],
+    "answer": "birthday"
+  },
+  {
+    "question": "de vrijmarkt",
+    "options": ["unregulated street market", "King’s Day", "to congratulate", "plastic"],
+    "answer": "unregulated street market"
+  },
+  {
+    "question": "de wandeling",
+    "options": ["walk", "gift", "can", "to interview"],
+    "answer": "walk"
+  },
+  {
+    "question": "enzovoort",
+    "options": ["and so on", "King’s Day", "strictly", "forbidden"],
+    "answer": "and so on"
+  },
+  {
+    "question": "extra",
+    "options": ["extra", "plastic", "pocket money", "to give away"],
+    "answer": "extra"
+  },
+  {
+    "question": "feliciteren",
+    "options": ["to congratulate", "to interview", "to mean", "to spoil"],
+    "answer": "to congratulate"
+  },
+  {
+    "question": "glazen",
+    "options": ["(made of) glass", "can", "gift", "soda"],
+    "answer": "(made of) glass"
+  },
+  {
+    "question": "het blikje",
+    "options": ["can", "book", "pocket money", "glass"],
+    "answer": "can"
+  },
+  {
+    "question": "het boek",
+    "options": ["book", "can", "cake", "glass"],
+    "answer": "book"
+  },
+  {
+    "question": "het cadeau",
+    "options": ["gift", "cake", "can", "glass"],
+    "answer": "gift"
+  },
+  {
+    "question": "interviewen",
+    "options": ["to interview", "to give away", "to spoil", "to mean"],
+    "answer": "to interview"
+  },
+  {
+    "question": "Koningsdag",
+    "options": ["King’s Day", "walk", "birthday", "glass"],
+    "answer": "King’s Day"
+  },
+  {
+    "question": "plastic",
+    "options": ["plastic", "pocket money", "glass", "can"],
+    "answer": "plastic"
+  },
+  {
+    "question": "streng",
+    "options": ["strictly", "forbidden", "to spoil", "to interview"],
+    "answer": "strictly"
+  },
+  {
+    "question": "verboden",
+    "options": ["forbidden", "strictly", "extra", "to mean"],
+    "answer": "forbidden"
+  },
+  {
+    "question": "verdienen",
+    "options": ["to earn", "to visit", "to give away", "to congratulate"],
+    "answer": "to earn"
+  },
+  {
+    "question": "vieren",
+    "options": ["to celebrate", "to earn", "to mean", "to interview"],
+    "answer": "to celebrate"
+  },
+  {
+    "question": "weggeven",
+    "options": ["to give away", "to visit", "to earn", "to interview"],
+    "answer": "to give away"
+  },
+  {
+    "question": "het zakgeld",
+    "options": ["pocket money", "can", "cake", "glass"],
+    "answer": "pocket money"
+  },{
     "question": "afwachten",
     "options": ["to wait for", "already", "boss", "uncle"],
     "answer": "to wait for"
