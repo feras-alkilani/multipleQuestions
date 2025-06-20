@@ -1,5 +1,139 @@
 [
    {
+    "question": "brengen",
+    "options": ["to bring", "to hug", "to rub / to spread", "to cut"],
+    "answer": "to bring"
+  },
+  {
+    "question": "dankbaar",
+    "options": ["grateful", "beautiful", "love (closing phrase)", "habit"],
+    "answer": "grateful"
+  },
+  {
+    "question": "de bek",
+    "options": ["beak", "front yard", "bird", "stork"],
+    "answer": "beak"
+  },
+  {
+    "question": "de beschuit",
+    "options": ["Dutch rusk", "bird", "doll", "cloth"],
+    "answer": "Dutch rusk"
+  },
+  {
+    "question": "de doek",
+    "options": ["cloth", "kernel", "wooden", "habit"],
+    "answer": "cloth"
+  },
+  {
+    "question": "de felicitatie",
+    "options": ["congratulation(s)", "habit", "luck", "mail"],
+    "answer": "congratulation(s)"
+  },
+  {
+    "question": "de gewoonte",
+    "options": ["habit", "bird", "visitors", "birth announcement card"],
+    "answer": "habit"
+  },
+  {
+    "question": "de kennis",
+    "options": ["acquaintance", "habit", "pink", "bird"],
+    "answer": "acquaintance"
+  },
+  {
+    "question": "de kleertjes",
+    "options": ["(baby) clothes", "luck", "bird", "to bring"],
+    "answer": "(baby) clothes"
+  },
+  {
+    "question": "de korrel",
+    "options": ["kernel", "front yard", "to cut", "love (closing phrase)"],
+    "answer": "kernel"
+  },
+  {
+    "question": "de ooievaar",
+    "options": ["stork", "congratulation(s)", "to bring", "habit"],
+    "answer": "stork"
+  },
+  {
+    "question": "de pop",
+    "options": ["doll", "grateful", "bird", "to hug"],
+    "answer": "doll"
+  },
+  {
+    "question": "de post",
+    "options": ["mail", "bird", "habit", "to cut"],
+    "answer": "mail"
+  },
+  {
+    "question": "de visite",
+    "options": ["visitors", "to bring", "kernel", "habit"],
+    "answer": "visitors"
+  },
+  {
+    "question": "de vogel",
+    "options": ["bird", "habit", "to hug", "pink"],
+    "answer": "bird"
+  },
+  {
+    "question": "de voortuin",
+    "options": ["front yard", "luck", "habit", "cloth"],
+    "answer": "front yard"
+  },
+  {
+    "question": "het geboortekaartje",
+    "options": ["birth announcement card", "congratulation(s)", "habit", "to cut"],
+    "answer": "birth announcement card"
+  },
+  {
+    "question": "het geluk",
+    "options": ["luck", "to bring", "habit", "pink"],
+    "answer": "luck"
+  },
+  {
+    "question": "houten",
+    "options": ["wooden", "to rub / to spread", "habit", "grateful"],
+    "answer": "wooden"
+  },
+  {
+    "question": "knippen",
+    "options": ["to cut", "to bring", "habit", "bird"],
+    "answer": "to cut"
+  },
+  {
+    "question": "knuffelen",
+    "options": ["to hug", "to bring", "habit", "pink"],
+    "answer": "to hug"
+  },
+  {
+    "question": "liefs",
+    "options": ["love (closing phrase)", "to bring", "habit", "bird"],
+    "answer": "love (closing phrase)"
+  },
+  {
+    "question": "prachtig",
+    "options": ["beautiful", "to bring", "habit", "to cut"],
+    "answer": "beautiful"
+  },
+  {
+    "question": "roze",
+    "options": ["pink", "to bring", "habit", "to rub / to spread"],
+    "answer": "pink"
+  },
+  {
+    "question": "smeren",
+    "options": ["to rub / to spread", "to bring", "habit", "grateful"],
+    "answer": "to rub / to spread"
+  },
+  {
+    "question": "wensen",
+    "options": ["to wish", "habit", "to bring", "bird"],
+    "answer": "to wish"
+  },
+  {
+    "question": "zoals",
+    "options": ["such as", "to bring", "habit", "beautiful"],
+    "answer": "such as"
+  },{
     "question": "aanwezig",
     "options": ["present", "to scream", "shortly", "registration"],
     "answer": "present"
