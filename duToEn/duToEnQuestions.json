@@ -1,5 +1,129 @@
 [
-   {
+    {
+    "question": "apart",
+    "options": ["battery", "air", "both", "separately"],
+    "answer": "separately"
+  },
+  {
+    "question": "chemisch",
+    "options": ["harmful", "chemical", "dust", "to burn"],
+    "answer": "chemical"
+  },
+  {
+    "question": "de batterij",
+    "options": ["battery", "garbage bag", "factory", "shell"],
+    "answer": "battery"
+  },
+  {
+    "question": "de container",
+    "options": ["pot", "container", "metal", "cardboard"],
+    "answer": "container"
+  },
+  {
+    "question": "de fabriek",
+    "options": ["factory", "to collect", "dust", "chewing gum"],
+    "answer": "factory"
+  },
+  {
+    "question": "de frituurolie",
+    "options": ["frying oil", "lost", "card", "air"],
+    "answer": "frying oil"
+  },
+  {
+    "question": "de kauwgom",
+    "options": ["frying oil", "chewing gum", "card", "factory"],
+    "answer": "chewing gum"
+  },
+  {
+    "question": "de lucht",
+    "options": ["air", "waste", "cardboard", "harmful"],
+    "answer": "air"
+  },
+  {
+    "question": "de pas",
+    "options": ["card", "to burn", "separately", "factory"],
+    "answer": "card"
+  },
+  {
+    "question": "de pot",
+    "options": ["shell", "dust", "pot", "battery"],
+    "answer": "pot"
+  },
+  {
+    "question": "de schil",
+    "options": ["shell", "to hand in", "to sort", "metal"],
+    "answer": "shell"
+  },
+  {
+    "question": "de stof",
+    "options": ["dust", "chemical", "factory", "pot"],
+    "answer": "dust"
+  },
+  {
+    "question": "de verf",
+    "options": ["paint", "container", "by telephone", "lost"],
+    "answer": "paint"
+  },
+  {
+    "question": "de vuilniszak",
+    "options": ["garbage bag", "battery", "to collect", "air"],
+    "answer": "garbage bag"
+  },
+  {
+    "question": "het afval",
+    "options": ["waste", "shell", "separately", "to hand in"],
+    "answer": "waste"
+  },
+  {
+    "question": "het karton",
+    "options": ["cardboard", "chemical", "pot", "to burn"],
+    "answer": "cardboard"
+  },
+  {
+    "question": "het metaal",
+    "options": ["metal", "frying oil", "air", "lost"],
+    "answer": "metal"
+  },
+  {
+    "question": "inleveren",
+    "options": ["to hand in", "to sort", "battery", "dust"],
+    "answer": "to hand in"
+  },
+  {
+    "question": "kwijt",
+    "options": ["lost", "paint", "garbage bag", "factory"],
+    "answer": "lost"
+  },
+  {
+    "question": "schadelijk",
+    "options": ["harmful", "card", "to collect", "separately"],
+    "answer": "harmful"
+  },
+  {
+    "question": "scheiden",
+    "options": ["to sort", "frying oil", "dust", "cardboard"],
+    "answer": "to sort"
+  },
+  {
+    "question": "telefonisch",
+    "options": ["by telephone", "to burn", "shell", "battery"],
+    "answer": "by telephone"
+  },
+  {
+    "question": "terechtkomen",
+    "options": ["to end up", "to hand in", "cardboard", "factory"],
+    "answer": "to end up"
+  },
+  {
+    "question": "verbranden",
+    "options": ["to burn", "to sort", "dust", "garbage bag"],
+    "answer": "to burn"
+  },
+  {
+    "question": "verzamelen",
+    "options": ["to collect", "air", "pot", "chemical"],
+    "answer": "to collect"
+  },{
     "question": "aaien",
     "options": ["to pet", "to climb", "to shout", "to run"],
     "answer": "to pet"
