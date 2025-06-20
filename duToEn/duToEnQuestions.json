@@ -1,5 +1,119 @@
 [
     {
+    "question": "afbetalen",
+    "options": ["pay off", "to end", "installment", "rule"],
+    "answer": "pay off"
+  },
+  {
+    "question": "beëindigen",
+    "options": ["to end", "installment", "arrangement", "interest"],
+    "answer": "to end"
+  },
+  {
+    "question": "de afbetaling",
+    "options": ["installment", "rule", "interest", "contract"],
+    "answer": "installment"
+  },
+  {
+    "question": "de regel",
+    "options": ["rule", "arrangement", "part", "leather"],
+    "answer": "rule"
+  },
+  {
+    "question": "de regeling",
+    "options": ["arrangement", "interest", "to sign", "couch"],
+    "answer": "arrangement"
+  },
+  {
+    "question": "de rente",
+    "options": ["interest", "purchase amount", "contract", "just"],
+    "answer": "interest"
+  },
+  {
+    "question": "gespreid",
+    "options": ["in installments", "part", "term", "to be left with"],
+    "answer": "in installments"
+  },
+  {
+    "question": "het aankoopbedrag",
+    "options": ["purchase amount", "leather", "rule", "to end"],
+    "answer": "purchase amount"
+  },
+  {
+    "question": "het bankstel",
+    "options": ["couch", "to sign", "installment", "more comfortable"],
+    "answer": "couch"
+  },
+  {
+    "question": "het contract",
+    "options": ["contract", "something like that", "rule", "just"],
+    "answer": "contract"
+  },
+  {
+    "question": "het deel",
+    "options": ["part", "arrangement", "to save", "contract"],
+    "answer": "part"
+  },
+  {
+    "question": "het gedeelte",
+    "options": ["part", "rule", "interest", "to learn"],
+    "answer": "part"
+  },
+  {
+    "question": "het leer",
+    "options": ["leather", "to end", "to sign", "rule"],
+    "answer": "leather"
+  },
+  {
+    "question": "lekkerder",
+    "options": ["more comfortable", "leather", "term", "contract"],
+    "answer": "more comfortable"
+  },
+  {
+    "question": "leren",
+    "options": ["to learn", "pay off", "contract", "couch"],
+    "answer": "to learn"
+  },
+  {
+    "question": "overhouden",
+    "options": ["to be left with", "interest", "just", "something like that"],
+    "answer": "to be left with"
+  },
+  {
+    "question": "pas",
+    "options": ["just", "rule", "arrangement", "to save"],
+    "answer": "just"
+  },
+  {
+    "question": "sparen",
+    "options": ["to save", "leather", "more comfortable", "purchase amount"],
+    "answer": "to save"
+  },
+  {
+    "question": "tegelijkertijd",
+    "options": ["at the same time", "to sign", "contract", "installment"],
+    "answer": "at the same time"
+  },
+  {
+    "question": "tekenen",
+    "options": ["to sign", "interest", "term", "couch"],
+    "answer": "to sign"
+  },
+  {
+    "question": "zoiets",
+    "options": ["something like that", "purchase amount", "to end", "just"],
+    "answer": "something like that"
+  },
+  {
+    "question": "de termijn",
+    "options": ["term", "to learn", "to save", "in installments"],
+    "answer": "term"
+  },
+  {
+    "question": "even",
+    "options": ["for a while", "interest", "arrangement", "couch"],
+    "answer": "for a while"
+  },{
     "question": "absoluut",
     "options": ["absolutely", "detergent", "overview", "stupid"],
     "answer": "absolutely"
