@@ -1,5 +1,109 @@
 [
-    {
+   {
+    "question": "achteraf",
+    "options": ["in hindsight", "brilliant", "evening", "paper"],
+    "answer": "in hindsight"
+  },
+  {
+    "question": "briljant",
+    "options": ["motivated", "brilliant", "cool", "to stimulate"],
+    "answer": "brilliant"
+  },
+  {
+    "question": "de avond",
+    "options": ["evening", "unsatisfactory (grade)", "report card", "reasonable"],
+    "answer": "evening"
+  },
+  {
+    "question": "de onvoldoende",
+    "options": ["unsatisfactory (grade)", "to lose", "to worry", "little man"],
+    "answer": "unsatisfactory (grade)"
+  },
+  {
+    "question": "de voldoende",
+    "options": ["satisfactory (grade)", "childish", "stubborn", "total"],
+    "answer": "satisfactory (grade)"
+  },
+  {
+    "question": "eigenwijs",
+    "options": ["reasonble", "stubborn", "to recognize", "motivated"],
+    "answer": "stubborn"
+  },
+  {
+    "question": "gemotiveerd",
+    "options": ["motivated", "report card", "to stimulate", "cool"],
+    "answer": "motivated"
+  },
+  {
+    "question": "herkennen",
+    "options": ["to recognize", "evening", "to lose", "insufficient"],
+    "answer": "to recognize"
+  },
+  {
+    "question": "het mannetje",
+    "options": ["little man", "childish", "to worry", "reasonable"],
+    "answer": "little man"
+  },
+  {
+    "question": "het papier",
+    "options": ["paper", "to stimulate", "report card", "cool"],
+    "answer": "paper"
+  },
+  {
+    "question": "het rapport",
+    "options": ["report card", "brilliant", "motivated", "to worry"],
+    "answer": "report card"
+  },
+  {
+    "question": "het resultaat",
+    "options": ["result", "childish", "unsatisfactory (grade)", "to lose"],
+    "answer": "result"
+  },
+  {
+    "question": "kinderachtig",
+    "options": ["childish", "total", "to recognize", "to stimulate"],
+    "answer": "childish"
+  },
+  {
+    "question": "kwijtraken",
+    "options": ["to lose", "insufficient", "cool", "reasonable"],
+    "answer": "to lose"
+  },
+  {
+    "question": "onvoldoende",
+    "options": ["insufficient", "stubborn", "motivated", "report card"],
+    "answer": "insufficient"
+  },
+  {
+    "question": "redelijk",
+    "options": ["reasonable", "to worry", "little man", "childish"],
+    "answer": "reasonable"
+  },
+  {
+    "question": "stimuleren",
+    "options": ["to stimulate", "to recognize", "unsatisfactory (grade)", "to lose"],
+    "answer": "to stimulate"
+  },
+  {
+    "question": "tof",
+    "options": ["cool", "satisfactory (grade)", "brilliant", "evening"],
+    "answer": "cool"
+  },
+  {
+    "question": "zich zorgen maken",
+    "options": ["to worry", "report card", "childish", "motivated"],
+    "answer": "to worry"
+  },
+  {
+    "question": "het totaal",
+    "options": ["total", "insufficient", "to stimulate", "to lose"],
+    "answer": "total"
+  },
+  {
+    "question": "toen",
+    "options": ["when", "reasonble", "cool", "paper"],
+    "answer": "when"
+  }, {
     "question": "binnenlopen",
     "options": [
       "to walk in",
