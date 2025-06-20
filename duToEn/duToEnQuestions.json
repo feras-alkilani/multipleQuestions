@@ -1,5 +1,129 @@
 [
-    {
+   {
+    "question": "aannemen",
+    "options": ["to hire", "helpful", "goods", "manager"],
+    "answer": "to hire"
+  },
+  {
+    "question": "behulpzaam",
+    "options": ["helpful", "shift", "job interview", "accurate"],
+    "answer": "helpful"
+  },
+  {
+    "question": "beschikbaar",
+    "options": ["available", "employee", "flexible", "warehouse"],
+    "answer": "available"
+  },
+  {
+    "question": "de dienst",
+    "options": ["shift", "task", "to unload", "quality"],
+    "answer": "shift"
+  },
+  {
+    "question": "de goederen",
+    "options": ["goods", "good morning", "Human Resources", "to apply for a job"],
+    "answer": "goods"
+  },
+  {
+    "question": "de manager",
+    "options": ["manager", "to load", "example", "well"],
+    "answer": "manager"
+  },
+  {
+    "question": "de medewerker",
+    "options": ["employee", "to discuss", "full time", "independent"],
+    "answer": "employee"
+  },
+  {
+    "question": "de taak",
+    "options": ["task", "warehouse", "to take over", "diligent"],
+    "answer": "task"
+  },
+  {
+    "question": "flexibel",
+    "options": ["flexible", "to hire", "quality", "job interview"],
+    "answer": "flexible"
+  },
+  {
+    "question": "fulltime",
+    "options": ["full time", "to unload", "helpful", "to apply for a job"],
+    "answer": "full time"
+  },
+  {
+    "question": "goedemorgen",
+    "options": ["good morning", "to discuss", "Human Resources", "accurate"],
+    "answer": "good morning"
+  },
+  {
+    "question": "het magazijn",
+    "options": ["warehouse", "diligent", "shift", "to load"],
+    "answer": "warehouse"
+  },
+  {
+    "question": "het sollicitatiegesprek",
+    "options": ["job interview", "to take over", "helpful", "employee"],
+    "answer": "job interview"
+  },
+  {
+    "question": "het voorbeeld",
+    "options": ["example", "manager", "available", "well"],
+    "answer": "example"
+  },
+  {
+    "question": "ijverig",
+    "options": ["diligent", "goods", "full time", "to hire"],
+    "answer": "diligent"
+  },
+  {
+    "question": "laden",
+    "options": ["to load", "to discuss", "shift", "flexible"],
+    "answer": "to load"
+  },
+  {
+    "question": "lossen",
+    "options": ["to unload", "to apply for a job", "good morning", "independent"],
+    "answer": "to unload"
+  },
+  {
+    "question": "nauwkeurig",
+    "options": ["accurate", "employee", "manager", "to hire"],
+    "answer": "accurate"
+  },
+  {
+    "question": "overleggen",
+    "options": ["to discuss", "warehouse", "helpful", "full time"],
+    "answer": "to discuss"
+  },
+  {
+    "question": "overnemen",
+    "options": ["to take over", "to unload", "quality", "available"],
+    "answer": "to take over"
+  },
+  {
+    "question": "solliciteren",
+    "options": ["to apply for a job", "task", "to load", "diligent"],
+    "answer": "to apply for a job"
+  },
+  {
+    "question": "tja",
+    "options": ["well", "shift", "manager", "example"],
+    "answer": "well"
+  },
+  {
+    "question": "zelfstandig",
+    "options": ["independent", "to discuss", "to unload", "employee"],
+    "answer": "independent"
+  },
+  {
+    "question": "personeelszaken",
+    "options": ["Human Resources", "full time", "goods", "helpful"],
+    "answer": "Human Resources"
+  },
+  {
+    "question": "de kwaliteit",
+    "options": ["quality", "to take over", "good morning", "to hire"],
+    "answer": "quality"
+  }, {
     "question": "apart",
     "options": ["battery", "air", "both", "separately"],
     "answer": "separately"
