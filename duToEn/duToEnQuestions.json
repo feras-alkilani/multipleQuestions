@@ -1,5 +1,104 @@
 [
    {
+    "question": "alledaags",
+    "options": ["everyday", "skill", "to click", "foreign"],
+    "answer": "everyday"
+  },
+  {
+    "question": "bestaan uit",
+    "options": ["to consist of", "interest", "to practice", "use"],
+    "answer": "to consist of"
+  },
+  {
+    "question": "de bankzaken",
+    "options": ["banking", "walk-in consulting hours", "to have", "to go on"],
+    "answer": "banking"
+  },
+  {
+    "question": "de buitenlander",
+    "options": ["foreigner", "learning material", "customer service", "pace"],
+    "answer": "foreigner"
+  },
+  {
+    "question": "de interesse",
+    "options": ["interest", "to improve", "subject", "digital signature"],
+    "answer": "interest"
+  },
+  {
+    "question": "de klantenservice",
+    "options": ["customer service", "to click", "foreign", "to practice"],
+    "answer": "customer service"
+  },
+  {
+    "question": "de lesstof",
+    "options": ["learning material", "to have", "to improve", "pace"],
+    "answer": "learning material"
+  },
+  {
+    "question": "de vaardigheid",
+    "options": ["skill", "banking", "to consist of", "to go on"],
+    "answer": "skill"
+  },
+  {
+    "question": "de zoekmachine",
+    "options": ["search engine", "interest", "to have", "walk-in consulting hours"],
+    "answer": "search engine"
+  },
+  {
+    "question": "DigiD",
+    "options": ["DigiD (digital signature)", "to go on", "to click", "customer service"],
+    "answer": "DigiD (digital signature)"
+  },
+  {
+    "question": "het gebruik",
+    "options": ["use", "foreign", "to practice", "to consist of"],
+    "answer": "use"
+  },
+  {
+    "question": "het inloopspreekuur",
+    "options": ["walk-in consulting hours", "skill", "banking", "interest"],
+    "answer": "walk-in consulting hours"
+  },
+  {
+    "question": "het onderwerp",
+    "options": ["subject", "to click", "digital signature", "to go on"],
+    "answer": "subject"
+  },
+  {
+    "question": "het tempo",
+    "options": ["pace", "to have", "to improve", "learning material"],
+    "answer": "pace"
+  },
+  {
+    "question": "klikken",
+    "options": ["to click", "customer service", "interest", "skill"],
+    "answer": "to click"
+  },
+  {
+    "question": "oefenen",
+    "options": ["to practice", "to consist of", "foreign", "banking"],
+    "answer": "to practice"
+  },
+  {
+    "question": "opgaan",
+    "options": ["to go on", "to have", "digital signature", "walk-in consulting hours"],
+    "answer": "to go on"
+  },
+  {
+    "question": "tijdens",
+    "options": ["during", "to practice", "to improve", "to click"],
+    "answer": "during"
+  },
+  {
+    "question": "verbeteren",
+    "options": ["to improve", "to go on", "customer service", "pace"],
+    "answer": "to improve"
+  },
+  {
+    "question": "voeren",
+    "options": ["to have", "interest", "skill", "use"],
+    "answer": "to have"
+  },{
     "question": "aanmelden",
     "options": ["to sign up", "upcoming", "to activate", "registration"],
     "answer": "to sign up"
