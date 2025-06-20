@@ -1,5 +1,109 @@
 [
    {
+    "question": "aanpakken",
+    "options": ["to handle", "to advise", "listener", "radio"],
+    "answer": "to handle"
+  },
+  {
+    "question": "adviseren",
+    "options": ["to advise", "to contact someone", "network", "unemployed"],
+    "answer": "to advise"
+  },
+  {
+    "question": "behoorlijk",
+    "options": ["quite", "temporary", "employee", "sports club"],
+    "answer": "quite"
+  },
+  {
+    "question": "contact opnemen met iemand",
+    "options": ["to contact someone", "to hear about", "older person", "unemployment"],
+    "answer": "to contact someone"
+  },
+  {
+    "question": "de luisteraar",
+    "options": ["listener", "jobseeker", "network", "temporary"],
+    "answer": "listener"
+  },
+  {
+    "question": "de oudere",
+    "options": ["older person", "unemployment benefits", "to network", "employer"],
+    "answer": "older person"
+  },
+  {
+    "question": "de radio",
+    "options": ["radio", "employee", "to handle", "unemployed"],
+    "answer": "radio"
+  },
+  {
+    "question": "de sportclub",
+    "options": ["sports club", "contact", "to advise", "jobseeker"],
+    "answer": "sports club"
+  },
+  {
+    "question": "de werkgever",
+    "options": ["employer", "to contact someone", "older person", "to hear about"],
+    "answer": "employer"
+  },
+  {
+    "question": "de werkloosheid",
+    "options": ["unemployment", "to handle", "listener", "network"],
+    "answer": "unemployment"
+  },
+  {
+    "question": "de werkzoekende",
+    "options": ["jobseeker", "to advise", "temporary", "employee"],
+    "answer": "jobseeker"
+  },
+  {
+    "question": "het contact",
+    "options": ["contact", "unemployed", "employer", "radio"],
+    "answer": "contact"
+  },
+  {
+    "question": "het netwerk",
+    "options": ["network", "to network", "unemployment benefits", "sports club"],
+    "answer": "network"
+  },
+  {
+    "question": "het uitzendbureau",
+    "options": ["temp agency", "to hear about", "jobseeker", "to advise"],
+    "answer": "temp agency"
+  },
+  {
+    "question": "horen van",
+    "options": ["to hear about", "employee", "contact", "temporary"],
+    "answer": "to hear about"
+  },
+  {
+    "question": "netwerken",
+    "options": ["to network", "unemployed", "older person", "to handle"],
+    "answer": "to network"
+  },
+  {
+    "question": "tijdelijk",
+    "options": ["temporary", "network", "to contact someone", "listener"],
+    "answer": "temporary"
+  },
+  {
+    "question": "vast",
+    "options": ["permanent", "to advise", "sports club", "jobseeker"],
+    "answer": "permanent"
+  },
+  {
+    "question": "werkloos",
+    "options": ["unemployed", "to handle", "employer", "to network"],
+    "answer": "unemployed"
+  },
+  {
+    "question": "de uitkering",
+    "options": ["unemployment benefits", "listener", "to contact someone", "older person"],
+    "answer": "unemployment benefits"
+  },
+  {
+    "question": "de werknemer",
+    "options": ["employee", "to advise", "temporary", "network"],
+    "answer": "employee"
+  },{
     "question": "afwisselend",
     "options": ["varied", "reliable", "fascinating", "requirement"],
     "answer": "varied"
