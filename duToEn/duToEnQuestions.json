@@ -1,5 +1,159 @@
 [
    {
+    "question": "bereid",
+    "options": ["prepared", "accessible", "to offer", "gross"],
+    "answer": "prepared"
+  },
+  {
+    "question": "bereikbaar",
+    "options": ["accessible", "prepared", "wage", "pack"],
+    "answer": "accessible"
+  },
+  {
+    "question": "bieden",
+    "options": ["to offer", "perseverance", "salary", "mix"],
+    "answer": "to offer"
+  },
+  {
+    "question": "bruto",
+    "options": ["gross", "monthly", "both", "weekly"],
+    "answer": "gross"
+  },
+  {
+    "question": "de bereikbaarheid",
+    "options": ["accessibility", "physical", "application form", "wage"],
+    "answer": "accessibility"
+  },
+  {
+    "question": "de inpakker",
+    "options": ["packer", "to wrap", "magazine", "mentalilty"],
+    "answer": "packer"
+  },
+  {
+    "question": "de instelling",
+    "options": ["mentality", "mix", "salary", "gross"],
+    "answer": "mentality"
+  },
+  {
+    "question": "de mix",
+    "options": ["mix", "prepared", "application form", "physical"],
+    "answer": "mix"
+  },
+  {
+    "question": "de omschrijving",
+    "options": ["description", "salary", "both", "to offer"],
+    "answer": "description"
+  },
+  {
+    "question": "de persoonsgegevens",
+    "options": ["personal details", "weekly", "perseverance", "to sort"],
+    "answer": "personal details"
+  },
+  {
+    "question": "de productiemedewerker",
+    "options": ["production worker", "accessible", "pack", "psychological"],
+    "answer": "production worker"
+  },
+  {
+    "question": "de werktijden",
+    "options": ["working hours", "gross", "both", "to wrap"],
+    "answer": "working hours"
+  },
+  {
+    "question": "de werkzaamheden",
+    "options": ["activities", "mix", "to offer", "monthly"],
+    "answer": "activities"
+  },
+  {
+    "question": "doorwerken",
+    "options": ["to continue working", "physical", "wage", "pack"],
+    "answer": "to continue working"
+  },
+  {
+    "question": "fysiek",
+    "options": ["physical", "prepared", "salary", "personal details"],
+    "answer": "physical"
+  },
+  {
+    "question": "het doorzettingsvermogen",
+    "options": ["perseverance", "to offer", "gross", "to wrap"],
+    "answer": "perseverance"
+  },
+  {
+    "question": "het loon",
+    "options": ["wage", "weekly", "mentalilty", "monthly"],
+    "answer": "wage"
+  },
+  {
+    "question": "het minimumloon",
+    "options": ["minimum wage", "pack", "salary", "prepared"],
+    "answer": "minimum wage"
+  },
+  {
+    "question": "het salaris",
+    "options": ["salary", "physical", "weekly", "application form"],
+    "answer": "salary"
+  },
+  {
+    "question": "het sollicitatieformulier",
+    "options": ["application form", "pack", "to sort", "psychological"],
+    "answer": "application form"
+  },
+  {
+    "question": "het talent",
+    "options": ["talent", "both", "gross", "prepared"],
+    "answer": "talent"
+  },
+  {
+    "question": "het tijdschrift",
+    "options": ["magazine", "mentalilty", "accessible", "wage"],
+    "answer": "magazine"
+  },
+  {
+    "question": "inpakken",
+    "options": ["to wrap", "wage", "salary", "both"],
+    "answer": "to wrap"
+  },
+  {
+    "question": "maandelijks",
+    "options": ["monthly", "minimum wage", "perseverance", "pack"],
+    "answer": "monthly"
+  },
+  {
+    "question": "netto",
+    "options": ["net", "to offer", "psychological", "wage"],
+    "answer": "net"
+  },
+  {
+    "question": "psychisch",
+    "options": ["psychological", "physical", "wage", "prepared"],
+    "answer": "psychological"
+  },
+  {
+    "question": "sorteren",
+    "options": ["to sort", "to continue working", "minimum wage", "pack"],
+    "answer": "to sort"
+  },
+  {
+    "question": "uiteraard",
+    "options": ["of course", "personal details", "gross", "to wrap"],
+    "answer": "of course"
+  },
+  {
+    "question": "wekelijks",
+    "options": ["weekly", "mentalilty", "salary", "both"],
+    "answer": "weekly"
+  },
+  {
+    "question": "zowel … als",
+    "options": ["both", "prepared", "pack", "to wrap"],
+    "answer": "both"
+  },
+  {
+    "question": "passen",
+    "options": ["to suit", "pack", "gross", "minimum wage"],
+    "answer": "to suit"
+  },{
     "question": "aanpakken",
     "options": ["to handle", "to advise", "listener", "radio"],
     "answer": "to handle"
