@@ -1,5 +1,139 @@
 [
    {
+    "question": "de elektriciteit",
+    "options": ["electricity", "supplier", "meter", "bill"],
+    "answer": "electricity"
+  },
+  {
+    "question": "de leverancier",
+    "options": ["supplier", "power", "heat", "plug"],
+    "answer": "supplier"
+  },
+  {
+    "question": "de meter",
+    "options": ["meter", "company", "future", "to dry"],
+    "answer": "meter"
+  },
+  {
+    "question": "de meterkast",
+    "options": ["meter cupboard", "windmill", "meter reading", "rarely"],
+    "answer": "meter cupboard"
+  },
+  {
+    "question": "de meterstand",
+    "options": ["meter reading", "immediately", "wind", "gas"],
+    "answer": "meter reading"
+  },
+  {
+    "question": "de molen",
+    "options": ["mill", "to think", "plug", "automatically"],
+    "answer": "mill"
+  },
+  {
+    "question": "de rekening",
+    "options": ["bill", "company", "term", "to wash"],
+    "answer": "bill"
+  },
+  {
+    "question": "de stekker",
+    "options": ["plug", "electricity", "solar energy", "to supply"],
+    "answer": "plug"
+  },
+  {
+    "question": "de storing",
+    "options": ["outage", "heat", "rarely", "use"],
+    "answer": "outage"
+  },
+  {
+    "question": "de stroom",
+    "options": ["power", "electricity", "meter", "heat"],
+    "answer": "power"
+  },
+  {
+    "question": "de termijn",
+    "options": ["term", "company", "wind", "meter cupboard"],
+    "answer": "term"
+  },
+  {
+    "question": "de toekomst",
+    "options": ["future", "plug", "heat", "electricity"],
+    "answer": "future"
+  },
+  {
+    "question": "de warmte",
+    "options": ["heat", "supplier", "mill", "rarely"],
+    "answer": "heat"
+  },
+  {
+    "question": "de wind",
+    "options": ["wind", "to dry", "to wash", "company"],
+    "answer": "wind"
+  },
+  {
+    "question": "de windmolen",
+    "options": ["windmill", "electricity", "heat", "power"],
+    "answer": "windmill"
+  },
+  {
+    "question": "de zonne-energie",
+    "options": ["solar energy", "plug", "company", "to think"],
+    "answer": "solar energy"
+  },
+  {
+    "question": "drogen",
+    "options": ["to dry", "immediately", "rarely", "to supply"],
+    "answer": "to dry"
+  },
+  {
+    "question": "het bedrijf",
+    "options": ["company", "wind", "term", "use"],
+    "answer": "company"
+  },
+  {
+    "question": "het gas",
+    "options": ["gas", "windmill", "bill", "to wash"],
+    "answer": "gas"
+  },
+  {
+    "question": "het type",
+    "options": ["type (of)", "electricity", "to think", "heat"],
+    "answer": "type (of)"
+  },
+  {
+    "question": "leveren",
+    "options": ["to supply", "power", "to dry", "meter reading"],
+    "answer": "to supply"
+  },
+  {
+    "question": "nadenken",
+    "options": ["to think", "plug", "electricity", "heat"],
+    "answer": "to think"
+  },
+  {
+    "question": "onmiddellijk",
+    "options": ["immediately", "wind", "company", "solar energy"],
+    "answer": "immediately"
+  },
+  {
+    "question": "vanzelf",
+    "options": ["automatically", "meter cupboard", "bill", "to dry"],
+    "answer": "automatically"
+  },
+  {
+    "question": "wassen",
+    "options": ["to wash", "future", "electricity", "to supply"],
+    "answer": "to wash"
+  },
+  {
+    "question": "zelden",
+    "options": ["rarely", "power", "to dry", "solar energy"],
+    "answer": "rarely"
+  },
+  {
+    "question": "het gebruik",
+    "options": ["use", "electricity", "meter", "plug"],
+    "answer": "use"
+  },{
     "question": "de aankoop",
     "options": ["purchase", "energy", "fries", "frying pan"],
     "answer": "purchase"
