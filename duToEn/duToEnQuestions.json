@@ -1,5 +1,149 @@
 [
    {
+    "question": "aaien",
+    "options": ["to pet", "to climb", "to shout", "to run"],
+    "answer": "to pet"
+  },
+  {
+    "question": "afgelopen",
+    "options": ["last", "ambulance", "step stool", "to break"],
+    "answer": "last"
+  },
+  {
+    "question": "bijten",
+    "options": ["to bite", "to lose", "highway", "to shout"],
+    "answer": "to bite"
+  },
+  {
+    "question": "bloeden",
+    "options": ["to bleed", "to bump into", "to be shocked", "to brake"],
+    "answer": "to bleed"
+  },
+  {
+    "question": "breken",
+    "options": ["to break", "to climb", "to shout", "blood"],
+    "answer": "to break"
+  },
+  {
+    "question": "de ambulance",
+    "options": ["ambulance", "ground", "to pet", "suddenly"],
+    "answer": "ambulance"
+  },
+  {
+    "question": "de grond",
+    "options": ["ground", "to lose", "to run", "to bite"],
+    "answer": "ground"
+  },
+  {
+    "question": "de heup",
+    "options": ["hip", "to be shocked", "step stool", "to shout"],
+    "answer": "hip"
+  },
+  {
+    "question": "de kilometer",
+    "options": ["kilometre", "ambulance", "to break", "to climb"],
+    "answer": "kilometre"
+  },
+  {
+    "question": "de punt",
+    "options": ["edge", "to pet", "blood", "to shout"],
+    "answer": "edge"
+  },
+  {
+    "question": "de seconde",
+    "options": ["second", "to bite", "to shout", "to lose"],
+    "answer": "second"
+  },
+  {
+    "question": "de snelweg",
+    "options": ["highway", "to brake", "to be shocked", "to climb"],
+    "answer": "highway"
+  },
+  {
+    "question": "de taxi",
+    "options": ["taxi", "to shout", "to lose", "step stool"],
+    "answer": "taxi"
+  },
+  {
+    "question": "de vloer",
+    "options": ["floor", "to pet", "to bite", "to break"],
+    "answer": "floor"
+  },
+  {
+    "question": "het bloed",
+    "options": ["blood", "to climb", "to shout", "to lose"],
+    "answer": "blood"
+  },
+  {
+    "question": "het evenwicht",
+    "options": ["balance", "to shout", "to be shocked", "ambulance"],
+    "answer": "balance"
+  },
+  {
+    "question": "het hoofd",
+    "options": ["head", "to brake", "to bite", "to pet"],
+    "answer": "head"
+  },
+  {
+    "question": "het keukentrapje",
+    "options": ["step stool", "to lose", "to shout", "to break"],
+    "answer": "step stool"
+  },
+  {
+    "question": "ineens",
+    "options": ["suddenly", "to be shocked", "to run", "to shout"],
+    "answer": "suddenly"
+  },
+  {
+    "question": "klimmen",
+    "options": ["to climb", "to brake", "to bite", "to lose"],
+    "answer": "to climb"
+  },
+  {
+    "question": "opbotsen tegen",
+    "options": ["to bump into", "to shout", "to break", "to pet"],
+    "answer": "to bump into"
+  },
+  {
+    "question": "plotseling",
+    "options": ["suddenly", "to run", "to shout", "to lose"],
+    "answer": "suddenly"
+  },
+  {
+    "question": "remmen",
+    "options": ["to brake", "to climb", "to lose", "to pet"],
+    "answer": "to brake"
+  },
+  {
+    "question": "rennen",
+    "options": ["to run", "to shout", "to bite", "blood"],
+    "answer": "to run"
+  },
+  {
+    "question": "roepen",
+    "options": ["to shout", "to break", "to pet", "to climb"],
+    "answer": "to shout"
+  },
+  {
+    "question": "scherp",
+    "options": ["sharp", "to lose", "to shout", "to pet"],
+    "answer": "sharp"
+  },
+  {
+    "question": "schrikken",
+    "options": ["to be shocked", "to run", "to bite", "to break"],
+    "answer": "to be shocked"
+  },
+  {
+    "question": "stilstaan",
+    "options": ["to stand still", "to shout", "to lose", "to run"],
+    "answer": "to stand still"
+  },
+  {
+    "question": "verliezen",
+    "options": ["to lose", "to break", "to pet", "to shout"],
+    "answer": "to lose"
+  },{
     "question": "de bedoeling",
     "options": ["intention", "contribution", "toaster", "coat"],
     "answer": "intention"
