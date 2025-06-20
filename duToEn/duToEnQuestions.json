@@ -1,5 +1,119 @@
 [
    {
+    "question": "afstappen",
+    "options": ["get off", "interest", "email", "instruction"],
+    "answer": "get off"
+  },
+  {
+    "question": "anderhalf",
+    "options": ["one and a half", "slow", "to take place", "to get on"],
+    "answer": "one and a half"
+  },
+  {
+    "question": "de begeleiding",
+    "options": ["supervision", "community centre", "professional", "moment"],
+    "answer": "supervision"
+  },
+  {
+    "question": "de belangstelling",
+    "options": ["interest", "size", "to get on", "to send to your home"],
+    "answer": "interest"
+  },
+  {
+    "question": "de deelname",
+    "options": ["participation", "to participate", "public transport", "instruction"],
+    "answer": "participation"
+  },
+  {
+    "question": "de inschrijving",
+    "options": ["registration", "moment", "email", "formal"],
+    "answer": "registration"
+  },
+  {
+    "question": "de instructie",
+    "options": ["instruction", "public transport", "to participate", "slow"],
+    "answer": "instruction"
+  },
+  {
+    "question": "de maat",
+    "options": ["size", "supervision", "moment", "registration"],
+    "answer": "size"
+  },
+  {
+    "question": "de verkeersregel",
+    "options": ["traffic rule", "email", "interest", "community centre"],
+    "answer": "traffic rule"
+  },
+  {
+    "question": "formeel",
+    "options": ["formal", "slow", "to get on", "to participate"],
+    "answer": "formal"
+  },
+  {
+    "question": "het buurthuis",
+    "options": ["community centre", "traffic rule", "moment", "supervision"],
+    "answer": "community centre"
+  },
+  {
+    "question": "het mailtje",
+    "options": ["email", "instruction", "participation", "professional"],
+    "answer": "email"
+  },
+  {
+    "question": "het ogenblik",
+    "options": ["moment", "formal", "public transport", "slow"],
+    "answer": "moment"
+  },
+  {
+    "question": "het openbaar vervoer",
+    "options": ["public transport", "registration", "size", "instruction"],
+    "answer": "public transport"
+  },
+  {
+    "question": "hopelijk",
+    "options": ["hopefully", "get off", "to take place", "interest"],
+    "answer": "hopefully"
+  },
+  {
+    "question": "meedoen",
+    "options": ["to participate", "registration", "formal", "slow"],
+    "answer": "to participate"
+  },
+  {
+    "question": "opstappen",
+    "options": ["to get on", "to send to your home", "moment", "hopefully"],
+    "answer": "to get on"
+  },
+  {
+    "question": "professioneel",
+    "options": ["professional", "email", "to get off", "traffic rule"],
+    "answer": "professional"
+  },
+  {
+    "question": "thuissturen",
+    "options": ["to send to your home", "get off", "formal", "size"],
+    "answer": "to send to your home"
+  },
+  {
+    "question": "traag",
+    "options": ["slow", "supervision", "moment", "hopefully"],
+    "answer": "slow"
+  },
+  {
+    "question": "vooraf",
+    "options": ["in advance", "traffic rule", "community centre", "email"],
+    "answer": "in advance"
+  },
+  {
+    "question": "doorgaan",
+    "options": ["to take place", "interest", "formal", "to send to your home"],
+    "answer": "to take place"
+  },
+  {
+    "question": "staan",
+    "options": ["to mention", "public transport", "hopefully", "supervision"],
+    "answer": "to mention"
+  },{
     "question": "de ademhaling",
     "options": ["breathing", "movement", "condition", "chance"],
     "answer": "breathing"
