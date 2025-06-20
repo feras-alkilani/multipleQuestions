@@ -1,5 +1,129 @@
 [
    {
+    "question": "aanwezig",
+    "options": ["present", "to scream", "shortly", "registration"],
+    "answer": "present"
+  },
+  {
+    "question": "brullen",
+    "options": ["to scream", "childbirth", "person", "toe"],
+    "answer": "to scream"
+  },
+  {
+    "question": "dadelijk",
+    "options": ["shortly", "grandson", "once again", "hospital"],
+    "answer": "shortly"
+  },
+  {
+    "question": "de aangifte",
+    "options": ["registration", "birth", "tall", "proof of identity"],
+    "answer": "registration"
+  },
+  {
+    "question": "de bevalling",
+    "options": ["childbirth", "hospital", "thousand", "to send"],
+    "answer": "childbirth"
+  },
+  {
+    "question": "de centimeter",
+    "options": ["centimetre", "relieved", "awful", "to name"],
+    "answer": "centimetre"
+  },
+  {
+    "question": "de geboorte",
+    "options": ["birth", "once again", "extremely tired", "international"],
+    "answer": "birth"
+  },
+  {
+    "question": "de kleinzoon",
+    "options": ["grandson", "tall", "proof of identity", "to scream"],
+    "answer": "grandson"
+  },
+  {
+    "question": "de persoon",
+    "options": ["person", "registration", "traditional", "childbirth"],
+    "answer": "person"
+  },
+  {
+    "question": "de teen",
+    "options": ["toe", "to send", "present", "hospital"],
+    "answer": "toe"
+  },
+  {
+    "question": "doodmoe",
+    "options": ["extremely tired", "thousand", "shortly", "hospital"],
+    "answer": "extremely tired"
+  },
+  {
+    "question": "duizend",
+    "options": ["thousand", "to scream", "childbirth", "person"],
+    "answer": "thousand"
+  },
+  {
+    "question": "eerste",
+    "options": ["first", "awful", "tall", "grandson"],
+    "answer": "first"
+  },
+  {
+    "question": "het bezoekuur",
+    "options": ["visiting hours", "relieved", "international", "to send"],
+    "answer": "visiting hours"
+  },
+  {
+    "question": "het legitimatiebewijs",
+    "options": ["proof of identity", "shortly", "once again", "hospital"],
+    "answer": "proof of identity"
+  },
+  {
+    "question": "het totaal",
+    "options": ["total", "childbirth", "to scream", "tall"],
+    "answer": "total"
+  },
+  {
+    "question": "het ziekenhuis",
+    "options": ["hospital", "to name", "present", "registration"],
+    "answer": "hospital"
+  },
+  {
+    "question": "internationaal",
+    "options": ["international", "person", "to send", "extremely tired"],
+    "answer": "international"
+  },
+  {
+    "question": "lang",
+    "options": ["tall", "awful", "first", "to scream"],
+    "answer": "tall"
+  },
+  {
+    "question": "nogmaals",
+    "options": ["once again", "registration", "childbirth", "grandson"],
+    "answer": "once again"
+  },
+  {
+    "question": "opgelucht",
+    "options": ["relieved", "shortly", "person", "hospital"],
+    "answer": "relieved"
+  },
+  {
+    "question": "opsturen",
+    "options": ["to send", "childbirth", "proof of identity", "tall"],
+    "answer": "to send"
+  },
+  {
+    "question": "traditioneel",
+    "options": ["traditional", "to scream", "grandson", "visiting hours"],
+    "answer": "traditional"
+  },
+  {
+    "question": "naar",
+    "options": ["awful", "birth", "registration", "present"],
+    "answer": "awful"
+  },
+  {
+    "question": "noemen",
+    "options": ["to name", "to send", "person", "once again"],
+    "answer": "to name"
+  },{
     "question": "allang",
     "options": ["already a long time ago", "curl", "nose", "cigarette"],
     "answer": "already a long time ago"
