@@ -1,5 +1,139 @@
 [
    {
+    "question": "allang",
+    "options": ["already a long time ago", "curl", "nose", "cigarette"],
+    "answer": "already a long time ago"
+  },
+  {
+    "question": "de krul",
+    "options": ["curl", "already a long time ago", "nose", "cigarette"],
+    "answer": "curl"
+  },
+  {
+    "question": "de neus",
+    "options": ["nose", "curl", "already a long time ago", "cigarette"],
+    "answer": "nose"
+  },
+  {
+    "question": "de sigaret",
+    "options": ["cigarette", "nose", "curl", "already a long time ago"],
+    "answer": "cigarette"
+  },
+  {
+    "question": "dezelfde",
+    "options": ["the same", "hot-tempered", "enormously", "patient"],
+    "answer": "the same"
+  },
+  {
+    "question": "driftig",
+    "options": ["hot-tempered", "the same", "enormously", "patient"],
+    "answer": "hot-tempered"
+  },
+  {
+    "question": "enorm",
+    "options": ["enormously", "patient", "hot-tempered", "the same"],
+    "answer": "enormously"
+  },
+  {
+    "question": "geduldig",
+    "options": ["patient", "hot-tempered", "enormously", "the same"],
+    "answer": "patient"
+  },
+  {
+    "question": "het grapje",
+    "options": ["joke", "character", "jealous", "to chat"],
+    "answer": "joke"
+  },
+  {
+    "question": "het karakter",
+    "options": ["character", "joke", "jealous", "to chat"],
+    "answer": "character"
+  },
+  {
+    "question": "jaloers",
+    "options": ["jealous", "to chat", "joke", "character"],
+    "answer": "jealous"
+  },
+  {
+    "question": "kletsen",
+    "options": ["to chat", "joke", "character", "jealous"],
+    "answer": "to chat"
+  },
+  {
+    "question": "lijken op",
+    "options": ["to resemble", "just as …. as", "impatient", "straight"],
+    "answer": "to resemble"
+  },
+  {
+    "question": "net zo …. als",
+    "options": ["just as …. as", "to resemble", "impatient", "straight"],
+    "answer": "just as …. as"
+  },
+  {
+    "question": "ongeduldig",
+    "options": ["impatient", "just as …. as", "to resemble", "straight"],
+    "answer": "impatient"
+  },
+  {
+    "question": "recht",
+    "options": ["straight", "impatient", "just as …. as", "to resemble"],
+    "answer": "straight"
+  },
+  {
+    "question": "sociaal",
+    "options": ["social", "to die", "sturdy (looking)", "out of tune"],
+    "answer": "social"
+  },
+  {
+    "question": "sterven",
+    "options": ["to die", "social", "sturdy (looking)", "out of tune"],
+    "answer": "to die"
+  },
+  {
+    "question": "stoer",
+    "options": ["sturdy (looking)", "to die", "social", "out of tune"],
+    "answer": "sturdy (looking)"
+  },
+  {
+    "question": "vals",
+    "options": ["out of tune", "sturdy (looking)", "to die", "social"],
+    "answer": "out of tune"
+  },
+  {
+    "question": "vrolijk",
+    "options": ["cheerful", "to walk", "gentle", "to remember"],
+    "answer": "cheerful"
+  },
+  {
+    "question": "wandelen",
+    "options": ["to walk", "cheerful", "gentle", "to remember"],
+    "answer": "to walk"
+  },
+  {
+    "question": "zacht",
+    "options": ["gentle", "to walk", "cheerful", "to remember"],
+    "answer": "gentle"
+  },
+  {
+    "question": "zich herinneren",
+    "options": ["to remember", "gentle", "to walk", "cheerful"],
+    "answer": "to remember"
+  },
+  {
+    "question": "zingen",
+    "options": ["to sing", "such", "appearance", "to chat"],
+    "answer": "to sing"
+  },
+  {
+    "question": "zulk",
+    "options": ["such", "to sing", "appearance", "to chat"],
+    "answer": "such"
+  },
+  {
+    "question": "het uiterlijk",
+    "options": ["appearance", "such", "to sing", "to chat"],
+    "answer": "appearance"
+  },{
     "question": "de bloem",
     "options": ["flower", "wedding", "photo", "guest"],
     "answer": "flower"
