@@ -1,5 +1,109 @@
 [
    {
+    "question": "afwisselend",
+    "options": ["varied", "reliable", "fascinating", "requirement"],
+    "answer": "varied"
+  },
+  {
+    "question": "betrouwbaar",
+    "options": ["reliable", "varied", "fascinating", "position"],
+    "answer": "reliable"
+  },
+  {
+    "question": "boeiend",
+    "options": ["fascinating", "motivation", "cleaner", "vacancy"],
+    "answer": "fascinating"
+  },
+  {
+    "question": "de eis",
+    "options": ["requirement", "vacancy", "fashion", "position"],
+    "answer": "requirement"
+  },
+  {
+    "question": "de functie",
+    "options": ["position", "clothing", "cleaner", "fashion"],
+    "answer": "position"
+  },
+  {
+    "question": "de functie-eisen",
+    "options": ["job requirements", "to strengthen", "customer-oriented", "to apply (for a job)"],
+    "answer": "job requirements"
+  },
+  {
+    "question": "de kleding",
+    "options": ["clothing", "day care centre", "place", "reliable"],
+    "answer": "clothing"
+  },
+  {
+    "question": "de mode",
+    "options": ["fashion", "vacancy", "motivation", "to deal"],
+    "answer": "fashion"
+  },
+  {
+    "question": "de motivatie",
+    "options": ["motivation", "chambermaid", "reliable", "to apply (for a job)"],
+    "answer": "motivation"
+  },
+  {
+    "question": "de schoonmaker",
+    "options": ["cleaner", "position", "to strengthen", "fashion"],
+    "answer": "cleaner"
+  },
+  {
+    "question": "de vacature",
+    "options": ["vacancy", "customer-oriented", "varied", "motivation"],
+    "answer": "vacancy"
+  },
+  {
+    "question": "Engeland",
+    "options": ["England", "clothing", "job requirements", "to deal"],
+    "answer": "England"
+  },
+  {
+    "question": "geschikt",
+    "options": ["suitable", "vacancy", "to apply (for a job)", "day care centre"],
+    "answer": "suitable"
+  },
+  {
+    "question": "het kamermeisje",
+    "options": ["chambermaid", "to strengthen", "fashion", "cleaner"],
+    "answer": "chambermaid"
+  },
+  {
+    "question": "het kantoor",
+    "options": ["office", "vacancy", "fashion", "varied"],
+    "answer": "office"
+  },
+  {
+    "question": "het kinderdagverblijf",
+    "options": ["day care centre", "position", "customer-oriented", "reliable"],
+    "answer": "day care centre"
+  },
+  {
+    "question": "klantgericht",
+    "options": ["customer-oriented", "requirement", "vacancy", "fascinating"],
+    "answer": "customer-oriented"
+  },
+  {
+    "question": "omgaan met",
+    "options": ["to deal", "motivation", "fashion", "cleaner"],
+    "answer": "to deal"
+  },
+  {
+    "question": "versterken",
+    "options": ["to strengthen", "vacancy", "office", "fashion"],
+    "answer": "to strengthen"
+  },
+  {
+    "question": "de plaats",
+    "options": ["place", "reliable", "vacancy", "to apply (for a job)"],
+    "answer": "place"
+  },
+  {
+    "question": "solliciteren",
+    "options": ["to apply (for a job)", "customer-oriented", "fashion", "varied"],
+    "answer": "to apply (for a job)"
+  },{
     "question": "aannemen",
     "options": ["to hire", "helpful", "goods", "manager"],
     "answer": "to hire"
