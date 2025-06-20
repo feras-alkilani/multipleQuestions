@@ -1,5 +1,104 @@
 [
+   {
+    "question": "antwoorden",
+    "options": ["to answer", "mad", "baby-sitter", "honest"],
+    "answer": "to answer"
+  },
   {
+    "question": "beslist",
+    "options": ["honest", "absolutely", "in-laws", "difficult"],
+    "answer": "absolutely"
+  },
+  {
+    "question": "de bioscoop",
+    "options": ["cinema", "selfish", "to lie", "family"],
+    "answer": "cinema"
+  },
+  {
+    "question": "de familie",
+    "options": ["different", "family", "to go out", "earlier"],
+    "answer": "family"
+  },
+  {
+    "question": "de oppas",
+    "options": ["to stay (over)", "baby-sitter", "to become", "test"],
+    "answer": "baby-sitter"
+  },
+  {
+    "question": "de schoonouders",
+    "options": ["honest", "in-laws", "mad", "ago"],
+    "answer": "in-laws"
+  },
+  {
+    "question": "de toets",
+    "options": ["test", "to lie", "incredibly", "baby-sitter"],
+    "answer": "test"
+  },
+  {
+    "question": "eerder",
+    "options": ["earlier", "mad", "honest", "different"],
+    "answer": "earlier"
+  },
+  {
+    "question": "eerlijk",
+    "options": ["honest", "to go out", "baby-sitter", "in-laws"],
+    "answer": "honest"
+  },
+  {
+    "question": "egoïstisch",
+    "options": ["selfish", "cinema", "to stay (over)", "earlier"],
+    "answer": "selfish"
+  },
+  {
+    "question": "geleden",
+    "options": ["ago", "to answer", "honest", "absolutely"],
+    "answer": "ago"
+  },
+  {
+    "question": "kwaad",
+    "options": ["mad", "baby-sitter", "cinema", "different"],
+    "answer": "mad"
+  },
+  {
+    "question": "lastig",
+    "options": ["difficult", "honest", "to lie", "earlier"],
+    "answer": "difficult"
+  },
+  {
+    "question": "liegen",
+    "options": ["to lie", "in-laws", "selfish", "honest"],
+    "answer": "to lie"
+  },
+  {
+    "question": "logeren",
+    "options": ["to stay (over)", "to become", "honest", "earlier"],
+    "answer": "to stay (over)"
+  },
+  {
+    "question": "ontzettend",
+    "options": ["incredibly", "mad", "to lie", "different"],
+    "answer": "incredibly"
+  },
+  {
+    "question": "toen",
+    "options": ["when (past)", "test", "to answer", "earlier"],
+    "answer": "when (past)"
+  },
+  {
+    "question": "uitgaan",
+    "options": ["to go out", "to stay (over)", "honest", "baby-sitter"],
+    "answer": "to go out"
+  },
+  {
+    "question": "worden",
+    "options": ["to become", "to lie", "mad", "cinema"],
+    "answer": "to become"
+  },
+  {
+    "question": "anders",
+    "options": ["different", "honest", "baby-sitter", "earlier"],
+    "answer": "different"
+  },{
     "question": "bewegen",
     "options": [
       "to move",
