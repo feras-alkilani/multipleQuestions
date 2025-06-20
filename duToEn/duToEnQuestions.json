@@ -1,5 +1,129 @@
 [
    {
+    "question": "aanhebben",
+    "options": ["to wear", "to bake", "to complain", "to skype"],
+    "answer": "to wear"
+  },
+  {
+    "question": "afschuwelijk",
+    "options": ["terrible", "special", "funny", "lousy"],
+    "answer": "terrible"
+  },
+  {
+    "question": "bakken",
+    "options": ["to bake", "to wear", "to crack", "to complain"],
+    "answer": "to bake"
+  },
+  {
+    "question": "bijzonder",
+    "options": ["special", "terrible", "lousy", "funny"],
+    "answer": "special"
+  },
+  {
+    "question": "de bal",
+    "options": ["ball", "movie", "foot", "voice"],
+    "answer": "ball"
+  },
+  {
+    "question": "de film",
+    "options": ["movie", "meatball", "stripe", "relationship"],
+    "answer": "movie"
+  },
+  {
+    "question": "de gehaktbal",
+    "options": ["meatball", "kiss (small)", "stripe", "climate"],
+    "answer": "meatball"
+  },
+  {
+    "question": "de kus",
+    "options": ["kiss (small)", "foot", "voice", "stripe"],
+    "answer": "kiss (small)"
+  },
+  {
+    "question": "de relatie",
+    "options": ["relationship", "climate", "special", "foot"],
+    "answer": "relationship"
+  },
+  {
+    "question": "de smaak",
+    "options": ["taste", "voice", "movie", "zero"],
+    "answer": "taste"
+  },
+  {
+    "question": "de stem",
+    "options": ["voice", "kiss (small)", "funny", "terrible"],
+    "answer": "voice"
+  },
+  {
+    "question": "de streep",
+    "options": ["stripe", "movie", "foot", "relationship"],
+    "answer": "stripe"
+  },
+  {
+    "question": "de voet",
+    "options": ["foot", "special", "climate", "kiss (small)"],
+    "answer": "foot"
+  },
+  {
+    "question": "grappig",
+    "options": ["funny", "terrible", "how sad", "special"],
+    "answer": "funny"
+  },
+  {
+    "question": "het klimaat",
+    "options": ["climate", "zero", "relationship", "foot"],
+    "answer": "climate"
+  },
+  {
+    "question": "hip",
+    "options": ["hip (trendy)", "terrible", "special", "to crack"],
+    "answer": "hip (trendy)"
+  },
+  {
+    "question": "klagen",
+    "options": ["to complain", "to bake", "to wear", "to skype"],
+    "answer": "to complain"
+  },
+  {
+    "question": "kraken",
+    "options": ["to crack", "to complain", "to bake", "to skype"],
+    "answer": "to crack"
+  },
+  {
+    "question": "nul",
+    "options": ["zero", "terrible", "special", "foot"],
+    "answer": "zero"
+  },
+  {
+    "question": "oei",
+    "options": ["oops", "special", "how sad", "funny"],
+    "answer": "oops"
+  },
+  {
+    "question": "omdat",
+    "options": ["because", "to bake", "to crack", "terrible"],
+    "answer": "because"
+  },
+  {
+    "question": "rot",
+    "options": ["lousy", "special", "terrible", "funny"],
+    "answer": "lousy"
+  },
+  {
+    "question": "skypen",
+    "options": ["to skype", "to complain", "to bake", "to wear"],
+    "answer": "to skype"
+  },
+  {
+    "question": "zielig",
+    "options": ["how sad", "funny", "special", "terrible"],
+    "answer": "how sad"
+  },
+  {
+    "question": "Zweden",
+    "options": ["Sweden", "foot", "kiss (small)", "movie"],
+    "answer": "Sweden"
+  },{
     "question": "checken",
     "options": ["to check", "warranty", "towel", "mechanic"],
     "answer": "to check"
