@@ -1,5 +1,129 @@
 [
    {
+    "question": "allemaal",
+    "options": ["all of it", "yuck", "better", "school diary"],
+    "answer": "all of it"
+  },
+  {
+    "question": "bah",
+    "options": ["yuck", "hunger", "neck", "alarm clock"],
+    "answer": "yuck"
+  },
+  {
+    "question": "beter",
+    "options": ["better", "honey", "dear", "to take a shower"],
+    "answer": "better"
+  },
+  {
+    "question": "de agenda",
+    "options": ["school diary", "backpack", "to hurry up", "face"],
+    "answer": "school diary"
+  },
+  {
+    "question": "de broodtrommel",
+    "options": ["lunch box", "pencil case", "to get up", "to feel"],
+    "answer": "lunch box"
+  },
+  {
+    "question": "de dorst",
+    "options": ["thirst", "to come back", "yuck", "neck"],
+    "answer": "thirst"
+  },
+  {
+    "question": "de honger",
+    "options": ["hunger", "alarm clock", "school diary", "better"],
+    "answer": "hunger"
+  },
+  {
+    "question": "de honing",
+    "options": ["honey", "backpack", "to grab", "face"],
+    "answer": "honey"
+  },
+  {
+    "question": "de keel",
+    "options": ["throat", "dear", "last", "to take care of"],
+    "answer": "throat"
+  },
+  {
+    "question": "de nek",
+    "options": ["neck", "to hurry up", "alarm clock", "all of it"],
+    "answer": "neck"
+  },
+  {
+    "question": "de rugzak",
+    "options": ["backpack", "to get up", "pencil case", "to feel"],
+    "answer": "backpack"
+  },
+  {
+    "question": "de wekker",
+    "options": ["alarm clock", "to come back", "to grab", "better"],
+    "answer": "alarm clock"
+  },
+  {
+    "question": "douchen",
+    "options": ["to take a shower", "yuck", "to hurry up", "hunger"],
+    "answer": "to take a shower"
+  },
+  {
+    "question": "eens",
+    "options": ["for a moment", "school diary", "dear", "backpack"],
+    "answer": "for a moment"
+  },
+  {
+    "question": "het etui",
+    "options": ["pencil case", "to feel", "to come back", "to get up"],
+    "answer": "pencil case"
+  },
+  {
+    "question": "het gezicht",
+    "options": ["face", "yuck", "to grab", "better"],
+    "answer": "face"
+  },
+  {
+    "question": "het haar",
+    "options": ["hair", "to hurry up", "hunger", "alarm clock"],
+    "answer": "hair"
+  },
+  {
+    "question": "opschieten",
+    "options": ["to hurry up", "to take care of", "neck", "thirst"],
+    "answer": "to hurry up"
+  },
+  {
+    "question": "opstaan",
+    "options": ["to get up", "school diary", "all of it", "honey"],
+    "answer": "to get up"
+  },
+  {
+    "question": "pakken",
+    "options": ["to grab", "dear", "last", "to come back"],
+    "answer": "to grab"
+  },
+  {
+    "question": "regelen",
+    "options": ["to take care of", "better", "pencil case", "face"],
+    "answer": "to take care of"
+  },
+  {
+    "question": "schat",
+    "options": ["dear", "backpack", "hunger", "to get up"],
+    "answer": "dear"
+  },
+  {
+    "question": "terugkomen",
+    "options": ["to come back", "throat", "to hurry up", "yuck"],
+    "answer": "to come back"
+  },
+  {
+    "question": "voelen",
+    "options": ["to feel", "alarm clock", "honey", "last"],
+    "answer": "to feel"
+  },
+  {
+    "question": "vorig",
+    "options": ["last", "to take a shower", "school diary", "yuck"],
+    "answer": "last"
+  },{
     "question": "anders",
     "options": ["different", "amount", "biology", "uniform"],
     "answer": "different"
