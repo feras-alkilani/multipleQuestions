@@ -1,5 +1,134 @@
 [
    {
+    "question": "anders",
+    "options": ["different", "amount", "biology", "uniform"],
+    "answer": "different"
+  },
+  {
+    "question": "bouwen",
+    "options": ["to build", "geography", "group", "game"],
+    "answer": "to build"
+  },
+  {
+    "question": "de aardrijkskunde",
+    "options": ["geography", "biology", "history", "subject"],
+    "answer": "geography"
+  },
+  {
+    "question": "de biologie",
+    "options": ["biology", "performance", "religion", "mandatory"],
+    "answer": "biology"
+  },
+  {
+    "question": "de geschiedenis",
+    "options": ["history", "male teacher", "school trip", "to run"],
+    "answer": "history"
+  },
+  {
+    "question": "de groep",
+    "options": ["group", "to do crafts", "thing", "development"],
+    "answer": "group"
+  },
+  {
+    "question": "de gymnastiek",
+    "options": ["physical education", "regularly", "different", "to sign"],
+    "answer": "physical education"
+  },
+  {
+    "question": "de meester",
+    "options": ["male teacher", "to come by", "uniform", "history"],
+    "answer": "male teacher"
+  },
+  {
+    "question": "de ontwikkeling",
+    "options": ["development", "school trip", "to build", "biology"],
+    "answer": "development"
+  },
+  {
+    "question": "de prestatie",
+    "options": ["performance", "different", "amount", "to run"],
+    "answer": "performance"
+  },
+  {
+    "question": "de religie",
+    "options": ["religion", "thing", "geography", "game"],
+    "answer": "religion"
+  },
+  {
+    "question": "het bedrag",
+    "options": ["amount", "biology", "to do crafts", "uniform"],
+    "answer": "amount"
+  },
+  {
+    "question": "het ding",
+    "options": ["thing", "to build", "school trip", "regularly"],
+    "answer": "thing"
+  },
+  {
+    "question": "het rekenen",
+    "options": ["mathematics", "to sign", "group", "development"],
+    "answer": "mathematics"
+  },
+  {
+    "question": "het schoolreisje",
+    "options": ["school trip", "performance", "physical education", "amount"],
+    "answer": "school trip"
+  },
+  {
+    "question": "het spelletje",
+    "options": ["game", "history", "to run", "biology"],
+    "answer": "game"
+  },
+  {
+    "question": "het uniform",
+    "options": ["uniform", "male teacher", "religion", "thing"],
+    "answer": "uniform"
+  },
+  {
+    "question": "het vak",
+    "options": ["subject", "amount", "different", "to build"],
+    "answer": "subject"
+  },
+  {
+    "question": "hetzelfde",
+    "options": ["the same", "development", "to come by", "to do crafts"],
+    "answer": "the same"
+  },
+  {
+    "question": "knutselen",
+    "options": ["to do crafts", "geography", "biology", "to run"],
+    "answer": "to do crafts"
+  },
+  {
+    "question": "regelmatig",
+    "options": ["regularly", "game", "uniform", "school trip"],
+    "answer": "regularly"
+  },
+  {
+    "question": "rennen",
+    "options": ["to run", "amount", "biology", "male teacher"],
+    "answer": "to run"
+  },
+  {
+    "question": "tekenen",
+    "options": ["to sign", "performance", "different", "thing"],
+    "answer": "to sign"
+  },
+  {
+    "question": "verplicht",
+    "options": ["mandatory", "history", "to build", "regularly"],
+    "answer": "mandatory"
+  },
+  {
+    "question": "verschillend",
+    "options": ["different", "religion", "subject", "to come by"],
+    "answer": "different"
+  },
+  {
+    "question": "langskomen",
+    "options": ["to come by", "biology", "development", "game"],
+    "answer": "to come by"
+  },{
     "question": "bederven",
     "options": ["to spoil", "to mean", "to visit", "population"],
     "answer": "to spoil"
