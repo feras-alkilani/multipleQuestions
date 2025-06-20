@@ -1,5 +1,109 @@
 [
    {
+    "question": "de aankoop",
+    "options": ["purchase", "energy", "fries", "frying pan"],
+    "answer": "purchase"
+  },
+  {
+    "question": "de energie",
+    "options": ["energy", "purchase", "hair dryer", "mixer"],
+    "answer": "energy"
+  },
+  {
+    "question": "de friet",
+    "options": ["fries", "freezer", "tumble dryer", "iron"],
+    "answer": "fries"
+  },
+  {
+    "question": "de frituurpan",
+    "options": ["frying pan", "fries", "electric kettle", "device"],
+    "answer": "frying pan"
+  },
+  {
+    "question": "de haardroger",
+    "options": ["hair dryer", "mixer", "iron", "marketplace"],
+    "answer": "hair dryer"
+  },
+  {
+    "question": "de mixer",
+    "options": ["mixer", "freezer", "device", "shaver"],
+    "answer": "mixer"
+  },
+  {
+    "question": "de vriezer",
+    "options": ["freezer", "tumble dryer", "electrical", "iron"],
+    "answer": "freezer"
+  },
+  {
+    "question": "de wasdroger",
+    "options": ["tumble dryer", "fries", "shaver", "useful"],
+    "answer": "tumble dryer"
+  },
+  {
+    "question": "de waterkoker",
+    "options": ["(electric) kettle", "hair dryer", "frying pan", "device"],
+    "answer": "(electric) kettle"
+  },
+  {
+    "question": "elektrisch",
+    "options": ["electrical", "useful", "marketplace", "beautiful"],
+    "answer": "electrical"
+  },
+  {
+    "question": "flauw",
+    "options": ["not very nice", "especially", "replace", "freeze"],
+    "answer": "not very nice"
+  },
+  {
+    "question": "het apparaat",
+    "options": ["device", "shaver", "iron", "marketplace"],
+    "answer": "device"
+  },
+  {
+    "question": "het scheerapparaat",
+    "options": ["shaver", "device", "iron", "tumble dryer"],
+    "answer": "shaver"
+  },
+  {
+    "question": "het strijkijzer",
+    "options": ["iron", "freeze", "fries", "useful"],
+    "answer": "iron"
+  },
+  {
+    "question": "invriezen",
+    "options": ["to freeze", "to iron", "to replace", "not very nice"],
+    "answer": "to freeze"
+  },
+  {
+    "question": "Marktplaats",
+    "options": ["marketplace", "purchase", "device", "beautiful"],
+    "answer": "marketplace"
+  },
+  {
+    "question": "nuttig",
+    "options": ["useful", "beautiful", "especially", "to replace"],
+    "answer": "useful"
+  },
+  {
+    "question": "strijken",
+    "options": ["to iron", "to freeze", "not very nice", "electrical"],
+    "answer": "to iron"
+  },
+  {
+    "question": "vervangen",
+    "options": ["to replace", "to freeze", "especially", "device"],
+    "answer": "to replace"
+  },
+  {
+    "question": "vooral",
+    "options": ["especially", "useful", "not very nice", "purchase"],
+    "answer": "especially"
+  },
+  {
+    "question": "prachtig",
+    "options": ["beautiful", "useful", "to iron", "fries"],
+    "answer": "beautiful"
+  },{
     "question": "daarom",
     "options": ["that's why", "activity", "director", "parent volunteer"],
     "answer": "that's why"
