@@ -1,5 +1,1076 @@
 [
+  
   {
+    "question": "de kans",
+    "options": [
+      "chance",
+      "minimum wage",
+      "independently",
+      "cleaning industry"
+    ],
+    "answer": "chance"
+  },
+  {
+    "question": "het karakter",
+    "options": [
+      "character",
+      "unsolicited application",
+      "test",
+      "to prepare"
+    ],
+    "answer": "character"
+  },
+  {
+    "question": "de kennis",
+    "options": [
+      "employer",
+      "someone who helps you find a job when you are unemployed",
+      "restaurant",
+      "acquaintance"
+    ],
+    "answer": "acquaintance"
+  },
+  {
+    "question": "de kinderopvang",
+    "options": [
+      "chat",
+      "child care",
+      "irregular working hours",
+      "to assess"
+    ],
+    "answer": "child care"
+  },
+  {
+    "question": "de kritiek",
+    "options": [
+      "plan",
+      "the government body that handles unemployment benefits and sickness benefits",
+      "criticism",
+      "unskilled (work)"
+    ],
+    "answer": "criticism"
+  },
+  {
+    "question": "de kwaliteit",
+    "options": [
+      "vacancy",
+      "quality",
+      "job seeker",
+      "out-sorced laborer"
+    ],
+    "answer": "quality"
+  },
+  {
+    "question": "de leiding",
+    "options": [
+      "member",
+      "job seeker",
+      "leadership",
+      "staff association"
+    ],
+    "answer": "leadership"
+  },
+  {
+    "question": "de lichaamstaal",
+    "options": [
+      "(unemployment) benefit",
+      "restaurant",
+      "social media",
+      "body language"
+    ],
+    "answer": "body language"
+  },
+  {
+    "question": "het lid",
+    "options": [
+      "volunteer work",
+      "part-time",
+      "member",
+      "chat"
+    ],
+    "answer": "member"
+  },
+  {
+    "question": "de loonstrook",
+    "options": [
+      "to prepare",
+      "care",
+      "pay slip",
+      "job interview"
+    ],
+    "answer": "pay slip"
+  },
+  {
+    "question": "de medezeggenschapsraad (MR)",
+    "options": [
+      "test",
+      "representative advisory body/board",
+      "chance",
+      "permanent work"
+    ],
+    "answer": "representative advisory body/board"
+  },
+  {
+    "question": "het minimumloon",
+    "options": [
+      "chance",
+      "minimum wage",
+      "representative advisory body/board",
+      "(unemployment) benefit"
+    ],
+    "answer": "minimum wage"
+  },
+  {
+    "question": "de monteur",
+    "options": [
+      "independently",
+      "to prepare",
+      "organization",
+      "mechanic"
+    ],
+    "answer": "mechanic"
+  },
+  {
+    "question": "de motivatie",
+    "options": [
+      "motivation",
+      "business plan",
+      "employee",
+      "independently"
+    ],
+    "answer": "motivation"
+  },
+  {
+    "question": "de nascholing",
+    "options": [
+      "job application",
+      "refresher course",
+      "social media",
+      "job interview"
+    ],
+    "answer": "refresher course"
+  },
+  {
+    "question": "net (nette kleren)",
+    "options": [
+      "dirty",
+      "salary",
+      "nice/decent (clothes)",
+      "acquaintance"
+    ],
+    "answer": "nice/decent (clothes)"
+  },
+  {
+    "question": "netto (salaris)",
+    "options": [
+      "casual/temporary work",
+      "welfare",
+      "chat",
+      "net (salary/wages)"
+    ],
+    "answer": "net (salary/wages)"
+  },
+  {
+    "question": "het niveau",
+    "options": [
+      "nice/decent (clothes)",
+      "body language",
+      "level",
+      "business plan"
+    ],
+    "answer": "level"
+  },
+  {
+    "question": "officieel",
+    "options": [
+      "to organize",
+      "permanent work",
+      "officially",
+      "job interview"
+    ],
+    "answer": "officially"
+  },
+  {
+    "question": "de ondernemer",
+    "options": [
+      "technology",
+      "volunteer work",
+      "entrepreneur",
+      "Unemployment Insurance Act (unemployment benefit/pay)"
+    ],
+    "answer": "entrepreneur"
+  },
+  {
+    "question": "het ondernemingsplan",
+    "options": [
+      "child care",
+      "to assess",
+      "business plan",
+      "website"
+    ],
+    "answer": "business plan"
+  },
+  {
+    "question": "de ondernemingsraad",
+    "options": [
+      "works/employees council",
+      "chat",
+      "minimum wage",
+      "to suit someone"
+    ],
+    "answer": "works/employees council"
+  },
+  {
+    "question": "ongeschoold (werk)",
+    "options": [
+      "minimum wage",
+      "vacancy",
+      "representative advisory body/board",
+      "unskilled (work)"
+    ],
+    "answer": "unskilled (work)"
+  },
+  {
+    "question": "onregelmatige werktijden",
+    "options": [
+      "irregular working hours",
+      "unemployed",
+      "body language",
+      "refresher course"
+    ],
+    "answer": "irregular working hours"
+  },
+  {
+    "question": "het ontslag",
+    "options": [
+      "website",
+      "resignation",
+      "transport",
+      "partner"
+    ],
+    "answer": "resignation"
+  },
+  {
+    "question": "de open sollicitatie",
+    "options": [
+      "profile",
+      "unsolicited application",
+      "to sign (a contract)",
+      "vacancy"
+    ],
+    "answer": "unsolicited application"
+  },
+  {
+    "question": "de opleiding",
+    "options": [
+      "training",
+      "pay slip",
+      "unemployed",
+      "unreported employment"
+    ],
+    "answer": "training"
+  },
+  {
+    "question": "de organisatie",
+    "options": [
+      "to assess",
+      "gardener",
+      "criticism",
+      "organization"
+    ],
+    "answer": "organization"
+  },
+  {
+    "question": "organiseren",
+    "options": [
+      "organization",
+      "caring",
+      "to organize",
+      "job application"
+    ],
+    "answer": "to organize"
+  },
+  {
+    "question": "het overleg",
+    "options": [
+      "consultation",
+      "job seeker",
+      "government",
+      "part-time"
+    ],
+    "answer": "consultation"
+  },
+  {
+    "question": "de partner",
+    "options": [
+      "(unemployment) benefit",
+      "partner",
+      "officially",
+      "job application"
+    ],
+    "answer": "partner"
+  },
+  {
+    "question": "parttime",
+    "options": [
+      "part-time",
+      "partner",
+      "trial period",
+      "level"
+    ],
+    "answer": "part-time"
+  },
+  {
+    "question": "passen bij",
+    "options": [
+      "horticultural industry",
+      "someone who helps you find a job when you are unemployed",
+      "to suit someone",
+      "Unemployment Insurance Act (unemployment benefit/pay)"
+    ],
+    "answer": "to suit someone"
+  },
+  {
+    "question": "de pauze",
+    "options": [
+      "sector",
+      "net (salary/wages)",
+      "to suit someone",
+      "break"
+    ],
+    "answer": "break"
+  },
+  {
+    "question": "het pensioen",
+    "options": [
+      "education",
+      "to earn",
+      "to suit someone",
+      "pension"
+    ],
+    "answer": "pension"
+  },
+  {
+    "question": "de personeelsvereniging",
+    "options": [
+      "(house-)painter",
+      "staff association",
+      "leadership",
+      "to invite"
+    ],
+    "answer": "staff association"
+  },
+  {
+    "question": "het plan",
+    "options": [
+      "to move house",
+      "plan",
+      "employer",
+      "motivation"
+    ],
+    "answer": "plan"
+  },
+  {
+    "question": "de plicht",
+    "options": [
+      "(unemployment) benefit",
+      "officially",
+      "nice/decent (clothes)",
+      "duty"
+    ],
+    "answer": "duty"
+  },
+  {
+    "question": "het praatje",
+    "options": [
+      "unreported employment",
+      "website",
+      "compulsory",
+      "chat"
+    ],
+    "answer": "chat"
+  },
+  {
+    "question": "de premie",
+    "options": [
+      "to suit someone",
+      "work experience",
+      "job application form",
+      "premium"
+    ],
+    "answer": "premium"
+  },
+  {
+    "question": "de proeftijd",
+    "options": [
+      "Center for social welfare and unemployment benefits (‘working square’)",
+      "website",
+      "trial period",
+      "to apply"
+    ],
+    "answer": "trial period"
+  },
+  {
+    "question": "het profiel",
+    "options": [
+      "profile",
+      "volunteer work",
+      "minimum wage",
+      "body language"
+    ],
+    "answer": "profile"
+  },
+  {
+    "question": "de ramadan",
+    "options": [
+      "cover letter",
+      "restaurant",
+      "body language",
+      "Ramadan"
+    ],
+    "answer": "Ramadan"
+  },
+  {
+    "question": "het recht",
+    "options": [
+      "duty",
+      "irregular working hours",
+      "right",
+      "job application"
+    ],
+    "answer": "right"
+  },
+  {
+    "question": "regelmatige werktijden",
+    "options": [
+      "regular working hours",
+      "to move house",
+      "dirty",
+      "to introduce youself"
+    ],
+    "answer": "regular working hours"
+  },
+  {
+    "question": "de regering",
+    "options": [
+      "training",
+      "nice/decent (clothes)",
+      "government",
+      "safe"
+    ],
+    "answer": "government"
+  },
+  {
+    "question": "het re-integratiebedrijf",
+    "options": [
+      "business plan",
+      "reintegration concern/firm",
+      "Unemployment Insurance Act (unemployment benefit/pay)",
+      "horticultural industry"
+    ],
+    "answer": "reintegration concern/firm"
+  },
+  {
+    "question": "reizen",
+    "options": [
+      "plan",
+      "to travel",
+      "to organize",
+      "trial period"
+    ],
+    "answer": "to travel"
+  },
+  {
+    "question": "het restaurant",
+    "options": [
+      "to organize",
+      "plan",
+      "restaurant",
+      "job seeker"
+    ],
+    "answer": "restaurant"
+  },
+  {
+    "question": "het salaris",
+    "options": [
+      "member",
+      "insurance",
+      "salary",
+      "mechanic"
+    ],
+    "answer": "salary"
+  },
+  {
+    "question": "de schilder",
+    "options": [
+      "sector",
+      "refresher course",
+      "insurance",
+      "(house-)painter"
+    ],
+    "answer": "(house-)painter"
+  },
+  {
+    "question": "de scholing",
+    "options": [
+      "education",
+      "trial period",
+      "nursing home",
+      "government"
+    ],
+    "answer": "education"
+  },
+  {
+    "question": "de schoonmaak",
+    "options": [
+      "child care",
+      "dirty",
+      "cleaning industry",
+      "employer"
+    ],
+    "answer": "cleaning industry"
+  },
+  {
+    "question": "de secretaresse",
+    "options": [
+      "chance",
+      "criticism",
+      "secretary",
+      "volunteer work"
+    ],
+    "answer": "secretary"
+  },
+  {
+    "question": "de sector",
+    "options": [
+      "regular working hours",
+      "child care",
+      "unreported employment",
+      "sector"
+    ],
+    "answer": "sector"
+  },
+  {
+    "question": "de sociale media",
+    "options": [
+      "website",
+      "social media",
+      "duty",
+      "consultation"
+    ],
+    "answer": "social media"
+  },
+  {
+    "question": "de sollicitatie",
+    "options": [
+      "right",
+      "savings",
+      "to move house",
+      "job application"
+    ],
+    "answer": "job application"
+  },
+  {
+    "question": "de sollicitatiebrief",
+    "options": [
+      "cover letter",
+      "child care",
+      "trial period",
+      "to assess"
+    ],
+    "answer": "cover letter"
+  },
+  {
+    "question": "het sollicitatieformulier",
+    "options": [
+      "duty",
+      "job application form",
+      "criticism",
+      "entrepreneur"
+    ],
+    "answer": "job application form"
+  },
+  {
+    "question": "het sollicitatiegesprek",
+    "options": [
+      "safe",
+      "to introduce youself",
+      "unsolicited application",
+      "job interview"
+    ],
+    "answer": "job interview"
+  },
+  {
+    "question": "solliciteren",
+    "options": [
+      "to apply",
+      "chance",
+      "gardener",
+      "job interview"
+    ],
+    "answer": "to apply"
+  },
+  {
+    "question": "het spaargeld",
+    "options": [
+      "social media",
+      "Ramadan",
+      "entrepreneur",
+      "savings"
+    ],
+    "answer": "savings"
+  },
+  {
+    "question": "de stage",
+    "options": [
+      "training",
+      "nice/decent (clothes)",
+      "gardener",
+      "part-time"
+    ],
+    "answer": "training"
+  },
+  {
+    "question": "de taak",
+    "options": [
+      "unskilled (work)",
+      "task",
+      "dirty",
+      "secretary"
+    ],
+    "answer": "task"
+  },
+  {
+    "question": "de techniek",
+    "options": [
+      "to assess",
+      "nursing home",
+      "technology",
+      "salary"
+    ],
+    "answer": "technology"
+  },
+  {
+    "question": "tekenen (een contract)",
+    "options": [
+      "website",
+      "to sign (a contract)",
+      "right",
+      "vacancy"
+    ],
+    "answer": "to sign (a contract)"
+  },
+  {
+    "question": "de test",
+    "options": [
+      "job interview",
+      "transport",
+      "test",
+      "casual/temporary work"
+    ],
+    "answer": "test"
+  },
+  {
+    "question": "tijdelijk werk",
+    "options": [
+      "casual/temporary work",
+      "technology",
+      "(unemployment) benefit",
+      "insurance"
+    ],
+    "answer": "casual/temporary work"
+  },
+  {
+    "question": "de tuinbouw",
+    "options": [
+      "to apply",
+      "horticultural industry",
+      "the government body that handles unemployment benefits and sickness benefits",
+      "social media"
+    ],
+    "answer": "horticultural industry"
+  },
+  {
+    "question": "de tuinman",
+    "options": [
+      "gardener",
+      "to prepare",
+      "Unemployment Insurance Act (unemployment benefit/pay)",
+      "safe"
+    ],
+    "answer": "gardener"
+  },
+  {
+    "question": "de uitkering",
+    "options": [
+      "government",
+      "(unemployment) benefit",
+      "employer",
+      "chat"
+    ],
+    "answer": "(unemployment) benefit"
+  },
+  {
+    "question": "uitnodigen",
+    "options": [
+      "job application",
+      "volunteer work",
+      "to invite",
+      "employer"
+    ],
+    "answer": "to invite"
+  },
+  {
+    "question": "het uitzendbureau",
+    "options": [
+      "nurse",
+      "employment agency (for casual work)",
+      "social media",
+      "job interview"
+    ],
+    "answer": "employment agency (for casual work)"
+  },
+  {
+    "question": "de uitzendkracht",
+    "options": [
+      "to invite",
+      "body language",
+      "out-sorced laborer",
+      "duty"
+    ],
+    "answer": "out-sorced laborer"
+  },
+  {
+    "question": "het UWV",
+    "options": [
+      "representative advisory body/board",
+      "criticism",
+      "profile",
+      "the government body that handles unemployment benefits and sickness benefits"
+    ],
+    "answer": "the government body that handles unemployment benefits and sickness benefits"
+  },
+  {
+    "question": "de vacature",
+    "options": [
+      "organization",
+      "to earn",
+      "horticultural industry",
+      "vacancy"
+    ],
+    "answer": "vacancy"
+  },
+  {
+    "question": "de vakbond",
+    "options": [
+      "plan",
+      "trade union",
+      "to prepare",
+      "(unemployment) benefit"
+    ],
+    "answer": "trade union"
+  },
+  {
+    "question": "vast werk",
+    "options": [
+      "permanent work",
+      "pension",
+      "independently",
+      "reintegration concern/firm"
+    ],
+    "answer": "permanent work"
+  },
+  {
+    "question": "veilig",
+    "options": [
+      "welfare",
+      "trade union",
+      "nursing home",
+      "safe"
+    ],
+    "answer": "safe"
+  },
+  {
+    "question": "verdienen",
+    "options": [
+      "law",
+      "member",
+      "to earn",
+      "to apply"
+    ],
+    "answer": "to earn"
+  },
+  {
+    "question": "verhuizen",
+    "options": [
+      "to sign (a contract)",
+      "unemployed",
+      "to move house",
+      "works/employees council"
+    ],
+    "answer": "to move house"
+  },
+  {
+    "question": "de verpleegkundige",
+    "options": [
+      "to invite",
+      "job application",
+      "nurse",
+      "pension"
+    ],
+    "answer": "nurse"
+  },
+  {
+    "question": "verplicht",
+    "options": [
+      "compulsory",
+      "pay slip",
+      "to suit someone",
+      "part-time"
+    ],
+    "answer": "compulsory"
+  },
+  {
+    "question": "het vervoer",
+    "options": [
+      "chance",
+      "transport",
+      "Center for social welfare and unemployment benefits (‘working square’)",
+      "to travel"
+    ],
+    "answer": "transport"
+  },
+  {
+    "question": "de verzekering",
+    "options": [
+      "horticultural industry",
+      "body language",
+      "insurance",
+      "character"
+    ],
+    "answer": "insurance"
+  },
+  {
+    "question": "het verzorgingshuis",
+    "options": [
+      "nursing home",
+      "quality",
+      "profile",
+      "technology"
+    ],
+    "answer": "nursing home"
+  },
+  {
+    "question": "voorbereiden",
+    "options": [
+      "to prepare",
+      "horticultural industry",
+      "employee",
+      "social media"
+    ],
+    "answer": "to prepare"
+  },
+  {
+    "question": "het vrijwilligerswerk",
+    "options": [
+      "welfare",
+      "motivation",
+      "employment agency (for casual work)",
+      "volunteer work"
+    ],
+    "answer": "volunteer work"
+  },
+  {
+    "question": "vuil",
+    "options": [
+      "job application form",
+      "member",
+      "dirty",
+      "pay slip"
+    ],
+    "answer": "dirty"
+  },
+  {
+    "question": "waarderen (van diploma’s)",
+    "options": [
+      "to introduce youself",
+      "minimum wage",
+      "to assess",
+      "Center for social welfare and unemployment benefits (‘working square’)"
+    ],
+    "answer": "to assess"
+  },
+  {
+    "question": "de website",
+    "options": [
+      "website",
+      "chance",
+      "part-time",
+      "job application"
+    ],
+    "answer": "website"
+  },
+  {
+    "question": "het welzijn",
+    "options": [
+      "care",
+      "pension",
+      "welfare",
+      "work experience"
+    ],
+    "answer": "welfare"
+  },
+  {
+    "question": "de werkcoach",
+    "options": [
+      "website",
+      "someone who helps you find a job when you are unemployed",
+      "chat",
+      "education"
+    ],
+    "answer": "someone who helps you find a job when you are unemployed"
+  },
+  {
+    "question": "de werkervaring",
+    "options": [
+      "job application",
+      "secretary",
+      "work experience",
+      "officially"
+    ],
+    "answer": "work experience"
+  },
+  {
+    "question": "de werkgever",
+    "options": [
+      "to sign (a contract)",
+      "caring",
+      "Unemployment Insurance Act (unemployment benefit/pay)",
+      "employer"
+    ],
+    "answer": "employer"
+  },
+  {
+    "question": "werkloos",
+    "options": [
+      "job interview",
+      "unemployed",
+      "trade union",
+      "unreported employment"
+    ],
+    "answer": "unemployed"
+  },
+  {
+    "question": "de werknemer",
+    "options": [
+      "staff association",
+      "employee",
+      "minimum wage",
+      "government"
+    ],
+    "answer": "employee"
+  },
+  {
+    "question": "het Werkplein",
+    "options": [
+      "Center for social welfare and unemployment benefits (‘working square’)",
+      "government",
+      "employee",
+      "cleaning industry"
+    ],
+    "answer": "Center for social welfare and unemployment benefits (‘working square’)"
+  },
+  {
+    "question": "de werkzoekende",
+    "options": [
+      "government",
+      "pay slip",
+      "job seeker",
+      "trial period"
+    ],
+    "answer": "job seeker"
+  },
+  {
+    "question": "de wet",
+    "options": [
+      "safe",
+      "employer",
+      "law",
+      "dirty"
+    ],
+    "answer": "law"
+  },
+  {
+    "question": "de WW",
+    "options": [
+      "Unemployment Insurance Act (unemployment benefit/pay)",
+      "reintegration concern/firm",
+      "right",
+      "irregular working hours"
+    ],
+    "answer": "Unemployment Insurance Act (unemployment benefit/pay)"
+  },
+  {
+    "question": "zelfstandig",
+    "options": [
+      "to sign (a contract)",
+      "website",
+      "independently",
+      "(unemployment) benefit"
+    ],
+    "answer": "independently"
+  },
+  {
+    "question": "zich voorstellen",
+    "options": [
+      "leadership",
+      "to organize",
+      "plan",
+      "to introduce youself"
+    ],
+    "answer": "to introduce youself"
+  },
+  {
+    "question": "de zelfstandig ondernemer",
+    "options": [
+      "entrepreneur",
+      "permanent work",
+      "consultation",
+      "caring"
+    ],
+    "answer": "entrepreneur"
+  },
+  {
+    "question": "de zorg",
+    "options": [
+      "organization",
+      "nurse",
+      "sector",
+      "care"
+    ],
+    "answer": "care"
+  },
+  {
+    "question": "zorgzaam",
+    "options": [
+      "to introduce youself",
+      "caring",
+      "the government body that handles unemployment benefits and sickness benefits",
+      "pension"
+    ],
+    "answer": "caring"
+  },
+  {
+    "question": "zwart werk",
+    "options": [
+      "motivation",
+      "dirty",
+      "unreported employment",
+      "plan"
+    ],
+    "answer": "unreported employment"
+  }
+,{
     "question": "de aangifte",
     "options": [
       "building, construction",
