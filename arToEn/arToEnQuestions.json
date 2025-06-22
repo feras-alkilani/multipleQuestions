@@ -1,5 +1,167 @@
 [
+  
   {
+    "question": "اختراقات البيانات",
+    "options": ["Data Breaches", "intensifies", "diary", "barred"],
+    "answer": "Data Breaches"
+  },
+  {
+    "question": "تكثف",
+    "options": ["intensifies", "routinely", "weapon", "treaty"],
+    "answer": "intensifies"
+  },
+  {
+    "question": "يوميات",
+    "options": ["diary", "exclusive", "defeated", "condemn"],
+    "answer": "diary"
+  },
+  {
+    "question": "بشكل روتيني",
+    "options": ["routinely", "betrayed", "territorial", "fingers crossed"],
+    "answer": "routinely"
+  },
+  {
+    "question": "محظور",
+    "options": ["barred", "facilities", "beard", "bold"],
+    "answer": "barred"
+  },
+  {
+    "question": "سلاح",
+    "options": ["weapon", "proliferation", "defend", "bully"],
+    "answer": "weapon"
+  },
+  {
+    "question": "حصري",
+    "options": ["exclusive", "threat", "crash", "fender"],
+    "answer": "exclusive"
+  },
+  {
+    "question": "خان",
+    "options": ["betrayed", "carry out", "blew up", "timid"],
+    "answer": "betrayed"
+  },
+  {
+    "question": "مرافق",
+    "options": ["facilities", "defeated", "turn in", "bender"],
+    "answer": "facilities"
+  },
+  {
+    "question": "انفجر",
+    "options": ["blew up", "diary", "territorial", "foolish"],
+    "answer": "blew up"
+  },
+  {
+    "question": "انتشار",
+    "options": ["proliferation", "exclusive", "bully", "turn in"],
+    "answer": "proliferation"
+  },
+  {
+    "question": "قوض",
+    "options": ["undermined", "best tackle tips", "beard", "routinely"],
+    "answer": "undermined"
+  },
+  {
+    "question": "انهزم",
+    "options": ["defeated", "threat", "crash", "fender-bender"],
+    "answer": "defeated"
+  },
+  {
+    "question": "معاهدة",
+    "options": ["treaty", "betrayed", "persist", "carry out"],
+    "answer": "treaty"
+  },
+  {
+    "question": "يدين",
+    "options": ["condemn", "diary", "depressed", "beard"],
+    "answer": "condemn"
+  },
+  {
+    "question": "إقليمي",
+    "options": ["territorial", "persist", "bully", "foolish"],
+    "answer": "territorial"
+  },
+  {
+    "question": "مكتئب",
+    "options": ["depressed", "nail", "weapon", "routinely"],
+    "answer": "depressed"
+  },
+  {
+    "question": "أنام",
+    "options": ["turn in", "nailing", "fender", "diary"],
+    "answer": "turn in"
+  },
+  {
+    "question": "أغفو فجأة من شدة التعب",
+    "options": ["crash", "threat", "exclusive", "defend"],
+    "answer": "crash"
+  },
+  {
+    "question": "لحية",
+    "options": ["beard", "persist", "blew up", "bender"],
+    "answer": "beard"
+  },
+  {
+    "question": "جريء",
+    "options": ["bold", "undermined", "diary", "bully"],
+    "answer": "bold"
+  },
+  {
+    "question": "خجول",
+    "options": ["timid", "routinely", "threat", "weapon"],
+    "answer": "timid"
+  },
+  {
+    "question": "يدافع",
+    "options": ["defend", "defeated", "fender", "carry out"],
+    "answer": "defend"
+  },
+  {
+    "question": "أحمق",
+    "options": ["foolish", "exclusive", "betrayed", "persist"],
+    "answer": "foolish"
+  },
+  {
+    "question": "ينفذ",
+    "options": ["carry out", "condemn", "blew up", "diary"],
+    "answer": "carry out"
+  },
+  {
+    "question": "تهديد",
+    "options": ["threat", "barred", "nail", "defeated"],
+    "answer": "threat"
+  },
+  {
+    "question": "متنمر",
+    "options": ["bully", "routinely", "exclusive", "turn in"],
+    "answer": "bully"
+  },
+  {
+    "question": "حادث سيارة خفيف",
+    "options": ["fender-bender", "weapon", "persist", "diary"],
+    "answer": "fender-bender"
+  },
+  {
+    "question": "رفراف السيارة",
+    "options": ["fender", "defend", "condemn", "nailing"],
+    "answer": "fender"
+  },
+  {
+    "question": "شيء ينثني أو يتعوج",
+    "options": ["bender", "defeated", "crash", "threat"],
+    "answer": "bender"
+  },
+  {
+    "question": "أفضل نصائح التصدي",
+    "options": ["Best tackle tips", "diary", "weapon", "foolish"],
+    "answer": "Best tackle tips"
+  },
+  {
+    "question": "آمل أن تسير الأمور جيدًا",
+    "options": ["fingers crossed", "undermined", "exclusive", "persist"],
+    "answer": "fingers crossed"
+  }
+
+,{
     "question": "عدل",
     "options": [
       "fair",
