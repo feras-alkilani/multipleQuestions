@@ -1,6 +1,100 @@
 [
   
   {
+    "question": "ضخم",
+    "options": ["tiny", "massive", "brief", "weak"],
+    "answer": "massive"
+  },
+  {
+    "question": "دقة",
+    "options": ["precision", "confusion", "approximation", "blur"],
+    "answer": "precision"
+  },
+  {
+    "question": "ثلاث منشآت نووية رئيسية",
+    "options": ["three key nuclear facilities", "dangerous elements", "nuclear bombs", "atomic theory"],
+    "answer": "three key nuclear facilities"
+  },
+  {
+    "question": "مدمر",
+    "options": ["destructive", "fragile", "constructive", "gentle"],
+    "answer": "destructive"
+  },
+  {
+    "question": "مؤسسة",
+    "options": ["enterprise", "entry", "entrepreneur", "interruption"],
+    "answer": "enterprise"
+  },
+  {
+    "question": "هدف",
+    "options": ["opbjective", "subjective", "prediction", "avoidance"],
+    "answer": "opbjective"
+  },
+  {
+    "question": "تخصيب",
+    "options": ["enrichment", "purification", "destruction", "reduction"],
+    "answer": "enrichment"
+  },
+  {
+    "question": "مذهل",
+    "options": ["spectacular", "usual", "common", "quiet"],
+    "answer": "spectacular"
+  },
+  {
+    "question": "تم محوه",
+    "options": ["obliterated", "protected", "stored", "created"],
+    "answer": "obliterated"
+  },
+  {
+    "question": "أسهل بكثير",
+    "options": ["alot easier", "very hard", "quite complicated", "less effective"],
+    "answer": "alot easier"
+  },
+  {
+    "question": "أكبر بكثير",
+    "options": ["far greater", "smaller", "minimal", "moderate"],
+    "answer": "far greater"
+  },
+  {
+    "question": "متوتر",
+    "options": ["twitchy", "calm", "sleepy", "relaxed"],
+    "answer": "twitchy"
+  },
+  {
+    "question": "غريب",
+    "options": ["bizarre", "normal", "average", "expected"],
+    "answer": "bizarre"
+  },
+  {
+    "question": "سخيف",
+    "options": ["cheesy", "elegant", "chic", "serious"],
+    "answer": "cheesy"
+  },
+  {
+    "question": "عبثي",
+    "options": ["absurd", "logical", "reasonable", "valid"],
+    "answer": "absurd"
+  },
+  {
+    "question": "فاخر",
+    "options": ["fancy", "plain", "simple", "dull"],
+    "answer": "fancy"
+  },
+  {
+    "question": "ذكي ساخر",
+    "options": ["witty", "dull", "boring", "slow"],
+    "answer": "witty"
+  },
+  {
+    "question": "صدئ",
+    "options": ["rusty", "shiny", "clean", "new"],
+    "answer": "rusty"
+  },
+  {
+    "question": "نحس",
+    "options": ["jinx", "luck", "fortune", "blessing"],
+    "answer": "jinx"
+  },{
     "question": "اختراقات البيانات",
     "options": ["Data Breaches", "intensifies", "diary", "barred"],
     "answer": "Data Breaches"
