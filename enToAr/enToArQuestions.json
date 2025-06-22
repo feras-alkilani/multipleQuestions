@@ -1,5 +1,104 @@
 [
   {
+        "question": "fair",
+        "options": ["عدل", "معرض", "غير عادل", "أجرة"],
+        "answer": "عدل"
+    },
+    {
+        "question": "fair",
+        "options": ["معرض", "عدل", "مهرجان", "جو عادل"],
+        "answer": "معرض"
+    },
+    {
+        "question": "dairy",
+        "options": ["مشتقات الحليب", "ألبان", "لحوم", "حبوب"],
+        "answer": "مشتقات الحليب"
+    },
+    {
+        "question": "fall behind",
+        "options": ["يتأخر", "يسبق", "يتجاهل", "يتقدم"],
+        "answer": "يتأخر"
+    },
+    {
+        "question": "fall out",
+        "options": ["يختلف", "يتصالح", "يسقط", "ينام"],
+        "answer": "يختلف"
+    },
+    {
+        "question": "fall apart",
+        "options": ["ينهار", "يتفكك", "يتجمع", "يتماسك"],
+        "answer": "ينهار"
+    },
+    {
+        "question": "fall for",
+        "options": ["يقع في الحب", "يكره", "يسقط", "يتجاهل"],
+        "answer": "يقع في الحب"
+    },
+    {
+        "question": "shelter",
+        "options": ["مأوى", "مطار", "قلعة", "خيمة"],
+        "answer": "مأوى"
+    },
+    {
+        "question": "bunch",
+        "options": ["مجموعة", "واحد", "قليل", "مفرد"],
+        "answer": "مجموعة"
+    },
+    {
+        "question": "bowl",
+        "options": ["وعاء", "كأس", "صحن", "كوب"],
+        "answer": "وعاء"
+    },
+    {
+        "question": "gravitas",
+        "options": ["الوقار", "السرعة", "البساطة", "الفوضى"],
+        "answer": "الوقار"
+    },
+    {
+        "question": "incomprehensible",
+        "options": ["غير مفهوم", "واضح", "سهل", "مألوف"],
+        "answer": "غير مفهوم"
+    },
+    {
+        "question": "poorly written",
+        "options": ["مكتوب بشكل سيئ", "مكتوب بإتقان", "غير مكتوب", "مختصر"],
+        "answer": "مكتوب بشكل سيئ"
+    },
+    {
+        "question": "Before it is too late",
+        "options": ["قبل فوات الأوان", "بعد فوات الأوان", "في الوقت المناسب", "لاحقاً"],
+        "answer": "قبل فوات الأوان"
+    },
+    {
+        "question": "why took you so long?",
+        "options": ["لماذا تأخرت؟", "أين كنت؟", "متى أتيت؟", "هل تأخرت؟"],
+        "answer": "لماذا تأخرت؟"
+    },
+    {
+        "question": "better luck next time",
+        "options": ["حظاً أوفر في المرة القادمة", "مبروك", "أحسنت", "لا بأس"],
+        "answer": "حظاً أوفر في المرة القادمة"
+    },
+    {
+        "question": "endure",
+        "options": ["يحتمل", "يرفض", "يترك", "يخاف"],
+        "answer": "يحتمل"
+    },
+    {
+        "question": "pride",
+        "options": ["فخر", "خجل", "حزن", "ندم"],
+        "answer": "فخر"
+    },
+    {
+        "question": "peeled",
+        "options": ["مقشر", "مقطع", "مطحون", "مكسر"],
+        "answer": "مقشر"
+    },
+    {
+        "question": "somehow",
+        "options": ["بطريقة ما", "أبداً", "بشكل واضح", "منطقيًا"],
+        "answer": "بطريقة ما"
+    },{
     "question": "From my point of view",
     "options": [
       "من وجهة نظري",
