@@ -1,5 +1,205 @@
 [
   {
+  "question": "fair عدل",
+  "options": [
+    "Just, impartial, equitable",
+    "Rough, biased, uneven",
+    "Playful, funny, casual",
+    "Slow, lazy, passive"
+  ],
+  "answer": "Just, impartial, equitable"
+},
+{
+  "question": "fair معرض",
+  "options": [
+    "Exhibition, event, show",
+    "Battle, fight, war",
+    "Farm, ranch, barn",
+    "Lecture, speech, class"
+  ],
+  "answer": "Exhibition, event, show"
+},
+{
+  "question": "dairy",
+  "options": [
+    "Milk, cheese, cream",
+    "Meat, fish, chicken",
+    "Fruit, vegetable, grain",
+    "Bread, pasta, rice"
+  ],
+  "answer": "Milk, cheese, cream"
+},
+{
+  "question": "fall behind",
+  "options": [
+    "Lag, delay, trail",
+    "Win, lead, succeed",
+    "Speed, rush, hurry",
+    "Climb, rise, jump"
+  ],
+  "answer": "Lag, delay, trail"
+},
+{
+  "question": "fall out",
+  "options": [
+    "Argue, separate, fight",
+    "Love, agree, hug",
+    "Join, unite, meet",
+    "Work, plan, build"
+  ],
+  "answer": "Argue, separate, fight"
+},
+{
+  "question": "fall apart",
+  "options": [
+    "Break, collapse, crumble",
+    "Stand, stay, remain",
+    "Grow, rise, improve",
+    "Jump, fly, move"
+  ],
+  "answer": "Break, collapse, crumble"
+},
+{
+  "question": "fall for",
+  "options": [
+    "Love, believe, trust",
+    "Ignore, avoid, doubt",
+    "Hide, cover, run",
+    "Lie, trick, betray"
+  ],
+  "answer": "Love, believe, trust"
+},
+{
+  "question": "shelter",
+  "options": [
+    "Refuge, protection, haven",
+    "Storm, flood, fire",
+    "Wall, floor, roof",
+    "Trap, prison, cage"
+  ],
+  "answer": "Refuge, protection, haven"
+},
+{
+  "question": "bunch",
+  "options": [
+    "Group, bundle, cluster",
+    "One, single, lone",
+    "Piece, item, part",
+    "Line, edge, side"
+  ],
+  "answer": "Group, bundle, cluster"
+},
+{
+  "question": "bowl",
+  "options": [
+    "Dish, container, vessel",
+    "Plate, fork, spoon",
+    "Pan, tray, oven",
+    "Ball, game, strike"
+  ],
+  "answer": "Dish, container, vessel"
+},
+{
+  "question": "gravitas",
+  "options": [
+    "Seriousness, dignity, weight",
+    "Joke, laugh, humor",
+    "Speed, haste, rush",
+    "Lightness, air, float"
+  ],
+  "answer": "Seriousness, dignity, weight"
+},
+{
+  "question": "incomprehensible",
+  "options": [
+    "Unclear, confusing, obscure",
+    "Simple, plain, direct",
+    "Quick, fast, easy",
+    "Open, bright, loud"
+  ],
+  "answer": "Unclear, confusing, obscure"
+},
+{
+  "question": "poorly written",
+  "options": [
+    "Messy, unclear, weak",
+    "Strong, clear, sharp",
+    "Neat, elegant, smooth",
+    "Bold, fast, rough"
+  ],
+  "answer": "Messy, unclear, weak"
+},
+{
+  "question": "Befor it is too late",
+  "options": [
+    "Soon, now, quickly",
+    "Never, maybe, later",
+    "Gone, lost, missed",
+    "Wait, pause, stop"
+  ],
+  "answer": "Soon, now, quickly"
+},
+{
+  "question": "why took you so long?",
+  "options": [
+    "Delay, late, slow",
+    "Quick, fast, early",
+    "Jump, run, speed",
+    "Hide, vanish, wait"
+  ],
+  "answer": "Delay, late, slow"
+},
+{
+  "question": "better luck next time",
+  "options": [
+    "Hope, chance, future",
+    "Fail, end, drop",
+    "Win, celebrate, cheer",
+    "Now, today, soon"
+  ],
+  "answer": "Hope, chance, future"
+},
+{
+  "question": "endure",
+  "options": [
+    "Suffer, tolerate, last",
+    "Break, fall, cry",
+    "Quit, stop, avoid",
+    "Love, care, hug"
+  ],
+  "answer": "Suffer, tolerate, last"
+},
+{
+  "question": "pride",
+  "options": [
+    "Honor, dignity, self-respect",
+    "Shame, guilt, regret",
+    "Fear, worry, doubt",
+    "Anger, rage, fury"
+  ],
+  "answer": "Honor, dignity, self-respect"
+},
+{
+  "question": "peeled",
+  "options": [
+    "Stripped, removed, uncovered",
+    "Covered, hidden, sealed",
+    "Cut, sliced, diced",
+    "Built, fixed, formed"
+  ],
+  "answer": "Stripped, removed, uncovered"
+},
+{
+  "question": "somehow",
+  "options": [
+    "Anyway, eventually, magically",
+    "Never, nowhere, nobody",
+    "Clear, open, exact",
+    "Why, how, when"
+  ],
+  "answer": "Anyway, eventually, magically"
+}
+,{
     "question": "Data Breaches",
     "options": [
       "Leaks, exposures, intrusions",
