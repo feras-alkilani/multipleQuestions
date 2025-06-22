@@ -1,5 +1,784 @@
 [
   {
+    "question": "de aangifte",
+    "options": [
+      "season",
+      "abuse, assault",
+      "report (to the police)",
+      "permit, licence"
+    ],
+    "answer": "report (to the police)"
+  },
+  {
+    "question": "de abortus",
+    "options": [
+      "culture",
+      "physical, bodily",
+      "abortion",
+      "season"
+    ],
+    "answer": "abortion"
+  },
+  {
+    "question": "accepteren",
+    "options": [
+      "dating site",
+      "leadership",
+      "to accept",
+      "homosexual"
+    ],
+    "answer": "to accept"
+  },
+  {
+    "question": "de baas",
+    "options": [
+      "website",
+      "organization",
+      "on average",
+      "boss"
+    ],
+    "answer": "boss"
+  },
+  {
+    "question": "besnijden",
+    "options": [
+      "to behave",
+      "cousin (male)",
+      "leadership",
+      "to circumcise"
+    ],
+    "answer": "to circumcise"
+  },
+  {
+    "question": "de besnijdenis",
+    "options": [
+      "circumcision",
+      "boss",
+      "constitution",
+      "weapon"
+    ],
+    "answer": "circumcision"
+  },
+  {
+    "question": "de bijbel",
+    "options": [
+      "bible",
+      "to accept",
+      "respect",
+      "pregnant"
+    ],
+    "answer": "bible"
+  },
+  {
+    "question": "bloot",
+    "options": [
+      "bare, naked",
+      "right",
+      "violence",
+      "complaint"
+    ],
+    "answer": "bare, naked"
+  },
+  {
+    "question": "de cultuur",
+    "options": [
+      "organization",
+      "culture",
+      "homosexual",
+      "to forbid"
+    ],
+    "answer": "culture"
+  },
+  {
+    "question": "de datingsite",
+    "options": [
+      "dating site",
+      "training, education",
+      "incest",
+      "right"
+    ],
+    "answer": "dating site"
+  },
+  {
+    "question": "de discriminatie",
+    "options": [
+      "leadership",
+      "incest",
+      "discrimination",
+      "to behave"
+    ],
+    "answer": "discrimination"
+  },
+  {
+    "question": "de dominee",
+    "options": [
+      "boss",
+      "training, education",
+      "lesbian",
+      "priest, reverend"
+    ],
+    "answer": "priest, reverend"
+  },
+  {
+    "question": "dwingen",
+    "options": [
+      "boss",
+      "to force",
+      "complaint",
+      "homo, gay (male)"
+    ],
+    "answer": "to force"
+  },
+  {
+    "question": "de eerwraak",
+    "options": [
+      "abortion",
+      "leadership",
+      "to meet",
+      "retribution/punishment for lost honour"
+    ],
+    "answer": "retribution/punishment for lost honour"
+  },
+  {
+    "question": "de euthanasie",
+    "options": [
+      "euthanasia",
+      "boss",
+      "clothing",
+      "love"
+    ],
+    "answer": "euthanasia"
+  },
+  {
+    "question": "het geloof",
+    "options": [
+      "partner",
+      "sexual education",
+      "religion",
+      "culture"
+    ],
+    "answer": "religion"
+  },
+  {
+    "question": "het gemeentehuis",
+    "options": [
+      "dating agency",
+      "town hall",
+      "complaint",
+      "cousin (female)"
+    ],
+    "answer": "town hall"
+  },
+  {
+    "question": "gemiddeld",
+    "options": [
+      "prison, jail",
+      "sex",
+      "public",
+      "on average"
+    ],
+    "answer": "on average"
+  },
+  {
+    "question": "de gevangenis",
+    "options": [
+      "to divorce (your husband or wife)",
+      "respect",
+      "housekeeping, household chores",
+      "prison, jail"
+    ],
+    "answer": "prison, jail"
+  },
+  {
+    "question": "het geweld",
+    "options": [
+      "murder",
+      "violence",
+      "relationship",
+      "permit, licence"
+    ],
+    "answer": "violence"
+  },
+  {
+    "question": "de gewoonte",
+    "options": [
+      "knife",
+      "weapon",
+      "custom",
+      "lesbian, gay (female)"
+    ],
+    "answer": "custom"
+  },
+  {
+    "question": "het gezin",
+    "options": [
+      "discrimination",
+      "puberty",
+      "cohabitation contract",
+      "(nuclear) family"
+    ],
+    "answer": "(nuclear) family"
+  },
+  {
+    "question": "de grondwet",
+    "options": [
+      "constitution",
+      "prison, jail",
+      "retribution/punishment for lost honour",
+      "cousin (female)"
+    ],
+    "answer": "constitution"
+  },
+  {
+    "question": "de homo",
+    "options": [
+      "homo, gay (male)",
+      "report (to the police)",
+      "strict",
+      "violence"
+    ],
+    "answer": "homo, gay (male)"
+  },
+  {
+    "question": "de homoseksualiteit",
+    "options": [
+      "strict",
+      "homosexuality",
+      "argument",
+      "to kiss"
+    ],
+    "answer": "homosexuality"
+  },
+  {
+    "question": "homoseksueel",
+    "options": [
+      "official, officially",
+      "homosexual",
+      "boss",
+      "knife"
+    ],
+    "answer": "homosexual"
+  },
+  {
+    "question": "het huishouden",
+    "options": [
+      "sex",
+      "housekeeping, household chores",
+      "to kiss",
+      "town hall"
+    ],
+    "answer": "housekeeping, household chores"
+  },
+  {
+    "question": "het huwelijk",
+    "options": [
+      "dating site",
+      "priest, reverend",
+      "training, education",
+      "marriage"
+    ],
+    "answer": "marriage"
+  },
+  {
+    "question": "de incest",
+    "options": [
+      "complaint",
+      "respect",
+      "incest",
+      "custom"
+    ],
+    "answer": "incest"
+  },
+  {
+    "question": "de kans",
+    "options": [
+      "violence",
+      "priest, reverend",
+      "chance",
+      "town hall"
+    ],
+    "answer": "chance"
+  },
+  {
+    "question": "de keuze",
+    "options": [
+      "argument",
+      "to force",
+      "homosexual",
+      "choice"
+    ],
+    "answer": "choice"
+  },
+  {
+    "question": "de klacht",
+    "options": [
+      "to accept",
+      "sex",
+      "town hall",
+      "complaint"
+    ],
+    "answer": "complaint"
+  },
+  {
+    "question": "de kleding",
+    "options": [
+      "clothing",
+      "euthanasia",
+      "abuse, assault",
+      "circumcision"
+    ],
+    "answer": "clothing"
+  },
+  {
+    "question": "de leiding",
+    "options": [
+      "leadership",
+      "sexuality",
+      "partner",
+      "complaint"
+    ],
+    "answer": "leadership"
+  },
+  {
+    "question": "de lesbienne",
+    "options": [
+      "priest, reverend",
+      "lesbian",
+      "sexual education",
+      "retribution/punishment for lost honour"
+    ],
+    "answer": "lesbian"
+  },
+  {
+    "question": "lesbisch",
+    "options": [
+      "sexuality",
+      "lesbian, gay (female)",
+      "law",
+      "to accept"
+    ],
+    "answer": "lesbian, gay (female)"
+  },
+  {
+    "question": "lichamelijk",
+    "options": [
+      "cousin (male)",
+      "physical, bodily",
+      "complaint",
+      "leadership"
+    ],
+    "answer": "physical, bodily"
+  },
+  {
+    "question": "de liefde",
+    "options": [
+      "retribution/punishment for lost honour",
+      "discrimination",
+      "leadership",
+      "love"
+    ],
+    "answer": "love"
+  },
+  {
+    "question": "het mes",
+    "options": [
+      "knife",
+      "incest",
+      "lesbian",
+      "cohabitation contract"
+    ],
+    "answer": "knife"
+  },
+  {
+    "question": "de mishandeling",
+    "options": [
+      "abuse, assault",
+      "to murder, to kill",
+      "custom",
+      "relationship"
+    ],
+    "answer": "abuse, assault"
+  },
+  {
+    "question": "de moord",
+    "options": [
+      "murder",
+      "official, officially",
+      "homosexual",
+      "in love"
+    ],
+    "answer": "murder"
+  },
+  {
+    "question": "de neef",
+    "options": [
+      "euthanasia",
+      "cousin (male)",
+      "choice",
+      "season"
+    ],
+    "answer": "cousin (male)"
+  },
+  {
+    "question": "de nicht",
+    "options": [
+      "sex",
+      "to circumcise",
+      "abortion",
+      "cousin (female)"
+    ],
+    "answer": "cousin (female)"
+  },
+  {
+    "question": "officieel",
+    "options": [
+      "boss",
+      "culture",
+      "official, officially",
+      "religion"
+    ],
+    "answer": "official, officially"
+  },
+  {
+    "question": "omgaan",
+    "options": [
+      "to behave",
+      "chance",
+      "to circumcise",
+      "prison, jail"
+    ],
+    "answer": "to behave"
+  },
+  {
+    "question": "ontmoeten",
+    "options": [
+      "puberty",
+      "season",
+      "to meet",
+      "clothing"
+    ],
+    "answer": "to meet"
+  },
+  {
+    "question": "openbaar",
+    "options": [
+      "to sign (a contract)",
+      "retribution/punishment for lost honour",
+      "public",
+      "abuse, assault"
+    ],
+    "answer": "public"
+  },
+  {
+    "question": "de opleiding",
+    "options": [
+      "violence",
+      "to meet",
+      "training, education",
+      "official, officially"
+    ],
+    "answer": "training, education"
+  },
+  {
+    "question": "de organisatie",
+    "options": [
+      "to meet",
+      "weapon",
+      "clothing",
+      "organization"
+    ],
+    "answer": "organization"
+  },
+  {
+    "question": "de partner",
+    "options": [
+      "law",
+      "to kiss",
+      "partner",
+      "culture"
+    ],
+    "answer": "partner"
+  },
+  {
+    "question": "de puberteit",
+    "options": [
+      "physical, bodily",
+      "violence",
+      "puberty",
+      "sexuality"
+    ],
+    "answer": "puberty"
+  },
+  {
+    "question": "het recht",
+    "options": [
+      "love",
+      "right",
+      "public",
+      "violence"
+    ],
+    "answer": "right"
+  },
+  {
+    "question": "de relatie",
+    "options": [
+      "report (to the police)",
+      "incest",
+      "relationship",
+      "(nuclear) family"
+    ],
+    "answer": "relationship"
+  },
+  {
+    "question": "het relatiebureau",
+    "options": [
+      "euthanasia",
+      "cousin (male)",
+      "report (to the police)",
+      "dating agency"
+    ],
+    "answer": "dating agency"
+  },
+  {
+    "question": "het respect",
+    "options": [
+      "job application",
+      "respect",
+      "cousin (male)",
+      "lesbian"
+    ],
+    "answer": "respect"
+  },
+  {
+    "question": "de ruzie",
+    "options": [
+      "argument",
+      "cousin (male)",
+      "partner",
+      "law"
+    ],
+    "answer": "argument"
+  },
+  {
+    "question": "het samenlevingscontract",
+    "options": [
+      "sexuality",
+      "town hall",
+      "organization",
+      "cohabitation contract"
+    ],
+    "answer": "cohabitation contract"
+  },
+  {
+    "question": "scheiden",
+    "options": [
+      "to divorce (your husband or wife)",
+      "cousin (female)",
+      "boss",
+      "homo, gay (male)"
+    ],
+    "answer": "to divorce (your husband or wife)"
+  },
+  {
+    "question": "het seizoen",
+    "options": [
+      "to forbid",
+      "relationship",
+      "season",
+      "chance"
+    ],
+    "answer": "season"
+  },
+  {
+    "question": "de seks",
+    "options": [
+      "sex",
+      "complaint",
+      "puberty",
+      "in love"
+    ],
+    "answer": "sex"
+  },
+  {
+    "question": "de seksuele voorlichting",
+    "options": [
+      "law",
+      "sexual education",
+      "town hall",
+      "to divorce (your husband or wife)"
+    ],
+    "answer": "sexual education"
+  },
+  {
+    "question": "de seksualiteit",
+    "options": [
+      "(nuclear) family",
+      "dating agency",
+      "sexuality",
+      "culture"
+    ],
+    "answer": "sexuality"
+  },
+  {
+    "question": "de sollicitatie",
+    "options": [
+      "job application",
+      "murder",
+      "on average",
+      "season"
+    ],
+    "answer": "job application"
+  },
+  {
+    "question": "de sportclub",
+    "options": [
+      "choice",
+      "to forbid",
+      "sporting club",
+      "euthanasia"
+    ],
+    "answer": "sporting club"
+  },
+  {
+    "question": "streng",
+    "options": [
+      "to kiss",
+      "organization",
+      "strict",
+      "clothing"
+    ],
+    "answer": "strict"
+  },
+  {
+    "question": "tekenen (een contract)",
+    "options": [
+      "to sign (a contract)",
+      "marriage",
+      "incest",
+      "official, officially"
+    ],
+    "answer": "to sign (a contract)"
+  },
+  {
+    "question": "de verandering",
+    "options": [
+      "abuse, assault",
+      "permit, licence",
+      "change",
+      "retribution/punishment for lost honour"
+    ],
+    "answer": "change"
+  },
+  {
+    "question": "verantwoordelijk",
+    "options": [
+      "boss",
+      "weapon",
+      "responsible",
+      "permit, licence"
+    ],
+    "answer": "responsible"
+  },
+  {
+    "question": "verbieden",
+    "options": [
+      "physical, bodily",
+      "relationship",
+      "to forbid",
+      "pregnant"
+    ],
+    "answer": "to forbid"
+  },
+  {
+    "question": "de vergunning",
+    "options": [
+      "lesbian, gay (female)",
+      "constitution",
+      "right",
+      "permit, licence"
+    ],
+    "answer": "permit, licence"
+  },
+  {
+    "question": "de verkrachting",
+    "options": [
+      "rape",
+      "marriage",
+      "responsible",
+      "homo, gay (male)"
+    ],
+    "answer": "rape"
+  },
+  {
+    "question": "verliefd",
+    "options": [
+      "in love",
+      "homosexual",
+      "religion",
+      "circumcision"
+    ],
+    "answer": "in love"
+  },
+  {
+    "question": "vermoorden",
+    "options": [
+      "circumcision",
+      "marriage",
+      "to murder, to kill",
+      "euthanasia"
+    ],
+    "answer": "to murder, to kill"
+  },
+  {
+    "question": "het wapen",
+    "options": [
+      "weapon",
+      "law",
+      "on average",
+      "organization"
+    ],
+    "answer": "weapon"
+  },
+  {
+    "question": "de website",
+    "options": [
+      "argument",
+      "marriage",
+      "website",
+      "housekeeping, household chores"
+    ],
+    "answer": "website"
+  },
+  {
+    "question": "de wet",
+    "options": [
+      "law",
+      "leadership",
+      "lesbian",
+      "argument"
+    ],
+    "answer": "law"
+  },
+  {
+    "question": "zoenen",
+    "options": [
+      "public",
+      "to kiss",
+      "on average",
+      "cohabitation contract"
+    ],
+    "answer": "to kiss"
+  },
+  {
+    "question": "zwanger",
+    "options": [
+      "love",
+      "homosexuality",
+      "pregnant",
+      "website"
+    ],
+    "answer": "pregnant"
+  },{
     "question": "de kans",
     "options": [
       "chance",
