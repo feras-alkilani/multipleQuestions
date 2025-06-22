@@ -1,5 +1,159 @@
 [
   {
+        "question": "intensifies",
+        "options": ["يشتد", "يضحك", "يهدأ", "يتأخر"],
+        "answer": "يشتد"
+    },
+    {
+        "question": "diary",
+        "options": ["يوميات", "قاموس", "مجلة", "رواية"],
+        "answer": "يوميات"
+    },
+    {
+        "question": "routinely",
+        "options": ["بشكل روتيني", "نادراً", "ببطء", "بعشوائية"],
+        "answer": "بشكل روتيني"
+    },
+    {
+        "question": "barred",
+        "options": ["ممنوع", "مسموح", "مفتوح", "مخفي"],
+        "answer": "ممنوع"
+    },
+    {
+        "question": "weapon",
+        "options": ["سلاح", "خريطة", "طعام", "خيمة"],
+        "answer": "سلاح"
+    },
+    {
+        "question": "exclusive",
+        "options": ["حصري", "عام", "تقليدي", "متعدد"],
+        "answer": "حصري"
+    },
+    {
+        "question": "betrayed",
+        "options": ["خيانة", "صداقة", "دعم", "محبة"],
+        "answer": "خيانة"
+    },
+    {
+        "question": "facilities",
+        "options": ["مرافق", "أسلحة", "قوانين", "أسعار"],
+        "answer": "مرافق"
+    },
+    {
+        "question": "blew up",
+        "options": ["انفجر", "ركض", "تسلق", "ضحك"],
+        "answer": "انفجر"
+    },
+    {
+        "question": "proliferation",
+        "options": ["انتشار", "هجوم", "إلغاء", "احتلال"],
+        "answer": "انتشار"
+    },
+    {
+        "question": "undermined",
+        "options": ["قوض", "دعم", "طور", "ساعد"],
+        "answer": "قوض"
+    },
+    {
+        "question": "defeated",
+        "options": ["هزم", "ربح", "دافع", "أقنع"],
+        "answer": "هزم"
+    },
+    {
+        "question": "treaty",
+        "options": ["معاهدة", "مؤامرة", "هجوم", "حرب"],
+        "answer": "معاهدة"
+    },
+    {
+        "question": "condemn",
+        "options": ["يدين", "يشجع", "يمدح", "يحتفل"],
+        "answer": "يدين"
+    },
+    {
+        "question": "territorial",
+        "options": ["إقليمي", "دولي", "مؤقت", "اقتصادي"],
+        "answer": "إقليمي"
+    },
+    {
+        "question": "depressed",
+        "options": ["مكتئب", "سعيد", "متفائل", "غاضب"],
+        "answer": "مكتئب"
+    },
+    {
+        "question": "turn in",
+        "options": ["أطفي ( أنام )", "أهرب", "أغادر", "أتحدث"],
+        "answer": "أطفي ( أنام )"
+    },
+    {
+        "question": "crash",
+        "options": ["عامية بمعنى النوم فجأة أو من شدة التعب", "يصطدم", "ينام باكراً", "يرتاح"],
+        "answer": "عامية بمعنى النوم فجأة أو من شدة التعب"
+    },
+    {
+        "question": "beard",
+        "options": ["لحية", "شارب", "حاجب", "ذقن"],
+        "answer": "لحية"
+    },
+    {
+        "question": "bold",
+        "options": ["جريء", "جبان", "مغرور", "صامت"],
+        "answer": "جريء"
+    },
+    {
+        "question": "timid",
+        "options": ["خجول", "عريض", "كبير", "مبكر"],
+        "answer": "خجول"
+    },
+    {
+        "question": "defend",
+        "options": ["يدافع", "يهاجم", "ينسحب", "يسلم"],
+        "answer": "يدافع"
+    },
+    {
+        "question": "foolish",
+        "options": ["أحمق", "ذكي", "واعي", "مبدع"],
+        "answer": "أحمق"
+    },
+    {
+        "question": "carry out",
+        "options": ["ينفذ", "ينسحب", "يتراجع", "يتجنب"],
+        "answer": "ينفذ"
+    },
+    {
+        "question": "threat",
+        "options": ["تهديد", "فرصة", "دعم", "سلام"],
+        "answer": "تهديد"
+    },
+    {
+        "question": "bully",
+        "options": ["متنمر", "قائد", "رقيق", "صديق"],
+        "answer": "متنمر"
+    },
+    {
+        "question": "fender-bender",
+        "options": ["حادث سيارة خفيف", "حادث طائرة", "تصادم دراجات", "مشكلة مرورية"],
+        "answer": "حادث سيارة خفيف"
+    },
+    {
+        "question": "fender",
+        "options": ["رفراف السيارة", "باب السيارة", "عجلة", "مرآة"],
+        "answer": "رفراف السيارة"
+    },
+    {
+        "question": "bender",
+        "options": ["شيء ينثني أو يتعوج", "أداة قطع", "مسمار", "مطرقة"],
+        "answer": "شيء ينثني أو يتعوج"
+    },
+    {
+        "question": "Best tackle tips",
+        "options": ["أفضل نصائح التصدي", "أفضل نصائح الهروب", "أفضل نصائح التحفيز", "أفضل نصائح الدعم"],
+        "answer": "أفضل نصائح التصدي"
+    },
+    {
+        "question": "fingers crossed",
+        "options": ["آمل أن تسير الأمور جيدا", "آمل أن أفشل", "سأتجاهل الأمر", "أدعو للفشل"],
+        "answer": "آمل أن تسير الأمور جيدا"
+    },{
         "question": "fair",
         "options": ["عدل", "معرض", "غير عادل", "أجرة"],
         "answer": "عدل"
