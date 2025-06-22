@@ -1,5 +1,315 @@
 [
   {
+  "question": "intensifies",
+  "options": [
+    "Increases, escalates, strengthens",
+    "Decreases, lessens, weakens",
+    "Hides, avoids, delays",
+    "Stops, ceases, freezes"
+  ],
+  "answer": "Increases, escalates, strengthens"
+},
+{
+  "question": "diary",
+  "options": [
+    "Journal, notebook, log",
+    "Letter, card, envelope",
+    "Phone, laptop, tablet",
+    "Map, guide, brochure"
+  ],
+  "answer": "Journal, notebook, log"
+},
+{
+  "question": "routinely",
+  "options": [
+    "Regularly, habitually, consistently",
+    "Rarely, occasionally, never",
+    "Quickly, urgently, fast",
+    "Softly, gently, quietly"
+  ],
+  "answer": "Regularly, habitually, consistently"
+},
+{
+  "question": "barred",
+  "options": [
+    "Blocked, banned, prohibited",
+    "Allowed, welcomed, accepted",
+    "Built, constructed, designed",
+    "Forgiven, forgotten, ignored"
+  ],
+  "answer": "Blocked, banned, prohibited"
+},
+{
+  "question": "weapon",
+  "options": [
+    "Gun, knife, bomb",
+    "Pen, pencil, brush",
+    "Flag, banner, sign",
+    "Bag, box, crate"
+  ],
+  "answer": "Gun, knife, bomb"
+},
+{
+  "question": "exclusive",
+  "options": [
+    "Private, limited, restricted",
+    "Shared, open, public",
+    "Easy, light, smooth",
+    "Cheap, basic, plain"
+  ],
+  "answer": "Private, limited, restricted"
+},
+{
+  "question": "betrayed",
+  "options": [
+    "Deceived, exposed, hurt",
+    "Trusted, helped, supported",
+    "Built, fixed, repaired",
+    "Saved, protected, guarded"
+  ],
+  "answer": "Deceived, exposed, hurt"
+},
+{
+  "question": "facilities",
+  "options": [
+    "Buildings, services, amenities",
+    "Mountains, rivers, lakes",
+    "People, animals, plants",
+    "Books, pencils, papers"
+  ],
+  "answer": "Buildings, services, amenities"
+},
+{
+  "question": "blew up",
+  "options": [
+    "Exploded, burst, detonated",
+    "Cooled, froze, melted",
+    "Wrote, erased, drew",
+    "Cleaned, washed, dried"
+  ],
+  "answer": "Exploded, burst, detonated"
+},
+{
+  "question": "proliferation",
+  "options": [
+    "Spread, growth, increase",
+    "Fall, decline, drop",
+    "Silence, stillness, peace",
+    "Delay, halt, pause"
+  ],
+  "answer": "Spread, growth, increase"
+},
+{
+  "question": "undermined",
+  "options": [
+    "Weakened, sabotaged, damaged",
+    "Helped, strengthened, improved",
+    "Asked, questioned, wondered",
+    "Pushed, pulled, dragged"
+  ],
+  "answer": "Weakened, sabotaged, damaged"
+},
+{
+  "question": "defeated",
+  "options": [
+    "Beaten, conquered, overpowered",
+    "Won, triumphed, succeeded",
+    "Helped, guided, supported",
+    "Paused, stopped, waited"
+  ],
+  "answer": "Beaten, conquered, overpowered"
+},
+{
+  "question": "treaty",
+  "options": [
+    "Agreement, pact, accord",
+    "Fight, battle, war",
+    "Song, poem, chant",
+    "Game, match, race"
+  ],
+  "answer": "Agreement, pact, accord"
+},
+{
+  "question": "condemn",
+  "options": [
+    "Blame, criticize, denounce",
+    "Praise, reward, honor",
+    "Support, accept, allow",
+    "Forgive, forget, ignore"
+  ],
+  "answer": "Blame, criticize, denounce"
+},
+{
+  "question": "territorial",
+  "options": [
+    "Regional, land-based, geographic",
+    "Emotional, personal, social",
+    "Friendly, open, generous",
+    "Tall, wide, deep"
+  ],
+  "answer": "Regional, land-based, geographic"
+},
+{
+  "question": "depressed",
+  "options": [
+    "Sad, down, hopeless",
+    "Happy, cheerful, excited",
+    "Bright, loud, colorful",
+    "Sharp, fast, quick"
+  ],
+  "answer": "Sad, down, hopeless"
+},
+{
+  "question": "turn in",
+  "options": [
+    "Submit, surrender, retire",
+    "Start, begin, open",
+    "Take, steal, grab",
+    "Move, run, jump"
+  ],
+  "answer": "Submit, surrender, retire"
+},
+{
+  "question": "crash",
+  "options": [
+    "Sleep, rest, collapse",
+    "Run, walk, hike",
+    "Play, dance, jump",
+    "Cook, bake, fry"
+  ],
+  "answer": "Sleep, rest, collapse"
+},
+{
+  "question": "beard",
+  "options": [
+    "Facial, hair, chin",
+    "Head, neck, ear",
+    "Shirt, tie, coat",
+    "Skin, eye, lip"
+  ],
+  "answer": "Facial, hair, chin"
+},
+{
+  "question": "bold",
+  "options": [
+    "Brave, daring, confident",
+    "Scared, nervous, quiet",
+    "Soft, smooth, gentle",
+    "Smart, wise, clever"
+  ],
+  "answer": "Brave, daring, confident"
+},
+{
+  "question": "timid",
+  "options": [
+    "Shy, nervous, fearful",
+    "Strong, bold, loud",
+    "Quick, fast, sudden",
+    "Lazy, slow, tired"
+  ],
+  "answer": "Shy, nervous, fearful"
+},
+{
+  "question": "defend",
+  "options": [
+    "Protect, guard, shield",
+    "Attack, harm, injure",
+    "Leave, ignore, avoid",
+    "Tell, ask, answer"
+  ],
+  "answer": "Protect, guard, shield"
+},
+{
+  "question": "foolish",
+  "options": [
+    "Silly, unwise, stupid",
+    "Smart, clever, wise",
+    "Tired, lazy, bored",
+    "Fast, quick, early"
+  ],
+  "answer": "Silly, unwise, stupid"
+},
+{
+  "question": "carry out",
+  "options": [
+    "Execute, perform, accomplish",
+    "Forget, drop, lose",
+    "Push, pull, drag",
+    "Sit, wait, stay"
+  ],
+  "answer": "Execute, perform, accomplish"
+},
+{
+  "question": "threat",
+  "options": [
+    "Danger, warning, menace",
+    "Peace, calm, safety",
+    "Help, support, care",
+    "Light, joy, hope"
+  ],
+  "answer": "Danger, warning, menace"
+},
+{
+  "question": "bully",
+  "options": [
+    "Harasser, intimidator, tormentor",
+    "Friend, supporter, ally",
+    "Teacher, leader, parent",
+    "Follower, fan, helper"
+  ],
+  "answer": "Harasser, intimidator, tormentor"
+},
+{
+  "question": "fender-bender",
+  "options": [
+    "Minor, accident, collision",
+    "Major, crash, explosion",
+    "Flat, tire, breakdown",
+    "Drive, park, turn"
+  ],
+  "answer": "Minor, accident, collision"
+},
+{
+  "question": "fender",
+  "options": [
+    "Bumper, guard, panel",
+    "Seat, door, window",
+    "Wheel, tire, rim",
+    "Trunk, hood, roof"
+  ],
+  "answer": "Bumper, guard, panel"
+},
+{
+  "question": "bender",
+  "options": [
+    "Curve, twist, arc",
+    "Line, angle, edge",
+    "Flat, plane, surface",
+    "Point, dot, spot"
+  ],
+  "answer": "Curve, twist, arc"
+},
+{
+  "question": "Best tackle tips",
+  "options": [
+    "Advice, strategy, technique",
+    "Food, drink, snack",
+    "Rest, sleep, nap",
+    "Work, chore, task"
+  ],
+  "answer": "Advice, strategy, technique"
+},
+{
+  "question": "fingers crossed",
+  "options": [
+    "Hope, wish, pray",
+    "Lie, cheat, trick",
+    "Jump, run, play",
+    "Think, plan, decide"
+  ],
+  "answer": "Hope, wish, pray"
+}
+,{
   "question": "fair عدل",
   "options": [
     "Just, impartial, equitable",
