@@ -1,5 +1,99 @@
 [
   {
+        "question": "massive",
+        "options": ["ضخم", "بسيط", "قديم", "سريع"],
+        "answer": "ضخم"
+    },
+    {
+        "question": "precision",
+        "options": ["دقة", "سرعة", "حجم", "مهارة"],
+        "answer": "دقة"
+    },
+    {
+        "question": "three key nuclear facilities",
+        "options": ["ثلاث منشآت نووية رئيسية", "منشأة واحدة نووية", "ثلاثة أسلحة نووية", "محطة كهرباء"],
+        "answer": "ثلاث منشآت نووية رئيسية"
+    },
+    {
+        "question": "destructive",
+        "options": ["مدمر", "مفيد", "آمن", "مكلف"],
+        "answer": "مدمر"
+    },
+    {
+        "question": "enterprise",
+        "options": ["مؤسسة", "مشكلة", "مهمة", "شركة صغيرة"],
+        "answer": "مؤسسة"
+    },
+    {
+        "question": "opbjective",
+        "options": ["هدف", "وسيلة", "مشروع", "خطة"],
+        "answer": "هدف"
+    },
+    {
+        "question": "enrichment",
+        "options": ["تخصيب", "إضعاف", "تمديد", "حرق"],
+        "answer": "تخصيب"
+    },
+    {
+        "question": "spectacular",
+        "options": ["رائع", "ممل", "تقليدي", "غامض"],
+        "answer": "رائع"
+    },
+    {
+        "question": "obliterated",
+        "options": ["مُدمر تماماً", "مُرمم", "منقول", "مختفي جزئياً"],
+        "answer": "مُدمر تماماً"
+    },
+    {
+        "question": "alot easier",
+        "options": ["أسهل بكثير", "أصعب بكثير", "مماثل بالصعوبة", "غير ممكن"],
+        "answer": "أسهل بكثير"
+    },
+    {
+        "question": "far greater",
+        "options": ["أعظم بكثير", "أقل بكثير", "مساوي", "شبه معدوم"],
+        "answer": "أعظم بكثير"
+    },
+    {
+        "question": "twitchy",
+        "options": ["عصبي", "مرتاح", "سعيد", "ساخر"],
+        "answer": "عصبي"
+    },
+    {
+        "question": "bizarre",
+        "options": ["غريب", "مألوف", "رائع", "سيئ"],
+        "answer": "غريب"
+    },
+    {
+        "question": "cheesy",
+        "options": ["مبتذل", "راقي", "ذكي", "معقد"],
+        "answer": "مبتذل"
+    },
+    {
+        "question": "absurd",
+        "options": ["سخيف", "واقعي", "معتاد", "ذكي"],
+        "answer": "سخيف"
+    },
+    {
+        "question": "fancy",
+        "options": ["فاخر", "عادي", "رخيص", "قديم"],
+        "answer": "فاخر"
+    },
+    {
+        "question": "witty",
+        "options": ["ذكي وظريف", "غبي", "ممل", "صامت"],
+        "answer": "ذكي وظريف"
+    },
+    {
+        "question": "rusty",
+        "options": ["مصدي", "جديد", "لامع", "نظيف"],
+        "answer": "مصدي"
+    },
+    {
+        "question": "jinx",
+        "options": ["نحس", "حظ", "فرصة", "نجاح"],
+        "answer": "نحس"
+    },{
         "question": "intensifies",
         "options": ["يشتد", "يضحك", "يهدأ", "يتأخر"],
         "answer": "يشتد"
