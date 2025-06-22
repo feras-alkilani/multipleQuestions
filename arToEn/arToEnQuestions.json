@@ -6721,7 +6721,34 @@
     ],
     "answer": "cram into"
   },
-  {
+       {
+    "question": "أدوات صيد",
+    "options": [
+      "tackle",
+      "grab",
+      "handle",
+      "push"
+    ],
+    "answer": "tackle"
+  }{
+    "question": "يعرقل، يمسك (شخصًا)، يُوقعه أرضًا",
+    "options": [
+      "tackle",
+      "grab",
+      "handle",
+      "push"
+    ],
+    "answer": "tackle"
+  },{
+    "question": "يشرع في، يحاول إنجاز",
+    "options": [
+      "tackle",
+      "grab",
+      "handle",
+      "push"
+    ],
+    "answer": "tackle"
+  },{
     "question": "يعالج، يتعامل مع، يتصدى لـ",
     "options": [
       "tackle",
