@@ -1,5 +1,107 @@
 [
+  
   {
+    "question": "عدل",
+    "options": ["fair", "pride", "persist", "bunch"],
+    "answer": "fair"
+  },
+  {
+    "question": "معرض",
+    "options": ["fair", "dairy", "bowl", "fall out"],
+    "answer": "fair"
+  },
+  {
+    "question": "منتجات الألبان",
+    "options": ["dairy", "shelter", "peeled", "gravitas"],
+    "answer": "dairy"
+  },
+  {
+    "question": "يتأخر عن الركب",
+    "options": ["fall behind", "fall apart", "endure", "somehow"],
+    "answer": "fall behind"
+  },
+  {
+    "question": "يخرج عن السيطرة أو العلاقة",
+    "options": ["fall out", "fall for", "bunch", "peeled"],
+    "answer": "fall out"
+  },
+  {
+    "question": "ينهار",
+    "options": ["fall apart", "shelter", "persist", "exemption"],
+    "answer": "fall apart"
+  },
+  {
+    "question": "يقع في الحب أو ينخدع بـ",
+    "options": ["fall for", "nail", "better luck next time", "peeled"],
+    "answer": "fall for"
+  },
+  {
+    "question": "مأوى",
+    "options": ["shelter", "gravitas", "bowl", "nailing"],
+    "answer": "shelter"
+  },
+  {
+    "question": "مجموعة",
+    "options": ["bunch", "pride", "fair", "fall out"],
+    "answer": "bunch"
+  },
+  {
+    "question": "وعاء",
+    "options": ["bowl", "dairy", "peeled", "shelter"],
+    "answer": "bowl"
+  },
+  {
+    "question": "رصانة / وقار",
+    "options": ["gravitas", "persist", "fair", "fall for"],
+    "answer": "gravitas"
+  },
+  {
+    "question": "غير قابل للفهم",
+    "options": ["incomprehensible", "poorly written", "bowl", "fall apart"],
+    "answer": "incomprehensible"
+  },
+  {
+    "question": "سيء الكتابة",
+    "options": ["poorly written", "peeled", "nailing", "fall out"],
+    "answer": "poorly written"
+  },
+  {
+    "question": "قبل فوات الأوان",
+    "options": ["Befor it is too late", "fall behind", "somehow", "nail"],
+    "answer": "Befor it is too late"
+  },
+  {
+    "question": "لم تأخرت هكذا؟",
+    "options": ["why took you so long?", "endure", "persist", "gravitas"],
+    "answer": "why took you so long?"
+  },
+  {
+    "question": "حظًا أوفر في المرة القادمة",
+    "options": ["better luck next time", "exemption", "fall for", "bowl"],
+    "answer": "better luck next time"
+  },
+  {
+    "question": "يصبر / يتحمل",
+    "options": ["endure", "fall apart", "peeled", "bunch"],
+    "answer": "endure"
+  },
+  {
+    "question": "فخر",
+    "options": ["pride", "fair", "gravitas", "dairy"],
+    "answer": "pride"
+  },
+  {
+    "question": "مقشور",
+    "options": ["peeled", "somehow", "nailing", "fall behind"],
+    "answer": "peeled"
+  },
+  {
+    "question": "بطريقة ما",
+    "options": ["somehow", "why took you so long?", "fall out", "dairy"],
+    "answer": "somehow"
+  }
+
+,{
     "question": "من وجهة نظري",
     "options": [
       "From my point of view",
