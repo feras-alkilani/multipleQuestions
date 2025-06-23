@@ -1,6 +1,165 @@
 [
   
   {
+    "question": "غيبوبة - ذهول - نشوة",
+    "options": ["coma", "trance", "confusion", "delirium"],
+    "answer": "trance"
+  },
+  {
+    "question": "قليل ومعدود وغير كاف",
+    "options": ["few", "a few", "some", "several"],
+    "answer": "few"
+  },
+  {
+    "question": "قليل ومعدود وكاف",
+    "options": ["many", "few", "a few", "some"],
+    "answer": "a few"
+  },
+  {
+    "question": "قليل وغير معدود وغير كاف",
+    "options": ["little", "a little", "less", "none"],
+    "answer": "little"
+  },
+  {
+    "question": "قليل وغير معدود وكاف",
+    "options": ["little", "a little", "few", "some"],
+    "answer": "a little"
+  },
+  {
+    "question": "أفسد شيئاً أو أخطأ فيه",
+    "options": ["mess up", "clean up", "fix", "compose"],
+    "answer": "mess up"
+  },
+  {
+    "question": "هل كنت مفهوماً بالنسبة لك؟",
+    "options": ["Did I understand you?", "Do I make sense to you?", "Did I make sense to you?", "Do you hear me?"],
+    "answer": "Did I make sense to you?"
+  },
+  {
+    "question": "تمنى لك ليلة سعيدة",
+    "options": ["bid you good night", "wish you luck", "good night", "greet you"],
+    "answer": "bid you good night"
+  },
+  {
+    "question": "عالق",
+    "options": ["stuck", "paused", "delayed", "trapped"],
+    "answer": "stuck"
+  },
+  {
+    "question": "تثبيت بقوة في مكانه",
+    "options": ["pinning down", "holding", "pressing", "supporting"],
+    "answer": "pinning down"
+  },
+  {
+    "question": "ضجة أو جلبة غير ضرورية",
+    "options": ["fuss", "ado", "noise", "uproar"],
+    "answer": "ado"
+  },
+  {
+    "question": "يفك التعقيد أو التشابك",
+    "options": ["untangle", "unfold", "unwrap", "release"],
+    "answer": "untangle"
+  },
+  {
+    "question": "يهزم أو يتغلب",
+    "options": ["beat", "win", "conquer", "surpass"],
+    "answer": "beat"
+  },
+  {
+    "question": "بشكل استثنائي",
+    "options": ["extraordinarily", "amazingly", "greatly", "somewhat"],
+    "answer": "extraordinarily"
+  },
+  {
+    "question": "بطريقة ما",
+    "options": ["somehow", "anyway", "nevertheless", "possibly"],
+    "answer": "somehow"
+  },
+  {
+    "question": "أنيق",
+    "options": ["elegant", "neat", "smart", "fine"],
+    "answer": "elegant"
+  },
+  {
+    "question": "تم تحويله عن المسار",
+    "options": ["diverted", "shifted", "drifted", "changed"],
+    "answer": "diverted"
+  },
+  {
+    "question": "نكهة أو طعم مميز",
+    "options": ["taste", "flavor", "scent", "essence"],
+    "answer": "flavor"
+  },
+  {
+    "question": "تم اعتراضه",
+    "options": ["blocked", "interrupted", "intercepted", "halted"],
+    "answer": "intercepted"
+  },
+  {
+    "question": "تم إغلاقه أو تعطيله",
+    "options": ["shut down", "cancel", "block", "pause"],
+    "answer": "shut down"
+  },
+  {
+    "question": "تصعيد أو تفاقم",
+    "options": ["escalation", "growth", "increase", "rising"],
+    "answer": "escalation"
+  },
+  {
+    "question": "المجال الجوي",
+    "options": ["air field", "air zone", "air space", "sky field"],
+    "answer": "air space"
+  },
+  {
+    "question": "مدمر",
+    "options": ["devastating", "disastrous", "severe", "deadly"],
+    "answer": "devastating"
+  },
+  {
+    "question": "صاروخ",
+    "options": ["rocket", "missile", "torpedo", "shell"],
+    "answer": "missile"
+  },
+  {
+    "question": "انتقام عسكري أو رد هجومي",
+    "options": ["retaliation", "revenge", "response", "retribution"],
+    "answer": "retaliation"
+  },
+  {
+    "question": "مشترك",
+    "options": ["joint", "shared", "unified", "combined"],
+    "answer": "joint"
+  },
+  {
+    "question": "الحراس أو الجنود المكلفون بالحماية",
+    "options": ["soldiers", "police", "guards", "officers"],
+    "answer": "guards"
+  },
+  {
+    "question": "ثوري أو مبتكر جذرياً",
+    "options": ["revolutionary", "radical", "reformer", "activist"],
+    "answer": "revolutionary"
+  },
+  {
+    "question": "ضحايا (قتلى أو جرحى)",
+    "options": ["victims", "casualties", "losses", "wounded"],
+    "answer": "casualties"
+  },
+  {
+    "question": "عكس أو تبديل في القرار أو الاتجاه",
+    "options": ["reversal", "cancelation", "change", "turnaround"],
+    "answer": "reversal"
+  },
+  {
+    "question": "طرد أو شحنة بريدية",
+    "options": ["box", "parcel", "package", "shipment"],
+    "answer": "parcel"
+  },
+  {
+    "question": "جرح أو إصابة",
+    "options": ["cut", "wound", "bruise", "injury"],
+    "answer": "wound"
+  },{
     "question": "ضخم",
     "options": ["tiny", "massive", "brief", "weak"],
     "answer": "massive"
