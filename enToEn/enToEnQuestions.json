@@ -1,5 +1,114 @@
 [
   {
+"question": "A cup of coffee",
+"options": [
+"Mug, beverage, drink",
+"Plate, bowl, dish",
+"Sip, taste, gulp",
+"Hot, warm, fresh"
+],
+"answer": "Mug, beverage, drink"
+},
+{
+"question": "A bowl of soup",
+"options": [
+"Dish, container, cup",
+"Broth, stew, chowder",
+"Serve, pour, ladle",
+"Warm, hot, savory"
+],
+"answer": "Dish, container, cup"
+},
+{
+"question": "A glass of water",
+"options": [
+"Cup, tumbler, vessel",
+"Drink, sip, gulp",
+"Clear, fresh, cold",
+"Liquid, fluid, aqua"
+],
+"answer": "Cup, tumbler, vessel"
+},
+{
+"question": "A can of soda",
+"options": [
+"Tin, container, bottle",
+"Fizz, pop, drink",
+"Sweet, cold, bubbly",
+"Carbonate, refresh, sip"
+],
+"answer": "Tin, container, bottle"
+},
+{
+"question": "A slice of pizza",
+"options": [
+"Piece, portion, segment",
+"Cheese, crust, topping",
+"Bite, eat, taste",
+"Slice, cut, serve"
+],
+"answer": "Piece, portion, segment"
+},
+{
+"question": "A scoop of ice cream",
+"options": [
+"Spoon, ball, portion",
+"Cold, sweet, creamy",
+"Dessert, treat, snack",
+"Freeze, serve, eat"
+],
+"answer": "Spoon, ball, portion"
+},
+{
+"question": "A pinch of salt",
+"options": [
+"Dash, sprinkle, grain",
+"Season, flavor, add",
+"Small, tiny, little",
+"Taste, salt, spice"
+],
+"answer": "Dash, sprinkle, grain"
+},
+{
+"question": "A clove of garlic",
+"options": [
+"Bulb, segment, piece",
+"Spice, flavor, herb",
+"Peel, crush, chop",
+"Strong, pungent, aroma"
+],
+"answer": "Bulb, segment, piece"
+},
+{
+"question": "A piece of cake",
+"options": [
+"Slice, portion, bit",
+"Sweet, dessert, treat",
+"Bake, eat, serve",
+"Soft, moist, tasty"
+],
+"answer": "Slice, portion, bit"
+},
+{
+"question": "A jar of honey",
+"options": [
+"Container, pot, bottle",
+"Sweet, syrup, nectar",
+"Spread, drizzle, pour",
+"Sticky, golden, thick"
+],
+"answer": "Container, pot, bottle"
+},
+{
+"question": "A loaf of bread",
+"options": [
+"Bread, bun, roll",
+"Slice, piece, chunk",
+"Bake, knead, rise",
+"Soft, fresh, crust"
+],
+"answer": "Bread, bun, roll"
+},{
   "question": "trance",
   "options": [
     "Daze, stupor, ecstasy",
