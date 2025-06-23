@@ -1,6 +1,305 @@
 [
   
   {
+    "question": "boils down",
+    "options": [
+      "persist",
+      "nailing",
+      "exemption",
+      "boiling"
+    ],
+    "answer": "persist"
+  },
+  {
+    "question": "putting in the repetitions",
+    "options": [
+      "exemption",
+      "persist",
+      "nailing",
+      "reps"
+    ],
+    "answer": "reps"
+  },
+  {
+    "question": "stuck",
+    "options": [
+      "exemption",
+      "persist",
+      "nailing",
+      "stuck"
+    ],
+    "answer": "stuck"
+  },
+  {
+    "question": "pinning down",
+    "options": [
+      "persist",
+      "exemption",
+      "nailing",
+      "pinning down"
+    ],
+    "answer": "nailing"
+  },
+  {
+    "question": "ado",
+    "options": [
+      "exemption",
+      "ado",
+      "persist",
+      "nailing"
+    ],
+    "answer": "ado"
+  },
+  {
+    "question": "untangle",
+    "options": [
+      "persist",
+      "untangle",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "untangle"
+  },
+  {
+    "question": "beat",
+    "options": [
+      "persist",
+      "exemption",
+      "beat",
+      "nailing"
+    ],
+    "answer": "beat"
+  },
+  {
+    "question": "extraordinarily",
+    "options": [
+      "persist",
+      "extraordinarily",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "extraordinarily"
+  },
+  {
+    "question": "somehow",
+    "options": [
+      "somehow",
+      "persist",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "somehow"
+  },
+  {
+    "question": "sudden",
+    "options": [
+      "exemption",
+      "persist",
+      "sudden",
+      "nailing"
+    ],
+    "answer": "sudden"
+  },
+  {
+    "question": "reps",
+    "options": [
+      "persist",
+      "nailing",
+      "exemption",
+      "reps"
+    ],
+    "answer": "reps"
+  },
+  {
+    "question": "church",
+    "options": [
+      "persist",
+      "exemption",
+      "church",
+      "nailing"
+    ],
+    "answer": "church"
+  },
+  {
+    "question": "Suicide",
+    "options": [
+      "persist",
+      "exemption",
+      "Suicide",
+      "nailing"
+    ],
+    "answer": "Suicide"
+  },
+  {
+    "question": "blast",
+    "options": [
+      "blast",
+      "persist",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "blast"
+  },
+  {
+    "question": "explosion",
+    "options": [
+      "explosion",
+      "persist",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "explosion"
+  },
+  {
+    "question": "hectic",
+    "options": [
+      "persist",
+      "exemption",
+      "hectic",
+      "nailing"
+    ],
+    "answer": "hectic"
+  },
+  {
+    "question": "tense",
+    "options": [
+      "persist",
+      "tense",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "tense"
+  },
+  {
+    "question": "perimeter",
+    "options": [
+      "persist",
+      "perimeter",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "perimeter"
+  },
+  {
+    "question": "sweep",
+    "options": [
+      "persist",
+      "exemption",
+      "nailing",
+      "sweep"
+    ],
+    "answer": "sweep"
+  },
+  {
+    "question": "toll",
+    "options": [
+      "persist",
+      "toll",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "toll"
+  },
+  {
+    "question": "risen",
+    "options": [
+      "persist",
+      "exemption",
+      "risen",
+      "nailing"
+    ],
+    "answer": "risen"
+  },
+  {
+    "question": "casualities",
+    "options": [
+      "persist",
+      "exemption",
+      "casualities",
+      "nailing"
+    ],
+    "answer": "casualities"
+  },
+  {
+    "question": "injury",
+    "options": [
+      "persist",
+      "injury",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "injury"
+  },
+  {
+    "question": "fluid",
+    "options": [
+      "fluid",
+      "persist",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "fluid"
+  },
+  {
+    "question": "hoodies",
+    "options": [
+      "persist",
+      "hoodies",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "hoodies"
+  },
+  {
+    "question": "cap it off",
+    "options": [
+      "persist",
+      "exemption",
+      "nailing",
+      "cap it off"
+    ],
+    "answer": "cap it off"
+  },
+  {
+    "question": "indented",
+    "options": [
+      "persist",
+      "indented",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "indented"
+  },
+  {
+    "question": "predict",
+    "options": [
+      "persist",
+      "predict",
+      "exemption",
+      "nailing"
+    ],
+    "answer": "predict"
+  },
+  {
+    "question": "eligant",
+    "options": [
+      "persist",
+      "exemption",
+      "nailing",
+      "eligant"
+    ],
+    "answer": "eligant"
+  },
+  {
+    "question": "outshine",
+    "options": [
+      "persist",
+      "exemption",
+      "nailing",
+      "outshine"
+    ],
+    "answer": "outshine"
+  },{
     "question": "غيبوبة - ذهول - نشوة",
     "options": ["coma", "trance", "confusion", "delirium"],
     "answer": "trance"
