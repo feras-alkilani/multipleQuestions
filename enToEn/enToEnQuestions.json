@@ -1,5 +1,325 @@
 [
   {
+  "question": "trance",
+  "options": [
+    "Daze, stupor, ecstasy",
+    "Confuse, mix, blur",
+    "Invent, assume, pretend",
+    "Ignore, avoid, reject"
+  ],
+  "answer": "Daze, stupor, ecstasy"
+},
+{
+  "question": "few",
+  "options": [
+    "Scarce, limited, insufficient",
+    "Many, countless, plenty",
+    "Large, bulky, vast",
+    "All, every, total"
+  ],
+  "answer": "Scarce, limited, insufficient"
+},
+{
+  "question": "a few",
+  "options": [
+    "Some, several, enough",
+    "None, zero, nothing",
+    "Tiny, little, scarce",
+    "All, most, major"
+  ],
+  "answer": "Some, several, enough"
+},
+{
+  "question": "little",
+  "options": [
+    "Small, scarce, inadequate",
+    "Much, abundant, massive",
+    "All, full, total",
+    "None, empty, lost"
+  ],
+  "answer": "Small, scarce, inadequate"
+},
+{
+  "question": "a little",
+  "options": [
+    "Some, enough, slight",
+    "Big, wide, grand",
+    "Every, whole, major",
+    "Full, large, thick"
+  ],
+  "answer": "Some, enough, slight"
+},
+{
+  "question": "mess up",
+  "options": [
+    "Ruin, spoil, mistake",
+    "Fix, solve, repair",
+    "Create, build, form",
+    "Hide, skip, avoid"
+  ],
+  "answer": "Ruin, spoil, mistake"
+},
+{
+  "question": "did I make sens to you?",
+  "options": [
+    "Clear, understandable, logical",
+    "Weird, awkward, confusing",
+    "Loud, noisy, sharp",
+    "Slow, vague, dull"
+  ],
+  "answer": "Clear, understandable, logical"
+},
+{
+  "question": "bid you good night",
+  "options": [
+    "Wish, say, farewell",
+    "Ignore, miss, deny",
+    "Fight, argue, demand",
+    "Move, lift, break"
+  ],
+  "answer": "Wish, say, farewell"
+},
+{
+  "question": "stuck",
+  "options": [
+    "Trapped, jammed, frozen",
+    "Free, loose, open",
+    "Soft, smooth, thin",
+    "Full, quick, long"
+  ],
+  "answer": "Trapped, jammed, frozen"
+},
+{
+  "question": "pinning down",
+  "options": [
+    "Hold, restrain, fix",
+    "Fly, release, ignore",
+    "Melt, drop, run",
+    "Build, stack, fill"
+  ],
+  "answer": "Hold, restrain, fix"
+},
+{
+  "question": "ado",
+  "options": [
+    "Fuss, trouble, bother",
+    "Peace, rest, calm",
+    "Speed, rush, move",
+    "Hide, skip, deny"
+  ],
+  "answer": "Fuss, trouble, bother"
+},
+{
+  "question": "untangle",
+  "options": [
+    "Solve, straighten, clear",
+    "Twist, mess, knot",
+    "Hide, lose, bury",
+    "Stop, drop, burn"
+  ],
+  "answer": "Solve, straighten, clear"
+},
+{
+  "question": "beat",
+  "options": [
+    "Hit, defeat, strike",
+    "Fix, clean, lift",
+    "Hide, move, drop",
+    "Create, build, grow"
+  ],
+  "answer": "Hit, defeat, strike"
+},
+{
+  "question": "extraordiarily",
+  "options": [
+    "Exceptionally, unusually, remarkably",
+    "Normally, simply, casually",
+    "Rarely, barely, weakly",
+    "Wrongly, badly, poorly"
+  ],
+  "answer": "Exceptionally, unusually, remarkably"
+},
+{
+  "question": "somehow",
+  "options": [
+    "Anyway, mysteriously, eventually",
+    "Clearly, directly, openly",
+    "Never, nowhere, nobody",
+    "Strongly, loudly, harshly"
+  ],
+  "answer": "Anyway, mysteriously, eventually"
+},
+{
+  "question": "eligant",
+  "options": [
+    "Graceful, stylish, refined",
+    "Rough, messy, dirty",
+    "Loud, busy, wild",
+    "Soft, lazy, pale"
+  ],
+  "answer": "Graceful, stylish, refined"
+},
+{
+  "question": "diverted",
+  "options": [
+    "Redirected, shifted, distracted",
+    "Focused, fixed, locked",
+    "Covered, blocked, stuck",
+    "Lost, broken, torn"
+  ],
+  "answer": "Redirected, shifted, distracted"
+},
+{
+  "question": "flavor",
+  "options": [
+    "Taste, essence, spice",
+    "Color, shape, sound",
+    "Word, text, page",
+    "Form, build, frame"
+  ],
+  "answer": "Taste, essence, spice"
+},
+{
+  "question": "intercepted",
+  "options": [
+    "Caught, seized, blocked",
+    "Lost, missed, dropped",
+    "Sent, given, left",
+    "Lifted, moved, skipped"
+  ],
+  "answer": "Caught, seized, blocked"
+},
+{
+  "question": "shut down",
+  "options": [
+    "Close, stop, disable",
+    "Start, run, open",
+    "Fix, change, adjust",
+    "Light, heat, shine"
+  ],
+  "answer": "Close, stop, disable"
+},
+{
+  "question": "escalation",
+  "options": [
+    "Increase, rise, intensification",
+    "Fall, drop, decrease",
+    "Pause, delay, wait",
+    "Hide, avoid, move"
+  ],
+  "answer": "Increase, rise, intensification"
+},
+{
+  "question": "air space",
+  "options": [
+    "Sky, atmosphere, region",
+    "Land, soil, sea",
+    "Wall, door, roof",
+    "Box, cage, tank"
+  ],
+  "answer": "Sky, atmosphere, region"
+},
+{
+  "question": "devastating",
+  "options": [
+    "Destructive, ruinous, overwhelming",
+    "Bright, lively, hopeful",
+    "Simple, plain, weak",
+    "Soft, small, quiet"
+  ],
+  "answer": "Destructive, ruinous, overwhelming"
+},
+{
+  "question": "missile",
+  "options": [
+    "Projectile, weapon, rocket",
+    "Stone, stick, blade",
+    "Net, trap, rope",
+    "Fuel, tank, light"
+  ],
+  "answer": "Projectile, weapon, rocket"
+},
+{
+  "question": "retaliation",
+  "options": [
+    "Revenge, response, retribution",
+    "Peace, offer, apology",
+    "Delay, wait, ignore",
+    "Fix, heal, build"
+  ],
+  "answer": "Revenge, response, retribution"
+},
+{
+  "question": "joint",
+  "options": [
+    "Shared, combined, mutual",
+    "Lone, single, separate",
+    "Empty, quiet, loose",
+    "Sharp, deep, short"
+  ],
+  "answer": "Shared, combined, mutual"
+},
+{
+  "question": "guards",
+  "options": [
+    "Watchers, protectors, sentries",
+    "Thieves, attackers, foes",
+    "Users, builders, traders",
+    "Painters, cleaners, movers"
+  ],
+  "answer": "Watchers, protectors, sentries"
+},
+{
+  "question": "revolutionary",
+  "options": [
+    "Radical, innovative, transformative",
+    "Common, usual, normal",
+    "Tiny, old, broken",
+    "Slow, weak, tired"
+  ],
+  "answer": "Radical, innovative, transformative"
+},
+{
+  "question": "casualties",
+  "options": [
+    "Victims, losses, deaths",
+    "Winners, survivors, helpers",
+    "Friends, family, allies",
+    "Crowd, team, group"
+  ],
+  "answer": "Victims, losses, deaths"
+},
+{
+  "question": "reserval",
+  "options": [
+    "Reversal, cancellation, undoing",
+    "Start, opening, launch",
+    "Push, move, shift",
+    "Fight, block, stop"
+  ],
+  "answer": "Reversal, cancellation, undoing"
+},
+{
+  "question": "parcel",
+  "options": [
+    "Package, bundle, shipment",
+    "Note, letter, message",
+    "Food, dish, plate",
+    "Map, plan, sketch"
+  ],
+  "answer": "Package, bundle, shipment"
+},
+{
+  "question": "wound",
+  "options": [
+    "Injury, cut, damage",
+    "Fix, heal, treat",
+    "Burn, melt, smoke",
+    "Turn, spin, twist"
+  ],
+  "answer": "Injury, cut, damage"
+}
+,{
   "question": "massive",
   "options": [
     "Huge, enormous, gigantic",
