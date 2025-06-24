@@ -1,5 +1,269 @@
 [
   {
+  "question": "my conscience is clear",
+  "options": [
+    "Innocent, blameless, guilt-free",
+    "Guilty, ashamed, regretful",
+    "Forgetful, careless, aloof",
+    "Hidden, unclear, doubtful"
+  ],
+  "answer": "Innocent, blameless, guilt-free"
+},
+{
+  "question": "goofy",
+  "options": [
+    "Silly, funny, playful",
+    "Serious, intense, grim",
+    "Angry, annoyed, upset",
+    "Smart, clever, wise"
+  ],
+  "answer": "Silly, funny, playful"
+},
+{
+  "question": "abuse",
+  "options": [
+    "Mistreat, harm, misuse",
+    "Help, protect, save",
+    "Ignore, forget, overlook",
+    "Laugh, joke, tease"
+  ],
+  "answer": "Mistreat, harm, misuse"
+},
+{
+  "question": "varies",
+  "options": [
+    "Differs, changes, fluctuates",
+    "Repeats, returns, loops",
+    "Stays, remains, lasts",
+    "Copies, mimics, matches"
+  ],
+  "answer": "Differs, changes, fluctuates"
+},
+{
+  "question": "fuming mad",
+  "options": [
+    "Angry, furious, enraged",
+    "Calm, quiet, peaceful",
+    "Happy, excited, glad",
+    "Tired, bored, lazy"
+  ],
+  "answer": "Angry, furious, enraged"
+},
+{
+  "question": "fuming and fretting",
+  "options": [
+    "Worried, upset, angry",
+    "Joyful, cheerful, pleased",
+    "Cold, distant, reserved",
+    "Sleepy, tired, relaxed"
+  ],
+  "answer": "Worried, upset, angry"
+},
+{
+  "question": "head and shoulders",
+  "options": [
+    "Superior, better, outstanding",
+    "Worse, lower, inferior",
+    "Average, normal, typical",
+    "Near, close, similar"
+  ],
+  "answer": "Superior, better, outstanding"
+},
+{
+  "question": "Prescribe",
+  "options": [
+    "Recommend, order, suggest",
+    "Refuse, deny, reject",
+    "Guess, suppose, assume",
+    "Hide, conceal, cover"
+  ],
+  "answer": "Recommend, order, suggest"
+},
+{
+  "question": "Describe",
+  "options": [
+    "Explain, detail, illustrate",
+    "Lie, hide, deceive",
+    "Avoid, dodge, skip",
+    "Judge, assume, blame"
+  ],
+  "answer": "Explain, detail, illustrate"
+},
+{
+  "question": "ovary",
+  "options": [
+    "Gland, organ, reproductive",
+    "Heart, lung, kidney",
+    "Bone, muscle, tendon",
+    "Hair, skin, nail"
+  ],
+  "answer": "Gland, organ, reproductive"
+},
+{
+  "question": "truce",
+  "options": [
+    "Peace, ceasefire, agreement",
+    "War, conflict, fight",
+    "Threat, warning, risk",
+    "Plan, trick, scheme"
+  ],
+  "answer": "Peace, ceasefire, agreement"
+},
+{
+  "question": "urge",
+  "options": [
+    "Desire, push, prompt",
+    "Ignore, avoid, neglect",
+    "Laugh, cry, shout",
+    "Plan, think, calculate"
+  ],
+  "answer": "Desire, push, prompt"
+},
+{
+  "question": "urgent",
+  "options": [
+    "Immediate, critical, important",
+    "Slow, relaxed, calm",
+    "Optional, minor, trivial",
+    "Random, scattered, confused"
+  ],
+  "answer": "Immediate, critical, important"
+},
+{
+  "question": "over violating",
+  "options": [
+    "Breaking, breaching, offending",
+    "Respecting, honoring, obeying",
+    "Loving, caring, trusting",
+    "Pausing, delaying, stopping"
+  ],
+  "answer": "Breaking, breaching, offending"
+},
+{
+  "question": "I can't bear/tolerate you.",
+  "options": [
+    "Endure, accept, handle",
+    "Love, enjoy, admire",
+    "Forget, ignore, dismiss",
+    "Push, pull, carry"
+  ],
+  "answer": "Endure, accept, handle"
+},
+{
+  "question": "constsnt - consonant",
+  "options": [
+    "Steady, stable, unchanging",
+    "Shaky, weak, irregular",
+    "Noisy, loud, musical",
+    "Single, whole, solid"
+  ],
+  "answer": "Steady, stable, unchanging"
+},
+{
+  "question": "harsh",
+  "options": [
+    "Severe, cruel, rough",
+    "Gentle, kind, soft",
+    "Bright, loud, vivid",
+    "Plain, simple, dull"
+  ],
+  "answer": "Severe, cruel, rough"
+},
+{
+  "question": "somewhat",
+  "options": [
+    "Partly, slightly, moderately",
+    "Fully, deeply, entirely",
+    "Rarely, never, seldom",
+    "Clearly, loudly, strongly"
+  ],
+  "answer": "Partly, slightly, moderately"
+},
+{
+  "question": "transmit",
+  "options": [
+    "Send, transfer, broadcast",
+    "Hide, block, conceal",
+    "Pause, stop, break",
+    "Catch, hold, grab"
+  ],
+  "answer": "Send, transfer, broadcast"
+},
+{
+  "question": "variation",
+  "options": [
+    "Difference, change, deviation",
+    "Copy, repeat, mimic",
+    "Fixation, habit, routine",
+    "Constant, sameness, equal"
+  ],
+  "answer": "Difference, change, deviation"
+},
+{
+  "question": "expose",
+  "options": [
+    "Reveal, uncover, display",
+    "Hide, mask, conceal",
+    "Reject, deny, oppose",
+    "Blur, shade, fade"
+  ],
+  "answer": "Reveal, uncover, display"
+},
+{
+  "question": "thumb",
+  "options": [
+    "Digit, finger, appendage",
+    "Toe, nail, claw",
+    "Hand, palm, wrist",
+    "Tip, edge, joint"
+  ],
+  "answer": "Digit, finger, appendage"
+},
+{
+  "question": "week after",
+  "options": [
+    "Following, next, subsequent",
+    "Previous, past, earlier",
+    "Long, late, overdue",
+    "Pause, break, stop"
+  ],
+  "answer": "Following, next, subsequent"
+},
+{
+  "question": "yield",
+  "options": [
+    "Produce, give, surrender",
+    "Take, steal, rob",
+    "Hide, block, prevent",
+    "Rest, relax, pause"
+  ],
+  "answer": "Produce, give, surrender"
+},
+{
+  "question": "eliminate",
+  "options": [
+    "Remove, erase, delete",
+    "Add, include, insert",
+    "Fix, repair, improve",
+    "Build, create, make"
+  ],
+  "answer": "Remove, erase, delete"
+},
+{
+  "question": "blown away",
+  "options": [
+    "Impressed, amazed, shocked",
+    "Bored, annoyed, tired",
+    "Confused, unsure, puzzled",
+    "Hidden, lost, gone"
+  ],
+  "answer": "Impressed, amazed, shocked"
+},
+{
+  "question": "overcome",
+  "options": [
+    "Defeat, conquer, master",
+,{
 "question": "A cup of coffee",
 "options": [
 "Mug, beverage, drink",
