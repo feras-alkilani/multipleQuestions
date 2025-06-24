@@ -1,719 +1,1025 @@
 [
-  
   {
-    "question": "boils down",
+    "question": "كنيسة",
     "options": [
-      "persist",
-      "nailing",
-      "exemption",
-      "boiling"
-    ],
-    "answer": "persist"
-  },
-  {
-    "question": "putting in the repetitions",
-    "options": [
-      "exemption",
-      "persist",
-      "nailing",
-      "reps"
-    ],
-    "answer": "reps"
-  },
-  {
-    "question": "stuck",
-    "options": [
-      "exemption",
-      "persist",
-      "nailing",
-      "stuck"
-    ],
-    "answer": "stuck"
-  },
-  {
-    "question": "pinning down",
-    "options": [
-      "persist",
-      "exemption",
-      "nailing",
-      "pinning down"
-    ],
-    "answer": "nailing"
-  },
-  {
-    "question": "ado",
-    "options": [
-      "exemption",
-      "ado",
-      "persist",
-      "nailing"
-    ],
-    "answer": "ado"
-  },
-  {
-    "question": "untangle",
-    "options": [
-      "persist",
-      "untangle",
-      "exemption",
-      "nailing"
-    ],
-    "answer": "untangle"
-  },
-  {
-    "question": "beat",
-    "options": [
-      "persist",
-      "exemption",
-      "beat",
-      "nailing"
-    ],
-    "answer": "beat"
-  },
-  {
-    "question": "extraordinarily",
-    "options": [
-      "persist",
-      "extraordinarily",
-      "exemption",
-      "nailing"
-    ],
-    "answer": "extraordinarily"
-  },
-  {
-    "question": "somehow",
-    "options": [
-      "somehow",
-      "persist",
-      "exemption",
-      "nailing"
-    ],
-    "answer": "somehow"
-  },
-  {
-    "question": "sudden",
-    "options": [
-      "exemption",
-      "persist",
-      "sudden",
-      "nailing"
-    ],
-    "answer": "sudden"
-  },
-  {
-    "question": "reps",
-    "options": [
-      "persist",
-      "nailing",
-      "exemption",
-      "reps"
-    ],
-    "answer": "reps"
-  },
-  {
-    "question": "church",
-    "options": [
-      "persist",
-      "exemption",
       "church",
-      "nailing"
+      "sweep",
+      "bread",
+      "reps"
     ],
     "answer": "church"
   },
   {
-    "question": "Suicide",
+    "question": "انتحار",
     "options": [
-      "persist",
-      "exemption",
-      "Suicide",
-      "nailing"
+      "suicide",
+      "injury",
+      "pinning",
+      "predict"
     ],
-    "answer": "Suicide"
+    "answer": "suicide"
   },
   {
-    "question": "blast",
+    "question": "انفجار",
     "options": [
       "blast",
-      "persist",
-      "exemption",
-      "nailing"
+      "clove",
+      "reps",
+      "cap"
     ],
     "answer": "blast"
   },
   {
-    "question": "explosion",
+    "question": "تفجير",
     "options": [
       "explosion",
-      "persist",
-      "exemption",
-      "nailing"
+      "nailing",
+      "pinning",
+      "drop"
     ],
     "answer": "explosion"
   },
   {
-    "question": "hectic",
+    "question": "مزدحم ومتوتر",
     "options": [
-      "persist",
-      "exemption",
       "hectic",
-      "nailing"
+      "elegant",
+      "toll",
+      "fluid"
     ],
     "answer": "hectic"
   },
   {
-    "question": "tense",
+    "question": "متوتر أو مشدود",
     "options": [
-      "persist",
       "tense",
-      "exemption",
-      "nailing"
+      "predict",
+      "hoodies",
+      "somehow"
     ],
     "answer": "tense"
   },
   {
-    "question": "perimeter",
+    "question": "محيط المكان",
     "options": [
-      "persist",
       "perimeter",
-      "exemption",
-      "nailing"
+      "loaf",
+      "clove",
+      "cap it off"
     ],
     "answer": "perimeter"
   },
   {
-    "question": "sweep",
+    "question": "يمشط أو يكنس منطقة",
     "options": [
-      "persist",
-      "exemption",
-      "nailing",
-      "sweep"
+      "sweep",
+      "pin",
+      "drop",
+      "explode"
     ],
     "answer": "sweep"
   },
   {
-    "question": "toll",
+    "question": "حصيلة أو عدد",
     "options": [
-      "persist",
       "toll",
-      "exemption",
-      "nailing"
+      "scoop",
+      "nail",
+      "reps"
     ],
     "answer": "toll"
   },
   {
-    "question": "risen",
+    "question": "ارتفع",
     "options": [
-      "persist",
-      "exemption",
       "risen",
-      "nailing"
+      "blast",
+      "beat",
+      "reps"
     ],
     "answer": "risen"
   },
   {
-    "question": "casualities",
+    "question": "ضحايا",
     "options": [
-      "persist",
-      "exemption",
       "casualities",
-      "nailing"
+      "injury",
+      "reps",
+      "sweep"
     ],
     "answer": "casualities"
   },
   {
-    "question": "injury",
+    "question": "إصابة",
     "options": [
-      "persist",
       "injury",
-      "exemption",
-      "nailing"
+      "scoop",
+      "pin",
+      "somehow"
     ],
     "answer": "injury"
   },
   {
-    "question": "fluid",
+    "question": "سائل",
     "options": [
       "fluid",
-      "persist",
-      "exemption",
-      "nailing"
+      "jar",
+      "bread",
+      "extraordinarily"
     ],
     "answer": "fluid"
   },
   {
-    "question": "hoodies",
+    "question": "قلنسوة رياضية",
     "options": [
-      "persist",
       "hoodies",
-      "exemption",
-      "nailing"
+      "cap",
+      "jar",
+      "elegant"
     ],
     "answer": "hoodies"
   },
   {
-    "question": "cap it off",
+    "question": "يُنهي بشيء مميز",
     "options": [
-      "persist",
-      "exemption",
-      "nailing",
-      "cap it off"
+      "cap it off",
+      "beat",
+      "reps",
+      "predict"
     ],
     "answer": "cap it off"
   },
   {
-    "question": "indented",
+    "question": "ذو مسافة بادئة أو مُزاح",
     "options": [
-      "persist",
       "indented",
-      "exemption",
-      "nailing"
+      "scooped",
+      "pinned",
+      "drop"
     ],
     "answer": "indented"
   },
   {
-    "question": "predict",
+    "question": "يتنبأ",
     "options": [
-      "persist",
       "predict",
-      "exemption",
-      "nailing"
+      "outshine",
+      "cap",
+      "sweep"
     ],
     "answer": "predict"
   },
   {
-    "question": "eligant",
+    "question": "أنيق أو راقٍ",
     "options": [
-      "persist",
-      "exemption",
-      "nailing",
-      "eligant"
+      "elegant",
+      "hectic",
+      "sudden",
+      "pinning"
     ],
-    "answer": "eligant"
+    "answer": "elegant"
   },
   {
-    "question": "outshine",
+    "question": "يتفوّق أو يسطع فوق غيره",
     "options": [
-      "persist",
-      "exemption",
-      "nailing",
-      "outshine"
+      "outshine",
+      "beat",
+      "cap",
+      "scoop"
     ],
     "answer": "outshine"
-  },{
+  },
+  {
     "question": "غيبوبة - ذهول - نشوة",
-    "options": ["coma", "trance", "confusion", "delirium"],
+    "options": [
+      "coma",
+      "trance",
+      "confusion",
+      "delirium"
+    ],
     "answer": "trance"
   },
   {
     "question": "قليل ومعدود وغير كاف",
-    "options": ["few", "a few", "some", "several"],
+    "options": [
+      "few",
+      "a few",
+      "some",
+      "several"
+    ],
     "answer": "few"
   },
   {
     "question": "قليل ومعدود وكاف",
-    "options": ["many", "few", "a few", "some"],
+    "options": [
+      "many",
+      "few",
+      "a few",
+      "some"
+    ],
     "answer": "a few"
   },
   {
     "question": "قليل وغير معدود وغير كاف",
-    "options": ["little", "a little", "less", "none"],
+    "options": [
+      "little",
+      "a little",
+      "less",
+      "none"
+    ],
     "answer": "little"
   },
   {
     "question": "قليل وغير معدود وكاف",
-    "options": ["little", "a little", "few", "some"],
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "some"
+    ],
     "answer": "a little"
   },
   {
     "question": "أفسد شيئاً أو أخطأ فيه",
-    "options": ["mess up", "clean up", "fix", "compose"],
+    "options": [
+      "mess up",
+      "clean up",
+      "fix",
+      "compose"
+    ],
     "answer": "mess up"
   },
   {
     "question": "هل كنت مفهوماً بالنسبة لك؟",
-    "options": ["Did I understand you?", "Do I make sense to you?", "Did I make sense to you?", "Do you hear me?"],
+    "options": [
+      "Did I understand you?",
+      "Do I make sense to you?",
+      "Did I make sense to you?",
+      "Do you hear me?"
+    ],
     "answer": "Did I make sense to you?"
   },
   {
     "question": "تمنى لك ليلة سعيدة",
-    "options": ["bid you good night", "wish you luck", "good night", "greet you"],
+    "options": [
+      "bid you good night",
+      "wish you luck",
+      "good night",
+      "greet you"
+    ],
     "answer": "bid you good night"
   },
   {
     "question": "عالق",
-    "options": ["stuck", "paused", "delayed", "trapped"],
+    "options": [
+      "stuck",
+      "paused",
+      "delayed",
+      "trapped"
+    ],
     "answer": "stuck"
   },
   {
     "question": "تثبيت بقوة في مكانه",
-    "options": ["pinning down", "holding", "pressing", "supporting"],
+    "options": [
+      "pinning down",
+      "holding",
+      "pressing",
+      "supporting"
+    ],
     "answer": "pinning down"
   },
   {
     "question": "ضجة أو جلبة غير ضرورية",
-    "options": ["fuss", "ado", "noise", "uproar"],
+    "options": [
+      "fuss",
+      "ado",
+      "noise",
+      "uproar"
+    ],
     "answer": "ado"
   },
   {
     "question": "يفك التعقيد أو التشابك",
-    "options": ["untangle", "unfold", "unwrap", "release"],
+    "options": [
+      "untangle",
+      "unfold",
+      "unwrap",
+      "release"
+    ],
     "answer": "untangle"
   },
   {
     "question": "يهزم أو يتغلب",
-    "options": ["beat", "win", "conquer", "surpass"],
+    "options": [
+      "beat",
+      "win",
+      "conquer",
+      "surpass"
+    ],
     "answer": "beat"
   },
   {
     "question": "بشكل استثنائي",
-    "options": ["extraordinarily", "amazingly", "greatly", "somewhat"],
+    "options": [
+      "extraordinarily",
+      "amazingly",
+      "greatly",
+      "somewhat"
+    ],
     "answer": "extraordinarily"
   },
   {
     "question": "بطريقة ما",
-    "options": ["somehow", "anyway", "nevertheless", "possibly"],
+    "options": [
+      "somehow",
+      "anyway",
+      "nevertheless",
+      "possibly"
+    ],
     "answer": "somehow"
   },
   {
     "question": "أنيق",
-    "options": ["elegant", "neat", "smart", "fine"],
+    "options": [
+      "elegant",
+      "neat",
+      "smart",
+      "fine"
+    ],
     "answer": "elegant"
   },
   {
     "question": "تم تحويله عن المسار",
-    "options": ["diverted", "shifted", "drifted", "changed"],
+    "options": [
+      "diverted",
+      "shifted",
+      "drifted",
+      "changed"
+    ],
     "answer": "diverted"
   },
   {
     "question": "نكهة أو طعم مميز",
-    "options": ["taste", "flavor", "scent", "essence"],
+    "options": [
+      "taste",
+      "flavor",
+      "scent",
+      "essence"
+    ],
     "answer": "flavor"
   },
   {
     "question": "تم اعتراضه",
-    "options": ["blocked", "interrupted", "intercepted", "halted"],
+    "options": [
+      "blocked",
+      "interrupted",
+      "intercepted",
+      "halted"
+    ],
     "answer": "intercepted"
   },
   {
     "question": "تم إغلاقه أو تعطيله",
-    "options": ["shut down", "cancel", "block", "pause"],
+    "options": [
+      "shut down",
+      "cancel",
+      "block",
+      "pause"
+    ],
     "answer": "shut down"
   },
   {
     "question": "تصعيد أو تفاقم",
-    "options": ["escalation", "growth", "increase", "rising"],
+    "options": [
+      "escalation",
+      "growth",
+      "increase",
+      "rising"
+    ],
     "answer": "escalation"
   },
   {
     "question": "المجال الجوي",
-    "options": ["air field", "air zone", "air space", "sky field"],
+    "options": [
+      "air field",
+      "air zone",
+      "air space",
+      "sky field"
+    ],
     "answer": "air space"
   },
   {
     "question": "مدمر",
-    "options": ["devastating", "disastrous", "severe", "deadly"],
+    "options": [
+      "devastating",
+      "disastrous",
+      "severe",
+      "deadly"
+    ],
     "answer": "devastating"
   },
   {
     "question": "صاروخ",
-    "options": ["rocket", "missile", "torpedo", "shell"],
+    "options": [
+      "rocket",
+      "missile",
+      "torpedo",
+      "shell"
+    ],
     "answer": "missile"
   },
   {
     "question": "انتقام عسكري أو رد هجومي",
-    "options": ["retaliation", "revenge", "response", "retribution"],
+    "options": [
+      "retaliation",
+      "revenge",
+      "response",
+      "retribution"
+    ],
     "answer": "retaliation"
   },
   {
     "question": "مشترك",
-    "options": ["joint", "shared", "unified", "combined"],
+    "options": [
+      "joint",
+      "shared",
+      "unified",
+      "combined"
+    ],
     "answer": "joint"
   },
   {
     "question": "الحراس أو الجنود المكلفون بالحماية",
-    "options": ["soldiers", "police", "guards", "officers"],
+    "options": [
+      "soldiers",
+      "police",
+      "guards",
+      "officers"
+    ],
     "answer": "guards"
   },
   {
     "question": "ثوري أو مبتكر جذرياً",
-    "options": ["revolutionary", "radical", "reformer", "activist"],
+    "options": [
+      "revolutionary",
+      "radical",
+      "reformer",
+      "activist"
+    ],
     "answer": "revolutionary"
   },
   {
     "question": "ضحايا (قتلى أو جرحى)",
-    "options": ["victims", "casualties", "losses", "wounded"],
+    "options": [
+      "victims",
+      "casualties",
+      "losses",
+      "wounded"
+    ],
     "answer": "casualties"
   },
   {
     "question": "عكس أو تبديل في القرار أو الاتجاه",
-    "options": ["reversal", "cancelation", "change", "turnaround"],
+    "options": [
+      "reversal",
+      "cancelation",
+      "change",
+      "turnaround"
+    ],
     "answer": "reversal"
   },
   {
     "question": "طرد أو شحنة بريدية",
-    "options": ["box", "parcel", "package", "shipment"],
+    "options": [
+      "box",
+      "parcel",
+      "package",
+      "shipment"
+    ],
     "answer": "parcel"
   },
   {
     "question": "جرح أو إصابة",
-    "options": ["cut", "wound", "bruise", "injury"],
+    "options": [
+      "cut",
+      "wound",
+      "bruise",
+      "injury"
+    ],
     "answer": "wound"
-  },{
+  },
+  {
     "question": "ضخم",
-    "options": ["tiny", "massive", "brief", "weak"],
+    "options": [
+      "tiny",
+      "massive",
+      "brief",
+      "weak"
+    ],
     "answer": "massive"
   },
   {
     "question": "دقة",
-    "options": ["precision", "confusion", "approximation", "blur"],
+    "options": [
+      "precision",
+      "confusion",
+      "approximation",
+      "blur"
+    ],
     "answer": "precision"
   },
   {
     "question": "ثلاث منشآت نووية رئيسية",
-    "options": ["three key nuclear facilities", "dangerous elements", "nuclear bombs", "atomic theory"],
+    "options": [
+      "three key nuclear facilities",
+      "dangerous elements",
+      "nuclear bombs",
+      "atomic theory"
+    ],
     "answer": "three key nuclear facilities"
   },
   {
     "question": "مدمر",
-    "options": ["destructive", "fragile", "constructive", "gentle"],
+    "options": [
+      "destructive",
+      "fragile",
+      "constructive",
+      "gentle"
+    ],
     "answer": "destructive"
   },
   {
     "question": "مؤسسة",
-    "options": ["enterprise", "entry", "entrepreneur", "interruption"],
+    "options": [
+      "enterprise",
+      "entry",
+      "entrepreneur",
+      "interruption"
+    ],
     "answer": "enterprise"
   },
   {
     "question": "هدف",
-    "options": ["opbjective", "subjective", "prediction", "avoidance"],
+    "options": [
+      "opbjective",
+      "subjective",
+      "prediction",
+      "avoidance"
+    ],
     "answer": "opbjective"
   },
   {
     "question": "تخصيب",
-    "options": ["enrichment", "purification", "destruction", "reduction"],
+    "options": [
+      "enrichment",
+      "purification",
+      "destruction",
+      "reduction"
+    ],
     "answer": "enrichment"
   },
   {
     "question": "مذهل",
-    "options": ["spectacular", "usual", "common", "quiet"],
+    "options": [
+      "spectacular",
+      "usual",
+      "common",
+      "quiet"
+    ],
     "answer": "spectacular"
   },
   {
     "question": "تم محوه",
-    "options": ["obliterated", "protected", "stored", "created"],
+    "options": [
+      "obliterated",
+      "protected",
+      "stored",
+      "created"
+    ],
     "answer": "obliterated"
   },
   {
     "question": "أسهل بكثير",
-    "options": ["alot easier", "very hard", "quite complicated", "less effective"],
+    "options": [
+      "alot easier",
+      "very hard",
+      "quite complicated",
+      "less effective"
+    ],
     "answer": "alot easier"
   },
   {
     "question": "أكبر بكثير",
-    "options": ["far greater", "smaller", "minimal", "moderate"],
+    "options": [
+      "far greater",
+      "smaller",
+      "minimal",
+      "moderate"
+    ],
     "answer": "far greater"
   },
   {
     "question": "متوتر",
-    "options": ["twitchy", "calm", "sleepy", "relaxed"],
+    "options": [
+      "twitchy",
+      "calm",
+      "sleepy",
+      "relaxed"
+    ],
     "answer": "twitchy"
   },
   {
     "question": "غريب",
-    "options": ["bizarre", "normal", "average", "expected"],
+    "options": [
+      "bizarre",
+      "normal",
+      "average",
+      "expected"
+    ],
     "answer": "bizarre"
   },
   {
     "question": "سخيف",
-    "options": ["cheesy", "elegant", "chic", "serious"],
+    "options": [
+      "cheesy",
+      "elegant",
+      "chic",
+      "serious"
+    ],
     "answer": "cheesy"
   },
   {
     "question": "عبثي",
-    "options": ["absurd", "logical", "reasonable", "valid"],
+    "options": [
+      "absurd",
+      "logical",
+      "reasonable",
+      "valid"
+    ],
     "answer": "absurd"
   },
   {
     "question": "فاخر",
-    "options": ["fancy", "plain", "simple", "dull"],
+    "options": [
+      "fancy",
+      "plain",
+      "simple",
+      "dull"
+    ],
     "answer": "fancy"
   },
   {
     "question": "ذكي ساخر",
-    "options": ["witty", "dull", "boring", "slow"],
+    "options": [
+      "witty",
+      "dull",
+      "boring",
+      "slow"
+    ],
     "answer": "witty"
   },
   {
     "question": "صدئ",
-    "options": ["rusty", "shiny", "clean", "new"],
+    "options": [
+      "rusty",
+      "shiny",
+      "clean",
+      "new"
+    ],
     "answer": "rusty"
   },
   {
     "question": "نحس",
-    "options": ["jinx", "luck", "fortune", "blessing"],
+    "options": [
+      "jinx",
+      "luck",
+      "fortune",
+      "blessing"
+    ],
     "answer": "jinx"
-  },{
+  },
+  {
     "question": "اختراقات البيانات",
-    "options": ["Data Breaches", "intensifies", "diary", "barred"],
+    "options": [
+      "Data Breaches",
+      "intensifies",
+      "diary",
+      "barred"
+    ],
     "answer": "Data Breaches"
   },
   {
     "question": "تكثف",
-    "options": ["intensifies", "routinely", "weapon", "treaty"],
+    "options": [
+      "intensifies",
+      "routinely",
+      "weapon",
+      "treaty"
+    ],
     "answer": "intensifies"
   },
   {
     "question": "يوميات",
-    "options": ["diary", "exclusive", "defeated", "condemn"],
+    "options": [
+      "diary",
+      "exclusive",
+      "defeated",
+      "condemn"
+    ],
     "answer": "diary"
   },
   {
     "question": "بشكل روتيني",
-    "options": ["routinely", "betrayed", "territorial", "fingers crossed"],
+    "options": [
+      "routinely",
+      "betrayed",
+      "territorial",
+      "fingers crossed"
+    ],
     "answer": "routinely"
   },
   {
     "question": "محظور",
-    "options": ["barred", "facilities", "beard", "bold"],
+    "options": [
+      "barred",
+      "facilities",
+      "beard",
+      "bold"
+    ],
     "answer": "barred"
   },
   {
     "question": "سلاح",
-    "options": ["weapon", "proliferation", "defend", "bully"],
+    "options": [
+      "weapon",
+      "proliferation",
+      "defend",
+      "bully"
+    ],
     "answer": "weapon"
   },
   {
     "question": "حصري",
-    "options": ["exclusive", "threat", "crash", "fender"],
+    "options": [
+      "exclusive",
+      "threat",
+      "crash",
+      "fender"
+    ],
     "answer": "exclusive"
   },
   {
     "question": "خان",
-    "options": ["betrayed", "carry out", "blew up", "timid"],
+    "options": [
+      "betrayed",
+      "carry out",
+      "blew up",
+      "timid"
+    ],
     "answer": "betrayed"
   },
   {
-    "question": "مرافق",
-    "options": ["facilities", "defeated", "turn in", "bender"],
+    "question": "مَرافق",
+    "options": [
+      "facilities",
+      "defeated",
+      "turn in",
+      "bender"
+    ],
     "answer": "facilities"
   },
   {
     "question": "انفجر",
-    "options": ["blew up", "diary", "territorial", "foolish"],
+    "options": [
+      "blew up",
+      "diary",
+      "territorial",
+      "foolish"
+    ],
     "answer": "blew up"
   },
   {
     "question": "انتشار",
-    "options": ["proliferation", "exclusive", "bully", "turn in"],
+    "options": [
+      "proliferation",
+      "exclusive",
+      "bully",
+      "turn in"
+    ],
     "answer": "proliferation"
   },
   {
     "question": "قوض",
-    "options": ["undermined", "best tackle tips", "beard", "routinely"],
+    "options": [
+      "undermined",
+      "best tackle tips",
+      "beard",
+      "routinely"
+    ],
     "answer": "undermined"
   },
   {
     "question": "انهزم",
-    "options": ["defeated", "threat", "crash", "fender-bender"],
+    "options": [
+      "defeated",
+      "threat",
+      "crash",
+      "fender-bender"
+    ],
     "answer": "defeated"
   },
   {
     "question": "معاهدة",
-    "options": ["treaty", "betrayed", "persist", "carry out"],
+    "options": [
+      "treaty",
+      "betrayed",
+      "persist",
+      "carry out"
+    ],
     "answer": "treaty"
   },
   {
     "question": "يدين",
-    "options": ["condemn", "diary", "depressed", "beard"],
+    "options": [
+      "condemn",
+      "diary",
+      "depressed",
+      "beard"
+    ],
     "answer": "condemn"
   },
   {
     "question": "إقليمي",
-    "options": ["territorial", "persist", "bully", "foolish"],
+    "options": [
+      "territorial",
+      "persist",
+      "bully",
+      "foolish"
+    ],
     "answer": "territorial"
   },
   {
     "question": "مكتئب",
-    "options": ["depressed", "nail", "weapon", "routinely"],
+    "options": [
+      "depressed",
+      "nail",
+      "weapon",
+      "routinely"
+    ],
     "answer": "depressed"
   },
   {
     "question": "أنام",
-    "options": ["turn in", "nailing", "fender", "diary"],
+    "options": [
+      "turn in",
+      "nailing",
+      "fender",
+      "diary"
+    ],
     "answer": "turn in"
   },
   {
     "question": "أغفو فجأة من شدة التعب",
-    "options": ["crash", "threat", "exclusive", "defend"],
+    "options": [
+      "crash",
+      "threat",
+      "exclusive",
+      "defend"
+    ],
     "answer": "crash"
   },
   {
     "question": "لحية",
-    "options": ["beard", "persist", "blew up", "bender"],
+    "options": [
+      "beard",
+      "persist",
+      "blew up",
+      "bender"
+    ],
     "answer": "beard"
   },
   {
     "question": "جريء",
-    "options": ["bold", "undermined", "diary", "bully"],
+    "options": [
+      "bold",
+      "undermined",
+      "diary",
+      "bully"
+    ],
     "answer": "bold"
   },
   {
     "question": "خجول",
-    "options": ["timid", "routinely", "threat", "weapon"],
+    "options": [
+      "timid",
+      "routinely",
+      "threat",
+      "weapon"
+    ],
     "answer": "timid"
   },
   {
     "question": "يدافع",
-    "options": ["defend", "defeated", "fender", "carry out"],
+    "options": [
+      "defend",
+      "defeated",
+      "fender",
+      "carry out"
+    ],
     "answer": "defend"
   },
   {
     "question": "أحمق",
-    "options": ["foolish", "exclusive", "betrayed", "persist"],
+    "options": [
+      "foolish",
+      "exclusive",
+      "betrayed",
+      "persist"
+    ],
     "answer": "foolish"
   },
   {
     "question": "ينفذ",
-    "options": ["carry out", "condemn", "blew up", "diary"],
+    "options": [
+      "carry out",
+      "condemn",
+      "blew up",
+      "diary"
+    ],
     "answer": "carry out"
   },
   {
     "question": "تهديد",
-    "options": ["threat", "barred", "nail", "defeated"],
+    "options": [
+      "threat",
+      "barred",
+      "nail",
+      "defeated"
+    ],
     "answer": "threat"
   },
   {
     "question": "متنمر",
-    "options": ["bully", "routinely", "exclusive", "turn in"],
+    "options": [
+      "bully",
+      "routinely",
+      "exclusive",
+      "turn in"
+    ],
     "answer": "bully"
   },
   {
     "question": "حادث سيارة خفيف",
-    "options": ["fender-bender", "weapon", "persist", "diary"],
+    "options": [
+      "fender-bender",
+      "weapon",
+      "persist",
+      "diary"
+    ],
     "answer": "fender-bender"
   },
   {
     "question": "رفراف السيارة",
-    "options": ["fender", "defend", "condemn", "nailing"],
+    "options": [
+      "fender",
+      "defend",
+      "condemn",
+      "nailing"
+    ],
     "answer": "fender"
   },
   {
     "question": "شيء ينثني أو يتعوج",
-    "options": ["bender", "defeated", "crash", "threat"],
+    "options": [
+      "bender",
+      "defeated",
+      "crash",
+      "threat"
+    ],
     "answer": "bender"
   },
   {
     "question": "أفضل نصائح التصدي",
-    "options": ["Best tackle tips", "diary", "weapon", "foolish"],
+    "options": [
+      "Best tackle tips",
+      "diary",
+      "weapon",
+      "foolish"
+    ],
     "answer": "Best tackle tips"
   },
   {
     "question": "آمل أن تسير الأمور جيدًا",
-    "options": ["fingers crossed", "undermined", "exclusive", "persist"],
+    "options": [
+      "fingers crossed",
+      "undermined",
+      "exclusive",
+      "persist"
+    ],
     "answer": "fingers crossed"
-  }
-
-,{
+  },
+  {
     "question": "عدل",
     "options": [
       "fair",
@@ -1056,12 +1362,12 @@
   {
     "question": "السيارة القديمة أخيرا تعطلت",
     "options": [
-      "Go kaput",
+      "The old car finally went kaput",
       "Corroborate",
       "Compelling",
       "Demonstrate"
     ],
-    "answer": "Go kaput"
+    "answer": "The old car finally went kaput"
   },
   {
     "question": "يُظهر",
@@ -1584,7 +1890,7 @@
     "answer": "rollback"
   },
   {
-    "question": "تأكيد الحفظ",
+    "question": "تأكيد/إتمام حفظ نهائي (غالبًا في Git أو قواعد البيانات)",
     "options": [
       "save",
       "commit",
@@ -4674,7 +4980,7 @@
     "answer": "optimized"
   },
   {
-    "question": "ثانوي",
+    "question": "بسيط – غير مهم – صغير	",
     "options": [
       "minor",
       "small",
@@ -4682,6 +4988,16 @@
       "secondary"
     ],
     "answer": "minor"
+  },
+  {
+    "question": "ثانوي – غير أساسي لكن له أهمية",
+    "options": [
+      "minor",
+      "small",
+      "tiny",
+      "secondary"
+    ],
+    "answer": "secondary"
   },
   {
     "question": "توخى الحذر فيما تقول",
@@ -5644,7 +5960,7 @@
     "answer": "presistent"
   },
   {
-    "question": "حتى لا, كي لا, لئلا, من أجل تجنب أن",
+    "question": "حتى لا,تحسبًا لحدوث ,خوفًا من أن ,خشية أن ,كي لا, لئلا, من أجل تجنب أن",
     "options": [
       "lest",
       "to sum it all",
@@ -7624,7 +7940,7 @@
     "answer": "explicitly"
   },
   {
-    "question": "مُعدل",
+    "question": "تم تعديله",
     "options": [
       "altered",
       "changed",
@@ -7912,16 +8228,6 @@
       "Take it or leave it"
     ],
     "answer": "Keep a civil tongue"
-  },
-  {
-    "question": "الحال من بعضو",
-    "options": [
-      "Tell me about it",
-      "It’s a win-win situation",
-      "That’s the spirit",
-      "Bear in mind"
-    ],
-    "answer": "Tell me about it"
   },
   {
     "question": "وين المصيدة؟ / وين الخدعة؟",
@@ -8326,12 +8632,12 @@
   {
     "question": "الحمد لله",
     "options": [
-      "I can’t complain",
+      "Praise be to god",
       "You’re kidding me",
       "No offense",
       "That makes sense"
     ],
-    "answer": "I can’t complain"
+    "answer": "Praise be to god"
   },
   {
     "question": "لا تتمادى",
@@ -8392,16 +8698,6 @@
       "Get a life"
     ],
     "answer": "To each his own"
-  },
-  {
-    "question": "معك حق",
-    "options": [
-      "You said it",
-      "That makes sense",
-      "Don’t push it",
-      "Keep it up"
-    ],
-    "answer": "You said it"
   },
   {
     "question": "هذا اللي في",
@@ -11854,7 +12150,7 @@
     "answer": "get across"
   },
   {
-    "question": "يستسلم، يرضخ",
+    "question": "استسلام بعد مقاومة أو تحدي",
     "options": [
       "give in",
       "give up",
@@ -11862,6 +12158,16 @@
       "turn over"
     ],
     "answer": "give in"
+  },
+  {
+    "question": "التوقف تمامًا عن المحاولة أو الجهد",
+    "options": [
+      "give in",
+      "give up",
+      "hand out",
+      "turn over"
+    ],
+    "answer": "give up"
   },
   {
     "question": "يراجع أو يفحص بعناية",
@@ -12746,7 +13052,7 @@
   {
     "question": "اتساق",
     "options": [
-      "consistency",
+      "goofy",
       "premium",
       "consistency",
       "proposal"
@@ -13177,7 +13483,7 @@
     "question": "علاوة / مكافأة",
     "options": [
       "premium",
-      "premium",
+      "goofy",
       "consistency",
       "proposal"
     ],
@@ -16524,7 +16830,7 @@
     "answer": "vaccine"
   },
   {
-    "question": "تشابه",
+    "question": "تشابه - تماثل",
     "options": [
       "analogy",
       "persist",
@@ -16738,7 +17044,7 @@
     "options": [
       "engaging",
       "persist",
-      "engaging",
+      "goofy",
       "troubleshooting"
     ],
     "answer": "engaging"
@@ -17257,8 +17563,8 @@
     "question": "أعلى أو أسمى",
     "options": [
       "supreme",
-      "minor",
-      "secondary",
+      "minor بسيط – غير مهم – صغير",
+      "secondary ثانوي – غير أساسي لكن له أهمية	",
       "lower"
     ],
     "answer": "supreme"
