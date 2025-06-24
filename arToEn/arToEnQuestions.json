@@ -1,5 +1,229 @@
 [
   {
+    "question": "ضميري مرتاح",
+    "options": ["guilty", "doubtful", "my conscience is clear", "hesitant"],
+    "answer": "my conscience is clear"
+  },
+  {
+    "question": "ساخر أو مضحك بطريقة غريبة",
+    "options": ["goofy", "serious", "boring", "strict"],
+    "answer": "goofy"
+  },
+  {
+    "question": "إساءة",
+    "options": ["use", "respect", "abuse", "admire"],
+    "answer": "abuse"
+  },
+  {
+    "question": "يَتفاوت",
+    "options": ["stays", "remains", "varies", "equals"],
+    "answer": "varies"
+  },
+  {
+    "question": "غاضب جداً",
+    "options": ["sad", "fuming mad", "calm", "relaxed"],
+    "answer": "fuming mad"
+  },
+  {
+    "question": "غاضب ومتوتر",
+    "options": ["fuming and fretting", "content", "peaceful", "happy"],
+    "answer": "fuming and fretting"
+  },
+  {
+    "question": "أفضل من الآخرين",
+    "options": ["head and shoulders", "equal", "similar", "behind"],
+    "answer": "head and shoulders"
+  },
+  {
+    "question": "يصف",
+    "options": ["Prescribe", "Order", "Describe", "Dictate"],
+    "answer": "Describe"
+  },
+  {
+    "question": "يوصي بوصفة طبية",
+    "options": ["Describe", "Prescribe", "Recommend", "Mention"],
+    "answer": "Prescribe"
+  },
+  {
+    "question": "مبيض",
+    "options": ["ovary", "liver", "kidney", "lung"],
+    "answer": "ovary"
+  },
+  {
+    "question": "هدنة",
+    "options": ["battle", "fight", "truce", "war"],
+    "answer": "truce"
+  },
+  {
+    "question": "حثّ",
+    "options": ["urge", "ignore", "delay", "hesitate"],
+    "answer": "urge"
+  },
+  {
+    "question": "عاجل",
+    "options": ["slow", "casual", "urgent", "optional"],
+    "answer": "urgent"
+  },
+  {
+    "question": "بسبب انتهاك",
+    "options": ["in praise", "over violating", "under agreement", "out of respect"],
+    "answer": "over violating"
+  },
+  {
+    "question": "لا أتحمّلك",
+    "options": ["I respect you", "I love you", "I can't tolerate you", "I miss you"],
+    "answer": "I can't tolerate you"
+  },
+  {
+    "question": "حرف ساكن",
+    "options": ["constant", "consonant", "vowel", "noise"],
+    "answer": "consonant"
+  },
+  {
+    "question": "فظ",
+    "options": ["polite", "harsh", "kind", "gentle"],
+    "answer": "harsh"
+  },
+  {
+    "question": "إلى حد ما",
+    "options": ["not at all", "very much", "somewhat", "totally"],
+    "answer": "somewhat"
+  },
+  {
+    "question": "ينقل",
+    "options": ["transmit", "hide", "receive", "absorb"],
+    "answer": "transmit"
+  },
+  {
+    "question": "اختلاف",
+    "options": ["sameness", "variation", "equality", "standard"],
+    "answer": "variation"
+  },
+  {
+    "question": "يكشف",
+    "options": ["cover", "expose", "protect", "hide"],
+    "answer": "expose"
+  },
+  {
+    "question": "إبهام",
+    "options": ["index", "thumb", "palm", "toe"],
+    "answer": "thumb"
+  },
+  {
+    "question": "الأسبوع التالي",
+    "options": ["next day", "tomorrow", "week after", "yesterday"],
+    "answer": "week after"
+  },
+  {
+    "question": "يخضع / يستسلم",
+    "options": ["resist", "yield", "fight", "deny"],
+    "answer": "yield"
+  },
+  {
+    "question": "يزيل",
+    "options": ["add", "include", "eliminate", "attach"],
+    "answer": "eliminate"
+  },
+  {
+    "question": "مندهش جداً",
+    "options": ["calm", "blown away", "bored", "uninterested"],
+    "answer": "blown away"
+  },
+  {
+    "question": "يتغلب",
+    "options": ["succumb", "overcome", "fall", "retreat"],
+    "answer": "overcome"
+  },
+  {
+    "question": "يثابر",
+    "options": ["quit", "persist", "delay", "hesitate"],
+    "answer": "persist"
+  },
+  {
+    "question": "وسط",
+    "options": ["around", "amid", "beside", "after"],
+    "answer": "amid"
+  },
+  {
+    "question": "عقبة",
+    "options": ["step", "hurdle", "goal", "target"],
+    "answer": "hurdle"
+  },
+  {
+    "question": "يدّعي",
+    "options": ["claim", "deny", "refuse", "ignore"],
+    "answer": "claim"
+  },
+  {
+    "question": "إضرابات عنيفة",
+    "options": ["negotiations", "peace", "intense strikes", "calm"],
+    "answer": "intense strikes"
+  },
+  {
+    "question": "لغة خاصة بمجموعة معينة",
+    "options": ["standard", "lingo", "dialect", "grammar"],
+    "answer": "lingo"
+  },
+  {
+    "question": "مسبقاً",
+    "options": ["afterwards", "ahead of time", "too late", "on time"],
+    "answer": "ahead of time"
+  },
+  {
+    "question": "هذا الجو الدافئ والمريح",
+    "options": ["cold place", "this cosy atmosphere", "formal setting", "unfriendly space"],
+    "answer": "this cosy atmosphere"
+  },
+  {
+    "question": "مريح",
+    "options": ["cosy", "harsh", "strict", "awkward"],
+    "answer": "cosy"
+  },
+  {
+    "question": "اسم علم أو علامة",
+    "options": ["stella", "moon", "star", "venus"],
+    "answer": "stella"
+  },
+  {
+    "question": "اسم شركة أو علامة",
+    "options": ["louwman", "apple", "tesla", "honda"],
+    "answer": "louwman"
+  },
+  {
+    "question": "اسم اختصار أو منظمة",
+    "options": ["cimt", "who", "unicef", "nato"],
+    "answer": "cimt"
+  },
+  {
+    "question": "شركة طاقة أوروبية",
+    "options": ["vattenfall", "shell", "bp", "total"],
+    "answer": "vattenfall"
+  },
+  {
+    "question": "بنك هولندي",
+    "options": ["abnamro", "barclays", "santander", "hsbc"],
+    "answer": "abnamro"
+  },
+  {
+    "question": "استنتاج",
+    "options": ["conclusion", "introduction", "confusion", "question"],
+    "answer": "conclusion"
+  },
+  {
+    "question": "شركة تطوير برمجيات",
+    "options": ["mendix", "oracle", "microsoft", "sap"],
+    "answer": "mendix"
+  },
+  {
+    "question": "شركة سيارات أوروبية",
+    "options": ["autobinck", "bmw", "toyota", "ford"],
+    "answer": "autobinck"
+  },
+  {
+    "question": "مزود طاقة هولندي",
+    "options": ["enexis", "tesla", "bp", "vodafone"],
+    "answer": "enexis"
+  },{
     "question": "كنيسة",
     "options": [
       "church",
