@@ -1,5 +1,1154 @@
 [
   {
+    "question": "het afval",
+    "options": [
+      "star",
+      "rubbish",
+      "republic",
+      "war"
+    ],
+    "answer": "rubbish"
+  },
+  {
+    "question": "de allochtoon",
+    "options": [
+      "freedom",
+      "immigrant",
+      "canal (in a town)",
+      "republic"
+    ],
+    "answer": "immigrant"
+  },
+  {
+    "question": "de arbeider",
+    "options": [
+      "monarchy",
+      "labourer",
+      "housekeeping",
+      "to lose"
+    ],
+    "answer": "labourer"
+  },
+  {
+    "question": "het bedrijf",
+    "options": [
+      "firm",
+      "to protest",
+      "washing machine",
+      "slave"
+    ],
+    "answer": "firm"
+  },
+  {
+    "question": "beroemd",
+    "options": [
+      "orange",
+      "republic",
+      "famous",
+      "castle"
+    ],
+    "answer": "famous"
+  },
+  {
+    "question": "beschermen",
+    "options": [
+      "national anthem",
+      "library",
+      "republic",
+      "to protect"
+    ],
+    "answer": "to protect"
+  },
+  {
+    "question": "bevrijden",
+    "options": [
+      "war",
+      "resistance",
+      "to liberate",
+      "machine"
+    ],
+    "answer": "to liberate"
+  },
+  {
+    "question": "bewaren",
+    "options": [
+      "to keep",
+      "government benefit/payment",
+      "canal (in a town)",
+      "to capture"
+    ],
+    "answer": "to keep"
+  },
+  {
+    "question": "bezetten",
+    "options": [
+      "orange",
+      "to occupy",
+      "secret",
+      "famous"
+    ],
+    "answer": "to occupy"
+  },
+  {
+    "question": "de bibliotheek",
+    "options": [
+      "to kill (someone)",
+      "economy",
+      "library",
+      "law"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "de boer",
+    "options": [
+      "united",
+      "ancestor",
+      "refrigerator",
+      "farmer"
+    ],
+    "answer": "farmer"
+  },
+  {
+    "question": "de bom",
+    "options": [
+      "flood",
+      "bomb",
+      "polder",
+      "farmer"
+    ],
+    "answer": "bomb"
+  },
+  {
+    "question": "de bon (voor voeding)",
+    "options": [
+      "voucher",
+      "prince",
+      "slave",
+      "castle"
+    ],
+    "answer": "voucher"
+  },
+  {
+    "question": "bouwen",
+    "options": [
+      "area",
+      "to build",
+      "united",
+      "commemoration of the dead"
+    ],
+    "answer": "to build"
+  },
+  {
+    "question": "de crisis",
+    "options": [
+      "depression",
+      "resistance",
+      "washing machine",
+      "star"
+    ],
+    "answer": "depression"
+  },
+  {
+    "question": "het dagboek",
+    "options": [
+      "farmer",
+      "to keep",
+      "diary",
+      "unemployed"
+    ],
+    "answer": "diary"
+  },
+  {
+    "question": "de dam",
+    "options": [
+      "refrigerator",
+      "dyke",
+      "to lose",
+      "economy"
+    ],
+    "answer": "dyke"
+  },
+  {
+    "question": "de democratie",
+    "options": [
+      "camp",
+      "socialist",
+      "democracy",
+      "soap"
+    ],
+    "answer": "democracy"
+  },
+  {
+    "question": "de dijk",
+    "options": [
+      "republic",
+      "area",
+      "era",
+      "dyke"
+    ],
+    "answer": "dyke"
+  },
+  {
+    "question": "(iemand) doden",
+    "options": [
+      "power",
+      "to kill (someone)",
+      "meadow",
+      "socialist"
+    ],
+    "answer": "to kill (someone)"
+  },
+  {
+    "question": "de dodenherdenking",
+    "options": [
+      "party",
+      "to fight",
+      "commemoration of the dead",
+      "housekeeping"
+    ],
+    "answer": "commemoration of the dead"
+  },
+  {
+    "question": "doodschieten",
+    "options": [
+      "state",
+      "to shoot to death",
+      "cabinet",
+      "economically"
+    ],
+    "answer": "to shoot to death"
+  },
+  {
+    "question": "de economie",
+    "options": [
+      "war",
+      "economy",
+      "housekeeping",
+      "bomb"
+    ],
+    "answer": "economy"
+  },
+  {
+    "question": "economisch",
+    "options": [
+      "economically",
+      "dyke",
+      "leader",
+      "socialist"
+    ],
+    "answer": "economically"
+  },
+  {
+    "question": "eens (zijn met)",
+    "options": [
+      "diary",
+      "to agree (with)",
+      "slave",
+      "commemoration of the dead"
+    ],
+    "answer": "to agree (with)"
+  },
+  {
+    "question": "de eeuw",
+    "options": [
+      "stairs",
+      "freedom",
+      "century",
+      "rubbish"
+    ],
+    "answer": "century"
+  },
+  {
+    "question": "de fabriek",
+    "options": [
+      "factory",
+      "to agree (with)",
+      "secret",
+      "respect"
+    ],
+    "answer": "factory"
+  },
+  {
+    "question": "de gaskamer",
+    "options": [
+      "economy",
+      "gas chamber",
+      "depression",
+      "guest worker"
+    ],
+    "answer": "gas chamber"
+  },
+  {
+    "question": "de gastarbeider",
+    "options": [
+      "history",
+      "guest worker",
+      "to lose",
+      "gold"
+    ],
+    "answer": "guest worker"
+  },
+  {
+    "question": "het gebied",
+    "options": [
+      "to shoot to death",
+      "herring",
+      "illness",
+      "area"
+    ],
+    "answer": "area"
+  },
+  {
+    "question": "de geboorte",
+    "options": [
+      "washing machine",
+      "birth",
+      "painter",
+      "to go into hiding"
+    ],
+    "answer": "birth"
+  },
+  {
+    "question": "geheim",
+    "options": [
+      "dyke",
+      "washing machine",
+      "secret",
+      "painting"
+    ],
+    "answer": "secret"
+  },
+  {
+    "question": "het geloof",
+    "options": [
+      "fatherland",
+      "canal house",
+      "religion",
+      "dyke"
+    ],
+    "answer": "religion"
+  },
+  {
+    "question": "de geschiedenis",
+    "options": [
+      "Middle Ages",
+      "voucher",
+      "history",
+      "to protect"
+    ],
+    "answer": "history"
+  },
+  {
+    "question": "gevangennemen",
+    "options": [
+      "to capture",
+      "prosperity",
+      "fatherland",
+      "to sail"
+    ],
+    "answer": "to capture"
+  },
+  {
+    "question": "goud",
+    "options": [
+      "dyke",
+      "princess",
+      "gold",
+      "Dutch Golden Age"
+    ],
+    "answer": "gold"
+  },
+  {
+    "question": "de gouden eeuw",
+    "options": [
+      "gas chamber",
+      "Dutch Golden Age",
+      "library",
+      "cabinet"
+    ],
+    "answer": "Dutch Golden Age"
+  },
+  {
+    "question": "de gracht",
+    "options": [
+      "painter",
+      "canal (in a town)",
+      "compulsory education",
+      "to celebrate"
+    ],
+    "answer": "canal (in a town)"
+  },
+  {
+    "question": "het grachtenhuis",
+    "options": [
+      "national anthem",
+      "canal house",
+      "economically",
+      "monarchy"
+    ],
+    "answer": "canal house"
+  },
+  {
+    "question": "de grondwet",
+    "options": [
+      "prosperity",
+      "faithful",
+      "weapon",
+      "constitution"
+    ],
+    "answer": "constitution"
+  },
+  {
+    "question": "de handel",
+    "options": [
+      "guest worker",
+      "trade",
+      "illness",
+      "star"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "de haring",
+    "options": [
+      "arise",
+      "herring",
+      "compulsory education",
+      "commemoration of the dead"
+    ],
+    "answer": "herring"
+  },
+  {
+    "question": "het huishouden",
+    "options": [
+      "refrigerator",
+      "cabinet",
+      "voucher",
+      "housekeeping"
+    ],
+    "answer": "housekeeping"
+  },
+  {
+    "question": "de jaartelling",
+    "options": [
+      "era",
+      "to shoot (shot)",
+      "to go into hiding",
+      "museum"
+    ],
+    "answer": "era"
+  },
+  {
+    "question": "de Jodenster",
+    "options": [
+      "Star of David",
+      "famous",
+      "labourer",
+      "farmer"
+    ],
+    "answer": "Star of David"
+  },
+  {
+    "question": "de Jood, Joods",
+    "options": [
+      "farmer",
+      "Jew",
+      "government",
+      "trade"
+    ],
+    "answer": "Jew"
+  },
+  {
+    "question": "het kabinet",
+    "options": [
+      "warehouse",
+      "to shoot to death",
+      "cabinet",
+      "famous"
+    ],
+    "answer": "cabinet"
+  },
+  {
+    "question": "het kamp",
+    "options": [
+      "camp",
+      "prince",
+      "to kill (someone)",
+      "to sail"
+    ],
+    "answer": "camp"
+  },
+  {
+    "question": "het kasteel",
+    "options": [
+      "war",
+      "party",
+      "dyke",
+      "castle"
+    ],
+    "answer": "castle"
+  },
+  {
+    "question": "katholiek",
+    "options": [
+      "guest worker",
+      "Catholic",
+      "housekeeping",
+      "voucher"
+    ],
+    "answer": "Catholic"
+  },
+  {
+    "question": "de koelkast",
+    "options": [
+      "refrigerator",
+      "independent",
+      "united",
+      "meadow"
+    ],
+    "answer": "refrigerator"
+  },
+  {
+    "question": "de kolonie",
+    "options": [
+      "colony",
+      "era",
+      "leader",
+      "economically"
+    ],
+    "answer": "colony"
+  },
+  {
+    "question": "het koninkrijk",
+    "options": [
+      "museum",
+      "monarchy",
+      "Dutch Golden Age",
+      "canal house"
+    ],
+    "answer": "monarchy"
+  },
+  {
+    "question": "de kunst",
+    "options": [
+      "art",
+      "museum",
+      "Jew",
+      "to liberate"
+    ],
+    "answer": "art"
+  },
+  {
+    "question": "de leerplicht",
+    "options": [
+      "state",
+      "right",
+      "government benefit/payment",
+      "compulsory education"
+    ],
+    "answer": "compulsory education"
+  },
+  {
+    "question": "de leider",
+    "options": [
+      "to say",
+      "painter",
+      "history",
+      "leader"
+    ],
+    "answer": "leader"
+  },
+  {
+    "question": "de machine",
+    "options": [
+      "to build",
+      "machine",
+      "religion",
+      "to say"
+    ],
+    "answer": "machine"
+  },
+  {
+    "question": "de macht",
+    "options": [
+      "power",
+      "canal (in a town)",
+      "history",
+      "economy"
+    ],
+    "answer": "power"
+  },
+  {
+    "question": "de middeleeuwen",
+    "options": [
+      "era",
+      "Middle Ages",
+      "secret",
+      "century"
+    ],
+    "answer": "Middle Ages"
+  },
+  {
+    "question": "militair",
+    "options": [
+      "compulsory education",
+      "leader",
+      "secret",
+      "soldier"
+    ],
+    "answer": "soldier"
+  },
+  {
+    "question": "de minister-president",
+    "options": [
+      "plan",
+      "to agree (with)",
+      "prime minister",
+      "compulsory education"
+    ],
+    "answer": "prime minister"
+  },
+  {
+    "question": "het museum",
+    "options": [
+      "to lose",
+      "factory",
+      "Middle Ages",
+      "museum"
+    ],
+    "answer": "museum"
+  },
+  {
+    "question": "onderduiken",
+    "options": [
+      "to go into hiding",
+      "fatherland",
+      "depression",
+      "voucher"
+    ],
+    "answer": "to go into hiding"
+  },
+  {
+    "question": "ontstaan",
+    "options": [
+      "gold",
+      "arise",
+      "to occupy",
+      "plan"
+    ],
+    "answer": "arise"
+  },
+  {
+    "question": "de oorlog",
+    "options": [
+      "camp",
+      "war",
+      "flood",
+      "voucher"
+    ],
+    "answer": "war"
+  },
+  {
+    "question": "oranje",
+    "options": [
+      "orange",
+      "famous",
+      "united",
+      "art"
+    ],
+    "answer": "orange"
+  },
+  {
+    "question": "de overstroming",
+    "options": [
+      "to shoot (shot)",
+      "housekeeping",
+      "fatherland",
+      "flood"
+    ],
+    "answer": "flood"
+  },
+  {
+    "question": "het pakhuis",
+    "options": [
+      "warehouse",
+      "firm",
+      "faithful",
+      "herring"
+    ],
+    "answer": "warehouse"
+  },
+  {
+    "question": "de partij",
+    "options": [
+      "party",
+      "to go into hiding",
+      "castle",
+      "to kill (someone)"
+    ],
+    "answer": "party"
+  },
+  {
+    "question": "de periode",
+    "options": [
+      "period",
+      "secret",
+      "republic",
+      "socialist"
+    ],
+    "answer": "period"
+  },
+  {
+    "question": "het plan",
+    "options": [
+      "gold",
+      "machine",
+      "plan",
+      "religion"
+    ],
+    "answer": "plan"
+  },
+  {
+    "question": "de polder",
+    "options": [
+      "economically",
+      "polder",
+      "respect",
+      "secret"
+    ],
+    "answer": "polder"
+  },
+  {
+    "question": "de prins",
+    "options": [
+      "canal house",
+      "prince",
+      "socialist",
+      "illness"
+    ],
+    "answer": "prince"
+  },
+  {
+    "question": "de prinses",
+    "options": [
+      "cabinet",
+      "princess",
+      "soap",
+      "war"
+    ],
+    "answer": "princess"
+  },
+  {
+    "question": "protestant",
+    "options": [
+      "to go into hiding",
+      "birth",
+      "to celebrate",
+      "Protestant"
+    ],
+    "answer": "Protestant"
+  },
+  {
+    "question": "protesteren",
+    "options": [
+      "rubbish",
+      "to protest",
+      "gas chamber",
+      "to vote"
+    ],
+    "answer": "to protest"
+  },
+  {
+    "question": "de provincie",
+    "options": [
+      "warehouse",
+      "respect",
+      "province",
+      "painter"
+    ],
+    "answer": "province"
+  },
+  {
+    "question": "het recht",
+    "options": [
+      "right",
+      "economically",
+      "secret",
+      "Dutch Golden Age"
+    ],
+    "answer": "right"
+  },
+  {
+    "question": "de regering",
+    "options": [
+      "law",
+      "canal house",
+      "democracy",
+      "government"
+    ],
+    "answer": "government"
+  },
+  {
+    "question": "de republiek",
+    "options": [
+      "factory",
+      "republic",
+      "secret",
+      "guest worker"
+    ],
+    "answer": "republic"
+  },
+  {
+    "question": "het respect",
+    "options": [
+      "famous",
+      "united",
+      "respect",
+      "painter"
+    ],
+    "answer": "respect"
+  },
+  {
+    "question": "schieten (geschoten)",
+    "options": [
+      "freedom",
+      "province",
+      "to shoot (shot)",
+      "herring"
+    ],
+    "answer": "to shoot (shot)"
+  },
+  {
+    "question": "de schilder",
+    "options": [
+      "soldier",
+      "secret",
+      "painter",
+      "Protestant"
+    ],
+    "answer": "painter"
+  },
+  {
+    "question": "het schilderij",
+    "options": [
+      "farmer",
+      "to shoot to death",
+      "painting",
+      "to say"
+    ],
+    "answer": "painting"
+  },
+  {
+    "question": "de slaaf",
+    "options": [
+      "slave",
+      "party",
+      "dyke",
+      "painter"
+    ],
+    "answer": "slave"
+  },
+  {
+    "question": "de socialist",
+    "options": [
+      "socialist",
+      "state",
+      "prime minister",
+      "commemoration of the dead"
+    ],
+    "answer": "socialist"
+  },
+  {
+    "question": "de specerij(en)",
+    "options": [
+      "spices",
+      "weapon",
+      "washing machine",
+      "to build"
+    ],
+    "answer": "spices"
+  },
+  {
+    "question": "de staat",
+    "options": [
+      "period",
+      "washing machine",
+      "soap",
+      "state"
+    ],
+    "answer": "state"
+  },
+  {
+    "question": "stemmen",
+    "options": [
+      "province",
+      "to vote",
+      "diary",
+      "to shoot (shot)"
+    ],
+    "answer": "to vote"
+  },
+  {
+    "question": "de ster",
+    "options": [
+      "star",
+      "to protest",
+      "dyke",
+      "slave"
+    ],
+    "answer": "star"
+  },
+  {
+    "question": "studeren",
+    "options": [
+      "to study",
+      "to shoot (shot)",
+      "warehouse",
+      "province"
+    ],
+    "answer": "to study"
+  },
+  {
+    "question": "de trap",
+    "options": [
+      "cabinet",
+      "machine",
+      "rubbish",
+      "stairs"
+    ],
+    "answer": "stairs"
+  },
+  {
+    "question": "trouw",
+    "options": [
+      "diary",
+      "faithful",
+      "famous",
+      "flood"
+    ],
+    "answer": "faithful"
+  },
+  {
+    "question": "de uitkering",
+    "options": [
+      "government benefit/payment",
+      "province",
+      "painting",
+      "to agree (with)"
+    ],
+    "answer": "government benefit/payment"
+  },
+  {
+    "question": "het vaderland",
+    "options": [
+      "to say",
+      "birth",
+      "fatherland",
+      "national anthem"
+    ],
+    "answer": "fatherland"
+  },
+  {
+    "question": "varen (voeren)",
+    "options": [
+      "to sail",
+      "labourer",
+      "history",
+      "economy"
+    ],
+    "answer": "to sail"
+  },
+  {
+    "question": "vechten (gevochten)",
+    "options": [
+      "Star of David",
+      "to fight",
+      "rubbish",
+      "resistance"
+    ],
+    "answer": "to fight"
+  },
+  {
+    "question": "verdelen",
+    "options": [
+      "painting",
+      "diary",
+      "to divide",
+      "spices"
+    ],
+    "answer": "to divide"
+  },
+  {
+    "question": "verenigd",
+    "options": [
+      "era",
+      "Dutch Golden Age",
+      "united",
+      "depression"
+    ],
+    "answer": "united"
+  },
+  {
+    "question": "verliezen (verloren)",
+    "options": [
+      "to fight",
+      "to lose",
+      "state",
+      "constitution"
+    ],
+    "answer": "to lose"
+  },
+  {
+    "question": "het verzet",
+    "options": [
+      "dyke",
+      "to fight",
+      "to kill (someone)",
+      "resistance"
+    ],
+    "answer": "resistance"
+  },
+  {
+    "question": "vieren",
+    "options": [
+      "constitution",
+      "to celebrate",
+      "immigrant",
+      "to capture"
+    ],
+    "answer": "to celebrate"
+  },
+  {
+    "question": "het volkslied",
+    "options": [
+      "stairs",
+      "national anthem",
+      "Dutch Golden Age",
+      "star"
+    ],
+    "answer": "national anthem"
+  },
+  {
+    "question": "de voorvader",
+    "options": [
+      "library",
+      "ancestor",
+      "housekeeping",
+      "to lose"
+    ],
+    "answer": "ancestor"
+  },
+  {
+    "question": "de vrijheid",
+    "options": [
+      "freedom",
+      "resistance",
+      "trade",
+      "Protestant"
+    ],
+    "answer": "freedom"
+  },
+  {
+    "question": "het wapen",
+    "options": [
+      "weapon",
+      "orange",
+      "to say",
+      "washing machine"
+    ],
+    "answer": "weapon"
+  },
+  {
+    "question": "de wasmachine",
+    "options": [
+      "library",
+      "freedom",
+      "independent",
+      "washing machine"
+    ],
+    "answer": "washing machine"
+  },
+  {
+    "question": "het weiland",
+    "options": [
+      "meadow",
+      "to protest",
+      "Middle Ages",
+      "factory"
+    ],
+    "answer": "meadow"
+  },
+  {
+    "question": "de welvaart",
+    "options": [
+      "religion",
+      "famous",
+      "prosperity",
+      "Catholic"
+    ],
+    "answer": "prosperity"
+  },
+  {
+    "question": "werkloos",
+    "options": [
+      "trade",
+      "united",
+      "unemployed",
+      "canal house"
+    ],
+    "answer": "unemployed"
+  },
+  {
+    "question": "de wet",
+    "options": [
+      "law",
+      "monarchy",
+      "government",
+      "to capture"
+    ],
+    "answer": "law"
+  },
+  {
+    "question": "de zeep",
+    "options": [
+      "warehouse",
+      "soap",
+      "library",
+      "to sail"
+    ],
+    "answer": "soap"
+  },
+  {
+    "question": "zeggen",
+    "options": [
+      "illness",
+      "star",
+      "to say",
+      "religion"
+    ],
+    "answer": "to say"
+  },
+  {
+    "question": "zelfstandig",
+    "options": [
+      "commemoration of the dead",
+      "Star of David",
+      "independent",
+      "orange"
+    ],
+    "answer": "independent"
+  },
+  {
+    "question": "de ziekte",
+    "options": [
+      "economically",
+      "guest worker",
+      "illness",
+      "state"
+    ],
+    "answer": "illness"
+  },{
     "question": "de aangifte",
     "options": [
       "report (to the police)",
