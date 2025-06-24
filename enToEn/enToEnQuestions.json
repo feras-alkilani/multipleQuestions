@@ -1,5 +1,244 @@
 [
+    {
+    "question": "Expose",
+    "options": [
+      "Reveal, uncover, display",
+      "Hide, mask, cover",
+      "Protect, shelter, shield",
+      "Conceal, obscure, bury"
+    ],
+    "answer": "Reveal, uncover, display"
+  },
   {
+    "question": "Left out",
+    "options": [
+      "Included, involved, embraced",
+      "Ignored, excluded, left out",
+      "Welcomed, accepted, joined",
+      "Selected, chosen, invited"
+    ],
+    "answer": "Ignored, excluded, left out"
+  },
+  {
+    "question": "Yield",
+    "options": [
+      "Produce, generate, give",
+      "Keep, hold, retain",
+      "Resist, oppose, fight",
+      "Withhold, deny, block"
+    ],
+    "answer": "Produce, generate, give"
+  },
+  {
+    "question": "We kind of imported it",
+    "options": [
+      "We brought it in, adopted it",
+      "We invented it, created it",
+      "We rejected it, refused it",
+      "We ignored it, overlooked it"
+    ],
+    "answer": "We brought it in, adopted it"
+  },
+  {
+    "question": "Retrieve",
+    "options": [
+      "Get back, recover, regain",
+      "Lose, forget, misplace",
+      "Ignore, avoid, abandon",
+      "Break, ruin, destroy"
+    ],
+    "answer": "Get back, recover, regain"
+  },
+  {
+    "question": "Rogue",
+    "options": [
+      "Dishonest, untrustworthy, troublemaker",
+      "Loyal, faithful, honest",
+      "Kind, generous, helpful",
+      "Friendly, polite, gentle"
+    ],
+    "answer": "Dishonest, untrustworthy, troublemaker"
+  },
+  {
+    "question": "Vogue",
+    "options": [
+      "Fashion, trend, style",
+      "Old-fashioned, outdated, obsolete",
+      "Tradition, culture, heritage",
+      "Habit, routine, pattern"
+    ],
+    "answer": "Fashion, trend, style"
+  },
+  {
+    "question": "League",
+    "options": [
+      "Association, group, organization",
+      "Match, play, round",
+      "Fight, struggle, duel",
+      "Test, quiz, exam"
+    ],
+    "answer": "Association, group, organization"
+  },
+  {
+    "question": "Fatigue",
+    "options": [
+      "Tiredness, exhaustion, weariness",
+      "Energy, strength, vitality",
+      "Freshness, alertness, renewal",
+      "Power, endurance, resilience"
+    ],
+    "answer": "Tiredness, exhaustion, weariness"
+  },
+  {
+    "question": "Colleague",
+    "options": [
+      "Coworker, peer, teammate",
+      "Boss, supervisor, manager",
+      "Assistant, helper, subordinate",
+      "Client, customer, buyer"
+    ],
+    "answer": "Coworker, peer, teammate"
+  },
+  {
+    "question": "Dialogue",
+    "options": [
+      "Conversation, talk, exchange",
+      "Argument, fight, quarrel",
+      "Silence, quiet, stillness",
+      "Speech, monologue, lecture"
+    ],
+    "answer": "Conversation, talk, exchange"
+  },
+  {
+    "question": "Argue",
+    "options": [
+      "Dispute, debate, fight verbally",
+      "Agree, accept, comply",
+      "Support, endorse, assist",
+      "Ignore, avoid, skip"
+    ],
+    "answer": "Dispute, debate, fight verbally"
+  },
+  {
+    "question": "Tongue",
+    "options": [
+      "Mouth part, used to taste and talk",
+      "Voice, sound, pitch",
+      "Teeth, chewing tools",
+      "Lip, outer mouth edge"
+    ],
+    "answer": "Mouth part, used to taste and talk"
+  },
+  {
+    "question": "Endorse",
+    "options": [
+      "Support, approve, back up",
+      "Reject, oppose, deny",
+      "Criticize, attack, condemn",
+      "Ignore, dismiss, neglect"
+    ],
+    "answer": "Support, approve, back up"
+  },
+  {
+    "question": "Rectify",
+    "options": [
+      "Fix, correct, repair",
+      "Damage, break, ruin",
+      "Ignore, overlook, skip",
+      "Complicate, confuse, worsen"
+    ],
+    "answer": "Fix, correct, repair"
+  },
+  {
+    "question": "Imminent",
+    "options": [
+      "About to happen, near, upcoming",
+      "Far away, distant, delayed",
+      "Canceled, abandoned, stopped",
+      "Unlikely, rare, doubtful"
+    ],
+    "answer": "About to happen, near, upcoming"
+  },
+  {
+    "question": "Liaise",
+    "options": [
+      "Connect, coordinate, communicate",
+      "Avoid, ignore, escape",
+      "Disconnect, separate, divide",
+      "Mislead, deceive, lie"
+    ],
+    "answer": "Connect, coordinate, communicate"
+  },
+  {
+    "question": "Cognizant",
+    "options": [
+      "Aware, conscious, informed",
+      "Unaware, oblivious, ignorant",
+      "Doubtful, uncertain, unsure",
+      "Forgetful, distracted, confused"
+    ],
+    "answer": "Aware, conscious, informed"
+  },
+  {
+    "question": "Foresee",
+    "options": [
+      "Predict, expect, anticipate",
+      "Forget, overlook, miss",
+      "Neglect, ignore, skip",
+      "Delay, avoid, deny"
+    ],
+    "answer": "Predict, expect, anticipate"
+  },
+  {
+    "question": "Streamline",
+    "options": [
+      "Simplify, make efficient, improve",
+      "Complicate, confuse, worsen",
+      "Expand, grow, increase",
+      "Delay, slow, hold back"
+    ],
+    "answer": "Simplify, make efficient, improve"
+  },
+  {
+    "question": "Undertake",
+    "options": [
+      "Take on, commit to, begin",
+      "Avoid, skip, ignore",
+      "Abandon, quit, leave",
+      "Decline, reject, refuse"
+    ],
+    "answer": "Take on, commit to, begin"
+  },
+  {
+    "question": "Frugal",
+    "options": [
+      "Economical, thrifty, careful with money",
+      "Extravagant, excessive, lavish",
+      "Wasteful, careless, spendy",
+      "Generous, giving, charitable"
+    ],
+    "answer": "Economical, thrifty, careful with money"
+  },
+  {
+    "question": "Gregarious",
+    "options": [
+      "Sociable, outgoing, friendly",
+      "Shy, reserved, timid",
+      "Silent, quiet, calm",
+      "Aloof, distant, cold"
+    ],
+    "answer": "Sociable, outgoing, friendly"
+  },
+  {
+    "question": "Meticulous",
+    "options": [
+      "Careful, detailed, precise",
+      "Messy, sloppy, careless",
+      "Quick, rushed, hasty",
+      "Rough, approximate, general"
+    ],
+    "answer": "Careful, detailed, precise"
+  },{
     "question": "my conscience is clear",
     "options": [
       "Innocent, blameless, guilt-free",
