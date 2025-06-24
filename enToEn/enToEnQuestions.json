@@ -1,1398 +1,1395 @@
 [
   {
-  "question": "my conscience is clear",
-  "options": [
-    "Innocent, blameless, guilt-free",
-    "Guilty, ashamed, regretful",
-    "Forgetful, careless, aloof",
-    "Hidden, unclear, doubtful"
-  ],
-  "answer": "Innocent, blameless, guilt-free"
-},
-{
-  "question": "goofy",
-  "options": [
-    "Silly, funny, playful",
-    "Serious, intense, grim",
-    "Angry, annoyed, upset",
-    "Smart, clever, wise"
-  ],
-  "answer": "Silly, funny, playful"
-},
-{
-  "question": "abuse",
-  "options": [
-    "Mistreat, harm, misuse",
-    "Help, protect, save",
-    "Ignore, forget, overlook",
-    "Laugh, joke, tease"
-  ],
-  "answer": "Mistreat, harm, misuse"
-},
-{
-  "question": "varies",
-  "options": [
-    "Differs, changes, fluctuates",
-    "Repeats, returns, loops",
-    "Stays, remains, lasts",
-    "Copies, mimics, matches"
-  ],
-  "answer": "Differs, changes, fluctuates"
-},
-{
-  "question": "fuming mad",
-  "options": [
-    "Angry, furious, enraged",
-    "Calm, quiet, peaceful",
-    "Happy, excited, glad",
-    "Tired, bored, lazy"
-  ],
-  "answer": "Angry, furious, enraged"
-},
-{
-  "question": "fuming and fretting",
-  "options": [
-    "Worried, upset, angry",
-    "Joyful, cheerful, pleased",
-    "Cold, distant, reserved",
-    "Sleepy, tired, relaxed"
-  ],
-  "answer": "Worried, upset, angry"
-},
-{
-  "question": "head and shoulders",
-  "options": [
-    "Superior, better, outstanding",
-    "Worse, lower, inferior",
-    "Average, normal, typical",
-    "Near, close, similar"
-  ],
-  "answer": "Superior, better, outstanding"
-},
-{
-  "question": "Prescribe",
-  "options": [
-    "Recommend, order, suggest",
-    "Refuse, deny, reject",
-    "Guess, suppose, assume",
-    "Hide, conceal, cover"
-  ],
-  "answer": "Recommend, order, suggest"
-},
-{
-  "question": "Describe",
-  "options": [
-    "Explain, detail, illustrate",
-    "Lie, hide, deceive",
-    "Avoid, dodge, skip",
-    "Judge, assume, blame"
-  ],
-  "answer": "Explain, detail, illustrate"
-},
-{
-  "question": "ovary",
-  "options": [
-    "Gland, organ, reproductive",
-    "Heart, lung, kidney",
-    "Bone, muscle, tendon",
-    "Hair, skin, nail"
-  ],
-  "answer": "Gland, organ, reproductive"
-},
-{
-  "question": "truce",
-  "options": [
-    "Peace, ceasefire, agreement",
-    "War, conflict, fight",
-    "Threat, warning, risk",
-    "Plan, trick, scheme"
-  ],
-  "answer": "Peace, ceasefire, agreement"
-},
-{
-  "question": "urge",
-  "options": [
-    "Desire, push, prompt",
-    "Ignore, avoid, neglect",
-    "Laugh, cry, shout",
-    "Plan, think, calculate"
-  ],
-  "answer": "Desire, push, prompt"
-},
-{
-  "question": "urgent",
-  "options": [
-    "Immediate, critical, important",
-    "Slow, relaxed, calm",
-    "Optional, minor, trivial",
-    "Random, scattered, confused"
-  ],
-  "answer": "Immediate, critical, important"
-},
-{
-  "question": "over violating",
-  "options": [
-    "Breaking, breaching, offending",
-    "Respecting, honoring, obeying",
-    "Loving, caring, trusting",
-    "Pausing, delaying, stopping"
-  ],
-  "answer": "Breaking, breaching, offending"
-},
-{
-  "question": "I can't bear/tolerate you.",
-  "options": [
-    "Endure, accept, handle",
-    "Love, enjoy, admire",
-    "Forget, ignore, dismiss",
-    "Push, pull, carry"
-  ],
-  "answer": "Endure, accept, handle"
-},
-{
-  "question": "constsnt - consonant",
-  "options": [
-    "Steady, stable, unchanging",
-    "Shaky, weak, irregular",
-    "Noisy, loud, musical",
-    "Single, whole, solid"
-  ],
-  "answer": "Steady, stable, unchanging"
-},
-{
-  "question": "harsh",
-  "options": [
-    "Severe, cruel, rough",
-    "Gentle, kind, soft",
-    "Bright, loud, vivid",
-    "Plain, simple, dull"
-  ],
-  "answer": "Severe, cruel, rough"
-},
-{
-  "question": "somewhat",
-  "options": [
-    "Partly, slightly, moderately",
-    "Fully, deeply, entirely",
-    "Rarely, never, seldom",
-    "Clearly, loudly, strongly"
-  ],
-  "answer": "Partly, slightly, moderately"
-},
-{
-  "question": "transmit",
-  "options": [
-    "Send, transfer, broadcast",
-    "Hide, block, conceal",
-    "Pause, stop, break",
-    "Catch, hold, grab"
-  ],
-  "answer": "Send, transfer, broadcast"
-},
-{
-  "question": "variation",
-  "options": [
-    "Difference, change, deviation",
-    "Copy, repeat, mimic",
-    "Fixation, habit, routine",
-    "Constant, sameness, equal"
-  ],
-  "answer": "Difference, change, deviation"
-},
-{
-  "question": "expose",
-  "options": [
-    "Reveal, uncover, display",
-    "Hide, mask, conceal",
-    "Reject, deny, oppose",
-    "Blur, shade, fade"
-  ],
-  "answer": "Reveal, uncover, display"
-},
-{
-  "question": "thumb",
-  "options": [
-    "Digit, finger, appendage",
-    "Toe, nail, claw",
-    "Hand, palm, wrist",
-    "Tip, edge, joint"
-  ],
-  "answer": "Digit, finger, appendage"
-},
-{
-  "question": "week after",
-  "options": [
-    "Following, next, subsequent",
-    "Previous, past, earlier",
-    "Long, late, overdue",
-    "Pause, break, stop"
-  ],
-  "answer": "Following, next, subsequent"
-},
-{
-  "question": "yield",
-  "options": [
-    "Produce, give, surrender",
-    "Take, steal, rob",
-    "Hide, block, prevent",
-    "Rest, relax, pause"
-  ],
-  "answer": "Produce, give, surrender"
-},
-{
-  "question": "eliminate",
-  "options": [
-    "Remove, erase, delete",
-    "Add, include, insert",
-    "Fix, repair, improve",
-    "Build, create, make"
-  ],
-  "answer": "Remove, erase, delete"
-},
-{
-  "question": "blown away",
-  "options": [
-    "Impressed, amazed, shocked",
-    "Bored, annoyed, tired",
-    "Confused, unsure, puzzled",
-    "Hidden, lost, gone"
-  ],
-  "answer": "Impressed, amazed, shocked"
-},
-{
-  "question": "overcome",
-  "options": [
-    "Defeat, conquer, master",
-,{
-"question": "A cup of coffee",
-"options": [
-"Mug, beverage, drink",
-"Plate, bowl, dish",
-"Sip, taste, gulp",
-"Hot, warm, fresh"
-],
-"answer": "Mug, beverage, drink"
-},
-{
-"question": "A bowl of soup",
-"options": [
-"Dish, container, cup",
-"Broth, stew, chowder",
-"Serve, pour, ladle",
-"Warm, hot, savory"
-],
-"answer": "Dish, container, cup"
-},
-{
-"question": "A glass of water",
-"options": [
-"Cup, tumbler, vessel",
-"Drink, sip, gulp",
-"Clear, fresh, cold",
-"Liquid, fluid, aqua"
-],
-"answer": "Cup, tumbler, vessel"
-},
-{
-"question": "A can of soda",
-"options": [
-"Tin, container, bottle",
-"Fizz, pop, drink",
-"Sweet, cold, bubbly",
-"Carbonate, refresh, sip"
-],
-"answer": "Tin, container, bottle"
-},
-{
-"question": "A slice of pizza",
-"options": [
-"Piece, portion, segment",
-"Cheese, crust, topping",
-"Bite, eat, taste",
-"Slice, cut, serve"
-],
-"answer": "Piece, portion, segment"
-},
-{
-"question": "A scoop of ice cream",
-"options": [
-"Spoon, ball, portion",
-"Cold, sweet, creamy",
-"Dessert, treat, snack",
-"Freeze, serve, eat"
-],
-"answer": "Spoon, ball, portion"
-},
-{
-"question": "A pinch of salt",
-"options": [
-"Dash, sprinkle, grain",
-"Season, flavor, add",
-"Small, tiny, little",
-"Taste, salt, spice"
-],
-"answer": "Dash, sprinkle, grain"
-},
-{
-"question": "A clove of garlic",
-"options": [
-"Bulb, segment, piece",
-"Spice, flavor, herb",
-"Peel, crush, chop",
-"Strong, pungent, aroma"
-],
-"answer": "Bulb, segment, piece"
-},
-{
-"question": "A piece of cake",
-"options": [
-"Slice, portion, bit",
-"Sweet, dessert, treat",
-"Bake, eat, serve",
-"Soft, moist, tasty"
-],
-"answer": "Slice, portion, bit"
-},
-{
-"question": "A jar of honey",
-"options": [
-"Container, pot, bottle",
-"Sweet, syrup, nectar",
-"Spread, drizzle, pour",
-"Sticky, golden, thick"
-],
-"answer": "Container, pot, bottle"
-},
-{
-"question": "A loaf of bread",
-"options": [
-"Bread, bun, roll",
-"Slice, piece, chunk",
-"Bake, knead, rise",
-"Soft, fresh, crust"
-],
-"answer": "Bread, bun, roll"
-},{
-  "question": "trance",
-  "options": [
-    "Daze, stupor, ecstasy",
-    "Confuse, mix, blur",
-    "Invent, assume, pretend",
-    "Ignore, avoid, reject"
-  ],
-  "answer": "Daze, stupor, ecstasy"
-},
-{
-  "question": "few",
-  "options": [
-    "Scarce, limited, insufficient",
-    "Many, countless, plenty",
-    "Large, bulky, vast",
-    "All, every, total"
-  ],
-  "answer": "Scarce, limited, insufficient"
-},
-{
-  "question": "a few",
-  "options": [
-    "Some, several, enough",
-    "None, zero, nothing",
-    "Tiny, little, scarce",
-    "All, most, major"
-  ],
-  "answer": "Some, several, enough"
-},
-{
-  "question": "little",
-  "options": [
-    "Small, scarce, inadequate",
-    "Much, abundant, massive",
-    "All, full, total",
-    "None, empty, lost"
-  ],
-  "answer": "Small, scarce, inadequate"
-},
-{
-  "question": "a little",
-  "options": [
-    "Some, enough, slight",
-    "Big, wide, grand",
-    "Every, whole, major",
-    "Full, large, thick"
-  ],
-  "answer": "Some, enough, slight"
-},
-{
-  "question": "mess up",
-  "options": [
-    "Ruin, spoil, mistake",
-    "Fix, solve, repair",
-    "Create, build, form",
-    "Hide, skip, avoid"
-  ],
-  "answer": "Ruin, spoil, mistake"
-},
-{
-  "question": "did I make sens to you?",
-  "options": [
-    "Clear, understandable, logical",
-    "Weird, awkward, confusing",
-    "Loud, noisy, sharp",
-    "Slow, vague, dull"
-  ],
-  "answer": "Clear, understandable, logical"
-},
-{
-  "question": "bid you good night",
-  "options": [
-    "Wish, say, farewell",
-    "Ignore, miss, deny",
-    "Fight, argue, demand",
-    "Move, lift, break"
-  ],
-  "answer": "Wish, say, farewell"
-},
-{
-  "question": "stuck",
-  "options": [
-    "Trapped, jammed, frozen",
-    "Free, loose, open",
-    "Soft, smooth, thin",
-    "Full, quick, long"
-  ],
-  "answer": "Trapped, jammed, frozen"
-},
-{
-  "question": "pinning down",
-  "options": [
-    "Hold, restrain, fix",
-    "Fly, release, ignore",
-    "Melt, drop, run",
-    "Build, stack, fill"
-  ],
-  "answer": "Hold, restrain, fix"
-},
-{
-  "question": "ado",
-  "options": [
-    "Fuss, trouble, bother",
-    "Peace, rest, calm",
-    "Speed, rush, move",
-    "Hide, skip, deny"
-  ],
-  "answer": "Fuss, trouble, bother"
-},
-{
-  "question": "untangle",
-  "options": [
-    "Solve, straighten, clear",
-    "Twist, mess, knot",
-    "Hide, lose, bury",
-    "Stop, drop, burn"
-  ],
-  "answer": "Solve, straighten, clear"
-},
-{
-  "question": "beat",
-  "options": [
-    "Hit, defeat, strike",
-    "Fix, clean, lift",
-    "Hide, move, drop",
-    "Create, build, grow"
-  ],
-  "answer": "Hit, defeat, strike"
-},
-{
-  "question": "extraordiarily",
-  "options": [
-    "Exceptionally, unusually, remarkably",
-    "Normally, simply, casually",
-    "Rarely, barely, weakly",
-    "Wrongly, badly, poorly"
-  ],
-  "answer": "Exceptionally, unusually, remarkably"
-},
-{
-  "question": "somehow",
-  "options": [
-    "Anyway, mysteriously, eventually",
-    "Clearly, directly, openly",
-    "Never, nowhere, nobody",
-    "Strongly, loudly, harshly"
-  ],
-  "answer": "Anyway, mysteriously, eventually"
-},
-{
-  "question": "eligant",
-  "options": [
-    "Graceful, stylish, refined",
-    "Rough, messy, dirty",
-    "Loud, busy, wild",
-    "Soft, lazy, pale"
-  ],
-  "answer": "Graceful, stylish, refined"
-},
-{
-  "question": "diverted",
-  "options": [
-    "Redirected, shifted, distracted",
-    "Focused, fixed, locked",
-    "Covered, blocked, stuck",
-    "Lost, broken, torn"
-  ],
-  "answer": "Redirected, shifted, distracted"
-},
-{
-  "question": "flavor",
-  "options": [
-    "Taste, essence, spice",
-    "Color, shape, sound",
-    "Word, text, page",
-    "Form, build, frame"
-  ],
-  "answer": "Taste, essence, spice"
-},
-{
-  "question": "intercepted",
-  "options": [
-    "Caught, seized, blocked",
-    "Lost, missed, dropped",
-    "Sent, given, left",
-    "Lifted, moved, skipped"
-  ],
-  "answer": "Caught, seized, blocked"
-},
-{
-  "question": "shut down",
-  "options": [
-    "Close, stop, disable",
-    "Start, run, open",
-    "Fix, change, adjust",
-    "Light, heat, shine"
-  ],
-  "answer": "Close, stop, disable"
-},
-{
-  "question": "escalation",
-  "options": [
-    "Increase, rise, intensification",
-    "Fall, drop, decrease",
-    "Pause, delay, wait",
-    "Hide, avoid, move"
-  ],
-  "answer": "Increase, rise, intensification"
-},
-{
-  "question": "air space",
-  "options": [
-    "Sky, atmosphere, region",
-    "Land, soil, sea",
-    "Wall, door, roof",
-    "Box, cage, tank"
-  ],
-  "answer": "Sky, atmosphere, region"
-},
-{
-  "question": "devastating",
-  "options": [
-    "Destructive, ruinous, overwhelming",
-    "Bright, lively, hopeful",
-    "Simple, plain, weak",
-    "Soft, small, quiet"
-  ],
-  "answer": "Destructive, ruinous, overwhelming"
-},
-{
-  "question": "missile",
-  "options": [
-    "Projectile, weapon, rocket",
-    "Stone, stick, blade",
-    "Net, trap, rope",
-    "Fuel, tank, light"
-  ],
-  "answer": "Projectile, weapon, rocket"
-},
-{
-  "question": "retaliation",
-  "options": [
-    "Revenge, response, retribution",
-    "Peace, offer, apology",
-    "Delay, wait, ignore",
-    "Fix, heal, build"
-  ],
-  "answer": "Revenge, response, retribution"
-},
-{
-  "question": "joint",
-  "options": [
-    "Shared, combined, mutual",
-    "Lone, single, separate",
-    "Empty, quiet, loose",
-    "Sharp, deep, short"
-  ],
-  "answer": "Shared, combined, mutual"
-},
-{
-  "question": "guards",
-  "options": [
-    "Watchers, protectors, sentries",
-    "Thieves, attackers, foes",
-    "Users, builders, traders",
-    "Painters, cleaners, movers"
-  ],
-  "answer": "Watchers, protectors, sentries"
-},
-{
-  "question": "revolutionary",
-  "options": [
-    "Radical, innovative, transformative",
-    "Common, usual, normal",
-    "Tiny, old, broken",
-    "Slow, weak, tired"
-  ],
-  "answer": "Radical, innovative, transformative"
-},
-{
-  "question": "casualties",
-  "options": [
-    "Victims, losses, deaths",
-    "Winners, survivors, helpers",
-    "Friends, family, allies",
-    "Crowd, team, group"
-  ],
-  "answer": "Victims, losses, deaths"
-},
-{
-  "question": "reserval",
-  "options": [
-    "Reversal, cancellation, undoing",
-    "Start, opening, launch",
-    "Push, move, shift",
-    "Fight, block, stop"
-  ],
-  "answer": "Reversal, cancellation, undoing"
-},
-{
-  "question": "parcel",
-  "options": [
-    "Package, bundle, shipment",
-    "Note, letter, message",
-    "Food, dish, plate",
-    "Map, plan, sketch"
-  ],
-  "answer": "Package, bundle, shipment"
-},
-{
-  "question": "wound",
-  "options": [
-    "Injury, cut, damage",
-    "Fix, heal, treat",
-    "Burn, melt, smoke",
-    "Turn, spin, twist"
-  ],
-  "answer": "Injury, cut, damage"
-}
-,{
-  "question": "massive",
-  "options": [
-    "Huge, enormous, gigantic",
-    "Tiny, narrow, slight",
-    "Dry, brittle, fragile",
-    "Blurred, vague, unclear"
-  ],
-  "answer": "Huge, enormous, gigantic"
-},
-{
-  "question": "precision",
-  "options": [
-    "Accuracy, exactness, correctness",
-    "Guess, estimate, assumption",
-    "Speed, motion, swiftness",
-    "Power, strength, force"
-  ],
-  "answer": "Accuracy, exactness, correctness"
-},
-{
-  "question": "three key nuclear facilities",
-  "options": [
-    "Sites, locations, installations",
-    "Books, articles, speeches",
-    "Creatures, monsters, aliens",
-    "Toys, games, puzzles"
-  ],
-  "answer": "Sites, locations, installations"
-},
-{
-  "question": "destructive",
-  "options": [
-    "Damaging, harmful, ruinous",
-    "Constructive, helpful, supportive",
-    "Peaceful, calm, neutral",
-    "Fast, quick, light"
-  ],
-  "answer": "Damaging, harmful, ruinous"
-},
-{
-  "question": "enterprise",
-  "options": [
-    "Business, company, venture",
-    "Island, ocean, lake",
-    "Dream, thought, illusion",
-    "Storm, flood, tornado"
-  ],
-  "answer": "Business, company, venture"
-},
-{
-  "question": "opbjective هدف",
-  "options": [
-    "Goal, aim, purpose",
-    "Lie, trick, scam",
-    "Sound, voice, noise",
-    "Fear, worry, panic"
-  ],
-  "answer": "Goal, aim, purpose"
-},
-{
-  "question": "enrichment",
-  "options": [
-    "Improvement, enhancement, betterment",
-    "Reduction, decrease, loss",
-    "Distortion, mutation, twist",
-    "Destruction, breakdown, collapse"
-  ],
-  "answer": "Improvement, enhancement, betterment"
-},
-{
-  "question": "spectacular",
-  "options": [
-    "Amazing, impressive, stunning",
-    "Ugly, dull, boring",
-    "Loud, noisy, harsh",
-    "Slow, weak, lazy"
-  ],
-  "answer": "Amazing, impressive, stunning"
-},
-{
-  "question": "obliterated",
-  "options": [
-    "Destroyed, wiped, erased",
-    "Fixed, built, created",
-    "Drawn, traced, marked",
-    "Stored, kept, hidden"
-  ],
-  "answer": "Destroyed, wiped, erased"
-},
-{
-  "question": "alot easier",
-  "options": [
-    "Simpler, faster, smoother",
-    "Harder, tougher, trickier",
-    "Slower, heavier, colder",
-    "Louder, brighter, longer"
-  ],
-  "answer": "Simpler, faster, smoother"
-},
-{
-  "question": "far greater",
-  "options": [
-    "Larger, stronger, better",
-    "Smaller, lesser, fewer",
-    "Darker, deeper, duller",
-    "Lighter, thinner, quieter"
-  ],
-  "answer": "Larger, stronger, better"
-},
-{
-  "question": "twitchy",
-  "options": [
-    "Nervous, jumpy, anxious",
-    "Relaxed, calm, peaceful",
-    "Steady, firm, stable",
-    "Funny, silly, goofy"
-  ],
-  "answer": "Nervous, jumpy, anxious"
-},
-{
-  "question": "bizarre",
-  "options": [
-    "Strange, weird, unusual",
-    "Normal, usual, typical",
-    "Plain, simple, basic",
-    "Smart, wise, clever"
-  ],
-  "answer": "Strange, weird, unusual"
-},
-{
-  "question": "cheesy",
-  "options": [
-    "Corny, tacky, cheap",
-    "Expensive, rich, luxurious",
-    "Dark, deep, mysterious",
-    "Tough, rough, strong"
-  ],
-  "answer": "Corny, tacky, cheap"
-},
-{
-  "question": "absurd",
-  "options": [
-    "Ridiculous, silly, illogical",
-    "Logical, reasonable, rational",
-    "Calm, quiet, balanced",
-    "Late, early, timely"
-  ],
-  "answer": "Ridiculous, silly, illogical"
-},
-{
-  "question": "fancy",
-  "options": [
-    "Elegant, stylish, luxurious",
-    "Plain, simple, ordinary",
-    "Dirty, messy, rough",
-    "Weird, strange, unusual"
-  ],
-  "answer": "Elegant, stylish, luxurious"
-},
-{
-  "question": "witty",
-  "options": [
-    "Clever, smart, humorous",
-    "Dull, slow, boring",
-    "Fast, rapid, quick",
-    "Loud, noisy, wild"
-  ],
-  "answer": "Clever, smart, humorous"
-},
-{
-  "question": "rusty",
-  "options": [
-    "Corroded, worn, old",
-    "Shiny, clean, new",
-    "Wet, soaked, damp",
-    "Bendy, flexible, curved"
-  ],
-  "answer": "Corroded, worn, old"
-},
-{
-  "question": "jinx",
-  "options": [
-    "Curse, bad luck, spell",
-    "Wish, hope, dream",
-    "Song, chant, hymn",
-    "Prize, reward, bonus"
-  ],
-  "answer": "Curse, bad luck, spell"
-}
-,{
-  "question": "intensifies",
-  "options": [
-    "Increases, escalates, strengthens",
-    "Decreases, lessens, weakens",
-    "Hides, avoids, delays",
-    "Stops, ceases, freezes"
-  ],
-  "answer": "Increases, escalates, strengthens"
-},
-{
-  "question": "diary",
-  "options": [
-    "Journal, notebook, log",
-    "Letter, card, envelope",
-    "Phone, laptop, tablet",
-    "Map, guide, brochure"
-  ],
-  "answer": "Journal, notebook, log"
-},
-{
-  "question": "routinely",
-  "options": [
-    "Regularly, habitually, consistently",
-    "Rarely, occasionally, never",
-    "Quickly, urgently, fast",
-    "Softly, gently, quietly"
-  ],
-  "answer": "Regularly, habitually, consistently"
-},
-{
-  "question": "barred",
-  "options": [
-    "Blocked, banned, prohibited",
-    "Allowed, welcomed, accepted",
-    "Built, constructed, designed",
-    "Forgiven, forgotten, ignored"
-  ],
-  "answer": "Blocked, banned, prohibited"
-},
-{
-  "question": "weapon",
-  "options": [
-    "Gun, knife, bomb",
-    "Pen, pencil, brush",
-    "Flag, banner, sign",
-    "Bag, box, crate"
-  ],
-  "answer": "Gun, knife, bomb"
-},
-{
-  "question": "exclusive",
-  "options": [
-    "Private, limited, restricted",
-    "Shared, open, public",
-    "Easy, light, smooth",
-    "Cheap, basic, plain"
-  ],
-  "answer": "Private, limited, restricted"
-},
-{
-  "question": "betrayed",
-  "options": [
-    "Deceived, exposed, hurt",
-    "Trusted, helped, supported",
-    "Built, fixed, repaired",
-    "Saved, protected, guarded"
-  ],
-  "answer": "Deceived, exposed, hurt"
-},
-{
-  "question": "facilities",
-  "options": [
-    "Buildings, services, amenities",
-    "Mountains, rivers, lakes",
-    "People, animals, plants",
-    "Books, pencils, papers"
-  ],
-  "answer": "Buildings, services, amenities"
-},
-{
-  "question": "blew up",
-  "options": [
-    "Exploded, burst, detonated",
-    "Cooled, froze, melted",
-    "Wrote, erased, drew",
-    "Cleaned, washed, dried"
-  ],
-  "answer": "Exploded, burst, detonated"
-},
-{
-  "question": "proliferation",
-  "options": [
-    "Spread, growth, increase",
-    "Fall, decline, drop",
-    "Silence, stillness, peace",
-    "Delay, halt, pause"
-  ],
-  "answer": "Spread, growth, increase"
-},
-{
-  "question": "undermined",
-  "options": [
-    "Weakened, sabotaged, damaged",
-    "Helped, strengthened, improved",
-    "Asked, questioned, wondered",
-    "Pushed, pulled, dragged"
-  ],
-  "answer": "Weakened, sabotaged, damaged"
-},
-{
-  "question": "defeated",
-  "options": [
-    "Beaten, conquered, overpowered",
-    "Won, triumphed, succeeded",
-    "Helped, guided, supported",
-    "Paused, stopped, waited"
-  ],
-  "answer": "Beaten, conquered, overpowered"
-},
-{
-  "question": "treaty",
-  "options": [
-    "Agreement, pact, accord",
-    "Fight, battle, war",
-    "Song, poem, chant",
-    "Game, match, race"
-  ],
-  "answer": "Agreement, pact, accord"
-},
-{
-  "question": "condemn",
-  "options": [
-    "Blame, criticize, denounce",
-    "Praise, reward, honor",
-    "Support, accept, allow",
-    "Forgive, forget, ignore"
-  ],
-  "answer": "Blame, criticize, denounce"
-},
-{
-  "question": "territorial",
-  "options": [
-    "Regional, land-based, geographic",
-    "Emotional, personal, social",
-    "Friendly, open, generous",
-    "Tall, wide, deep"
-  ],
-  "answer": "Regional, land-based, geographic"
-},
-{
-  "question": "depressed",
-  "options": [
-    "Sad, down, hopeless",
-    "Happy, cheerful, excited",
-    "Bright, loud, colorful",
-    "Sharp, fast, quick"
-  ],
-  "answer": "Sad, down, hopeless"
-},
-{
-  "question": "turn in",
-  "options": [
-    "Submit, surrender, retire",
-    "Start, begin, open",
-    "Take, steal, grab",
-    "Move, run, jump"
-  ],
-  "answer": "Submit, surrender, retire"
-},
-{
-  "question": "crash",
-  "options": [
-    "Sleep, rest, collapse",
-    "Run, walk, hike",
-    "Play, dance, jump",
-    "Cook, bake, fry"
-  ],
-  "answer": "Sleep, rest, collapse"
-},
-{
-  "question": "beard",
-  "options": [
-    "Facial, hair, chin",
-    "Head, neck, ear",
-    "Shirt, tie, coat",
-    "Skin, eye, lip"
-  ],
-  "answer": "Facial, hair, chin"
-},
-{
-  "question": "bold",
-  "options": [
-    "Brave, daring, confident",
-    "Scared, nervous, quiet",
-    "Soft, smooth, gentle",
-    "Smart, wise, clever"
-  ],
-  "answer": "Brave, daring, confident"
-},
-{
-  "question": "timid",
-  "options": [
-    "Shy, nervous, fearful",
-    "Strong, bold, loud",
-    "Quick, fast, sudden",
-    "Lazy, slow, tired"
-  ],
-  "answer": "Shy, nervous, fearful"
-},
-{
-  "question": "defend",
-  "options": [
-    "Protect, guard, shield",
-    "Attack, harm, injure",
-    "Leave, ignore, avoid",
-    "Tell, ask, answer"
-  ],
-  "answer": "Protect, guard, shield"
-},
-{
-  "question": "foolish",
-  "options": [
-    "Silly, unwise, stupid",
-    "Smart, clever, wise",
-    "Tired, lazy, bored",
-    "Fast, quick, early"
-  ],
-  "answer": "Silly, unwise, stupid"
-},
-{
-  "question": "carry out",
-  "options": [
-    "Execute, perform, accomplish",
-    "Forget, drop, lose",
-    "Push, pull, drag",
-    "Sit, wait, stay"
-  ],
-  "answer": "Execute, perform, accomplish"
-},
-{
-  "question": "threat",
-  "options": [
-    "Danger, warning, menace",
-    "Peace, calm, safety",
-    "Help, support, care",
-    "Light, joy, hope"
-  ],
-  "answer": "Danger, warning, menace"
-},
-{
-  "question": "bully",
-  "options": [
-    "Harasser, intimidator, tormentor",
-    "Friend, supporter, ally",
-    "Teacher, leader, parent",
-    "Follower, fan, helper"
-  ],
-  "answer": "Harasser, intimidator, tormentor"
-},
-{
-  "question": "fender-bender",
-  "options": [
-    "Minor, accident, collision",
-    "Major, crash, explosion",
-    "Flat, tire, breakdown",
-    "Drive, park, turn"
-  ],
-  "answer": "Minor, accident, collision"
-},
-{
-  "question": "fender",
-  "options": [
-    "Bumper, guard, panel",
-    "Seat, door, window",
-    "Wheel, tire, rim",
-    "Trunk, hood, roof"
-  ],
-  "answer": "Bumper, guard, panel"
-},
-{
-  "question": "bender",
-  "options": [
-    "Curve, twist, arc",
-    "Line, angle, edge",
-    "Flat, plane, surface",
-    "Point, dot, spot"
-  ],
-  "answer": "Curve, twist, arc"
-},
-{
-  "question": "Best tackle tips",
-  "options": [
-    "Advice, strategy, technique",
-    "Food, drink, snack",
-    "Rest, sleep, nap",
-    "Work, chore, task"
-  ],
-  "answer": "Advice, strategy, technique"
-},
-{
-  "question": "fingers crossed",
-  "options": [
-    "Hope, wish, pray",
-    "Lie, cheat, trick",
-    "Jump, run, play",
-    "Think, plan, decide"
-  ],
-  "answer": "Hope, wish, pray"
-}
-,{
-  "question": "fair عدل",
-  "options": [
-    "Just, impartial, equitable",
-    "Rough, biased, uneven",
-    "Playful, funny, casual",
-    "Slow, lazy, passive"
-  ],
-  "answer": "Just, impartial, equitable"
-},
-{
-  "question": "fair معرض",
-  "options": [
-    "Exhibition, event, show",
-    "Battle, fight, war",
-    "Farm, ranch, barn",
-    "Lecture, speech, class"
-  ],
-  "answer": "Exhibition, event, show"
-},
-{
-  "question": "dairy",
-  "options": [
-    "Milk, cheese, cream",
-    "Meat, fish, chicken",
-    "Fruit, vegetable, grain",
-    "Bread, pasta, rice"
-  ],
-  "answer": "Milk, cheese, cream"
-},
-{
-  "question": "fall behind",
-  "options": [
-    "Lag, delay, trail",
-    "Win, lead, succeed",
-    "Speed, rush, hurry",
-    "Climb, rise, jump"
-  ],
-  "answer": "Lag, delay, trail"
-},
-{
-  "question": "fall out",
-  "options": [
-    "Argue, separate, fight",
-    "Love, agree, hug",
-    "Join, unite, meet",
-    "Work, plan, build"
-  ],
-  "answer": "Argue, separate, fight"
-},
-{
-  "question": "fall apart",
-  "options": [
-    "Break, collapse, crumble",
-    "Stand, stay, remain",
-    "Grow, rise, improve",
-    "Jump, fly, move"
-  ],
-  "answer": "Break, collapse, crumble"
-},
-{
-  "question": "fall for",
-  "options": [
-    "Love, believe, trust",
-    "Ignore, avoid, doubt",
-    "Hide, cover, run",
-    "Lie, trick, betray"
-  ],
-  "answer": "Love, believe, trust"
-},
-{
-  "question": "shelter",
-  "options": [
-    "Refuge, protection, haven",
-    "Storm, flood, fire",
-    "Wall, floor, roof",
-    "Trap, prison, cage"
-  ],
-  "answer": "Refuge, protection, haven"
-},
-{
-  "question": "bunch",
-  "options": [
-    "Group, bundle, cluster",
-    "One, single, lone",
-    "Piece, item, part",
-    "Line, edge, side"
-  ],
-  "answer": "Group, bundle, cluster"
-},
-{
-  "question": "bowl",
-  "options": [
-    "Dish, container, vessel",
-    "Plate, fork, spoon",
-    "Pan, tray, oven",
-    "Ball, game, strike"
-  ],
-  "answer": "Dish, container, vessel"
-},
-{
-  "question": "gravitas",
-  "options": [
-    "Seriousness, dignity, weight",
-    "Joke, laugh, humor",
-    "Speed, haste, rush",
-    "Lightness, air, float"
-  ],
-  "answer": "Seriousness, dignity, weight"
-},
-{
-  "question": "incomprehensible",
-  "options": [
-    "Unclear, confusing, obscure",
-    "Simple, plain, direct",
-    "Quick, fast, easy",
-    "Open, bright, loud"
-  ],
-  "answer": "Unclear, confusing, obscure"
-},
-{
-  "question": "poorly written",
-  "options": [
-    "Messy, unclear, weak",
-    "Strong, clear, sharp",
-    "Neat, elegant, smooth",
-    "Bold, fast, rough"
-  ],
-  "answer": "Messy, unclear, weak"
-},
-{
-  "question": "Befor it is too late",
-  "options": [
-    "Soon, now, quickly",
-    "Never, maybe, later",
-    "Gone, lost, missed",
-    "Wait, pause, stop"
-  ],
-  "answer": "Soon, now, quickly"
-},
-{
-  "question": "why took you so long?",
-  "options": [
-    "Delay, late, slow",
-    "Quick, fast, early",
-    "Jump, run, speed",
-    "Hide, vanish, wait"
-  ],
-  "answer": "Delay, late, slow"
-},
-{
-  "question": "better luck next time",
-  "options": [
-    "Hope, chance, future",
-    "Fail, end, drop",
-    "Win, celebrate, cheer",
-    "Now, today, soon"
-  ],
-  "answer": "Hope, chance, future"
-},
-{
-  "question": "endure",
-  "options": [
-    "Suffer, tolerate, last",
-    "Break, fall, cry",
-    "Quit, stop, avoid",
-    "Love, care, hug"
-  ],
-  "answer": "Suffer, tolerate, last"
-},
-{
-  "question": "pride",
-  "options": [
-    "Honor, dignity, self-respect",
-    "Shame, guilt, regret",
-    "Fear, worry, doubt",
-    "Anger, rage, fury"
-  ],
-  "answer": "Honor, dignity, self-respect"
-},
-{
-  "question": "peeled",
-  "options": [
-    "Stripped, removed, uncovered",
-    "Covered, hidden, sealed",
-    "Cut, sliced, diced",
-    "Built, fixed, formed"
-  ],
-  "answer": "Stripped, removed, uncovered"
-},
-{
-  "question": "somehow",
-  "options": [
-    "Anyway, eventually, magically",
-    "Never, nowhere, nobody",
-    "Clear, open, exact",
-    "Why, how, when"
-  ],
-  "answer": "Anyway, eventually, magically"
-}
-,{
+    "question": "my conscience is clear",
+    "options": [
+      "Innocent, blameless, guilt-free",
+      "Guilty, ashamed, regretful",
+      "Forgetful, careless, aloof",
+      "Hidden, unclear, doubtful"
+    ],
+    "answer": "Innocent, blameless, guilt-free"
+  },
+  {
+    "question": "goofy",
+    "options": [
+      "Silly, funny, playful",
+      "Serious, intense, grim",
+      "Angry, annoyed, upset",
+      "Smart, clever, wise"
+    ],
+    "answer": "Silly, funny, playful"
+  },
+  {
+    "question": "abuse",
+    "options": [
+      "Mistreat, harm, misuse",
+      "Help, protect, save",
+      "Ignore, forget, overlook",
+      "Laugh, joke, tease"
+    ],
+    "answer": "Mistreat, harm, misuse"
+  },
+  {
+    "question": "varies",
+    "options": [
+      "Differs, changes, fluctuates",
+      "Repeats, returns, loops",
+      "Stays, remains, lasts",
+      "Copies, mimics, matches"
+    ],
+    "answer": "Differs, changes, fluctuates"
+  },
+  {
+    "question": "fuming mad",
+    "options": [
+      "Angry, furious, enraged",
+      "Calm, quiet, peaceful",
+      "Happy, excited, glad",
+      "Tired, bored, lazy"
+    ],
+    "answer": "Angry, furious, enraged"
+  },
+  {
+    "question": "fuming and fretting",
+    "options": [
+      "Worried, upset, angry",
+      "Joyful, cheerful, pleased",
+      "Cold, distant, reserved",
+      "Sleepy, tired, relaxed"
+    ],
+    "answer": "Worried, upset, angry"
+  },
+  {
+    "question": "head and shoulders",
+    "options": [
+      "Superior, better, outstanding",
+      "Worse, lower, inferior",
+      "Average, normal, typical",
+      "Near, close, similar"
+    ],
+    "answer": "Superior, better, outstanding"
+  },
+  {
+    "question": "Prescribe",
+    "options": [
+      "Recommend, order, suggest",
+      "Refuse, deny, reject",
+      "Guess, suppose, assume",
+      "Hide, conceal, cover"
+    ],
+    "answer": "Recommend, order, suggest"
+  },
+  {
+    "question": "Describe",
+    "options": [
+      "Explain, detail, illustrate",
+      "Lie, hide, deceive",
+      "Avoid, dodge, skip",
+      "Judge, assume, blame"
+    ],
+    "answer": "Explain, detail, illustrate"
+  },
+  {
+    "question": "ovary",
+    "options": [
+      "Gland, organ, reproductive",
+      "Heart, lung, kidney",
+      "Bone, muscle, tendon",
+      "Hair, skin, nail"
+    ],
+    "answer": "Gland, organ, reproductive"
+  },
+  {
+    "question": "truce",
+    "options": [
+      "Peace, ceasefire, agreement",
+      "War, conflict, fight",
+      "Threat, warning, risk",
+      "Plan, trick, scheme"
+    ],
+    "answer": "Peace, ceasefire, agreement"
+  },
+  {
+    "question": "urge",
+    "options": [
+      "Desire, push, prompt",
+      "Ignore, avoid, neglect",
+      "Laugh, cry, shout",
+      "Plan, think, calculate"
+    ],
+    "answer": "Desire, push, prompt"
+  },
+  {
+    "question": "urgent",
+    "options": [
+      "Immediate, critical, important",
+      "Slow, relaxed, calm",
+      "Optional, minor, trivial",
+      "Random, scattered, confused"
+    ],
+    "answer": "Immediate, critical, important"
+  },
+  {
+    "question": "over violating",
+    "options": [
+      "Breaking, breaching, offending",
+      "Respecting, honoring, obeying",
+      "Loving, caring, trusting",
+      "Pausing, delaying, stopping"
+    ],
+    "answer": "Breaking, breaching, offending"
+  },
+  {
+    "question": "I can't bear/tolerate you.",
+    "options": [
+      "Endure, accept, handle",
+      "Love, enjoy, admire",
+      "Forget, ignore, dismiss",
+      "Push, pull, carry"
+    ],
+    "answer": "Endure, accept, handle"
+  },
+  {
+    "question": "constsnt - consonant",
+    "options": [
+      "Steady, stable, unchanging",
+      "Shaky, weak, irregular",
+      "Noisy, loud, musical",
+      "Single, whole, solid"
+    ],
+    "answer": "Steady, stable, unchanging"
+  },
+  {
+    "question": "harsh",
+    "options": [
+      "Severe, cruel, rough",
+      "Gentle, kind, soft",
+      "Bright, loud, vivid",
+      "Plain, simple, dull"
+    ],
+    "answer": "Severe, cruel, rough"
+  },
+  {
+    "question": "somewhat",
+    "options": [
+      "Partly, slightly, moderately",
+      "Fully, deeply, entirely",
+      "Rarely, never, seldom",
+      "Clearly, loudly, strongly"
+    ],
+    "answer": "Partly, slightly, moderately"
+  },
+  {
+    "question": "transmit",
+    "options": [
+      "Send, transfer, broadcast",
+      "Hide, block, conceal",
+      "Pause, stop, break",
+      "Catch, hold, grab"
+    ],
+    "answer": "Send, transfer, broadcast"
+  },
+  {
+    "question": "variation",
+    "options": [
+      "Difference, change, deviation",
+      "Copy, repeat, mimic",
+      "Fixation, habit, routine",
+      "Constant, sameness, equal"
+    ],
+    "answer": "Difference, change, deviation"
+  },
+  {
+    "question": "expose",
+    "options": [
+      "Reveal, uncover, display",
+      "Hide, mask, conceal",
+      "Reject, deny, oppose",
+      "Blur, shade, fade"
+    ],
+    "answer": "Reveal, uncover, display"
+  },
+  {
+    "question": "thumb",
+    "options": [
+      "Digit, finger, appendage",
+      "Toe, nail, claw",
+      "Hand, palm, wrist",
+      "Tip, edge, joint"
+    ],
+    "answer": "Digit, finger, appendage"
+  },
+  {
+    "question": "week after",
+    "options": [
+      "Following, next, subsequent",
+      "Previous, past, earlier",
+      "Long, late, overdue",
+      "Pause, break, stop"
+    ],
+    "answer": "Following, next, subsequent"
+  },
+  {
+    "question": "yield",
+    "options": [
+      "Produce, give, surrender",
+      "Take, steal, rob",
+      "Hide, block, prevent",
+      "Rest, relax, pause"
+    ],
+    "answer": "Produce, give, surrender"
+  },
+  {
+    "question": "eliminate",
+    "options": [
+      "Remove, erase, delete",
+      "Add, include, insert",
+      "Fix, repair, improve",
+      "Build, create, make"
+    ],
+    "answer": "Remove, erase, delete"
+  },
+  {
+    "question": "blown away",
+    "options": [
+      "Impressed, amazed, shocked",
+      "Bored, annoyed, tired",
+      "Confused, unsure, puzzled",
+      "Hidden, lost, gone"
+    ],
+    "answer": "Impressed, amazed, shocked"
+  },
+  {
+    "question": "A cup of coffee",
+    "options": [
+      "Mug, beverage, drink",
+      "Plate, bowl, dish",
+      "Sip, taste, gulp",
+      "Hot, warm, fresh"
+    ],
+    "answer": "Mug, beverage, drink"
+  },
+  {
+    "question": "A bowl of soup",
+    "options": [
+      "Dish, container, cup",
+      "Broth, stew, chowder",
+      "Serve, pour, ladle",
+      "Warm, hot, savory"
+    ],
+    "answer": "Dish, container, cup"
+  },
+  {
+    "question": "A glass of water",
+    "options": [
+      "Cup, tumbler, vessel",
+      "Drink, sip, gulp",
+      "Clear, fresh, cold",
+      "Liquid, fluid, aqua"
+    ],
+    "answer": "Cup, tumbler, vessel"
+  },
+  {
+    "question": "A can of soda",
+    "options": [
+      "Tin, container, bottle",
+      "Fizz, pop, drink",
+      "Sweet, cold, bubbly",
+      "Carbonate, refresh, sip"
+    ],
+    "answer": "Tin, container, bottle"
+  },
+  {
+    "question": "A slice of pizza",
+    "options": [
+      "Piece, portion, segment",
+      "Cheese, crust, topping",
+      "Bite, eat, taste",
+      "Slice, cut, serve"
+    ],
+    "answer": "Piece, portion, segment"
+  },
+  {
+    "question": "A scoop of ice cream",
+    "options": [
+      "Spoon, ball, portion",
+      "Cold, sweet, creamy",
+      "Dessert, treat, snack",
+      "Freeze, serve, eat"
+    ],
+    "answer": "Spoon, ball, portion"
+  },
+  {
+    "question": "A pinch of salt",
+    "options": [
+      "Dash, sprinkle, grain",
+      "Season, flavor, add",
+      "Small, tiny, little",
+      "Taste, salt, spice"
+    ],
+    "answer": "Dash, sprinkle, grain"
+  },
+  {
+    "question": "A clove of garlic",
+    "options": [
+      "Bulb, segment, piece",
+      "Spice, flavor, herb",
+      "Peel, crush, chop",
+      "Strong, pungent, aroma"
+    ],
+    "answer": "Bulb, segment, piece"
+  },
+  {
+    "question": "A piece of cake",
+    "options": [
+      "Slice, portion, bit",
+      "Sweet, dessert, treat",
+      "Bake, eat, serve",
+      "Soft, moist, tasty"
+    ],
+    "answer": "Slice, portion, bit"
+  },
+  {
+    "question": "A jar of honey",
+    "options": [
+      "Container, pot, bottle",
+      "Sweet, syrup, nectar",
+      "Spread, drizzle, pour",
+      "Sticky, golden, thick"
+    ],
+    "answer": "Container, pot, bottle"
+  },
+  {
+    "question": "A loaf of bread",
+    "options": [
+      "Bread, bun, roll",
+      "Slice, piece, chunk",
+      "Bake, knead, rise",
+      "Soft, fresh, crust"
+    ],
+    "answer": "Bread, bun, roll"
+  },
+  {
+    "question": "trance",
+    "options": [
+      "Daze, stupor, ecstasy",
+      "Confuse, mix, blur",
+      "Invent, assume, pretend",
+      "Ignore, avoid, reject"
+    ],
+    "answer": "Daze, stupor, ecstasy"
+  },
+  {
+    "question": "few",
+    "options": [
+      "Scarce, limited, insufficient",
+      "Many, countless, plenty",
+      "Large, bulky, vast",
+      "All, every, total"
+    ],
+    "answer": "Scarce, limited, insufficient"
+  },
+  {
+    "question": "a few",
+    "options": [
+      "Some, several, enough",
+      "None, zero, nothing",
+      "Tiny, little, scarce",
+      "All, most, major"
+    ],
+    "answer": "Some, several, enough"
+  },
+  {
+    "question": "little",
+    "options": [
+      "Small, scarce, inadequate",
+      "Much, abundant, massive",
+      "All, full, total",
+      "None, empty, lost"
+    ],
+    "answer": "Small, scarce, inadequate"
+  },
+  {
+    "question": "a little",
+    "options": [
+      "Some, enough, slight",
+      "Big, wide, grand",
+      "Every, whole, major",
+      "Full, large, thick"
+    ],
+    "answer": "Some, enough, slight"
+  },
+  {
+    "question": "mess up",
+    "options": [
+      "Ruin, spoil, mistake",
+      "Fix, solve, repair",
+      "Create, build, form",
+      "Hide, skip, avoid"
+    ],
+    "answer": "Ruin, spoil, mistake"
+  },
+  {
+    "question": "did I make sens to you?",
+    "options": [
+      "Clear, understandable, logical",
+      "Weird, awkward, confusing",
+      "Loud, noisy, sharp",
+      "Slow, vague, dull"
+    ],
+    "answer": "Clear, understandable, logical"
+  },
+  {
+    "question": "bid you good night",
+    "options": [
+      "Wish, say, farewell",
+      "Ignore, miss, deny",
+      "Fight, argue, demand",
+      "Move, lift, break"
+    ],
+    "answer": "Wish, say, farewell"
+  },
+  {
+    "question": "stuck",
+    "options": [
+      "Trapped, jammed, frozen",
+      "Free, loose, open",
+      "Soft, smooth, thin",
+      "Full, quick, long"
+    ],
+    "answer": "Trapped, jammed, frozen"
+  },
+  {
+    "question": "pinning down",
+    "options": [
+      "Hold, restrain, fix",
+      "Fly, release, ignore",
+      "Melt, drop, run",
+      "Build, stack, fill"
+    ],
+    "answer": "Hold, restrain, fix"
+  },
+  {
+    "question": "ado",
+    "options": [
+      "Fuss, trouble, bother",
+      "Peace, rest, calm",
+      "Speed, rush, move",
+      "Hide, skip, deny"
+    ],
+    "answer": "Fuss, trouble, bother"
+  },
+  {
+    "question": "untangle",
+    "options": [
+      "Solve, straighten, clear",
+      "Twist, mess, knot",
+      "Hide, lose, bury",
+      "Stop, drop, burn"
+    ],
+    "answer": "Solve, straighten, clear"
+  },
+  {
+    "question": "beat",
+    "options": [
+      "Hit, defeat, strike",
+      "Fix, clean, lift",
+      "Hide, move, drop",
+      "Create, build, grow"
+    ],
+    "answer": "Hit, defeat, strike"
+  },
+  {
+    "question": "extraordiarily",
+    "options": [
+      "Exceptionally, unusually, remarkably",
+      "Normally, simply, casually",
+      "Rarely, barely, weakly",
+      "Wrongly, badly, poorly"
+    ],
+    "answer": "Exceptionally, unusually, remarkably"
+  },
+  {
+    "question": "somehow",
+    "options": [
+      "Anyway, mysteriously, eventually",
+      "Clearly, directly, openly",
+      "Never, nowhere, nobody",
+      "Strongly, loudly, harshly"
+    ],
+    "answer": "Anyway, mysteriously, eventually"
+  },
+  {
+    "question": "eligant",
+    "options": [
+      "Graceful, stylish, refined",
+      "Rough, messy, dirty",
+      "Loud, busy, wild",
+      "Soft, lazy, pale"
+    ],
+    "answer": "Graceful, stylish, refined"
+  },
+  {
+    "question": "diverted",
+    "options": [
+      "Redirected, shifted, distracted",
+      "Focused, fixed, locked",
+      "Covered, blocked, stuck",
+      "Lost, broken, torn"
+    ],
+    "answer": "Redirected, shifted, distracted"
+  },
+  {
+    "question": "flavor",
+    "options": [
+      "Taste, essence, spice",
+      "Color, shape, sound",
+      "Word, text, page",
+      "Form, build, frame"
+    ],
+    "answer": "Taste, essence, spice"
+  },
+  {
+    "question": "intercepted",
+    "options": [
+      "Caught, seized, blocked",
+      "Lost, missed, dropped",
+      "Sent, given, left",
+      "Lifted, moved, skipped"
+    ],
+    "answer": "Caught, seized, blocked"
+  },
+  {
+    "question": "shut down",
+    "options": [
+      "Close, stop, disable",
+      "Start, run, open",
+      "Fix, change, adjust",
+      "Light, heat, shine"
+    ],
+    "answer": "Close, stop, disable"
+  },
+  {
+    "question": "escalation",
+    "options": [
+      "Increase, rise, intensification",
+      "Fall, drop, decrease",
+      "Pause, delay, wait",
+      "Hide, avoid, move"
+    ],
+    "answer": "Increase, rise, intensification"
+  },
+  {
+    "question": "air space",
+    "options": [
+      "Sky, atmosphere, region",
+      "Land, soil, sea",
+      "Wall, door, roof",
+      "Box, cage, tank"
+    ],
+    "answer": "Sky, atmosphere, region"
+  },
+  {
+    "question": "devastating",
+    "options": [
+      "Destructive, ruinous, overwhelming",
+      "Bright, lively, hopeful",
+      "Simple, plain, weak",
+      "Soft, small, quiet"
+    ],
+    "answer": "Destructive, ruinous, overwhelming"
+  },
+  {
+    "question": "missile",
+    "options": [
+      "Projectile, weapon, rocket",
+      "Stone, stick, blade",
+      "Net, trap, rope",
+      "Fuel, tank, light"
+    ],
+    "answer": "Projectile, weapon, rocket"
+  },
+  {
+    "question": "retaliation",
+    "options": [
+      "Revenge, response, retribution",
+      "Peace, offer, apology",
+      "Delay, wait, ignore",
+      "Fix, heal, build"
+    ],
+    "answer": "Revenge, response, retribution"
+  },
+  {
+    "question": "joint",
+    "options": [
+      "Shared, combined, mutual",
+      "Lone, single, separate",
+      "Empty, quiet, loose",
+      "Sharp, deep, short"
+    ],
+    "answer": "Shared, combined, mutual"
+  },
+  {
+    "question": "guards",
+    "options": [
+      "Watchers, protectors, sentries",
+      "Thieves, attackers, foes",
+      "Users, builders, traders",
+      "Painters, cleaners, movers"
+    ],
+    "answer": "Watchers, protectors, sentries"
+  },
+  {
+    "question": "revolutionary",
+    "options": [
+      "Radical, innovative, transformative",
+      "Common, usual, normal",
+      "Tiny, old, broken",
+      "Slow, weak, tired"
+    ],
+    "answer": "Radical, innovative, transformative"
+  },
+  {
+    "question": "casualties",
+    "options": [
+      "Victims, losses, deaths",
+      "Winners, survivors, helpers",
+      "Friends, family, allies",
+      "Crowd, team, group"
+    ],
+    "answer": "Victims, losses, deaths"
+  },
+  {
+    "question": "reserval",
+    "options": [
+      "Reversal, cancellation, undoing",
+      "Start, opening, launch",
+      "Push, move, shift",
+      "Fight, block, stop"
+    ],
+    "answer": "Reversal, cancellation, undoing"
+  },
+  {
+    "question": "parcel",
+    "options": [
+      "Package, bundle, shipment",
+      "Note, letter, message",
+      "Food, dish, plate",
+      "Map, plan, sketch"
+    ],
+    "answer": "Package, bundle, shipment"
+  },
+  {
+    "question": "wound",
+    "options": [
+      "Injury, cut, damage",
+      "Fix, heal, treat",
+      "Burn, melt, smoke",
+      "Turn, spin, twist"
+    ],
+    "answer": "Injury, cut, damage"
+  },
+  {
+    "question": "massive",
+    "options": [
+      "Huge, enormous, gigantic",
+      "Tiny, narrow, slight",
+      "Dry, brittle, fragile",
+      "Blurred, vague, unclear"
+    ],
+    "answer": "Huge, enormous, gigantic"
+  },
+  {
+    "question": "precision",
+    "options": [
+      "Accuracy, exactness, correctness",
+      "Guess, estimate, assumption",
+      "Speed, motion, swiftness",
+      "Power, strength, force"
+    ],
+    "answer": "Accuracy, exactness, correctness"
+  },
+  {
+    "question": "three key nuclear facilities",
+    "options": [
+      "Sites, locations, installations",
+      "Books, articles, speeches",
+      "Creatures, monsters, aliens",
+      "Toys, games, puzzles"
+    ],
+    "answer": "Sites, locations, installations"
+  },
+  {
+    "question": "destructive",
+    "options": [
+      "Damaging, harmful, ruinous",
+      "Constructive, helpful, supportive",
+      "Peaceful, calm, neutral",
+      "Fast, quick, light"
+    ],
+    "answer": "Damaging, harmful, ruinous"
+  },
+  {
+    "question": "enterprise",
+    "options": [
+      "Business, company, venture",
+      "Island, ocean, lake",
+      "Dream, thought, illusion",
+      "Storm, flood, tornado"
+    ],
+    "answer": "Business, company, venture"
+  },
+  {
+    "question": "opbjective هدف",
+    "options": [
+      "Goal, aim, purpose",
+      "Lie, trick, scam",
+      "Sound, voice, noise",
+      "Fear, worry, panic"
+    ],
+    "answer": "Goal, aim, purpose"
+  },
+  {
+    "question": "enrichment",
+    "options": [
+      "Improvement, enhancement, betterment",
+      "Reduction, decrease, loss",
+      "Distortion, mutation, twist",
+      "Destruction, breakdown, collapse"
+    ],
+    "answer": "Improvement, enhancement, betterment"
+  },
+  {
+    "question": "spectacular",
+    "options": [
+      "Amazing, impressive, stunning",
+      "Ugly, dull, boring",
+      "Loud, noisy, harsh",
+      "Slow, weak, lazy"
+    ],
+    "answer": "Amazing, impressive, stunning"
+  },
+  {
+    "question": "obliterated",
+    "options": [
+      "Destroyed, wiped, erased",
+      "Fixed, built, created",
+      "Drawn, traced, marked",
+      "Stored, kept, hidden"
+    ],
+    "answer": "Destroyed, wiped, erased"
+  },
+  {
+    "question": "alot easier",
+    "options": [
+      "Simpler, faster, smoother",
+      "Harder, tougher, trickier",
+      "Slower, heavier, colder",
+      "Louder, brighter, longer"
+    ],
+    "answer": "Simpler, faster, smoother"
+  },
+  {
+    "question": "far greater",
+    "options": [
+      "Larger, stronger, better",
+      "Smaller, lesser, fewer",
+      "Darker, deeper, duller",
+      "Lighter, thinner, quieter"
+    ],
+    "answer": "Larger, stronger, better"
+  },
+  {
+    "question": "twitchy",
+    "options": [
+      "Nervous, jumpy, anxious",
+      "Relaxed, calm, peaceful",
+      "Steady, firm, stable",
+      "Funny, silly, goofy"
+    ],
+    "answer": "Nervous, jumpy, anxious"
+  },
+  {
+    "question": "bizarre",
+    "options": [
+      "Strange, weird, unusual",
+      "Normal, usual, typical",
+      "Plain, simple, basic",
+      "Smart, wise, clever"
+    ],
+    "answer": "Strange, weird, unusual"
+  },
+  {
+    "question": "cheesy",
+    "options": [
+      "Corny, tacky, cheap",
+      "Expensive, rich, luxurious",
+      "Dark, deep, mysterious",
+      "Tough, rough, strong"
+    ],
+    "answer": "Corny, tacky, cheap"
+  },
+  {
+    "question": "absurd",
+    "options": [
+      "Ridiculous, silly, illogical",
+      "Logical, reasonable, rational",
+      "Calm, quiet, balanced",
+      "Late, early, timely"
+    ],
+    "answer": "Ridiculous, silly, illogical"
+  },
+  {
+    "question": "fancy",
+    "options": [
+      "Elegant, stylish, luxurious",
+      "Plain, simple, ordinary",
+      "Dirty, messy, rough",
+      "Weird, strange, unusual"
+    ],
+    "answer": "Elegant, stylish, luxurious"
+  },
+  {
+    "question": "witty",
+    "options": [
+      "Clever, smart, humorous",
+      "Dull, slow, boring",
+      "Fast, rapid, quick",
+      "Loud, noisy, wild"
+    ],
+    "answer": "Clever, smart, humorous"
+  },
+  {
+    "question": "rusty",
+    "options": [
+      "Corroded, worn, old",
+      "Shiny, clean, new",
+      "Wet, soaked, damp",
+      "Bendy, flexible, curved"
+    ],
+    "answer": "Corroded, worn, old"
+  },
+  {
+    "question": "jinx",
+    "options": [
+      "Curse, bad luck, spell",
+      "Wish, hope, dream",
+      "Song, chant, hymn",
+      "Prize, reward, bonus"
+    ],
+    "answer": "Curse, bad luck, spell"
+  },
+  {
+    "question": "intensifies",
+    "options": [
+      "Increases, escalates, strengthens",
+      "Decreases, lessens, weakens",
+      "Hides, avoids, delays",
+      "Stops, ceases, freezes"
+    ],
+    "answer": "Increases, escalates, strengthens"
+  },
+  {
+    "question": "diary",
+    "options": [
+      "Journal, notebook, log",
+      "Letter, card, envelope",
+      "Phone, laptop, tablet",
+      "Map, guide, brochure"
+    ],
+    "answer": "Journal, notebook, log"
+  },
+  {
+    "question": "routinely",
+    "options": [
+      "Regularly, habitually, consistently",
+      "Rarely, occasionally, never",
+      "Quickly, urgently, fast",
+      "Softly, gently, quietly"
+    ],
+    "answer": "Regularly, habitually, consistently"
+  },
+  {
+    "question": "barred",
+    "options": [
+      "Blocked, banned, prohibited",
+      "Allowed, welcomed, accepted",
+      "Built, constructed, designed",
+      "Forgiven, forgotten, ignored"
+    ],
+    "answer": "Blocked, banned, prohibited"
+  },
+  {
+    "question": "weapon",
+    "options": [
+      "Gun, knife, bomb",
+      "Pen, pencil, brush",
+      "Flag, banner, sign",
+      "Bag, box, crate"
+    ],
+    "answer": "Gun, knife, bomb"
+  },
+  {
+    "question": "exclusive",
+    "options": [
+      "Private, limited, restricted",
+      "Shared, open, public",
+      "Easy, light, smooth",
+      "Cheap, basic, plain"
+    ],
+    "answer": "Private, limited, restricted"
+  },
+  {
+    "question": "betrayed",
+    "options": [
+      "Deceived, exposed, hurt",
+      "Trusted, helped, supported",
+      "Built, fixed, repaired",
+      "Saved, protected, guarded"
+    ],
+    "answer": "Deceived, exposed, hurt"
+  },
+  {
+    "question": "facilities",
+    "options": [
+      "Buildings, services, amenities",
+      "Mountains, rivers, lakes",
+      "People, animals, plants",
+      "Books, pencils, papers"
+    ],
+    "answer": "Buildings, services, amenities"
+  },
+  {
+    "question": "blew up",
+    "options": [
+      "Exploded, burst, detonated",
+      "Cooled, froze, melted",
+      "Wrote, erased, drew",
+      "Cleaned, washed, dried"
+    ],
+    "answer": "Exploded, burst, detonated"
+  },
+  {
+    "question": "proliferation",
+    "options": [
+      "Spread, growth, increase",
+      "Fall, decline, drop",
+      "Silence, stillness, peace",
+      "Delay, halt, pause"
+    ],
+    "answer": "Spread, growth, increase"
+  },
+  {
+    "question": "undermined",
+    "options": [
+      "Weakened, sabotaged, damaged",
+      "Helped, strengthened, improved",
+      "Asked, questioned, wondered",
+      "Pushed, pulled, dragged"
+    ],
+    "answer": "Weakened, sabotaged, damaged"
+  },
+  {
+    "question": "defeated",
+    "options": [
+      "Beaten, conquered, overpowered",
+      "Won, triumphed, succeeded",
+      "Helped, guided, supported",
+      "Paused, stopped, waited"
+    ],
+    "answer": "Beaten, conquered, overpowered"
+  },
+  {
+    "question": "treaty",
+    "options": [
+      "Agreement, pact, accord",
+      "Fight, battle, war",
+      "Song, poem, chant",
+      "Game, match, race"
+    ],
+    "answer": "Agreement, pact, accord"
+  },
+  {
+    "question": "condemn",
+    "options": [
+      "Blame, criticize, denounce",
+      "Praise, reward, honor",
+      "Support, accept, allow",
+      "Forgive, forget, ignore"
+    ],
+    "answer": "Blame, criticize, denounce"
+  },
+  {
+    "question": "territorial",
+    "options": [
+      "Regional, land-based, geographic",
+      "Emotional, personal, social",
+      "Friendly, open, generous",
+      "Tall, wide, deep"
+    ],
+    "answer": "Regional, land-based, geographic"
+  },
+  {
+    "question": "depressed",
+    "options": [
+      "Sad, down, hopeless",
+      "Happy, cheerful, excited",
+      "Bright, loud, colorful",
+      "Sharp, fast, quick"
+    ],
+    "answer": "Sad, down, hopeless"
+  },
+  {
+    "question": "turn in",
+    "options": [
+      "Submit, surrender, retire",
+      "Start, begin, open",
+      "Take, steal, grab",
+      "Move, run, jump"
+    ],
+    "answer": "Submit, surrender, retire"
+  },
+  {
+    "question": "crash",
+    "options": [
+      "Sleep, rest, collapse",
+      "Run, walk, hike",
+      "Play, dance, jump",
+      "Cook, bake, fry"
+    ],
+    "answer": "Sleep, rest, collapse"
+  },
+  {
+    "question": "beard",
+    "options": [
+      "Facial, hair, chin",
+      "Head, neck, ear",
+      "Shirt, tie, coat",
+      "Skin, eye, lip"
+    ],
+    "answer": "Facial, hair, chin"
+  },
+  {
+    "question": "bold",
+    "options": [
+      "Brave, daring, confident",
+      "Scared, nervous, quiet",
+      "Soft, smooth, gentle",
+      "Smart, wise, clever"
+    ],
+    "answer": "Brave, daring, confident"
+  },
+  {
+    "question": "timid",
+    "options": [
+      "Shy, nervous, fearful",
+      "Strong, bold, loud",
+      "Quick, fast, sudden",
+      "Lazy, slow, tired"
+    ],
+    "answer": "Shy, nervous, fearful"
+  },
+  {
+    "question": "defend",
+    "options": [
+      "Protect, guard, shield",
+      "Attack, harm, injure",
+      "Leave, ignore, avoid",
+      "Tell, ask, answer"
+    ],
+    "answer": "Protect, guard, shield"
+  },
+  {
+    "question": "foolish",
+    "options": [
+      "Silly, unwise, stupid",
+      "Smart, clever, wise",
+      "Tired, lazy, bored",
+      "Fast, quick, early"
+    ],
+    "answer": "Silly, unwise, stupid"
+  },
+  {
+    "question": "carry out",
+    "options": [
+      "Execute, perform, accomplish",
+      "Forget, drop, lose",
+      "Push, pull, drag",
+      "Sit, wait, stay"
+    ],
+    "answer": "Execute, perform, accomplish"
+  },
+  {
+    "question": "threat",
+    "options": [
+      "Danger, warning, menace",
+      "Peace, calm, safety",
+      "Help, support, care",
+      "Light, joy, hope"
+    ],
+    "answer": "Danger, warning, menace"
+  },
+  {
+    "question": "bully",
+    "options": [
+      "Harasser, intimidator, tormentor",
+      "Friend, supporter, ally",
+      "Teacher, leader, parent",
+      "Follower, fan, helper"
+    ],
+    "answer": "Harasser, intimidator, tormentor"
+  },
+  {
+    "question": "fender-bender",
+    "options": [
+      "Minor, accident, collision",
+      "Major, crash, explosion",
+      "Flat, tire, breakdown",
+      "Drive, park, turn"
+    ],
+    "answer": "Minor, accident, collision"
+  },
+  {
+    "question": "fender",
+    "options": [
+      "Bumper, guard, panel",
+      "Seat, door, window",
+      "Wheel, tire, rim",
+      "Trunk, hood, roof"
+    ],
+    "answer": "Bumper, guard, panel"
+  },
+  {
+    "question": "bender",
+    "options": [
+      "Curve, twist, arc",
+      "Line, angle, edge",
+      "Flat, plane, surface",
+      "Point, dot, spot"
+    ],
+    "answer": "Curve, twist, arc"
+  },
+  {
+    "question": "Best tackle tips",
+    "options": [
+      "Advice, strategy, technique",
+      "Food, drink, snack",
+      "Rest, sleep, nap",
+      "Work, chore, task"
+    ],
+    "answer": "Advice, strategy, technique"
+  },
+  {
+    "question": "fingers crossed",
+    "options": [
+      "Hope, wish, pray",
+      "Lie, cheat, trick",
+      "Jump, run, play",
+      "Think, plan, decide"
+    ],
+    "answer": "Hope, wish, pray"
+  },
+  {
+    "question": "fair عدل",
+    "options": [
+      "Just, impartial, equitable",
+      "Rough, biased, uneven",
+      "Playful, funny, casual",
+      "Slow, lazy, passive"
+    ],
+    "answer": "Just, impartial, equitable"
+  },
+  {
+    "question": "fair معرض",
+    "options": [
+      "Exhibition, event, show",
+      "Battle, fight, war",
+      "Farm, ranch, barn",
+      "Lecture, speech, class"
+    ],
+    "answer": "Exhibition, event, show"
+  },
+  {
+    "question": "dairy",
+    "options": [
+      "Milk, cheese, cream",
+      "Meat, fish, chicken",
+      "Fruit, vegetable, grain",
+      "Bread, pasta, rice"
+    ],
+    "answer": "Milk, cheese, cream"
+  },
+  {
+    "question": "fall behind",
+    "options": [
+      "Lag, delay, trail",
+      "Win, lead, succeed",
+      "Speed, rush, hurry",
+      "Climb, rise, jump"
+    ],
+    "answer": "Lag, delay, trail"
+  },
+  {
+    "question": "fall out",
+    "options": [
+      "Argue, separate, fight",
+      "Love, agree, hug",
+      "Join, unite, meet",
+      "Work, plan, build"
+    ],
+    "answer": "Argue, separate, fight"
+  },
+  {
+    "question": "fall apart",
+    "options": [
+      "Break, collapse, crumble",
+      "Stand, stay, remain",
+      "Grow, rise, improve",
+      "Jump, fly, move"
+    ],
+    "answer": "Break, collapse, crumble"
+  },
+  {
+    "question": "fall for",
+    "options": [
+      "Love, believe, trust",
+      "Ignore, avoid, doubt",
+      "Hide, cover, run",
+      "Lie, trick, betray"
+    ],
+    "answer": "Love, believe, trust"
+  },
+  {
+    "question": "shelter",
+    "options": [
+      "Refuge, protection, haven",
+      "Storm, flood, fire",
+      "Wall, floor, roof",
+      "Trap, prison, cage"
+    ],
+    "answer": "Refuge, protection, haven"
+  },
+  {
+    "question": "bunch",
+    "options": [
+      "Group, bundle, cluster",
+      "One, single, lone",
+      "Piece, item, part",
+      "Line, edge, side"
+    ],
+    "answer": "Group, bundle, cluster"
+  },
+  {
+    "question": "bowl",
+    "options": [
+      "Dish, container, vessel",
+      "Plate, fork, spoon",
+      "Pan, tray, oven",
+      "Ball, game, strike"
+    ],
+    "answer": "Dish, container, vessel"
+  },
+  {
+    "question": "gravitas",
+    "options": [
+      "Seriousness, dignity, weight",
+      "Joke, laugh, humor",
+      "Speed, haste, rush",
+      "Lightness, air, float"
+    ],
+    "answer": "Seriousness, dignity, weight"
+  },
+  {
+    "question": "incomprehensible",
+    "options": [
+      "Unclear, confusing, obscure",
+      "Simple, plain, direct",
+      "Quick, fast, easy",
+      "Open, bright, loud"
+    ],
+    "answer": "Unclear, confusing, obscure"
+  },
+  {
+    "question": "poorly written",
+    "options": [
+      "Messy, unclear, weak",
+      "Strong, clear, sharp",
+      "Neat, elegant, smooth",
+      "Bold, fast, rough"
+    ],
+    "answer": "Messy, unclear, weak"
+  },
+  {
+    "question": "Befor it is too late",
+    "options": [
+      "Soon, now, quickly",
+      "Never, maybe, later",
+      "Gone, lost, missed",
+      "Wait, pause, stop"
+    ],
+    "answer": "Soon, now, quickly"
+  },
+  {
+    "question": "why took you so long?",
+    "options": [
+      "Delay, late, slow",
+      "Quick, fast, early",
+      "Jump, run, speed",
+      "Hide, vanish, wait"
+    ],
+    "answer": "Delay, late, slow"
+  },
+  {
+    "question": "better luck next time",
+    "options": [
+      "Hope, chance, future",
+      "Fail, end, drop",
+      "Win, celebrate, cheer",
+      "Now, today, soon"
+    ],
+    "answer": "Hope, chance, future"
+  },
+  {
+    "question": "endure",
+    "options": [
+      "Suffer, tolerate, last",
+      "Break, fall, cry",
+      "Quit, stop, avoid",
+      "Love, care, hug"
+    ],
+    "answer": "Suffer, tolerate, last"
+  },
+  {
+    "question": "pride",
+    "options": [
+      "Honor, dignity, self-respect",
+      "Shame, guilt, regret",
+      "Fear, worry, doubt",
+      "Anger, rage, fury"
+    ],
+    "answer": "Honor, dignity, self-respect"
+  },
+  {
+    "question": "peeled",
+    "options": [
+      "Stripped, removed, uncovered",
+      "Covered, hidden, sealed",
+      "Cut, sliced, diced",
+      "Built, fixed, formed"
+    ],
+    "answer": "Stripped, removed, uncovered"
+  },
+  {
+    "question": "somehow",
+    "options": [
+      "Anyway, eventually, magically",
+      "Never, nowhere, nobody",
+      "Clear, open, exact",
+      "Why, how, when"
+    ],
+    "answer": "Anyway, eventually, magically"
+  },
+  {
     "question": "Data Breaches",
     "options": [
       "Leaks, exposures, intrusions",
