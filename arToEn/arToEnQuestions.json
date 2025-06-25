@@ -1,5 +1,594 @@
 [
   {
+    "question": "غيرة",
+    "options": [
+      "jealous",
+      "shopaholic",
+      "early bird",
+      "party animal"
+    ],
+    "answer": "jealous"
+  },
+  {
+    "question": "جمع أوراقك",
+    "options": [
+      "get your ducks in a row",
+      "whisper",
+      "night owl~",
+      "lone wolf"
+    ],
+    "answer": "get your ducks in a row"
+  },
+  {
+    "question": "همس",
+    "options": [
+      "whisper",
+      "behaves",
+      "exchange",
+      "consumed"
+    ],
+    "answer": "whisper"
+  },
+  {
+    "question": "هل تتهمني",
+    "options": [
+      "are you accusing me",
+      "to no avail",
+      "transmit",
+      "median"
+    ],
+    "answer": "are you accusing me"
+  },
+  {
+    "question": "مدمن تسوق",
+    "options": [
+      "shopaholic",
+      "workaholic",
+      "smart cookie",
+      "butterfingers"
+    ],
+    "answer": "shopaholic"
+  },
+  {
+    "question": "مدمن عمل",
+    "options": [
+      "workaholic",
+      "party animal",
+      "night owl~",
+      "lone wolf"
+    ],
+    "answer": "workaholic"
+  },
+  {
+    "question": "طائر الليل",
+    "options": [
+      "night owl~",
+      "early bird",
+      "skepticism",
+      "futile"
+    ],
+    "answer": "night owl~"
+  },
+  {
+    "question": "ذكي",
+    "options": [
+      "smart cookie",
+      "lone wolf",
+      "notch",
+      "dent"
+    ],
+    "answer": "smart cookie"
+  },
+  {
+    "question": "حيوان الحفلات",
+    "options": [
+      "party animal",
+      "endanger",
+      "threaten",
+      "casualty"
+    ],
+    "answer": "party animal"
+  },
+  {
+    "question": "خطر",
+    "options": [
+      "endanger",
+      "notch",
+      "uranium",
+      "consumed"
+    ],
+    "answer": "endanger"
+  },
+  {
+    "question": "تهديد",
+    "options": [
+      "threaten",
+      "salvaged",
+      "variation",
+      "exchange"
+    ],
+    "answer": "threaten"
+  },
+  {
+    "question": "شق",
+    "options": [
+      "notch",
+      "hollow",
+      "dent",
+      "maze"
+    ],
+    "answer": "notch"
+  },
+  {
+    "question": "كدمة",
+    "options": [
+      "dent",
+      "hollow",
+      "futile",
+      "inquiry"
+    ],
+    "answer": "dent"
+  },
+  {
+    "question": "مجوف",
+    "options": [
+      "hollow",
+      "salvaged",
+      "uranium",
+      "assembly"
+    ],
+    "answer": "hollow"
+  },
+  {
+    "question": "لا",
+    "options": [
+      "nope",
+      "concerned",
+      "nominee",
+      "skepticism"
+    ],
+    "answer": "nope"
+  },
+  {
+    "question": "يتصرف",
+    "options": [
+      "behaves",
+      "guts",
+      "devoted",
+      "obsess"
+    ],
+    "answer": "behaves"
+  },
+  {
+    "question": "بدون جدوى",
+    "options": [
+      "to no avail",
+      "in vain",
+      "futile",
+      "concerned"
+    ],
+    "answer": "to no avail"
+  },
+  {
+    "question": "عبثاً",
+    "options": [
+      "in vain",
+      "salvaged",
+      "assembly",
+      "orb"
+    ],
+    "answer": "in vain"
+  },
+  {
+    "question": "عبثي",
+    "options": [
+      "futile",
+      "variation",
+      "transmit",
+      "median"
+    ],
+    "answer": "futile"
+  },
+  {
+    "question": "أمعاء",
+    "options": [
+      "guts  أمعاء / أحشاء",
+      "uranium",
+      "casualty",
+      "forcibly"
+    ],
+    "answer": "guts  أمعاء / أحشاء"
+  },
+  {
+    "question": "شجاعة",
+    "options": [
+      "guts  شجاعة / جرأة",
+      "mayoral",
+      "assembly",
+      "nominee"
+    ],
+    "answer": "guts  شجاعة / جرأة"
+  },
+  {
+    "question": "مُنقذ",
+    "options": [
+      "salvaged",
+      "uranium",
+      "casualty",
+      "forcibly"
+    ],
+    "answer": "salvaged"
+  },
+  {
+    "question": "يورانيوم",
+    "options": [
+      "uranium",
+      "mayoral",
+      "assembly",
+      "exchange"
+    ],
+    "answer": "uranium"
+  },
+  {
+    "question": "ضحايا",
+    "options": [
+      "casualty",
+      "forcibly",
+      "mayoral",
+      "assembly"
+    ],
+    "answer": "casualty"
+  },
+  {
+    "question": "بقوة",
+    "options": [
+      "forcibly",
+      "mayoral",
+      "assembly",
+      "exchange"
+    ],
+    "answer": "forcibly"
+  },
+  {
+    "question": "رئاسي",
+    "options": [
+      "mayoral",
+      "assembly",
+      "exchange",
+      "transmit"
+    ],
+    "answer": "mayoral"
+  },
+  {
+    "question": "جمعية",
+    "options": [
+      "assembly",
+      "exchange",
+      "transmit",
+      "variation"
+    ],
+    "answer": "assembly"
+  },
+  {
+    "question": "تبادل",
+    "options": [
+      "exchange",
+      "transmit",
+      "variation",
+      "consumed"
+    ],
+    "answer": "exchange"
+  },
+  {
+    "question": "ينقل",
+    "options": [
+      "transmit",
+      "variation",
+      "quantity",
+      "consumed"
+    ],
+    "answer": "transmit"
+  },
+  {
+    "question": "تباين",
+    "options": [
+      "variation",
+      "quantity",
+      "exposes",
+      "consumed"
+    ],
+    "answer": "variation"
+  },
+  {
+    "question": "كمية",
+    "options": [
+      "quantity",
+      "exposes",
+      "consumed",
+      "enrich"
+    ],
+    "answer": "quantity"
+  },
+  {
+    "question": "يكشف",
+    "options": [
+      "exposes",
+      "consumed",
+      "representational",
+      "enrich"
+    ],
+    "answer": "exposes"
+  },
+  {
+    "question": "مستهلك",
+    "options": [
+      "consumed",
+      "representational",
+      "enrich",
+      "resilience"
+    ],
+    "answer": "consumed"
+  },
+  {
+    "question": "تمثيلي",
+    "options": [
+      "representational",
+      "enrich",
+      "resilience",
+      "autoscaling"
+    ],
+    "answer": "representational"
+  },
+  {
+    "question": "يغني",
+    "options": [
+      "enrich",
+      "resilience",
+      "autoscaling",
+      "tailored"
+    ],
+    "answer": "enrich"
+  },
+  {
+    "question": "مرونة",
+    "options": [
+      "resilience",
+      "autoscaling",
+      "tailored",
+      "summng up"
+    ],
+    "answer": "resilience"
+  },
+  {
+    "question": "توسع تلقائي",
+    "options": [
+      "autoscaling",
+      "tailored",
+      "semantic versioning",
+      "concerned"
+    ],
+    "answer": "autoscaling"
+  },
+  {
+    "question": "مصمم خصيصا",
+    "options": [
+      "tailored",
+      "semantic versioning",
+      "concerned",
+      "nominee"
+    ],
+    "answer": "tailored"
+  },
+  {
+    "question": "تلخيص",
+    "options": [
+      "summing up",
+      "semantic versioning",
+      "concerned",
+      "nominee"
+    ],
+    "answer": "summing up"
+  },
+  {
+    "question": "إصدار دلالي",
+    "options": [
+      "semantic versioning",
+      "concerned",
+      "nominee",
+      "concede"
+    ],
+    "answer": "semantic versioning"
+  },
+  {
+    "question": "مهتم",
+    "options": [
+      "concerned",
+      "nominee",
+      "concede",
+      "as"
+    ],
+    "answer": "concerned"
+  },
+  {
+    "question": "مرشح",
+    "options": [
+      "nominee",
+      "concede",
+      "as",
+      "to bring this city together"
+    ],
+    "answer": "nominee"
+  },
+  {
+    "question": "يقرّ",
+    "options": [
+      "concede يُقرّ , تنازل",
+      "as",
+      "to bring this city together",
+      "anal"
+    ],
+    "answer": "concede يُقرّ , تنازل"
+  },
+  {
+    "question": "كما",
+    "options": [
+      "as",
+      "to bring this city together",
+      "anal",
+      "precicion"
+    ],
+    "answer": "as"
+  },
+  {
+    "question": "لجمع هذه المدينة",
+    "options": [
+      "to bring this city together",
+      "anal",
+      "precicion",
+      "devoted"
+    ],
+    "answer": "to bring this city together"
+  },
+  {
+    "question": "شرجي",
+    "options": [
+      "anal",
+      "precicion",
+      "devoted",
+      "space over tabs"
+    ],
+    "answer": "anal"
+  },
+  {
+    "question": "دقة",
+    "options": [
+      "precicion",
+      "devoted",
+      "space over tabs",
+      "extent"
+    ],
+    "answer": "precicion"
+  },
+  {
+    "question": "مخلص",
+    "options": [
+      "devoted",
+      "space over tabs",
+      "extent",
+      "obsess"
+    ],
+    "answer": "devoted"
+  },
+  {
+    "question": "استخدام المسافات بدلاً من علامات التبويب",
+    "options": [
+      "space over tabs",
+      "extent",
+      "obsess",
+      "median"
+    ],
+    "answer": "space over tabs"
+  },
+  {
+    "question": "امتداد",
+    "options": [
+      "extent",
+      "obsess",
+      "median",
+      "behind the scence"
+    ],
+    "answer": "extent"
+  },
+  {
+    "question": "هوس",
+    "options": [
+      "obsess",
+      "median",
+      "behind the scence",
+      "no longer"
+    ],
+    "answer": "obsess"
+  },
+  {
+    "question": "الوسيط",
+    "options": [
+      "median",
+      "behind the scence",
+      "no longer",
+      "maze"
+    ],
+    "answer": "median"
+  },
+  {
+    "question": "خلف الكواليس",
+    "options": [
+      "behind the scence",
+      "no longer",
+      "maze",
+      "skepticism"
+    ],
+    "answer": "behind the scence"
+  },
+  {
+    "question": "لم يعد",
+    "options": [
+      "no longer",
+      "maze",
+      "skepticism",
+      "inquiry"
+    ],
+    "answer": "no longer"
+  },
+  {
+    "question": "متاهة",
+    "options": [
+      "maze",
+      "skepticism",
+      "inquiry",
+      "orb"
+    ],
+    "answer": "maze"
+  },
+  {
+    "question": "شكوك",
+    "options": [
+      "skepticism",
+      "inquiry",
+      "orb",
+      "globe"
+    ],
+    "answer": "skepticism"
+  },
+  {
+    "question": "استفسار",
+    "options": [
+      "inquiry",
+      "orb",
+      "globe",
+      "concerned"
+    ],
+    "answer": "inquiry"
+  },
+  {
+    "question": "كرة",
+    "options": [
+      "orb",
+      "globe",
+      "concerned",
+      "nominee"
+    ],
+    "answer": "orb"
+  },
+  {
+    "question": "كرة أرضية",
+    "options": [
+      "globe",
+      "concerned",
+      "nominee",
+      "concede"
+    ],
+    "answer": "globe"
+  },{
     "question": "horseplay",
     "options": ["persist", "nailing", "exemption", "nail"],
     "answer": "persist"
