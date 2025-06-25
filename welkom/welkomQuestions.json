@@ -1,5 +1,5 @@
 [
-    {
+  {
     "question": "de abortus",
     "options": [
       "abortion",
@@ -1238,7 +1238,8 @@
       "safety, security"
     ],
     "answer": "seat"
-  },{
+  },
+  {
     "question": "het afval",
     "options": [
       "star",
@@ -2387,7 +2388,8 @@
       "state"
     ],
     "answer": "illness"
-  },{
+  },
+  {
     "question": "de aangifte",
     "options": [
       "report (to the police)",
@@ -3166,7 +3168,8 @@
       "abuse, assault"
     ],
     "answer": "pregnant"
-  },{
+  },
+  {
     "question": "de aangifte",
     "options": [
       "season",
@@ -3945,7 +3948,8 @@
       "website"
     ],
     "answer": "pregnant"
-  },{
+  },
+  {
     "question": "de kans",
     "options": [
       "chance",
@@ -11816,7 +11820,7 @@
     "answer": "to touch"
   },
   {
-    "question": "agenda de",
+    "question": "de agenda",
     "options": [
       "to congratulate",
       "spring",
@@ -11836,7 +11840,7 @@
     "answer": "to thank"
   },
   {
-    "question": "begrafenis de",
+    "question": "de begrafenis",
     "options": [
       "funeral",
       "wedding",
@@ -11866,7 +11870,7 @@
     "answer": "get well soon"
   },
   {
-    "question": "beurt de",
+    "question": "de beurt",
     "options": [
       "biscuit with sprinkles",
       "transport ticket",
@@ -11886,7 +11890,7 @@
     "answer": "wedding"
   },
   {
-    "question": "cadeau het",
+    "question": "het cadeau",
     "options": [
       "dress",
       "gift",
@@ -11896,7 +11900,7 @@
     "answer": "gift"
   },
   {
-    "question": "cadeaubon de",
+    "question": "de cadeaubon",
     "options": [
       "gift card",
       "kiss",
@@ -11906,7 +11910,7 @@
     "answer": "gift card"
   },
   {
-    "question": "collega de",
+    "question": "de collega",
     "options": [
       "sky / heaven",
       "colleague",
@@ -11916,7 +11920,7 @@
     "answer": "colleague"
   },
   {
-    "question": "crematie de",
+    "question": "de crematie",
     "options": [
       "get well soon",
       "to kiss",
@@ -11926,7 +11930,7 @@
     "answer": "cremation"
   },
   {
-    "question": "cultuur de",
+    "question": "de cultuur",
     "options": [
       "culture",
       "mess",
@@ -11946,7 +11950,7 @@
     "answer": "to dance"
   },
   {
-    "question": "diploma het",
+    "question": "het diploma",
     "options": [
       "diploma",
       "invitation",
@@ -11966,7 +11970,7 @@
     "answer": "directly"
   },
   {
-    "question": "dode de",
+    "question": "de dode",
     "options": [
       "the deceased",
       "snack",
@@ -11976,7 +11980,7 @@
     "answer": "the deceased"
   },
   {
-    "question": "ei het",
+    "question": "het ei",
     "options": [
       "to succeed / pass",
       "kiss",
@@ -12036,7 +12040,7 @@
     "answer": "crazy / strange"
   },
   {
-    "question": "geloof het",
+    "question": "het geloof",
     "options": [
       "knowledge / acquaintance",
       "faith",
@@ -12046,7 +12050,7 @@
     "answer": "faith"
   },
   {
-    "question": "gemeentehuis het",
+    "question": "het gemeentehuis",
     "options": [
       "town hall",
       "to play soccer",
@@ -12066,7 +12070,7 @@
     "answer": "passed / succeeded"
   },
   {
-    "question": "gesprek(je) het",
+    "question": "het gesprek(je)",
     "options": [
       "to greet",
       "conversation",
@@ -12076,7 +12080,7 @@
     "answer": "conversation"
   },
   {
-    "question": "gewoonte de",
+    "question": "de gewoonte",
     "options": [
       "snack",
       "flag",
@@ -12096,7 +12100,7 @@
     "answer": "to greet"
   },
   {
-    "question": "hapje het",
+    "question": "het hapje",
     "options": [
       "to treat (with food)",
       "faith",
@@ -12106,7 +12110,7 @@
     "answer": "snack"
   },
   {
-    "question": "hemel de",
+    "question": "de hemel",
     "options": [
       "ID card",
       "gift card",
@@ -12116,7 +12120,7 @@
     "answer": "sky / heaven"
   },
   {
-    "question": "identiteitsbewijs het",
+    "question": "het identiteitsbewijs",
     "options": [
       "little game",
       "ID card",
@@ -12156,7 +12160,7 @@
     "answer": "informal"
   },
   {
-    "question": "jurk de",
+    "question": "de jurk",
     "options": [
       "friendly",
       "to play soccer",
@@ -12176,7 +12180,7 @@
     "answer": "candle"
   },
   {
-    "question": "kennis de",
+    "question": "de kennis",
     "options": [
       "to treat (with food)",
       "to notice",
@@ -12196,7 +12200,7 @@
     "answer": "to get acquainted"
   },
   {
-    "question": "kerstboom de",
+    "question": "de kerstboom",
     "options": [
       "Christmas tree",
       "to fast",
@@ -12206,7 +12210,7 @@
     "answer": "Christmas tree"
   },
   {
-    "question": "koekje het",
+    "question": "het koekje",
     "options": [
       "agenda",
       "informal",
@@ -12216,7 +12220,7 @@
     "answer": "cookie"
   },
   {
-    "question": "kostuum het",
+    "question": "het kostuum",
     "options": [
       "to greet",
       "good luck / strength",
@@ -12236,7 +12240,7 @@
     "answer": "suffers from"
   },
   {
-    "question": "lente de",
+    "question": "de lente",
     "options": [
       "to greet",
       "spring",
@@ -12246,7 +12250,7 @@
     "answer": "spring"
   },
   {
-    "question": "liedje het",
+    "question": "het liedje",
     "options": [
       "to look after",
       "to notice",
@@ -12256,7 +12260,7 @@
     "answer": "song"
   },
   {
-    "question": "liefde de",
+    "question": "de liefde",
     "options": [
       "love",
       "to get acquainted",
@@ -12296,7 +12300,7 @@
     "answer": "official"
   },
   {
-    "question": "openbaar vervoer het",
+    "question": "het openbaar vervoer",
     "options": [
       "kiss",
       "egg",
@@ -12306,7 +12310,7 @@
     "answer": "public transport"
   },
   {
-    "question": "opleiding de",
+    "question": "de opleiding",
     "options": [
       "education / training",
       "to play soccer",
@@ -12326,7 +12330,7 @@
     "answer": "orange"
   },
   {
-    "question": "ov-chipkaart de",
+    "question": "de ov-chipkaart",
     "options": [
       "mess",
       "the deceased",
@@ -12346,7 +12350,7 @@
     "answer": "to look after"
   },
   {
-    "question": "plant de",
+    "question": "de plant",
     "options": [
       "plant",
       "to be ashamed",
@@ -12356,7 +12360,7 @@
     "answer": "plant"
   },
   {
-    "question": "receptie de",
+    "question": "de receptie",
     "options": [
       "reception",
       "informal",
@@ -12366,7 +12370,7 @@
     "answer": "reception"
   },
   {
-    "question": "rij de",
+    "question": "de rij",
     "options": [
       "to play soccer",
       "queue / line",
@@ -12386,7 +12390,7 @@
     "answer": "to call"
   },
   {
-    "question": "rommel de",
+    "question": "de rommel",
     "options": [
       "to stink",
       "mess",
@@ -12416,7 +12420,7 @@
     "answer": "to be ashamed"
   },
   {
-    "question": "schoen de",
+    "question": "de schoen",
     "options": [
       "to look after",
       "garbage",
@@ -12436,7 +12440,7 @@
     "answer": "to succeed / pass"
   },
   {
-    "question": "snoep het",
+    "question": "het snoep",
     "options": [
       "hall / venue",
       "check-out",
@@ -12446,7 +12450,7 @@
     "answer": "candy"
   },
   {
-    "question": "sollicitatiegesprek het",
+    "question": "het sollicitatiegesprek",
     "options": [
       "birthday",
       "mandatory",
@@ -12456,7 +12460,7 @@
     "answer": "job interview"
   },
   {
-    "question": "spelletje het",
+    "question": "het spelletje",
     "options": [
       "in any case",
       "little game",
@@ -12476,7 +12480,7 @@
     "answer": "good luck / strength"
   },
   {
-    "question": "stiltecoupé de",
+    "question": "de stiltecoupé",
     "options": [
       "congratulations",
       "silence compartment",
@@ -12496,7 +12500,7 @@
     "answer": "to stink"
   },
   {
-    "question": "taart de",
+    "question": "de taart",
     "options": [
       "to succeed / pass",
       "cake",
@@ -12546,7 +12550,7 @@
     "answer": "to invite"
   },
   {
-    "question": "uitnodiging de",
+    "question": "de uitnodiging",
     "options": [
       "invitation",
       "to notice",
@@ -12566,7 +12570,7 @@
     "answer": "to fast"
   },
   {
-    "question": "verjaardag de",
+    "question": "de verjaardag",
     "options": [
       "to congratulate",
       "birthday",
@@ -12606,7 +12610,7 @@
     "answer": "to decorate"
   },
   {
-    "question": "vervoersbewijs het",
+    "question": "het vervoersbewijs",
     "options": [
       "to play soccer",
       "transport ticket",
@@ -12626,7 +12630,7 @@
     "answer": "to celebrate"
   },
   {
-    "question": "vlag de",
+    "question": "de vlag",
     "options": [
       "in love",
       "flag",
@@ -12656,7 +12660,7 @@
     "answer": "friendly"
   },
   {
-    "question": "vuilnis de",
+    "question": "de vuilnis",
     "options": [
       "garbage",
       "gift",
@@ -12666,7 +12670,7 @@
     "answer": "garbage"
   },
   {
-    "question": "vuurwerk het",
+    "question": "het vuurwerk",
     "options": [
       "spring",
       "song",
@@ -12676,7 +12680,7 @@
     "answer": "fireworks"
   },
   {
-    "question": "wachtkamer de",
+    "question": "de wachtkamer",
     "options": [
       "waiting room",
       "in any case",
@@ -12696,7 +12700,7 @@
     "answer": "to walk"
   },
   {
-    "question": "zaal de",
+    "question": "de zaal",
     "options": [
       "reception",
       "to touch",
@@ -12706,7 +12710,7 @@
     "answer": "hall / venue"
   },
   {
-    "question": "zoen de",
+    "question": "de zoen",
     "options": [
       "kiss",
       "candle",
