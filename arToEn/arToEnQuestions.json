@@ -1,5 +1,164 @@
 [
   {
+    "question": "horseplay",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "strollere",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "essential",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "crib",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "pushover",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "carefree",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "guilty",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "Lean back",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "viciously unprovoked",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "viciously",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "barely",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "narrowly",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "vow",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "boost",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "colon نقطتان رأسيتان",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "colon قولون",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "digestive system",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "pour",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "chop",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "bake",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "fry",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "boil",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "roast",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "grate",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "vulture",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "bullheaded",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "persist"
+  },
+  {
+    "question": "I am pumped up",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "I am a bit tied up",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "scoot over",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nail"
+  },
+  {
+    "question": "hands off",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },
+  {
+    "question": "she is green with envy",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "nailing"
+  },
+  {
+    "question": "I screwed up",
+    "options": ["persist", "nailing", "exemption", "nail"],
+    "answer": "exemption"
+  },{
     "question": "عالِق",
     "options": ["firmly", "stuck", "force", "end up"],
     "answer": "stuck"
