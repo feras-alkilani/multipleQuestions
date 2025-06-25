@@ -1,5 +1,174 @@
 [
-         {
+        {
+    "question": "stuck",
+    "options": ["عالِق", "راكض", "مبتل", "واقف"],
+    "answer": "عالِق"
+  },
+  {
+    "question": "firmly",
+    "options": ["بثبات", "بسهولة", "ببطء", "بشكل ناعم"],
+    "answer": "بثبات"
+  },
+  {
+    "question": "force",
+    "options": ["يجبر", "يفكر", "يتجنب", "ينام"],
+    "answer": "يجبر"
+  },
+  {
+    "question": "enforce",
+    "options": ["يفرض / يطبق (قانون، قواعد)", "يشرح", "يسبح", "يقطع"],
+    "answer": "يفرض / يطبق (قانون، قواعد)"
+  },
+  {
+    "question": "territory",
+    "options": ["إقليم / منطقة", "مدينة", "حديقة", "قارة"],
+    "answer": "إقليم / منطقة"
+  },
+  {
+    "question": "aiming for",
+    "options": ["يهدف إلى", "يخاف من", "يتحدث عن", "يبتعد عن"],
+    "answer": "يهدف إلى"
+  },
+  {
+    "question": "remember back",
+    "options": ["يتذكر", "يعود", "يرجع", "يقلد"],
+    "answer": "يتذكر"
+  },
+  {
+    "question": "wind surf",
+    "options": ["يركب الأمواج باستخدام شراع", "يجدف", "يسبح", "يغوص"],
+    "answer": "يركب الأمواج باستخدام شراع"
+  },
+  {
+    "question": "Pronunciation",
+    "options": ["نُطق", "كتابة", "قواعد", "مفردات"],
+    "answer": "نُطق"
+  },
+  {
+    "question": "syllable",
+    "options": ["مقطع لفظي", "جملة", "حرف", "كلمة"],
+    "answer": "مقطع لفظي"
+  },
+  {
+    "question": "lean",
+    "options": ["يميل / ينحني", "يقفز", "يجري", "ينام"],
+    "answer": "يميل / ينحني"
+  },
+  {
+    "question": "precede",
+    "options": ["يَسبق", "يتبع", "يصل", "يتأخر"],
+    "answer": "يَسبق"
+  },
+  {
+    "question": "forego",
+    "options": ["يتخلى عن", "يتجنب", "يطلب", "يحصل على"],
+    "answer": "يتخلى عن"
+  },
+  {
+    "question": "anticipate",
+    "options": ["يتوقع", "يشك", "ينسى", "يتذكر"],
+    "answer": "يتوقع"
+  },
+  {
+    "question": "end up",
+    "options": ["ينتهي به الأمر", "يبدأ", "يتوقف", "يُخطئ"],
+    "answer": "ينتهي به الأمر"
+  },
+  {
+    "question": "eventually",
+    "options": ["في النهاية", "بسرعة", "أحيانًا", "مباشرة"],
+    "answer": "في النهاية"
+  },
+  {
+    "question": "Tweak",
+    "options": ["يُعدّل تعديلًا بسيطًا / يضبط قليلاً", "يحذف", "يفتح", "يحطم"],
+    "answer": "يُعدّل تعديلًا بسيطًا / يضبط قليلاً"
+  },
+  {
+    "question": "Adjust",
+    "options": ["يضبط / يكيف", "يتجاهل", "يسرق", "يرتبك"],
+    "answer": "يضبط / يكيف"
+  },
+  {
+    "question": "examine",
+    "options": ["يفحص", "ينسى", "يسحب", "يقطع"],
+    "answer": "يفحص"
+  },
+  {
+    "question": "application-apprication",
+    "options": ["تطبيق / استمارة", "معالجة", "استماع", "تعقيد"],
+    "answer": "تطبيق / استمارة"
+  },
+  {
+    "question": "beforhand",
+    "options": ["مسبقًا", "فجأة", "لاحقًا", "دائمًا"],
+    "answer": "مسبقًا"
+  },
+  {
+    "question": "amid",
+    "options": ["وسط", "فوق", "تحت", "خارج"],
+    "answer": "وسط"
+  },
+  {
+    "question": "Draw a picture",
+    "options": ["يرسم", "يسحب", "يشهر", "يجذب"],
+    "answer": "يرسم"
+  },
+  {
+    "question": "Draw the curtains",
+    "options": ["يسحب", "يشهر", "يرسم", "يعلق"],
+    "answer": "يسحب"
+  },
+  {
+    "question": "Draw cash from bank",
+    "options": ["يسحب (مالًا)", "يحصل على قرض", "يودع", "يربح"],
+    "answer": "يسحب (مالًا)"
+  },
+  {
+    "question": "Draw a sword",
+    "options": ["يشهر", "يضرب", "يسحب", "ينظف"],
+    "answer": "يشهر"
+  },
+  {
+    "question": "Draw attention / crowd",
+    "options": ["يجذب", "يشتت", "يسحب", "يرسم"],
+    "answer": "يجذب"
+  },
+  {
+    "question": "They drew the match",
+    "options": ["يتعادل", "يفوز", "يخسر", "ينسحب"],
+    "answer": "يتعادل"
+  },
+  {
+    "question": "I crashed as soon as I got home.",
+    "options": ["انهار من التعب / غطّ في النوم", "أكل بسرعة", "دخل الحمام", "تحدث مع صديقه"],
+    "answer": "انهار من التعب / غطّ في النوم"
+  },
+  {
+    "question": "Voluntary",
+    "options": ["طوعي", "إجباري", "مفروض", "مدفوع"],
+    "answer": "طوعي"
+  },
+  {
+    "question": "Intensity",
+    "options": ["شِدة", "نعومة", "سهولة", "بطء"],
+    "answer": "شِدة"
+  },
+  {
+    "question": "guess",
+    "options": ["يخمن", "يعرف", "يسأل", "يتجاهل"],
+    "answer": "يخمن"
+  },
+  {
+    "question": "aardvark",
+    "options": ["آردفارك (نوع من الحيوانات)", "ببغاء", "سلحفاة", "زرافة"],
+    "answer": "آردفارك (نوع من الحيوانات)"
+  },
+  {
+    "question": "hails",
+    "options": ["بَرَد / يحيّي / ينحدر من", "يختبئ", "يطبخ", "يشتكي"],
+    "answer": "بَرَد / يحيّي / ينحدر من"
+  }, {
         "question": "my conscience is clear",
         "options": ["ضميري مرتاح", "أنا نادم", "أشعر بالذنب", "ضميري يؤنبني"],
         "answer": "ضميري مرتاح"
