@@ -1,5 +1,624 @@
 [
     {
+"question": "jealous",
+"options": [
+"envious, resentful, covetous",
+"proud, happy, confident",
+"friendly, kind, generous",
+"neutral, indifferent, calm"
+],
+"answer": "envious, resentful, covetous"
+},
+{
+"question": "get your ducks in a row",
+"options": [
+"organize, prepare, arrange",
+"ignore, avoid, neglect",
+"rush, panic, confuse",
+"delay, postpone, halt"
+],
+"answer": "organize, prepare, arrange"
+},
+{
+"question": "whisper",
+"options": [
+"murmur, hiss, mutter",
+"shout, yell, scream",
+"laugh, giggle, chuckle",
+"sing, hum, chant"
+],
+"answer": "murmur, hiss, mutter"
+},
+{
+"question": "are you accusing me",
+"options": [
+"blaming, charging, suspecting",
+"praising, admiring, respecting",
+"ignoring, overlooking, dismissing",
+"helping, supporting, aiding"
+],
+"answer": "blaming, charging, suspecting"
+},
+{
+"question": "shopaholic",
+"options": [
+"buyer, spender, shopper",
+"seller, vendor, dealer",
+"collector, hoarder, keeper",
+"thief, robber, pirate"
+],
+"answer": "buyer, spender, shopper"
+},
+{
+"question": "workaholic",
+"options": [
+"worker, laborer, doer",
+"idler, slacker, loafer",
+"leader, manager, boss",
+"student, learner, apprentice"
+],
+"answer": "worker, laborer, doer"
+},
+{
+"question": "scready-cat",
+"options": [
+"scared, fearful, timid",
+"brave, bold, daring",
+"angry, mad, upset",
+"calm, relaxed, peaceful"
+],
+"answer": "scared, fearful, timid"
+},
+{
+"question": "early bird",
+"options": [
+"early riser, morning person, dawn watcher",
+"night owl, late sleeper, procrastinator",
+"runner, jogger, athlete",
+"sleeper, dreamer, lounger"
+],
+"answer": "early riser, morning person, dawn watcher"
+},
+{
+"question": "butterfingers",
+"options": [
+"clumsy, careless, awkward",
+"skillful, agile, nimble",
+"fast, quick, swift",
+"strong, tough, durable"
+],
+"answer": "clumsy, careless, awkward"
+},
+{
+"question": "night owl~",
+"options": [
+"late sleeper, nocturnal, night person",
+"early bird, morning person, riser",
+"daydreamer, thinker, planner",
+"worker, doer, achiever"
+],
+"answer": "late sleeper, nocturnal, night person"
+},
+{
+"question": "smart cookie",
+"options": [
+"clever, intelligent, sharp",
+"slow, dull, ignorant",
+"funny, witty, humorous",
+"kind, nice, gentle"
+],
+"answer": "clever, intelligent, sharp"
+},
+{
+"question": "lone wolf",
+"options": [
+"solitary, independent, isolated",
+"group, team, partner",
+"leader, chief, boss",
+"follower, helper, assistant"
+],
+"answer": "solitary, independent, isolated"
+},
+{
+"question": "party animal",
+"options": [
+"partier, socializer, reveler",
+"introvert, loner, recluse",
+"worker, laborer, doer",
+"sleeper, dreamer, lounger"
+],
+"answer": "partier, socializer, reveler"
+},
+{
+"question": "endanger",
+"options": [
+"threaten, risk, jeopardize",
+"protect, guard, defend",
+"ignore, neglect, avoid",
+"save, rescue, help"
+],
+"answer": "threaten, risk, jeopardize"
+},
+{
+"question": "threaten",
+"options": [
+"intimidate, menace, warn",
+"comfort, soothe, reassure",
+"ignore, avoid, neglect",
+"help, assist, support"
+],
+"answer": "intimidate, menace, warn"
+},
+{
+"question": "notch",
+"options": [
+"score, level, rank",
+"hole, gap, crack",
+"bump, lump, bump",
+"smooth, flat, plain"
+],
+"answer": "score, level, rank"
+},
+{
+"question": "dent",
+"options": [
+"ding, depression, mark",
+"bump, rise, peak",
+"smooth, polish, shine",
+"tear, rip, break"
+],
+"answer": "ding, depression, mark"
+},
+{
+"question": "hollow",
+"options": [
+"empty, vacant, void",
+"full, solid, dense",
+"bright, shiny, clear",
+"soft, smooth, gentle"
+],
+"answer": "empty, vacant, void"
+},
+{
+"question": "nope",
+"options": [
+"no, nay, negative",
+"yes, affirmative, positive",
+"maybe, possibly, perhaps",
+"never, none, nothing"
+],
+"answer": "no, nay, negative"
+},
+{
+"question": "behaves",
+"options": [
+"acts, conducts, performs",
+"ignores, neglects, avoids",
+"breaks, destroys, damages",
+"helps, supports, aids"
+],
+"answer": "acts, conducts, performs"
+},
+{
+"question": "to no avail",
+"options": [
+"useless, futile, pointless",
+"successful, effective, fruitful",
+"hopeful, optimistic, confident",
+"clear, obvious, evident"
+],
+"answer": "useless, futile, pointless"
+},
+{
+"question": "in vain",
+"options": [
+"unsuccessful, fruitless, wasted",
+"successful, productive, effective",
+"careful, cautious, attentive",
+"kind, generous, helpful"
+],
+"answer": "unsuccessful, fruitless, wasted"
+},
+{
+"question": "futile",
+"options": [
+"pointless, useless, ineffective",
+"productive, useful, beneficial",
+"careful, cautious, prudent",
+"strong, durable, sturdy"
+],
+"answer": "pointless, useless, ineffective"
+},
+{
+"question": "guts",
+"options": [
+"courage, bravery, nerve",
+"fear, cowardice, timidity",
+"intestines, entrails, bowels",
+"strength, power, force"
+],
+"answer": "courage, bravery, nerve"
+},
+{
+"question": "salvaged",
+"options": [
+"rescued, recovered, saved",
+"lost, destroyed, ruined",
+"hidden, buried, concealed",
+"ignored, neglected, forgotten"
+],
+"answer": "rescued, recovered, saved"
+},
+{
+"question": "uranium",
+"options": [
+"radioactive, element, metal",
+"plastic, glass, wood",
+"liquid, gas, solid",
+"natural, artificial, synthetic"
+],
+"answer": "radioactive, element, metal"
+},
+{
+"question": "casualty",
+"options": [
+"victim, fatality, loss",
+"winner, survivor, champion",
+"bystander, observer, witness",
+"helper, rescuer, aid"
+],
+"answer": "victim, fatality, loss"
+},
+{
+"question": "forcibly",
+"options": [
+"violently, forcefully, aggressively",
+"gently, softly, calmly",
+"quickly, rapidly, swiftly",
+"carefully, cautiously, deliberately"
+],
+"answer": "violently, forcefully, aggressively"
+},
+{
+"question": "mayoral",
+"options": [
+"municipal, civic, governmental",
+"private, personal, individual",
+"commercial, business, corporate",
+"rural, countryside, farming"
+],
+"answer": "municipal, civic, governmental"
+},
+{
+"question": "Assembly",
+"options": [
+"gathering, meeting, congress",
+"division, separation, split",
+"movement, action, operation",
+"silence, pause, break"
+],
+"answer": "gathering, meeting, congress"
+},
+{
+"question": "exchange",
+"options": [
+"swap, trade, barter",
+"keep, hold, retain",
+"take, receive, accept",
+"buy, sell, purchase"
+],
+"answer": "swap, trade, barter"
+},
+{
+"question": "transmit",
+"options": [
+"send, convey, transfer",
+"receive, accept, get",
+"block, stop, prevent",
+"create, build, form"
+],
+"answer": "send, convey, transfer"
+},
+{
+"question": "variation",
+"options": [
+"difference, change, alteration",
+"sameness, similarity, equality",
+"repetition, duplication, copy",
+"fixation, stability, constancy"
+],
+"answer": "difference, change, alteration"
+},
+{
+"question": "quantity",
+"options": [
+"amount, number, total",
+"quality, value, worth",
+"size, dimension, extent",
+"weight, mass, load"
+],
+"answer": "amount, number, total"
+},
+{
+"question": "exposes",
+"options": [
+"reveals, uncovers, discloses",
+"hides, conceals, covers",
+"ignores, neglects, avoids",
+"protects, guards, shields"
+],
+"answer": "reveals, uncovers, discloses"
+},
+{
+"question": "consumed",
+"options": [
+"used, devoured, exhausted",
+"saved, preserved, stored",
+"created, made, produced",
+"ignored, neglected, avoided"
+],
+"answer": "used, devoured, exhausted"
+},
+{
+"question": "Representational",
+"options": [
+"symbolic, figurative, illustrative",
+"abstract, nonliteral, conceptual",
+"realistic, lifelike, naturalistic",
+"simple, plain, basic"
+],
+"answer": "symbolic, figurative, illustrative"
+},
+{
+"question": "enrich",
+"options": [
+"enhance, improve, boost",
+"reduce, lessen, decrease",
+"ignore, neglect, avoid",
+"remove, take, subtract"
+],
+"answer": "enhance, improve, boost"
+},
+{
+"question": "resilience",
+"options": [
+"strength, toughness, endurance",
+"weakness, fragility, vulnerability",
+"flexibility, adaptability, pliability",
+"softness, gentleness, kindness"
+],
+"answer": "strength, toughness, endurance"
+},
+{
+"question": "autoscaling",
+"options": [
+"adjusting, resizing, balancing",
+"static, fixed, unchanging",
+"manual, controlled, directed",
+"random, unpredictable, chaotic"
+],
+"answer": "adjusting, resizing, balancing"
+},
+{
+"question": "Tailored",
+"options": [
+"customized, fitted, adapted",
+"generic, standard, common",
+"loose, baggy, unshaped",
+"random, arbitrary, accidental"
+],
+"answer": "customized, fitted, adapted"
+},
+{
+"question": "Summing up",
+"options": [
+"concluding, summarizing, recapping",
+"starting, beginning, initiating",
+"ignoring, overlooking, avoiding",
+"complicating, confusing, obscuring"
+],
+"answer": "concluding, summarizing, recapping"
+},
+{
+"question": "Semantic versioning",
+"options": [
+"labeling, numbering, updating",
+"erasing, deleting, removing",
+"mixing, combining, merging",
+"guessing, assuming, speculating"
+],
+"answer": "labeling, numbering, updating"
+},
+{
+"question": "concerned",
+"options": [
+"worried, anxious, troubled",
+"happy, carefree, relaxed",
+"angry, upset, mad",
+"neutral, indifferent, calm"
+],
+"answer": "worried, anxious, troubled"
+},
+{
+"question": "nominee",
+"options": [
+"candidate, contender, applicant",
+"winner, champion, victor",
+"judge, referee, umpire",
+"spectator, observer, viewer"
+],
+"answer": "candidate, contender, applicant"
+},
+{
+"question": "concede",
+"options": [
+"admit, yield, accept",
+"deny, refuse, reject",
+"argue, contest, dispute",
+"ignore, neglect, avoid"
+],
+"answer": "admit, yield, accept"
+},
+{
+"question": "as",
+"options": [
+"while, because, since",
+"but, however, yet",
+"and, also, plus",
+"or, either, neither"
+],
+"answer": "while, because, since"
+},
+{
+"question": "to bring this city together",
+"options": [
+"unite, connect, gather",
+"divide, separate, split",
+"ignore, neglect, avoid",
+"destroy, damage, harm"
+],
+"answer": "unite, connect, gather"
+},
+{
+"question": "anal",
+"options": [
+"precise, meticulous, detailed",
+"careless, sloppy, messy",
+"quick, fast, rapid",
+"lazy, slow, indifferent"
+],
+"answer": "precise, meticulous, detailed"
+},
+{
+"question": "precicion",
+"options": [
+"accuracy, exactness, correctness",
+"error, mistake, inaccuracy",
+"vagueness, ambiguity, uncertainty",
+"carelessness, neglect, laziness"
+],
+"answer": "accuracy, exactness, correctness"
+},
+{
+"question": "devoted",
+"options": [
+"loyal, dedicated, committed",
+"disloyal, unfaithful, indifferent",
+"casual, careless, neglectful",
+"hesitant, unsure, doubtful"
+],
+"answer": "loyal, dedicated, committed"
+},
+{
+"question": "space over tabs",
+"options": [
+"spaces, blanks, gaps",
+"tabs, indents, markers",
+"lines, breaks, pauses",
+"characters, symbols, letters"
+],
+"answer": "spaces, blanks, gaps"
+},
+{
+"question": "extent",
+"options": [
+"degree, scope, range",
+"limit, boundary, edge",
+"point, dot, spot",
+"start, beginning, origin"
+],
+"answer": "degree, scope, range"
+},
+{
+"question": "obsess",
+"options": [
+"fixate, preoccupy, haunt",
+"ignore, neglect, forget",
+"love, like, enjoy",
+"avoid, shun, evade"
+],
+"answer": "fixate, preoccupy, haunt"
+},
+{
+"question": "median",
+"options": [
+"middle, midpoint, center",
+"end, edge, limit",
+"average, mean, norm",
+"range, spread, extent"
+],
+"answer": "middle, midpoint, center"
+},
+{
+"question": "behind the scence",
+"options": [
+"secretly, privately, covertly",
+"publicly, openly, visibly",
+"loudly, clearly, distinctly",
+"quickly, rapidly, swiftly"
+],
+"answer": "secretly, privately, covertly"
+},
+{
+"question": "no longer",
+"options": [
+"not anymore, ceased, stopped",
+"still, yet, ongoing",
+"always, forever, continuously",
+"soon, shortly, eventually"
+],
+"answer": "not anymore, ceased, stopped"
+},
+{
+"question": "maze",
+"options": [
+"labyrinth, puzzle, network",
+"path, road, route",
+"open, field, plain",
+"line, row, queue"
+],
+"answer": "labyrinth, puzzle, network"
+},
+{
+"question": "skepticism",
+"options": [
+"doubt, suspicion, mistrust",
+"belief, faith, trust",
+"hope, optimism, confidence",
+"acceptance, approval, agreement"
+],
+"answer": "doubt, suspicion, mistrust"
+},
+{
+"question": "inquiry",
+"options": [
+"question, investigation, probe",
+"answer, response, reply",
+"statement, declaration, claim",
+"ignore, neglect, overlook"
+],
+"answer": "question, investigation, probe"
+},
+{
+"question": "orb",
+"options": [
+"sphere, ball, globe",
+"cube, square, block",
+"flat, plane, sheet",
+"line, rod, stick"
+],
+"answer": "sphere, ball, globe"
+},
+{
+"question": "globe",
+"options": [
+"world, sphere, ball",
+"flat, plane, sheet",
+"cube, block, square",
+"line, rod, stick"
+],
+"answer": "world, sphere, ball"
+},{
   "question": "horseplay",
   "options": [
     "Roughhousing, joking, fooling",
