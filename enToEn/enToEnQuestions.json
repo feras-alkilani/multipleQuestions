@@ -1,5 +1,355 @@
 [
     {
+  "question": "strictly",
+  "options": [
+    "Firmly, tightly, rigidly",
+    "Loosely, gently, softly",
+    "Quickly, suddenly, briefly",
+    "Lightly, barely, slowly"
+  ],
+  "answer": "Firmly, tightly, rigidly"
+},
+{
+  "question": "anxiously",
+  "options": [
+    "Nervously, worriedly, tensely",
+    "Calmly, quietly, peacefully",
+    "Easily, smoothly, gently",
+    "Happily, kindly, brightly"
+  ],
+  "answer": "Nervously, worriedly, tensely"
+},
+{
+  "question": "henpecked",
+  "options": [
+    "Controlled, submissive, obedient",
+    "Brave, bold, daring",
+    "Lazy, sleepy, sluggish",
+    "Smart, wise, witty"
+  ],
+  "answer": "Controlled, submissive, obedient"
+},
+{
+  "question": "couch potato",
+  "options": [
+    "Lazy, inactive, idle",
+    "Busy, moving, alert",
+    "Strong, fast, sharp",
+    "Loud, angry, rude"
+  ],
+  "answer": "Lazy, inactive, idle"
+},
+{
+  "question": "workaholic",
+  "options": [
+    "Hardworking, obsessed, tireless",
+    "Lazy, distracted, forgetful",
+    "Sleepy, confused, passive",
+    "Busy, vague, quiet"
+  ],
+  "answer": "Hardworking, obsessed, tireless"
+},
+{
+  "question": "bookworm",
+  "options": [
+    "Reader, studious, intellectual",
+    "Sleeper, player, joker",
+    "Thinker, creator, painter",
+    "Speaker, singer, dancer"
+  ],
+  "answer": "Reader, studious, intellectual"
+},
+{
+  "question": "chatterbox",
+  "options": [
+    "Talkative, chatty, noisy",
+    "Silent, quiet, calm",
+    "Shy, slow, unsure",
+    "Late, tired, lost"
+  ],
+  "answer": "Talkative, chatty, noisy"
+},
+{
+  "question": "cheapstake",
+  "options": [
+    "Stingy, frugal, miser",
+    "Rich, generous, spender",
+    "Greedy, hungry, selfish",
+    "Lazy, careless, unaware"
+  ],
+  "answer": "Stingy, frugal, miser"
+},
+{
+  "question": "social butterfly",
+  "options": [
+    "Outgoing, friendly, popular",
+    "Quiet, shy, withdrawn",
+    "Focused, serious, dull",
+    "Fast, smart, sharp"
+  ],
+  "answer": "Outgoing, friendly, popular"
+},
+{
+  "question": "loner",
+  "options": [
+    "Isolated, solitary, introvert",
+    "Talkative, loud, active",
+    "Friendly, kind, helpful",
+    "Happy, proud, lucky"
+  ],
+  "answer": "Isolated, solitary, introvert"
+},
+{
+  "question": "slacker",
+  "options": [
+    "Lazy, careless, unmotivated",
+    "Hardworking, loyal, strong",
+    "Brave, fast, ready",
+    "Late, weak, lost"
+  ],
+  "answer": "Lazy, careless, unmotivated"
+},
+{
+  "question": "just a hunch",
+  "options": [
+    "Feeling, guess, instinct",
+    "Proof, evidence, logic",
+    "Plan, scheme, trick",
+    "Thought, idea, dream"
+  ],
+  "answer": "Feeling, guess, instinct"
+},
+{
+  "question": "more holes than Swiss cheese",
+  "options": [
+    "Flawed, broken, weak",
+    "Tight, clean, solid",
+    "Full, neat, fixed",
+    "Sharp, cold, fresh"
+  ],
+  "answer": "Flawed, broken, weak"
+},
+{
+  "question": "backseat driver",
+  "options": [
+    "Bossy, interfering, nagging",
+    "Quiet, peaceful, calm",
+    "Shy, small, afraid",
+    "Fast, reckless, angry"
+  ],
+  "answer": "Bossy, interfering, nagging"
+},
+{
+  "question": "hit the brakes",
+  "options": [
+    "Stop, slow, halt",
+    "Go, drive, move",
+    "Wait, pause, rest",
+    "Run, rush, escape"
+  ],
+  "answer": "Stop, slow, halt"
+},
+{
+  "question": "hit the road",
+  "options": [
+    "Leave, depart, go",
+    "Stop, settle, wait",
+    "Rest, sleep, eat",
+    "Fight, yell, argue"
+  ],
+  "answer": "Leave, depart, go"
+},
+{
+  "question": "altruist",
+  "options": [
+    "Selfless, generous, kind",
+    "Mean, selfish, rude",
+    "Weak, tired, confused",
+    "Rich, proud, loud"
+  ],
+  "answer": "Selfless, generous, kind"
+},
+{
+  "question": "sycophant",
+  "options": [
+    "Flatterer, follower, suck-up",
+    "Leader, fighter, rebel",
+    "Thinker, critic, judge",
+    "Hero, savior, helper"
+  ],
+  "answer": "Flatterer, follower, suck-up"
+},
+{
+  "question": "philandered",
+  "options": [
+    "Cheated, flirted, betrayed",
+    "Loved, married, trusted",
+    "Laughed, danced, smiled",
+    "Helped, supported, guided"
+  ],
+  "answer": "Cheated, flirted, betrayed"
+},
+{
+  "question": "perspicacious",
+  "options": [
+    "Insightful, sharp, clever",
+    "Dull, slow, lazy",
+    "Friendly, sweet, quiet",
+    "Kind, proud, brave"
+  ],
+  "answer": "Insightful, sharp, clever"
+},
+{
+  "question": "munificent",
+  "options": [
+    "Generous, giving, kind",
+    "Mean, stingy, greedy",
+    "Shy, calm, quiet",
+    "Loud, angry, rude"
+  ],
+  "answer": "Generous, giving, kind"
+},
+{
+  "question": "impecunious",
+  "options": [
+    "Poor, broke, penniless",
+    "Rich, wealthy, loaded",
+    "Tired, late, old",
+    "Shy, weird, funny"
+  ],
+  "answer": "Poor, broke, penniless"
+},
+{
+  "question": "interansigent",
+  "options": [
+    "Stubborn, unyielding, rigid",
+    "Flexible, kind, soft",
+    "Helpful, weak, lazy",
+    "Afraid, confused, small"
+  ],
+  "answer": "Stubborn, unyielding, rigid"
+},
+{
+  "question": "pusillanimous",
+  "options": [
+    "Cowardly, timid, fearful",
+    "Brave, bold, daring",
+    "Tough, strong, loud",
+    "Clever, fast, smart"
+  ],
+  "answer": "Cowardly, timid, fearful"
+},
+{
+  "question": "I need to make used for section in the Multiple choice link",
+  "options": [
+    "Create, organize, apply",
+    "Break, forget, leave",
+    "Erase, damage, ruin",
+    "Hide, sneak, avoid"
+  ],
+  "answer": "Create, organize, apply"
+},
+{
+  "question": "riff-raff",
+  "options": [
+    "Low-class, troublemakers, unwanted",
+    "Guests, friends, stars",
+    "Leaders, heroes, winners",
+    "Workers, builders, thinkers"
+  ],
+  "answer": "Low-class, troublemakers, unwanted"
+},
+{
+  "question": "cake walk",
+  "options": [
+    "Easy, simple, effortless",
+    "Hard, rough, painful",
+    "Long, slow, heavy",
+    "Fast, confusing, tough"
+  ],
+  "answer": "Easy, simple, effortless"
+},
+{
+  "question": "headscarf",
+  "options": [
+    "Scarf, covering, wrap",
+    "Hat, helmet, band",
+    "Coat, glove, boot",
+    "Dress, belt, jacket"
+  ],
+  "answer": "Scarf, covering, wrap"
+},
+{
+  "question": "Casual",
+  "options": [
+    "Relaxed, informal, easygoing",
+    "Strict, formal, tense",
+    "Quick, quiet, sharp",
+    "Busy, late, hard"
+  ],
+  "answer": "Relaxed, informal, easygoing"
+},
+{
+  "question": "donkey's year",
+  "options": [
+    "Long time, ages, forever",
+    "Short time, second, flash",
+    "Early, quick, soon",
+    "Now, later, never"
+  ],
+  "answer": "Long time, ages, forever"
+},
+{
+  "question": "Playful",
+  "options": [
+    "Fun, lively, cheerful",
+    "Sad, bored, tired",
+    "Quiet, shy, alone",
+    "Rough, mean, rude"
+  ],
+  "answer": "Fun, lively, cheerful"
+},
+{
+  "question": "grab",
+  "options": [
+    "Seize, snatch, take",
+    "Drop, lose, forget",
+    "Send, give, leave",
+    "Push, pull, drag"
+  ],
+  "answer": "Seize, snatch, take"
+},
+{
+  "question": "Not offensive",
+  "options": [
+    "Harmless, polite, acceptable",
+    "Rude, loud, mean",
+    "Dirty, ugly, bad",
+    "Sharp, strong, painful"
+  ],
+  "answer": "Harmless, polite, acceptable"
+},
+{
+  "question": "Grasp",
+  "options": [
+    "Hold, understand, seize",
+    "Drop, ignore, forget",
+    "Throw, move, give",
+    "Close, bend, fold"
+  ],
+  "answer": "Hold, understand, seize"
+},
+{
+  "question": "beeline",
+  "options": [
+    "Direct path, straight, fast",
+    "Circle, loop, curve",
+    "Delay, wait, pause",
+    "Hide, sneak, turn"
+  ],
+  "answer": "Direct path, straight, fast"
+}
+,{
 "question": "jealous",
 "options": [
 "envious, resentful, covetous",
