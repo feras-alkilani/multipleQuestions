@@ -1,5 +1,114 @@
 [
+    {
+    "question": "لوحة السيارة",
+    "options": ["license plate", "headlight", "kick stand", "glove box"],
+    "answer": "license plate"
+  },
   {
+    "question": "ضوء خلفي",
+    "options": ["tail light", "headlight", "witnesses", "kick stand"],
+    "answer": "tail light"
+  },
+  {
+    "question": "ضوء أمامي",
+    "options": ["tail light", "kick stand", "headlight", "glove box"],
+    "answer": "headlight"
+  },
+  {
+    "question": "صندوق التابلوه",
+    "options": ["glove box", "license plate", "tail light", "span"],
+    "answer": "glove box"
+  },
+  {
+    "question": "مسند الدراجة",
+    "options": ["glove box", "kick stand", "tail", "backseat driver"],
+    "answer": "kick stand"
+  },
+  {
+    "question": "صعب الإرضاء",
+    "options": ["finicky", "anxiously", "cheapstake", "chatterbox"],
+    "answer": "finicky"
+  },
+  {
+    "question": "مرة أخرى",
+    "options": ["yet", "premise", "overnight", "backseat driver"],
+    "answer": "yet"
+  },
+  {
+    "question": "الشهود",
+    "options": ["witnesses", "wrecked", "intact", "slacker"],
+    "answer": "witnesses"
+  },
+  {
+    "question": "سليم لم يتضرر",
+    "options": ["wrecked", "intact", "bypass", "diligently"],
+    "answer": "intact"
+  },
+  {
+    "question": "ثنائي الجانب",
+    "options": ["bilateral", "altruist", "sycophant", "riff-raff"],
+    "answer": "bilateral"
+  },
+  {
+    "question": "أنا غاضب منك",
+    "options": ["I am mad at you", "hit the brakes", "just a hunch", "grasp"],
+    "answer": "I am mad at you"
+  },
+  {
+    "question": "دؤوب",
+    "options": ["diligently", "chatterbox", "couch potato", "headscarf"],
+    "answer": "diligently"
+  },
+  {
+    "question": "موسوس / متوتر بقلق",
+    "options": ["anxiously", "yet", "playful", "kick stand"],
+    "answer": "anxiously"
+  },
+  {
+    "question": "زوج خاضع لزوجته",
+    "options": ["henpecked", "slacker", "bookworm", "munificent"],
+    "answer": "henpecked"
+  },
+  {
+    "question": "الراكب المزعج الذي يوجه السائق",
+    "options": ["backseat driver", "hit the road", "headlight", "glove box"],
+    "answer": "backseat driver"
+  },
+  {
+    "question": "انطلق في الطريق",
+    "options": ["hit the road", "hit the brakes", "beeline", "grab"],
+    "answer": "hit the road"
+  },
+  {
+    "question": "سخي جدًا",
+    "options": ["munificent", "cheapstake", "perspicacious", "impecunious"],
+    "answer": "munificent"
+  },
+  {
+    "question": "مدقع الفقر",
+    "options": ["impecunious", "altruist", "workaholic", "grab"],
+    "answer": "impecunious"
+  },
+  {
+    "question": "جبان جدًا",
+    "options": ["pusillanimous", "sycophant", "bookworm", "tail"],
+    "answer": "pusillanimous"
+  },
+  {
+    "question": "اتجاه مباشر وسريع",
+    "options": ["beeline", "grasp", "donkey's year", "span"],
+    "answer": "beeline"
+  },
+  {
+    "question": "يمسك / يختطف",
+    "options": ["grab", "grasp", "span", "wrecked"],
+    "answer": "grab"
+  },
+  {
+    "question": "منذ زمن طويل جدًا",
+    "options": ["donkey's year", "overnight", "yet", "backseat driver"],
+    "answer": "donkey's year"
+  },{
     "question": "يمسك بقوة / يفهم",
     "options": ["grasp", "grab", "playful", "span"],
     "answer": "grasp"
