@@ -1,5 +1,174 @@
 [
   {
+    "question": "عالِق",
+    "options": ["firmly", "stuck", "force", "end up"],
+    "answer": "stuck"
+  },
+  {
+    "question": "بحزم",
+    "options": ["syllable", "lean", "firmly", "territory"],
+    "answer": "firmly"
+  },
+  {
+    "question": "يجبر",
+    "options": ["force", "voluntary", "lean", "guess"],
+    "answer": "force"
+  },
+  {
+    "question": "يفرض / يطبق (قانون، قواعد)",
+    "options": ["anticipate", "enforce", "forego", "draw"],
+    "answer": "enforce"
+  },
+  {
+    "question": "إقليم",
+    "options": ["territory", "application", "guess", "syllable"],
+    "answer": "territory"
+  },
+  {
+    "question": "يهدف إلى",
+    "options": ["aiming for", "adjust", "draw", "wind surf"],
+    "answer": "aiming for"
+  },
+  {
+    "question": "يتذكر",
+    "options": ["remember back", "guess", "anticipate", "eventually"],
+    "answer": "remember back"
+  },
+  {
+    "question": "يركب الأمواج باستخدام شراع",
+    "options": ["wind surf", "draw a picture", "anticipate", "hails"],
+    "answer": "wind surf"
+  },
+  {
+    "question": "النطق",
+    "options": ["syllable", "Pronunciation", "aardvark", "adjust"],
+    "answer": "Pronunciation"
+  },
+  {
+    "question": "مقطع لفظي",
+    "options": ["firmly", "syllable", "draw", "lean"],
+    "answer": "syllable"
+  },
+  {
+    "question": "يميل",
+    "options": ["lean", "draw", "precede", "voluntary"],
+    "answer": "lean"
+  },
+  {
+    "question": "يسبق",
+    "options": ["precede", "anticipate", "draw attention", "eventually"],
+    "answer": "precede"
+  },
+  {
+    "question": "يتخلى عن / يسبق طواعية",
+    "options": ["forego", "anticipate", "voluntary", "guess"],
+    "answer": "forego"
+  },
+  {
+    "question": "يتوقع",
+    "options": ["anticipate", "guess", "precede", "intensity"],
+    "answer": "anticipate"
+  },
+  {
+    "question": "ينتهي به المطاف",
+    "options": ["end up", "lean", "guess", "amid"],
+    "answer": "end up"
+  },
+  {
+    "question": "في نهاية المطاف",
+    "options": ["eventually", "beforehand", "voluntary", "tweak"],
+    "answer": "eventually"
+  },
+  {
+    "question": "يُعدّل تعديلًا بسيطًا / يضبط قليلاً",
+    "options": ["tweak", "adjust", "examine", "aiming for"],
+    "answer": "tweak"
+  },
+  {
+    "question": "يضبط / يكيف",
+    "options": ["adjust", "draw", "guess", "anticipate"],
+    "answer": "adjust"
+  },
+  {
+    "question": "يفحص",
+    "options": ["examine", "forego", "lean", "intensity"],
+    "answer": "examine"
+  },
+  {
+    "question": "طلب / تقديم",
+    "options": ["application", "beforhand", "aiming for", "eventually"],
+    "answer": "application"
+  },
+  {
+    "question": "مسبقًا",
+    "options": ["beforhand", "anticipate", "draw", "lean"],
+    "answer": "beforhand"
+  },
+  {
+    "question": "وسط / في خضم",
+    "options": ["amid", "guess", "draw", "wind surf"],
+    "answer": "amid"
+  },
+  {
+    "question": "يرسم",
+    "options": ["draw a picture", "draw curtains", "draw sword", "draw cash"],
+    "answer": "draw a picture"
+  },
+  {
+    "question": "يسحب الستائر",
+    "options": ["draw curtains", "draw attention", "draw match", "enforce"],
+    "answer": "draw curtains"
+  },
+  {
+    "question": "يسحب (مالًا)",
+    "options": ["draw cash", "draw sword", "adjust", "eventually"],
+    "answer": "draw cash"
+  },
+  {
+    "question": "يشهر سيفًا",
+    "options": ["draw sword", "draw attention", "draw picture", "lean"],
+    "answer": "draw sword"
+  },
+  {
+    "question": "يجذب انتباه / حشد",
+    "options": ["draw attention", "draw sword", "guess", "anticipate"],
+    "answer": "draw attention"
+  },
+  {
+    "question": "يتعادل (في مباراة)",
+    "options": ["draw match", "guess", "adjust", "precede"],
+    "answer": "draw match"
+  },
+  {
+    "question": "انهار من التعب / غطّ في النوم",
+    "options": ["I crashed as soon as I got home.", "voluntary", "lean", "firmly"],
+    "answer": "I crashed as soon as I got home."
+  },
+  {
+    "question": "طوعي / اختياري",
+    "options": ["voluntary", "force", "adjust", "anticipate"],
+    "answer": "voluntary"
+  },
+  {
+    "question": "شدة",
+    "options": ["intensity", "guess", "anticipate", "wind surf"],
+    "answer": "intensity"
+  },
+  {
+    "question": "يخمن",
+    "options": ["guess", "anticipate", "voluntary", "adjust"],
+    "answer": "guess"
+  },
+  {
+    "question": "آردفارك (نوع من الحيوانات)",
+    "options": ["aardvark", "syllable", "draw", "territory"],
+    "answer": "aardvark"
+  },
+  {
+    "question": "يأتي من / يتساقط (مطر / برد)",
+    "options": ["hails", "anticipate", "guess", "draw match"],
+    "answer": "hails"
+  },{
     "question": "ضميري مرتاح",
     "options": [
       "guilty",
