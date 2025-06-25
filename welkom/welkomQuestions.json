@@ -1,5 +1,1244 @@
 [
+    {
+    "question": "de abortus",
+    "options": [
+      "abortion",
+      "president",
+      "prime minister",
+      "liberal"
+    ],
+    "answer": "abortion"
+  },
   {
+    "question": "het actief kiesrecht",
+    "options": [
+      "to distribute, to divide",
+      "special",
+      "family",
+      "to be entitled to vote"
+    ],
+    "answer": "to be entitled to vote"
+  },
+  {
+    "question": "het artikel",
+    "options": [
+      "right",
+      "president",
+      "article",
+      "party"
+    ],
+    "answer": "article"
+  },
+  {
+    "question": "de belasting",
+    "options": [
+      "special",
+      "tax(es)",
+      "majority",
+      "passive suffrage"
+    ],
+    "answer": "tax(es)"
+  },
+  {
+    "question": "besnijden",
+    "options": [
+      "municipality, city, local council",
+      "abortion",
+      "safety, security",
+      "to circumcise"
+    ],
+    "answer": "to circumcise"
+  },
+  {
+    "question": "besturen",
+    "options": [
+      "to govern, to run",
+      "city/town council",
+      "judiciary",
+      "abortion"
+    ],
+    "answer": "to govern, to run"
+  },
+  {
+    "question": "het bestuur",
+    "options": [
+      "face",
+      "administration",
+      "law",
+      "left, left-wing"
+    ],
+    "answer": "administration"
+  },
+  {
+    "question": "de bibliotheek",
+    "options": [
+      "library",
+      "prince",
+      "family",
+      "Queen’s speech"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "de bijbel",
+    "options": [
+      "to agree (with)",
+      "article",
+      "executive",
+      "bible"
+    ],
+    "answer": "bible"
+  },
+  {
+    "question": "bijzonder",
+    "options": [
+      "advertisement",
+      "special",
+      "official",
+      "to build"
+    ],
+    "answer": "special"
+  },
+  {
+    "question": "bouwen",
+    "options": [
+      "to build",
+      "state",
+      "island",
+      "socialist, leftist"
+    ],
+    "answer": "to build"
+  },
+  {
+    "question": "de burgemeester",
+    "options": [
+      "mayor",
+      "to agree (with)",
+      "separation of church and state",
+      "liberal"
+    ],
+    "answer": "mayor"
+  },
+  {
+    "question": "christendemocratisch",
+    "options": [
+      "pencil",
+      "Christian Democratic",
+      "freedom of education",
+      "opposition"
+    ],
+    "answer": "Christian Democratic"
+  },
+  {
+    "question": "de commissaris van de Koning",
+    "options": [
+      "Royal Commissioner, king’s provincial representative, provincial governor",
+      "signature",
+      "proposal",
+      "opinion"
+    ],
+    "answer": "Royal Commissioner, king’s provincial representative, provincial governor"
+  },
+  {
+    "question": "conservatief",
+    "options": [
+      "administration",
+      "freedom of religion",
+      "member",
+      "conservative"
+    ],
+    "answer": "conservative"
+  },
+  {
+    "question": "de deelgemeente",
+    "options": [
+      "liberal",
+      "submunicipality",
+      "opposition",
+      "province"
+    ],
+    "answer": "submunicipality"
+  },
+  {
+    "question": "de deelgemeenteraad",
+    "options": [
+      "Royal Commissioner, king’s provincial representative, provincial governor",
+      "elections",
+      "council of the submunicipality",
+      "democracy"
+    ],
+    "answer": "council of the submunicipality"
+  },
+  {
+    "question": "de democratie",
+    "options": [
+      "person heading the list of candidates",
+      "democracy",
+      "referendum",
+      "official"
+    ],
+    "answer": "democracy"
+  },
+  {
+    "question": "de demonstratie",
+    "options": [
+      "state",
+      "to read (out aloud) to",
+      "demonstration, protest march",
+      "article"
+    ],
+    "answer": "demonstration, protest march"
+  },
+  {
+    "question": "de dijk",
+    "options": [
+      "dyke",
+      "to build",
+      "separation of powers",
+      "bible"
+    ],
+    "answer": "dyke"
+  },
+  {
+    "question": "de discriminatie",
+    "options": [
+      "discrimination",
+      "economy",
+      "town hall",
+      "special"
+    ],
+    "answer": "discrimination"
+  },
+  {
+    "question": "de economie",
+    "options": [
+      "economy",
+      "environment",
+      "salary",
+      "province"
+    ],
+    "answer": "economy"
+  },
+  {
+    "question": "eens (zijn met)",
+    "options": [
+      "member",
+      "Royal Commissioner, king’s provincial representative, provincial governor",
+      "to agree (with)",
+      "administration"
+    ],
+    "answer": "to agree (with)"
+  },
+  {
+    "question": "het eiland",
+    "options": [
+      "library",
+      "test",
+      "to go down",
+      "island"
+    ],
+    "answer": "island"
+  },
+  {
+    "question": "de financiën",
+    "options": [
+      "meeting",
+      "treasury, finances",
+      "vote",
+      "to form, to constitute"
+    ],
+    "answer": "treasury, finances"
+  },
+  {
+    "question": "de gemeente",
+    "options": [
+      "municipality, city, local council",
+      "government benefit/payment",
+      "seat",
+      "to form, to constitute"
+    ],
+    "answer": "municipality, city, local council"
+  },
+  {
+    "question": "de gemeenteraad",
+    "options": [
+      "city/town council",
+      "to protest",
+      "task, responsibility",
+      "passive suffrage"
+    ],
+    "answer": "city/town council"
+  },
+  {
+    "question": "het gezicht",
+    "options": [
+      "religion",
+      "opinion",
+      "opposition",
+      "face"
+    ],
+    "answer": "face"
+  },
+  {
+    "question": "het gezin",
+    "options": [
+      "family",
+      "religion",
+      "abortion",
+      "freedom"
+    ],
+    "answer": "family"
+  },
+  {
+    "question": "de godsdienst",
+    "options": [
+      "religion",
+      "city/town council",
+      "State Secretary, Minister of State, Assistant Secretary",
+      "party"
+    ],
+    "answer": "religion"
+  },
+  {
+    "question": "de gouden koets",
+    "options": [
+      "headscarf",
+      "golden coach",
+      "minister",
+      "treasury, finances"
+    ],
+    "answer": "golden coach"
+  },
+  {
+    "question": "de grondwet",
+    "options": [
+      "program",
+      "municipality, city, local council",
+      "constitution",
+      "complaint"
+    ],
+    "answer": "constitution"
+  },
+  {
+    "question": "de handtekening",
+    "options": [
+      "municipality, city, local council",
+      "economy",
+      "socialist, leftist",
+      "signature"
+    ],
+    "answer": "signature"
+  },
+  {
+    "question": "de homo",
+    "options": [
+      "public",
+      "homosexual",
+      "abortion",
+      "law"
+    ],
+    "answer": "homosexual"
+  },
+  {
+    "question": "de hoofddoek",
+    "options": [
+      "government",
+      "headscarf",
+      "Christian Democratic",
+      "law"
+    ],
+    "answer": "headscarf"
+  },
+  {
+    "question": "het identiteitsbewijs",
+    "options": [
+      "province",
+      "to protest",
+      "council of the submunicipality",
+      "proof of identity (identity card or passport)"
+    ],
+    "answer": "proof of identity (identity card or passport)"
+  },
+  {
+    "question": "in strijd met",
+    "options": [
+      "treasury, finances",
+      "minister",
+      "president",
+      "goes against"
+    ],
+    "answer": "goes against"
+  },
+  {
+    "question": "de inwoner",
+    "options": [
+      "inhabitant",
+      "socialist, leftist",
+      "elections",
+      "Islamic"
+    ],
+    "answer": "inhabitant"
+  },
+  {
+    "question": "islamitisch",
+    "options": [
+      "seat",
+      "to protest",
+      "Islamic",
+      "to agree (with)"
+    ],
+    "answer": "Islamic"
+  },
+  {
+    "question": "het kabinet",
+    "options": [
+      "coalition agreement",
+      "cabinet",
+      "island",
+      "seat"
+    ],
+    "answer": "cabinet"
+  },
+  {
+    "question": "het kiesrecht",
+    "options": [
+      "suffrage",
+      "meeting",
+      "coalition agreement",
+      "Queen’s speech"
+    ],
+    "answer": "suffrage"
+  },
+  {
+    "question": "de klacht",
+    "options": [
+      "complaint",
+      "to build",
+      "law",
+      "safety, security"
+    ],
+    "answer": "complaint"
+  },
+  {
+    "question": "het koninkrijk",
+    "options": [
+      "Islamic",
+      "monarchy, kingdom",
+      "province",
+      "official"
+    ],
+    "answer": "monarchy, kingdom"
+  },
+  {
+    "question": "kwetsend",
+    "options": [
+      "government",
+      "air",
+      "offensive, hurtful",
+      "to execute"
+    ],
+    "answer": "offensive, hurtful"
+  },
+  {
+    "question": "legaal",
+    "options": [
+      "to read (out aloud) to",
+      "legal",
+      "library",
+      "monarchy, kingdom"
+    ],
+    "answer": "legal"
+  },
+  {
+    "question": "de leider",
+    "options": [
+      "to form, to constitute",
+      "leader",
+      "water board",
+      "administration"
+    ],
+    "answer": "leader"
+  },
+  {
+    "question": "liberaal",
+    "options": [
+      "government",
+      "environment",
+      "liberal",
+      "result"
+    ],
+    "answer": "liberal"
+  },
+  {
+    "question": "het lid",
+    "options": [
+      "State Secretary, Minister of State, Assistant Secretary",
+      "member",
+      "monarchy, kingdom",
+      "on behalf of"
+    ],
+    "answer": "member"
+  },
+  {
+    "question": "de lijsttrekker",
+    "options": [
+      "possible",
+      "person heading the list of candidates",
+      "strict",
+      "demonstration, protest march"
+    ],
+    "answer": "person heading the list of candidates"
+  },
+  {
+    "question": "links (politiek)",
+    "options": [
+      "elections",
+      "headscarf",
+      "left, left-wing",
+      "government"
+    ],
+    "answer": "left, left-wing"
+  },
+  {
+    "question": "de lucht",
+    "options": [
+      "air",
+      "administration",
+      "party",
+      "social democratic"
+    ],
+    "answer": "air"
+  },
+  {
+    "question": "de macht",
+    "options": [
+      "golden coach",
+      "religion",
+      "power",
+      "freedom of opinion"
+    ],
+    "answer": "power"
+  },
+  {
+    "question": "de meerderheid",
+    "options": [
+      "seat",
+      "majority",
+      "Christian Democratic",
+      "task, responsibility"
+    ],
+    "answer": "majority"
+  },
+  {
+    "question": "de mening",
+    "options": [
+      "province",
+      "tax(es)",
+      "to execute",
+      "opinion"
+    ],
+    "answer": "opinion"
+  },
+  {
+    "question": "het milieu",
+    "options": [
+      "council of the submunicipality",
+      "vote",
+      "strict",
+      "environment"
+    ],
+    "answer": "environment"
+  },
+  {
+    "question": "de minister",
+    "options": [
+      "Queen’s speech",
+      "minister",
+      "member",
+      "elections"
+    ],
+    "answer": "minister"
+  },
+  {
+    "question": "de minister-president",
+    "options": [
+      "prime minister",
+      "to build",
+      "pencil",
+      "dyke"
+    ],
+    "answer": "prime minister"
+  },
+  {
+    "question": "mogelijk",
+    "options": [
+      "strike",
+      "to distribute, to divide",
+      "island",
+      "possible"
+    ],
+    "answer": "possible"
+  },
+  {
+    "question": "namens",
+    "options": [
+      "salary",
+      "on behalf of",
+      "right",
+      "prince"
+    ],
+    "answer": "on behalf of"
+  },
+  {
+    "question": "de nationaliteit",
+    "options": [
+      "nationality",
+      "politics",
+      "treasury, finances",
+      "headscarf"
+    ],
+    "answer": "nationality"
+  },
+  {
+    "question": "officieel",
+    "options": [
+      "minister",
+      "official",
+      "separation of church and state",
+      "to form, to constitute"
+    ],
+    "answer": "official"
+  },
+  {
+    "question": "omlaaggaan",
+    "options": [
+      "economy",
+      "executive",
+      "possible",
+      "to go down"
+    ],
+    "answer": "to go down"
+  },
+  {
+    "question": "het onderwijs",
+    "options": [
+      "water board",
+      "president",
+      "province",
+      "education"
+    ],
+    "answer": "education"
+  },
+  {
+    "question": "openbaar",
+    "options": [
+      "freedom of education",
+      "leader",
+      "public",
+      "possible"
+    ],
+    "answer": "public"
+  },
+  {
+    "question": "de oppositie",
+    "options": [
+      "member",
+      "Christian Democratic",
+      "opposition",
+      "strict"
+    ],
+    "answer": "opposition"
+  },
+  {
+    "question": "het passief kiesrecht",
+    "options": [
+      "conservative",
+      "passive suffrage",
+      "homosexual",
+      "left, left-wing"
+    ],
+    "answer": "passive suffrage"
+  },
+  {
+    "question": "het parlement",
+    "options": [
+      "task, responsibility",
+      "parliament",
+      "air",
+      "environment"
+    ],
+    "answer": "parliament"
+  },
+  {
+    "question": "de partij",
+    "options": [
+      "homosexual",
+      "freedom",
+      "party",
+      "legal"
+    ],
+    "answer": "party"
+  },
+  {
+    "question": "het plan",
+    "options": [
+      "leader",
+      "cabinet",
+      "to strike",
+      "plan"
+    ],
+    "answer": "plan"
+  },
+  {
+    "question": "de politiek",
+    "options": [
+      "to agree (with)",
+      "opposition",
+      "politics",
+      "result"
+    ],
+    "answer": "politics"
+  },
+  {
+    "question": "het potlood",
+    "options": [
+      "pencil",
+      "suffrage",
+      "conservative",
+      "socialist, leftist"
+    ],
+    "answer": "pencil"
+  },
+  {
+    "question": "de president",
+    "options": [
+      "president",
+      "parliament",
+      "referendum",
+      "salary"
+    ],
+    "answer": "president"
+  },
+  {
+    "question": "de prins",
+    "options": [
+      "air",
+      "prince",
+      "to build",
+      "separation of church and state"
+    ],
+    "answer": "prince"
+  },
+  {
+    "question": "de prinses",
+    "options": [
+      "princess",
+      "power",
+      "strict",
+      "right, right-wing"
+    ],
+    "answer": "princess"
+  },
+  {
+    "question": "het programma",
+    "options": [
+      "demonstration, protest march",
+      "to agree (with)",
+      "Queen’s speech",
+      "program"
+    ],
+    "answer": "program"
+  },
+  {
+    "question": "progressief",
+    "options": [
+      "to govern, to run",
+      "dyke",
+      "progressive",
+      "economy"
+    ],
+    "answer": "progressive"
+  },
+  {
+    "question": "protesteren",
+    "options": [
+      "to protest",
+      "discrimination",
+      "freedom of education",
+      "monarchy, kingdom"
+    ],
+    "answer": "to protest"
+  },
+  {
+    "question": "de provincie",
+    "options": [
+      "province",
+      "to agree (with)",
+      "Christian Democratic",
+      "education"
+    ],
+    "answer": "province"
+  },
+  {
+    "question": "het recht",
+    "options": [
+      "progressive",
+      "state",
+      "right",
+      "power"
+    ],
+    "answer": "right"
+  },
+  {
+    "question": "de rechter",
+    "options": [
+      "pencil",
+      "judge, magistrate",
+      "president",
+      "vote"
+    ],
+    "answer": "judge, magistrate"
+  },
+  {
+    "question": "de rechterlijke macht",
+    "options": [
+      "freedom of religion",
+      "judiciary",
+      "task, responsibility",
+      "to read (out aloud) to"
+    ],
+    "answer": "judiciary"
+  },
+  {
+    "question": "rechts (politiek)",
+    "options": [
+      "opposition",
+      "law",
+      "town hall",
+      "right, right-wing"
+    ],
+    "answer": "right, right-wing"
+  },
+  {
+    "question": "de reclame",
+    "options": [
+      "member",
+      "social democratic",
+      "advertisement",
+      "freedom"
+    ],
+    "answer": "advertisement"
+  },
+  {
+    "question": "het referendum",
+    "options": [
+      "to govern, to run",
+      "referendum",
+      "legal",
+      "prime minister"
+    ],
+    "answer": "referendum"
+  },
+  {
+    "question": "het regeerakkoord",
+    "options": [
+      "coalition agreement",
+      "advertisement",
+      "to agree (with)",
+      "Christian Democratic"
+    ],
+    "answer": "coalition agreement"
+  },
+  {
+    "question": "regeren",
+    "options": [
+      "to govern",
+      "to distribute, to divide",
+      "prime minister",
+      "president"
+    ],
+    "answer": "to govern"
+  },
+  {
+    "question": "de regering",
+    "options": [
+      "government",
+      "council of the submunicipality",
+      "goes against",
+      "on behalf of"
+    ],
+    "answer": "government"
+  },
+  {
+    "question": "het salaris",
+    "options": [
+      "pencil",
+      "to be entitled to vote",
+      "salary",
+      "Christian Democratic"
+    ],
+    "answer": "salary"
+  },
+  {
+    "question": "de scheiding tussen kerk en staat",
+    "options": [
+      "party",
+      "plan",
+      "Queen’s speech",
+      "separation of church and state"
+    ],
+    "answer": "separation of church and state"
+  },
+  {
+    "question": "de scheiding van machten",
+    "options": [
+      "pencil",
+      "dyke",
+      "princess",
+      "separation of powers"
+    ],
+    "answer": "separation of powers"
+  },
+  {
+    "question": "sociaaldemocratisch",
+    "options": [
+      "cabinet",
+      "judge, magistrate",
+      "state",
+      "social democratic"
+    ],
+    "answer": "social democratic"
+  },
+  {
+    "question": "de socialist",
+    "options": [
+      "treasury, finances",
+      "to strike",
+      "referendum",
+      "socialist, leftist"
+    ],
+    "answer": "socialist, leftist"
+  },
+  {
+    "question": "socialistisch",
+    "options": [
+      "to distribute, to divide",
+      "homosexual",
+      "socialist, leftist",
+      "freedom of education"
+    ],
+    "answer": "socialist, leftist"
+  },
+  {
+    "question": "de staat",
+    "options": [
+      "ballot",
+      "judge, magistrate",
+      "homosexual",
+      "state"
+    ],
+    "answer": "state"
+  },
+  {
+    "question": "de staatssecretaris",
+    "options": [
+      "State Secretary, Minister of State, Assistant Secretary",
+      "water board",
+      "to circumcise",
+      "cabinet"
+    ],
+    "answer": "State Secretary, Minister of State, Assistant Secretary"
+  },
+  {
+    "question": "het stadhuis",
+    "options": [
+      "test",
+      "vote",
+      "town hall",
+      "person heading the list of candidates"
+    ],
+    "answer": "town hall"
+  },
+  {
+    "question": "staken",
+    "options": [
+      "executive",
+      "right",
+      "to strike",
+      "water board"
+    ],
+    "answer": "to strike"
+  },
+  {
+    "question": "de staking",
+    "options": [
+      "headscarf",
+      "library",
+      "strike",
+      "golden coach"
+    ],
+    "answer": "strike"
+  },
+  {
+    "question": "de stem",
+    "options": [
+      "princess",
+      "to agree (with)",
+      "vote",
+      "seat"
+    ],
+    "answer": "vote"
+  },
+  {
+    "question": "het stembiljet",
+    "options": [
+      "ballot",
+      "city/town council",
+      "princess",
+      "minister"
+    ],
+    "answer": "ballot"
+  },
+  {
+    "question": "stemmen",
+    "options": [
+      "to strike",
+      "right",
+      "prime minister",
+      "to vote"
+    ],
+    "answer": "to vote"
+  },
+  {
+    "question": "streng",
+    "options": [
+      "strict",
+      "separation of church and state",
+      "pencil",
+      "princess"
+    ],
+    "answer": "strict"
+  },
+  {
+    "question": "de taak",
+    "options": [
+      "freedom of opinion",
+      "constitution",
+      "program",
+      "task, responsibility"
+    ],
+    "answer": "task, responsibility"
+  },
+  {
+    "question": "de test",
+    "options": [
+      "homosexual",
+      "signature",
+      "pencil",
+      "test"
+    ],
+    "answer": "test"
+  },
+  {
+    "question": "de troonrede",
+    "options": [
+      "offensive, hurtful",
+      "ballot",
+      "strike",
+      "Queen’s speech"
+    ],
+    "answer": "Queen’s speech"
+  },
+  {
+    "question": "de uitkering",
+    "options": [
+      "to distribute, to divide",
+      "water board",
+      "government benefit/payment",
+      "member"
+    ],
+    "answer": "government benefit/payment"
+  },
+  {
+    "question": "de uitslag",
+    "options": [
+      "result",
+      "politics",
+      "prime minister",
+      "Islamic"
+    ],
+    "answer": "result"
+  },
+  {
+    "question": "uitvoeren",
+    "options": [
+      "on behalf of",
+      "to execute",
+      "right",
+      "parliament"
+    ],
+    "answer": "to execute"
+  },
+  {
+    "question": "de uitvoerende macht",
+    "options": [
+      "judge, magistrate",
+      "legal",
+      "executive",
+      "result"
+    ],
+    "answer": "executive"
+  },
+  {
+    "question": "de veiligheid",
+    "options": [
+      "government benefit/payment",
+      "power",
+      "freedom",
+      "safety, security"
+    ],
+    "answer": "safety, security"
+  },
+  {
+    "question": "verdelen",
+    "options": [
+      "Christian Democratic",
+      "to distribute, to divide",
+      "ballot",
+      "majority"
+    ],
+    "answer": "to distribute, to divide"
+  },
+  {
+    "question": "de vergadering",
+    "options": [
+      "opinion",
+      "result",
+      "state",
+      "meeting"
+    ],
+    "answer": "meeting"
+  },
+  {
+    "question": "de verkiezing(en)",
+    "options": [
+      "elections",
+      "environment",
+      "separation of church and state",
+      "State Secretary, Minister of State, Assistant Secretary"
+    ],
+    "answer": "elections"
+  },
+  {
+    "question": "voorlezen",
+    "options": [
+      "complaint",
+      "Royal Commissioner, king’s provincial representative, provincial governor",
+      "to read (out aloud) to",
+      "goes against"
+    ],
+    "answer": "to read (out aloud) to"
+  },
+  {
+    "question": "het voorstel",
+    "options": [
+      "proposal",
+      "Islamic",
+      "library",
+      "socialist, leftist"
+    ],
+    "answer": "proposal"
+  },
+  {
+    "question": "vormen",
+    "options": [
+      "majority",
+      "air",
+      "bible",
+      "to form, to constitute"
+    ],
+    "answer": "to form, to constitute"
+  },
+  {
+    "question": "de vrijheid",
+    "options": [
+      "freedom",
+      "government",
+      "democracy",
+      "homosexual"
+    ],
+    "answer": "freedom"
+  },
+  {
+    "question": "de vrijheid van godsdienst",
+    "options": [
+      "social democratic",
+      "freedom of religion",
+      "socialist, leftist",
+      "prince"
+    ],
+    "answer": "freedom of religion"
+  },
+  {
+    "question": "de vrijheid van meningsuiting",
+    "options": [
+      "island",
+      "demonstration, protest march",
+      "freedom of opinion",
+      "left, left-wing"
+    ],
+    "answer": "freedom of opinion"
+  },
+  {
+    "question": "de vrijheid van onderwijs",
+    "options": [
+      "separation of church and state",
+      "freedom of education",
+      "power",
+      "elections"
+    ],
+    "answer": "freedom of education"
+  },
+  {
+    "question": "het waterschap",
+    "options": [
+      "submunicipality",
+      "water board",
+      "bible",
+      "to govern, to run"
+    ],
+    "answer": "water board"
+  },
+  {
+    "question": "de wet",
+    "options": [
+      "law",
+      "city/town council",
+      "passive suffrage",
+      "princess"
+    ],
+    "answer": "law"
+  },
+  {
+    "question": "de wetgevende macht",
+    "options": [
+      "program",
+      "person heading the list of candidates",
+      "prime minister",
+      "legislature"
+    ],
+    "answer": "legislature"
+  },
+  {
+    "question": "de zetel",
+    "options": [
+      "administration",
+      "opinion",
+      "seat",
+      "safety, security"
+    ],
+    "answer": "seat"
+  },{
     "question": "het afval",
     "options": [
       "star",
