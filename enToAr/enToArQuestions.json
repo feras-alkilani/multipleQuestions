@@ -1,5 +1,334 @@
 [
        {
+    "question": "jealous",
+    "options": ["غيور", "كسول", "مرح", "هادئ"],
+    "answer": "غيور"
+  },
+  {
+    "question": "get your ducks in a row",
+    "options": [
+      "رتب أمورك",
+      "اشتر طيور البط",
+      "نام مبكراً",
+      "تجاهل الأمور"
+    ],
+    "answer": "رتب أمورك"
+  },
+  {
+    "question": "whisper",
+    "options": ["همس", "صراخ", "ضحك", "نواح"],
+    "answer": "همس"
+  },
+  {
+    "question": "are you accusing me",
+    "options": [
+      "هل تتهمني؟",
+      "هل تساعدني؟",
+      "هل تكرهني؟",
+      "هل تحبني؟"
+    ],
+    "answer": "هل تتهمني؟"
+  },
+  {
+    "question": "shopaholic",
+    "options": ["مدمن تسوق", "مدمن عمل", "قطة خائفة", "صباحي"],
+    "answer": "مدمن تسوق"
+  },
+  {
+    "question": "workaholic",
+    "options": ["مدمن عمل", "مدمن تسوق", "شخص كسول", "منظم"],
+    "answer": "مدمن عمل"
+  },
+  {
+    "question": "scready-cat",
+    "options": ["قطة خائفة", "قطة ذكية", "قطة كبيرة", "قطة مريضة"],
+    "answer": "قطة خائفة"
+  },
+  {
+    "question": "early bird",
+    "options": ["صباحي", "ليلي", "كسول", "متأخر"],
+    "answer": "صباحي"
+  },
+  {
+    "question": "butterfingers",
+    "options": [
+      "أصابع زبدية (غير ماهر بالإمساك)",
+      "شخص دقيق",
+      "شخص سريع",
+      "شخص قوي"
+    ],
+    "answer": "أصابع زبدية (غير ماهر بالإمساك)"
+  },
+  {
+    "question": "night owl~",
+    "options": ["بومة ليلية", "صباحي", "نهاري", "نائم مبكراً"],
+    "answer": "بومة ليلية"
+  },
+  {
+    "question": "smart cookie",
+    "options": ["شخص ذكي", "شخص غبي", "شخص كسول", "شخص مرح"],
+    "answer": "شخص ذكي"
+  },
+  {
+    "question": "lone wolf",
+    "options": ["ذئب وحيد", "ذئب اجتماعي", "ذئب ضعيف", "ذئب صغير"],
+    "answer": "ذئب وحيد"
+  },
+  {
+    "question": "party animal",
+    "options": ["محب للحفلات", "خجول", "هادئ", "كسول"],
+    "answer": "محب للحفلات"
+  },
+  {
+    "question": "endanger",
+    "options": ["يعرّض للخطر", "ينقذ", "يهتم", "يتجاهل"],
+    "answer": "يعرّض للخطر"
+  },
+  {
+    "question": "threaten",
+    "options": ["يهدد", "يحمي", "يساعد", "يحب"],
+    "answer": "يهدد"
+  },
+  {
+    "question": "notch",
+    "options": ["شق", "سلم", "باب", "نافذة"],
+    "answer": "شق"
+  },
+  {
+    "question": "dent",
+    "options": ["نتوء", "شق", "كسر", "ثقوب"],
+    "answer": "نتوء"
+  },
+  {
+    "question": "hollow",
+    "options": ["مجوف", "صلب", "ثقيل", "صغير"],
+    "answer": "مجوف"
+  },
+  {
+    "question": "nope",
+    "options": ["لا", "نعم", "ربما", "أحياناً"],
+    "answer": "لا"
+  },
+  {
+    "question": "behaves",
+    "options": ["يتصرف", "يتوقف", "ينام", "يأكل"],
+    "answer": "يتصرف"
+  },
+  {
+    "question": "to no avail",
+    "options": [
+      "بدون جدوى",
+      "بنجاح",
+      "بسهولة",
+      "بسرعة"
+    ],
+    "answer": "بدون جدوى"
+  },
+  {
+    "question": "in vain",
+    "options": ["عبثاً", "بنفع", "بحكمة", "بحذر"],
+    "answer": "عبثاً"
+  },
+  {
+    "question": "futile",
+    "options": ["غير مجدي", "نافع", "فعال", "قوي"],
+    "answer": "غير مجدي"
+  },
+  {
+    "question": "guts",
+    "options": ["أمعاء / أحشاء", "شجاعة / جرأة", "ضعف", "خوف"],
+    "answer": "شجاعة / جرأة"
+  },
+  {
+    "question": "salvaged",
+    "options": ["تم إنقاذه", "تم تدميره", "تم نسيانه", "تم بيعه"],
+    "answer": "تم إنقاذه"
+  },
+  {
+    "question": "uranium",
+    "options": ["اليورانيوم", "الذهب", "الحديد", "الفضة"],
+    "answer": "اليورانيوم"
+  },
+  {
+    "question": "casualty",
+    "options": ["ضحية", "منتصر", "شاهد", "عدو"],
+    "answer": "ضحية"
+  },
+  {
+    "question": "forcibly",
+    "options": ["بشكل قسري", "بشكل طوعي", "ببطء", "بسهولة"],
+    "answer": "بشكل قسري"
+  },
+  {
+    "question": "mayoral",
+    "options": ["رئاسي", "برلماني", "محلي", "مدني"],
+    "answer": "رئاسي"
+  },
+  {
+    "question": "Assembly",
+    "options": ["جمعية", "حزب", "مؤسسة", "منظمة"],
+    "answer": "جمعية"
+  },
+  {
+    "question": "exchange",
+    "options": ["تبادل", "استبدال", "شراء", "بيع"],
+    "answer": "تبادل"
+  },
+  {
+    "question": "transmit",
+    "options": ["ينقل", "يستقبل", "يحتفظ", "يهدر"],
+    "answer": "ينقل"
+  },
+  {
+    "question": "variation",
+    "options": ["تفاوت", "تطابق", "تماثل", "ثبات"],
+    "answer": "تفاوت"
+  },
+  {
+    "question": "quantity",
+    "options": ["كمية", "نوعية", "جودة", "سعر"],
+    "answer": "كمية"
+  },
+  {
+    "question": "exposes",
+    "options": ["يكشف", "يغطي", "يحمي", "يخفي"],
+    "answer": "يكشف"
+  },
+  {
+    "question": "consumed",
+    "options": ["مستهلك", "محمي", "صنع", "مخزن"],
+    "answer": "مستهلك"
+  },
+  {
+    "question": "Representational",
+    "options": ["تمثيلي", "واقعي", "تخييلي", "مبهم"],
+    "answer": "تمثيلي"
+  },
+  {
+    "question": "enrich",
+    "options": ["يثري", "يضعف", "يهمل", "يحطم"],
+    "answer": "يثري"
+  },
+  {
+    "question": "resilience",
+    "options": ["المرونة", "الصلابة", "الضعف", "الكسل"],
+    "answer": "المرونة"
+  },
+  {
+    "question": "autoscaling",
+    "options": ["التحجيم التلقائي", "التحجيم اليدوي", "التقليص", "التكبير"],
+    "answer": "التحجيم التلقائي"
+  },
+  {
+    "question": "Tailored",
+    "options": ["مصمم خصيصاً", "عام", "غير مناسب", "مكرر"],
+    "answer": "مصمم خصيصاً"
+  },
+  {
+    "question": "Summing up",
+    "options": ["تلخيص", "توسع", "تفصيل", "مقدمة"],
+    "answer": "تلخيص"
+  },
+  {
+    "question": "Semantic versioning",
+    "options": ["إصدار دلالي", "إصدار بسيط", "إصدار عشوائي", "إصدار غير رسمي"],
+    "answer": "إصدار دلالي"
+  },
+  {
+    "question": "concerned",
+    "options": ["مهتم", "غير مهتم", "مكتئب", "سعيد"],
+    "answer": "مهتم"
+  },
+  {
+    "question": "nominee",
+    "options": ["مرشح", "منتخب", "مستبعد", "مدعو"],
+    "answer": "مرشح"
+  },
+  {
+    "question": "concede",
+    "options": ["يقرّ , تنازل", "يرفض", "ينكر", "يهرب"],
+    "answer": "يقرّ , تنازل"
+  },
+  {
+    "question": "as",
+    "options": ["كما", "ولكن", "لأن", "إذا"],
+    "answer": "كما"
+  },
+  {
+    "question": "to bring this city together",
+    "options": ["لتوحيد هذه المدينة", "لتقسيم المدينة", "لجعل المدينة مزدحمة", "لإغلاق المدينة"],
+    "answer": "لتوحيد هذه المدينة"
+  },
+  {
+    "question": "anal",
+    "options": ["متحفظ", "منفتح", "كسول", "شجاع"],
+    "answer": "متحفظ"
+  },
+  {
+    "question": "precicion",
+    "options": ["دقة", "خطأ", "تخمين", "تقريب"],
+    "answer": "دقة"
+  },
+  {
+    "question": "devoted",
+    "options": ["مخلص", "غير مهتم", "كسول", "معتدل"],
+    "answer": "مخلص"
+  },
+  {
+    "question": "space over tabs",
+    "options": ["استخدام المسافات بدلاً من علامات التبويب", "استخدام التبويب فقط", "استخدام المسافات فقط", "عدم استخدام المسافات أو التبويب"],
+    "answer": "استخدام المسافات بدلاً من علامات التبويب"
+  },
+  {
+    "question": "extent",
+    "options": ["مدى", "نطاق", "نوع", "مكان"],
+    "answer": "مدى"
+  },
+  {
+    "question": "obsess",
+    "options": ["يهوى", "يهمل", "يكره", "ينسى"],
+    "answer": "يهوى"
+  },
+  {
+    "question": "median",
+    "options": ["الوسيط", "الأكبر", "الأصغر", "المتوسط"],
+    "answer": "الوسيط"
+  },
+  {
+    "question": "behind the scence",
+    "options": ["خلف الكواليس", "أمام الجميع", "في العلن", "خارج الموقع"],
+    "answer": "خلف الكواليس"
+  },
+  {
+    "question": "no longer",
+    "options": ["لم يعد", "ما زال", "دائماً", "أحياناً"],
+    "answer": "لم يعد"
+  },
+  {
+    "question": "maze",
+    "options": ["متاهة", "شارع", "ميدان", "جسر"],
+    "answer": "متاهة"
+  },
+  {
+    "question": "skepticism",
+    "options": ["شك", "يقين", "ثقة", "تأكيد"],
+    "answer": "شك"
+  },
+  {
+    "question": "inquiry",
+    "options": ["استفسار", "تجاهل", "رفض", "إجابة"],
+    "answer": "استفسار"
+  },
+  {
+    "question": "orb",
+    "options": ["كرة", "مكعب", "مربع", "مثلث"],
+    "answer": "كرة"
+  },
+  {
+    "question": "globe",
+    "options": ["كرة أرضية", "كرة", "مجسم", "صندوق"],
+    "answer": "كرة أرضية"
+  },{
         "question": "horseplay",
         "options": ["مزاح جسدي عنيف", "قرن حصان", "لعب شطرنج", "حصان خيالي"],
         "answer": "مزاح جسدي عنيف"
