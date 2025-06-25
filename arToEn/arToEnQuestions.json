@@ -1,5 +1,154 @@
 [
   {
+    "question": "يمسك بقوة / يفهم",
+    "options": ["grasp", "grab", "playful", "span"],
+    "answer": "grasp"
+  },
+  {
+    "question": "مبتهج / لعوب",
+    "options": ["playful", "yet", "strictly", "altruist"],
+    "answer": "playful"
+  },
+  {
+    "question": "مُتصلب في الرأي / غير مرن",
+    "options": ["interansigent", "perspicacious", "riff-raff", "bookworm"],
+    "answer": "interansigent"
+  },
+  {
+    "question": "ثاقب البصيرة / شديد الذكاء",
+    "options": ["perspicacious", "pusillanimous", "slacker", "cheapstake"],
+    "answer": "perspicacious"
+  },
+  {
+    "question": "متملق",
+    "options": ["sycophant", "altruist", "chatterbox", "loner"],
+    "answer": "sycophant"
+  },
+  {
+    "question": "زير نساء / خائن في العلاقات",
+    "options": ["philandered", "social butterfly", "cake walk", "diligently"],
+    "answer": "philandered"
+  },
+  {
+    "question": "مُحب للخير / غير أناني",
+    "options": ["altruist", "sycophant", "chatterbox", "kick stand"],
+    "answer": "altruist"
+  },
+  {
+    "question": "حديث لا يتوقف",
+    "options": ["she was goining on and on", "just a hunch", "workaholic", "grab"],
+    "answer": "she was goining on and on"
+  },
+  {
+    "question": "حدس فقط",
+    "options": ["just a hunch", "grasp", "tail", "wrecked"],
+    "answer": "just a hunch"
+  },
+  {
+    "question": "أكثر ثقوبًا من الجبن السويسري",
+    "options": ["more holes than Swiss cheese", "span", "premise", "kick stand"],
+    "answer": "more holes than Swiss cheese"
+  },
+  {
+    "question": "مُحب للمطالعة",
+    "options": ["bookworm", "couch potato", "slacker", "tail"],
+    "answer": "bookworm"
+  },
+  {
+    "question": "كثير الكلام",
+    "options": ["chatterbox", "loner", "hit the brakes", "glove box"],
+    "answer": "chatterbox"
+  },
+  {
+    "question": "انطوائي",
+    "options": ["loner", "chatterbox", "workaholic", "playful"],
+    "answer": "loner"
+  },
+  {
+    "question": "كسول",
+    "options": ["slacker", "strictly", "headlight", "tail light"],
+    "answer": "slacker"
+  },
+  {
+    "question": "شخص مهووس بالعمل",
+    "options": ["workaholic", "couch potato", "bookworm", "span"],
+    "answer": "workaholic"
+  },
+  {
+    "question": "شخص لا يفعل شيئًا سوى مشاهدة التلفاز",
+    "options": ["couch potato", "workaholic", "grab", "kick stand"],
+    "answer": "couch potato"
+  },
+  {
+    "question": "بخيل",
+    "options": ["cheapstake", "munificent", "sycophant", "span"],
+    "answer": "cheapstake"
+  },
+  {
+    "question": "شخص اجتماعي جدًا",
+    "options": ["social butterfly", "loner", "bookworm", "grasp"],
+    "answer": "social butterfly"
+  },
+  {
+    "question": "سهل جدًا",
+    "options": ["cake walk", "hit the road", "grab", "span"],
+    "answer": "cake walk"
+  },
+  {
+    "question": "ناس من الحثالة / المنبوذين",
+    "options": ["riff-raff", "altruist", "cheapstake", "span"],
+    "answer": "riff-raff"
+  },
+  {
+    "question": "وشاح رأس",
+    "options": ["headscarf", "license plate", "grasp", "premise"],
+    "answer": "headscarf"
+  },
+  {
+    "question": "غير رسمي",
+    "options": ["Casual", "strictly", "anxiously", "grasp"],
+    "answer": "Casual"
+  },
+  {
+    "question": "صارم / بشكل صارم",
+    "options": ["strictly", "anxiously", "playful", "glove box"],
+    "answer": "strictly"
+  },
+  {
+    "question": "افتراض / مقدمة",
+    "options": ["premise", "bypass", "span", "hit the brakes"],
+    "answer": "premise"
+  },
+  {
+    "question": "طريق التفافي / يتجاوز",
+    "options": ["bypass", "span", "grasp", "wrecked"],
+    "answer": "bypass"
+  },
+  {
+    "question": "تالف / محطّم",
+    "options": ["wrecked", "intact", "tail light", "donkey's year"],
+    "answer": "wrecked"
+  },
+  {
+    "question": "يمتد / يغطي",
+    "options": ["span", "grasp", "tail", "hit the road"],
+    "answer": "span"
+  },
+  {
+    "question": "ذيل",
+    "options": ["tail", "kick stand", "glove box", "headscarf"],
+    "answer": "tail"
+  },
+  {
+    "question": "قضى الليلة / طوال الليل",
+    "options": ["overnight", "donkey's year", "tail", "span"],
+    "answer": "overnight"
+  },
+  {
+    "question": "اضغط على المكابح",
+    "options": ["hit the brakes", "hit the road", "grab", "beeline"],
+    "answer": "hit the brakes"
+  },{
     "question": "غيرة",
     "options": [
       "jealous",
