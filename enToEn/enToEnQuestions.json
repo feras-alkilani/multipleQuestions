@@ -1,5 +1,244 @@
 [
     {
+  "question": "stuck",
+  "options": [
+    "Trapped, fixed, jammed",
+    "Freed, loose, open",
+    "Float, drift, roam",
+    "Ignore, skip, miss"
+  ],
+  "answer": "Trapped, fixed, jammed"
+},
+{
+  "question": "firmly",
+  "options": [
+    "Securely, tightly, strongly",
+    "Loosely, gently, weakly",
+    "Maybe, possibly, rarely",
+    "Soon, late, early"
+  ],
+  "answer": "Securely, tightly, strongly"
+},
+{
+  "question": "force",
+  "options": [
+    "Compel, pressure, coerce",
+    "Allow, permit, ignore",
+    "Wish, hope, desire",
+    "Wait, hesitate, pause"
+  ],
+  "answer": "Compel, pressure, coerce"
+},
+{
+  "question": "enforce",
+  "options": [
+    "Implement, apply, impose",
+    "Forget, skip, delete",
+    "Ask, suggest, propose",
+    "Hide, conceal, mask"
+  ],
+  "answer": "Implement, apply, impose"
+},
+{
+  "question": "territory",
+  "options": [
+    "Land, area, region",
+    "Tool, item, gadget",
+    "Color, shape, sound",
+    "Plan, goal, dream"
+  ],
+  "answer": "Land, area, region"
+},
+{
+  "question": "aiming for",
+  "options": [
+    "Targeting, pursuing, striving",
+    "Avoiding, fleeing, missing",
+    "Reading, writing, speaking",
+    "Skipping, delaying, ignoring"
+  ],
+  "answer": "Targeting, pursuing, striving"
+},
+{
+  "question": "remember back",
+  "options": [
+    "Recall, reflect, reminisce",
+    "Forget, erase, miss",
+    "Plan, project, create",
+    "Dream, sleep, rest"
+  ],
+  "answer": "Recall, reflect, reminisce"
+},
+{
+  "question": "wind surf",
+  "options": [
+    "Glide, sail, ride",
+    "Stop, fall, sink",
+    "Run, walk, jump",
+    "Push, pull, lift"
+  ],
+  "answer": "Glide, sail, ride"
+},
+{
+  "question": "Pronunciation",
+  "options": [
+    "Speech, articulation, enunciation",
+    "Writing, drawing, painting",
+    "Singing, humming, dancing",
+    "Listening, watching, reading"
+  ],
+  "answer": "Speech, articulation, enunciation"
+},
+{
+  "question": "syllable",
+  "options": [
+    "Unit, sound, beat",
+    "Word, phrase, paragraph",
+    "Letter, symbol, sign",
+    "Page, book, chapter"
+  ],
+  "answer": "Unit, sound, beat"
+},
+{
+  "question": "lean",
+  "options": [
+    "Tilt, rest, incline",
+    "Sit, lie, stand",
+    "Lift, carry, drop",
+    "Move, run, jump"
+  ],
+  "answer": "Tilt, rest, incline"
+},
+{
+  "question": "precede",
+  "options": [
+    "Lead, come before, herald",
+    "Follow, chase, pursue",
+    "Jump, skip, leap",
+    "Pause, delay, stop"
+  ],
+  "answer": "Lead, come before, herald"
+},
+{
+  "question": "forego",
+  "options": [
+    "Sacrifice, give up, renounce",
+    "Accept, gain, keep",
+    "Chase, seek, desire",
+    "Sleep, rest, recover"
+  ],
+  "answer": "Sacrifice, give up, renounce"
+},
+{
+  "question": "anticipate",
+  "options": [
+    "Expect, predict, await",
+    "Ignore, miss, reject",
+    "Guess, try, fail",
+    "Watch, listen, speak"
+  ],
+  "answer": "Expect, predict, await"
+},
+{
+  "question": "end up",
+  "options": [
+    "Conclude, finish, result",
+    "Start, begin, open",
+    "Wait, pause, delay",
+    "Think, guess, try"
+  ],
+  "answer": "Conclude, finish, result"
+},
+{
+  "question": "eventually",
+  "options": [
+    "Finally, ultimately, someday",
+    "Recently, currently, now",
+    "Soon, earlier, quicker",
+    "Never, rarely, barely"
+  ],
+  "answer": "Finally, ultimately, someday"
+},
+{
+  "question": "Tweak",
+  "options": [
+    "Adjust, modify, fine-tune",
+    "Break, ruin, destroy",
+    "Hide, cover, mask",
+    "Open, unlock, break"
+  ],
+  "answer": "Adjust, modify, fine-tune"
+},
+{
+  "question": "Adjust",
+  "options": [
+    "Modify, adapt, align",
+    "Resist, stop, block",
+    "Watch, listen, touch",
+    "Stay, remain, wait"
+  ],
+  "answer": "Modify, adapt, align"
+},
+{
+  "question": "examine",
+  "options": [
+    "Inspect, study, analyze",
+    "Forget, skip, miss",
+    "Hide, blur, distort",
+    "Delay, postpone, avoid"
+  ],
+  "answer": "Inspect, study, analyze"
+},
+{
+  "question": "application-apprication",
+  "options": [
+    "Request, form, usage",
+    "Tool, game, website",
+    "Lesson, class, teacher",
+    "Art, paint, sketch"
+  ],
+  "answer": "Request, form, usage"
+},
+{
+  "question": "beforhand",
+  "options": [
+    "Earlier, previously, ahead",
+    "Later, soon, next",
+    "Suddenly, quickly, now",
+    "Today, tomorrow, yesterday"
+  ],
+  "answer": "Earlier, previously, ahead"
+},
+{
+  "question": "amid",
+  "options": [
+    "Among, during, within",
+    "After, before, beyond",
+    "Over, under, outside",
+    "Near, far, away"
+  ],
+  "answer": "Among, during, within"
+},
+{
+  "question": "Draw a picture",
+  "options": [
+    "Sketch, illustrate, depict",
+    "Erase, remove, delete",
+    "Fold, crumple, hide",
+    "Color, shade, brighten"
+  ],
+  "answer": "Sketch, illustrate, depict"
+},
+{
+  "question": "Draw the curtains",
+  "options": [
+    "Pull, close, shut",
+    "Open, lift, remove",
+    "Shake, wave, stretch",
+    "Tie, bind, wrap"
+  ],
+  "
+,{
     "question": "Expose",
     "options": [
       "Reveal, uncover, display",
