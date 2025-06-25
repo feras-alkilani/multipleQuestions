@@ -1,5 +1,325 @@
 [
     {
+  "question": "horseplay",
+  "options": [
+    "Roughhousing, joking, fooling",
+    "Studying, working, focusing",
+    "Walking, pacing, strolling",
+    "Cooking, eating, serving"
+  ],
+  "answer": "Roughhousing, joking, fooling"
+},
+{
+  "question": "strollere",
+  "options": [
+    "Walker, buggy, carriage",
+    "Car, train, plane",
+    "Shoes, clothes, hat",
+    "Book, pen, paper"
+  ],
+  "answer": "Walker, buggy, carriage"
+},
+{
+  "question": "essential",
+  "options": [
+    "Necessary, vital, crucial",
+    "Unimportant, optional, extra",
+    "Large, heavy, thick",
+    "Weird, strange, odd"
+  ],
+  "answer": "Necessary, vital, crucial"
+},
+{
+  "question": "crib",
+  "options": [
+    "Cot, cradle, bed",
+    "Chair, desk, lamp",
+    "Book, shelf, drawer",
+    "House, apartment, cabin"
+  ],
+  "answer": "Cot, cradle, bed"
+},
+{
+  "question": "pushover",
+  "options": [
+    "Weakling, sucker, softie",
+    "Fighter, leader, boss",
+    "Liar, thief, cheater",
+    "Reader, listener, thinker"
+  ],
+  "answer": "Weakling, sucker, softie"
+},
+{
+  "question": "carefree",
+  "options": [
+    "Relaxed, easygoing, lighthearted",
+    "Busy, stressed, anxious",
+    "Fast, quick, urgent",
+    "Old, tired, weak"
+  ],
+  "answer": "Relaxed, easygoing, lighthearted"
+},
+{
+  "question": "guilty",
+  "options": [
+    "Blameworthy, ashamed, responsible",
+    "Innocent, clear, honest",
+    "Excited, surprised, happy",
+    "Hungry, full, thirsty"
+  ],
+  "answer": "Blameworthy, ashamed, responsible"
+},
+{
+  "question": "Lean back",
+  "options": [
+    "Recline, relax, rest",
+    "Stand, walk, run",
+    "Jump, dive, fall",
+    "Sing, talk, whisper"
+  ],
+  "answer": "Recline, relax, rest"
+},
+{
+  "question": "viciously unprovoked",
+  "options": [
+    "Brutally, cruelly, unjustly",
+    "Calmly, kindly, fairly",
+    "Softly, slowly, sweetly",
+    "Honestly, wisely, gently"
+  ],
+  "answer": "Brutally, cruelly, unjustly"
+},
+{
+  "question": "viciously",
+  "options": [
+    "Cruelly, savagely, brutally",
+    "Kindly, gently, softly",
+    "Silently, quietly, secretly",
+    "Boldly, bravely, fiercely"
+  ],
+  "answer": "Cruelly, savagely, brutally"
+},
+{
+  "question": "barely",
+  "options": [
+    "Hardly, scarcely, narrowly",
+    "Fully, completely, totally",
+    "Roughly, harshly, wildly",
+    "Truly, really, deeply"
+  ],
+  "answer": "Hardly, scarcely, narrowly"
+},
+{
+  "question": "narrowly",
+  "options": [
+    "Closely, barely, slightly",
+    "Widely, largely, broadly",
+    "Quickly, rapidly, fast",
+    "Late, slow, behind"
+  ],
+  "answer": "Closely, barely, slightly"
+},
+{
+  "question": "vow",
+  "options": [
+    "Promise, swear, pledge",
+    "Lie, trick, deceive",
+    "Hope, wish, dream",
+    "Cry, shout, scream"
+  ],
+  "answer": "Promise, swear, pledge"
+},
+{
+  "question": "boost",
+  "options": [
+    "Increase, raise, improve",
+    "Drop, reduce, lower",
+    "Push, shove, kick",
+    "Buy, sell, trade"
+  ],
+  "answer": "Increase, raise, improve"
+},
+{
+  "question": "colon نقطتان رأسيتان",
+  "options": [
+    "Punctuation, symbol, separator",
+    "Word, sentence, paragraph",
+    "Book, chapter, page",
+    "Letter, sound, vowel"
+  ],
+  "answer": "Punctuation, symbol, separator"
+},
+{
+  "question": "colon قولون",
+  "options": [
+    "Intestine, gut, bowel",
+    "Heart, lung, brain",
+    "Hand, leg, foot",
+    "Skin, hair, nail"
+  ],
+  "answer": "Intestine, gut, bowel"
+},
+{
+  "question": "digestive system",
+  "options": [
+    "Stomach, intestines, liver",
+    "Brain, nerves, spine",
+    "Bones, muscles, joints",
+    "Eyes, ears, nose"
+  ],
+  "answer": "Stomach, intestines, liver"
+},
+{
+  "question": "pour",
+  "options": [
+    "Spill, flow, stream",
+    "Pick, grab, throw",
+    "Fill, stop, block",
+    "Catch, drop, lose"
+  ],
+  "answer": "Spill, flow, stream"
+},
+{
+  "question": "chop",
+  "options": [
+    "Cut, slice, dice",
+    "Cook, boil, bake",
+    "Wash, clean, scrub",
+    "Open, close, shut"
+  ],
+  "answer": "Cut, slice, dice"
+},
+{
+  "question": "bake",
+  "options": [
+    "Cook, roast, heat",
+    "Freeze, chill, cool",
+    "Cut, chop, slice",
+    "Pour, mix, stir"
+  ],
+  "answer": "Cook, roast, heat"
+},
+{
+  "question": "fry",
+  "options": [
+    "Cook, sizzle, crisp",
+    "Boil, steam, stew",
+    "Grate, peel, cut",
+    "Serve, eat, chew"
+  ],
+  "answer": "Cook, sizzle, crisp"
+},
+{
+  "question": "boil",
+  "options": [
+    "Heat, bubble, simmer",
+    "Cool, chill, freeze",
+    "Crack, smash, break",
+    "Drain, pour, spill"
+  ],
+  "answer": "Heat, bubble, simmer"
+},
+{
+  "question": "roast",
+  "options": [
+    "Cook, bake, brown",
+    "Cut, slice, chop",
+    "Freeze, cool, store",
+    "Shake, stir, blend"
+  ],
+  "answer": "Cook, bake, brown"
+},
+{
+  "question": "grate",
+  "options": [
+    "Shred, grind, rasp",
+    "Slice, chop, cut",
+    "Peel, wash, rinse",
+    "Heat, fry, boil"
+  ],
+  "answer": "Shred, grind, rasp"
+},
+{
+  "question": "vulture",
+  "options": [
+    "Scavenger, bird, predator",
+    "Singer, dancer, actor",
+    "Lion, tiger, bear",
+    "Tree, plant, leaf"
+  ],
+  "answer": "Scavenger, bird, predator"
+},
+{
+  "question": "bullheaded",
+  "options": [
+    "Stubborn, obstinate, rigid",
+    "Gentle, kind, polite",
+    "Quick, smart, witty",
+    "Old, wise, calm"
+  ],
+  "answer": "Stubborn, obstinate, rigid"
+},
+{
+  "question": "I am pumped up",
+  "options": [
+    "Excited, energetic, thrilled",
+    "Sad, tired, down",
+    "Angry, upset, mad",
+    "Busy, lost, confused"
+  ],
+  "answer": "Excited, energetic, thrilled"
+},
+{
+  "question": "I am a bit tied up",
+  "options": [
+    "Busy, occupied, unavailable",
+    "Free, open, relaxed",
+    "Late, rushed, delayed",
+    "Sad, tired, angry"
+  ],
+  "answer": "Busy, occupied, unavailable"
+},
+{
+  "question": "scoot over",
+  "options": [
+    "Move, shift, slide",
+    "Sit, stand, lie",
+    "Run, walk, jog",
+    "Talk, shout, whisper"
+  ],
+  "answer": "Move, shift, slide"
+},
+{
+  "question": "hands off",
+  "options": [
+    "Don't touch, stay away, avoid",
+    "Grab it, take it, steal it",
+    "Fix it, clean it, carry it",
+    "Use it, try it, eat it"
+  ],
+  "answer": "Don't touch, stay away, avoid"
+},
+{
+  "question": "she is green with envy",
+  "options": [
+    "Jealous, envious, resentful",
+    "Happy, proud, pleased",
+    "Tired, bored, lazy",
+    "Shy, quiet, nervous"
+  ],
+  "answer": "Jealous, envious, resentful"
+},
+{
+  "question": "I screwed up",
+  "options": [
+    "Messed up, failed, blundered",
+    "Won, succeeded, achieved",
+    "Tried, worked, improved",
+    "Paused, waited, delayed"
+  ],
+  "answer": "Messed up, failed, blundered"
+}
+,{
   "question": "stuck",
   "options": [
     "Trapped, fixed, jammed",
