@@ -560,6 +560,26 @@
         "answer": "It makes it easier to scale down IT resources."
     },
     {
+        "question": "What is a specific feature of Network Attached Storage (NAS)?",
+        "options": [
+            "NAS presents data to the user as if it is stored on a file server",
+            "NAS uses the file system of the client computers.",
+            "The NAS operating system does not provide security features.",
+            "With NAS the file system is managed by the servers storing the data."
+        ],
+        "answer": "NAS presents data to the user as if it is stored on a file server"
+    },
+    {
+        "question": "What is OpenID used for?",
+        "options": [
+            "to connect to multiple web-sites without using a password",
+            "to identify yourself in dealing on-line with government agencies",
+            "to pay on-line via your own bank account",
+            "to use one account to sign in to multiple web sites"
+        ],
+        "answer": "to use one account to sign in to multiple web sites"
+    },
+    {
         "question": "Why may Service levels vary for Hybrid Clouds?",
         "options": [
             "Hybrid Clouds are constantly shifting from Public to Private Clouds.",
@@ -848,6 +868,15 @@
             "There is no difference"
         ],
         "answer": "Platform as a Service (PaaS)"
+    },{
+        "question": "Why became the Ethernet standard popular for Local Area Networks (LANs)?",
+        "options": [
+            "because the Ethernet standard was fastest",
+            "because the Ethernet standard was released for general use",
+            "because the Ethernet standard was suitable for mainframes",
+            "because the Ethernet standard was used by the largest vendor"
+        ],
+        "answer": "because the Ethernet standard was released for general use"
     },
     {
         "question": "How might moving to Cloud computing enhance user's ongoing experience of software applications?",
