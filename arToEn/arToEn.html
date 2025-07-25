@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arabic To English</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <div class="quiz-container" id="quiz-container"></div>
+    <div id="correct-result"></div>
+    <div id="wrong-result"></div>
+
+    <div class="button-container">
+      <button id="backToHome" onclick="backToHome()">Back To Home</button>
+      <button id="refresh" onclick="refresh()">Refresh</button>
+    </div>
+    <script>
+      function backToHome() {
+        window.location.href = "../index.html";
+      }
+    </script>
+    <script>
+      function refresh() {
+        window.location.href = "";
+      }
+    </script>
+
+    <script src="arToEnScript.js"></script>
+  </body>
+</html>

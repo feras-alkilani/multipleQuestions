@@ -1,0 +1,1212 @@
+[
+    {
+        "question": "What is “serverless computing” in cloud services?",
+        "options": [
+            "Running code without managing servers",
+            "Managing physical servers directly",
+            "Buying dedicated hardware",
+            "Installing software on personal computers"
+        ],
+        "answer": "Running code without managing servers"
+    },
+    {
+        "question": "Which cloud model offers on-demand access to shared computing resources over the internet?",
+        "options": [
+            "Private cloud",
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud"
+        ],
+        "answer": "Public cloud"
+    },
+    {
+        "question": "What does the term “latency” refer to in cloud computing?",
+        "options": [
+            "Amount of data stored",
+            "Speed of server CPU",
+            "Delay between request and response",
+            "Number of users connected"
+        ],
+        "answer": "Delay between request and response"
+    },
+    {
+        "question": "Which cloud service model provides pre-configured software applications accessible via web browsers?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)",
+            "Software as a Service (SaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What is a “virtual machine” in cloud computing?",
+        "options": [
+            "A software emulation of a physical computer",
+            "A physical server located remotely",
+            "A type of network switch",
+            "A database management system"
+        ],
+        "answer": "A software emulation of a physical computer"
+    },
+    {
+        "question": "Which of these is an example of Platform as a Service (PaaS)?",
+        "options": [
+            "Amazon EC2",
+            "Google App Engine",
+            "Dropbox",
+            "Microsoft Office 365"
+        ],
+        "answer": "Google App Engine"
+    },
+    {
+        "question": "What does “fault tolerance” mean?",
+        "options": [
+            "System stops immediately after failure",
+            "Ability to detect failures only",
+            "The ability of a system to continue functioning when components fail",
+            "System requires manual reboot after failure"
+        ],
+        "answer": "The ability of a system to continue functioning when components fail"
+    },
+    {
+        "question": "Which cloud deployment model is shared by several organizations with common concerns?",
+        "options": [
+            "Public cloud",
+            "Private cloud",
+            "Hybrid cloud",
+            "Community cloud"
+        ],
+        "answer": "Community cloud"
+    },
+    {
+        "question": "What is “containerization” in cloud computing?",
+        "options": [
+            "Packaging software code and dependencies into lightweight, portable units",
+            "Encrypting data before storage",
+            "Backing up data to remote locations",
+            "Monitoring network traffic"
+        ],
+        "answer": "Packaging software code and dependencies into lightweight, portable units"
+    },
+    {
+        "question": "What is a specific feature of Network Attached Storage (NAS)?",
+        "options": [
+            "It is primarily used for computation",
+            "It stores data locally on user devices",
+            "It presents data as if stored on a file server",
+            "It provides cloud-based virtual machines"
+        ],
+        "answer": "It presents data as if stored on a file server"
+    },
+    {
+        "question": "What is OpenID used for?",
+        "options": [
+            "Encrypting data in transit",
+            "Managing cloud resources",
+            "Providing multi-factor authentication",
+            "Using one account to sign in to multiple websites"
+        ],
+        "answer": "Using one account to sign in to multiple websites"
+    },
+    {
+        "question": "How can moving to Cloud computing increase user satisfaction?",
+        "options": [
+            "By accomplishing quick and efficient release of applications",
+            "By limiting access to resources",
+            "By requiring manual updates",
+            "By increasing hardware complexity"
+        ],
+        "answer": "By accomplishing quick and efficient release of applications"
+    },
+    {
+        "question": "What may be an economic benefit of Cloud computing?",
+        "options": [
+            "Increased upfront capital investment",
+            "Higher maintenance costs",
+            "Reduced data security",
+            "Reduced overhead"
+        ],
+        "answer": "Reduced overhead"
+    },
+    {
+        "question": "What is the generally accepted communication protocol on the Internet?",
+        "options": [
+            "FTP",
+            "SMTP",
+            "UDP",
+            "TCP/IP"
+        ],
+        "answer": "TCP/IP"
+    },
+    {
+        "question": "What is an economic cloud solution for a short-term project like a one-time application design?",
+        "options": [
+            "Platform as a Service (PaaS)",
+            "Software as a Service (SaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What does the integrity of information mean?",
+        "options": [
+            "Information is encrypted",
+            "Information is accessible anytime",
+            "Information is accurate",
+            "Information is shared publicly"
+        ],
+        "answer": "Information is accurate"
+    },
+    {
+        "question": "What is a main challenge for enterprises in using cell phones for collaboration?",
+        "options": [
+            "High hardware costs",
+            "Limited application support",
+            "Separating business data from personal data",
+            "Slow network speed"
+        ],
+        "answer": "Separating business data from personal data"
+    },
+    {
+        "question": "Which cloud delivery model is deployed over a company intranet or company-hosted datacenter?",
+        "options": [
+            "Public cloud",
+            "Community cloud",
+            "Hybrid cloud",
+            "Private cloud"
+        ],
+        "answer": "Private cloud"
+    },
+    {
+        "question": "Which characteristic is an inoperative attribute of a private cloud deployment?",
+        "options": [
+            "High security",
+            "Shared by many companies",
+            "Customizable infrastructure",
+            "Restricted access"
+        ],
+        "answer": "Shared by many companies"
+    },
+    {
+        "question": "Which option is one essential characteristic of Cloud computing?",
+        "options": [
+            "Fixed bandwidth",
+            "On-demand self service",
+            "Manual provisioning",
+            "Limited scalability"
+        ],
+        "answer": "On-demand self service"
+    },
+    {
+        "question": "A company wants quick testing environment with minimal setup. Which service model suits best?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Software as a Service (SaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Platform as a Service (PaaS)"
+    },
+    {
+        "question": "Why are multiple sites often used in Cloud computing environments?",
+        "options": [
+            "To increase hardware costs",
+            "Help in disaster prevention and recovery",
+            "To reduce latency only",
+            "To restrict data access"
+        ],
+        "answer": "Help in disaster prevention and recovery"
+    },
+    {
+        "question": "Which service model provides the best environment for testing new software?",
+        "options": [
+            "IaaS",
+            "PaaS",
+            "SaaS",
+            "DaaS"
+        ],
+        "answer": "PaaS"
+    },
+    {
+        "question": "Which characteristic of an Identity management system attributes permissions to roles, not people?",
+        "options": [
+            "User-based access",
+            "Group management",
+            "Single sign-on",
+            "Biometric authentication"
+        ],
+        "answer": "Group management"
+    },
+    {
+        "question": "Gmail is an example of which deployment and service model?",
+        "options": [
+            "SaaS in a Public Cloud",
+            "PaaS in a Private Cloud",
+            "IaaS in a Community Cloud",
+            "Hybrid Cloud"
+        ],
+        "answer": "SaaS in a Public Cloud"
+    },
+    {
+        "question": "Which cloud service model allows users to run applications without managing the underlying infrastructure?",
+        "options": [
+            "Software as a Service (SaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What does elasticity in cloud computing mean?",
+        "options": [
+            "Fixed resource allocation",
+            "The ability to automatically scale resources up or down based on demand",
+            "Manual resource management",
+            "Limited scalability"
+        ],
+        "answer": "The ability to automatically scale resources up or down based on demand"
+    },
+    {
+        "question": "Which component in cloud architecture is responsible for allocating resources dynamically?",
+        "options": [
+            "Cloud Manager",
+            "Resource Scheduler",
+            "Cloud Orchestrator",
+            "Data Controller"
+        ],
+        "answer": "Cloud Orchestrator"
+    },
+    {
+        "question": "Which is a benefit of multi-tenancy in cloud environments?",
+        "options": [
+            "Dedicated hardware per customer",
+            "Limited resource sharing",
+            "Efficient use of hardware by sharing resources among multiple customers",
+            "No resource sharing"
+        ],
+        "answer": "Efficient use of hardware by sharing resources among multiple customers"
+    },
+    {
+        "question": "What is a common risk when using public cloud services?",
+        "options": [
+            "Data privacy and security concerns",
+            "Improved network speed",
+            "Guaranteed uptime",
+            "Reduced costs"
+        ],
+        "answer": "Data privacy and security concerns"
+    },
+    {
+        "question": "Which cloud deployment model combines public cloud services with private cloud infrastructure?",
+        "options": [
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud",
+            "Private cloud"
+        ],
+        "answer": "Hybrid cloud"
+    },
+    {
+        "question": "What is the main purpose of a Service Level Agreement (SLA) in cloud computing?",
+        "options": [
+            "To provide hardware maintenance",
+            "To define the expected service quality and availability",
+            "To manage user credentials",
+            "To design cloud architecture"
+        ],
+        "answer": "To define the expected service quality and availability"
+    },
+    {
+        "question": "Which of the following is NOT typically a responsibility of the cloud service consumer?",
+        "options": [
+            "Data security management",
+            "Managing applications",
+            "Maintaining the physical data center infrastructure",
+            "User access control"
+        ],
+        "answer": "Maintaining the physical data center infrastructure"
+    },
+    {
+        "question": "Which cloud service model allows users to run applications without managing the underlying infrastructure?",
+        "options": [
+            "Software as a Service (SaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What does elasticity in cloud computing mean?",
+        "options": [
+            "Fixed resource allocation",
+            "The ability to automatically scale resources up or down based on demand",
+            "Manual resource management",
+            "Limited scalability"
+        ],
+        "answer": "The ability to automatically scale resources up or down based on demand"
+    },
+    {
+        "question": "Which component in cloud architecture is responsible for allocating resources dynamically?",
+        "options": [
+            "Cloud Manager",
+            "Resource Scheduler",
+            "Cloud Orchestrator",
+            "Data Controller"
+        ],
+        "answer": "Cloud Orchestrator"
+    },
+    {
+        "question": "Which is a benefit of multi-tenancy in cloud environments?",
+        "options": [
+            "Dedicated hardware per customer",
+            "Limited resource sharing",
+            "Efficient use of hardware by sharing resources among multiple customers",
+            "No resource sharing"
+        ],
+        "answer": "Efficient use of hardware by sharing resources among multiple customers"
+    },
+    {
+        "question": "What is a common risk when using public cloud services?",
+        "options": [
+            "Data privacy and security concerns",
+            "Improved network speed",
+            "Guaranteed uptime",
+            "Reduced costs"
+        ],
+        "answer": "Data privacy and security concerns"
+    },
+    {
+        "question": "Which cloud deployment model combines public cloud services with private cloud infrastructure?",
+        "options": [
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud",
+            "Private cloud"
+        ],
+        "answer": "Hybrid cloud"
+    },
+    {
+        "question": "What is the main purpose of a Service Level Agreement (SLA) in cloud computing?",
+        "options": [
+            "To provide hardware maintenance",
+            "To define the expected service quality and availability",
+            "To manage user credentials",
+            "To design cloud architecture"
+        ],
+        "answer": "To define the expected service quality and availability"
+    },
+    {
+        "question": "Which of the following is NOT typically a responsibility of the cloud service consumer?",
+        "options": [
+            "Data security management",
+            "Managing applications",
+            "Maintaining the physical data center infrastructure",
+            "User access control"
+        ],
+        "answer": "Maintaining the physical data center infrastructure"
+    },
+    {
+        "question": "Which cloud service model allows users to run applications without managing the underlying infrastructure?",
+        "options": [
+            "Software as a Service (SaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What does elasticity in cloud computing mean?",
+        "options": [
+            "Fixed resource allocation",
+            "The ability to automatically scale resources up or down based on demand",
+            "Manual resource management",
+            "Limited scalability"
+        ],
+        "answer": "The ability to automatically scale resources up or down based on demand"
+    },
+    {
+        "question": "Which component in cloud architecture is responsible for allocating resources dynamically?",
+        "options": [
+            "Cloud Manager",
+            "Resource Scheduler",
+            "Cloud Orchestrator",
+            "Data Controller"
+        ],
+        "answer": "Cloud Orchestrator"
+    },
+    {
+        "question": "Which is a benefit of multi-tenancy in cloud environments?",
+        "options": [
+            "Dedicated hardware per customer",
+            "Limited resource sharing",
+            "Efficient use of hardware by sharing resources among multiple customers",
+            "No resource sharing"
+        ],
+        "answer": "Efficient use of hardware by sharing resources among multiple customers"
+    },
+    {
+        "question": "What is a common risk when using public cloud services?",
+        "options": [
+            "Data privacy and security concerns",
+            "Improved network speed",
+            "Guaranteed uptime",
+            "Reduced costs"
+        ],
+        "answer": "Data privacy and security concerns"
+    },
+    {
+        "question": "Which cloud deployment model combines public cloud services with private cloud infrastructure?",
+        "options": [
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud",
+            "Private cloud"
+        ],
+        "answer": "Hybrid cloud"
+    },
+    {
+        "question": "What is the main purpose of a Service Level Agreement (SLA) in cloud computing?",
+        "options": [
+            "To provide hardware maintenance",
+            "To define the expected service quality and availability",
+            "To manage user credentials",
+            "To design cloud architecture"
+        ],
+        "answer": "To define the expected service quality and availability"
+    },
+    {
+        "question": "Which of the following is NOT typically a responsibility of the cloud service consumer?",
+        "options": [
+            "Data security management",
+            "Managing applications",
+            "Maintaining the physical data center infrastructure",
+            "User access control"
+        ],
+        "answer": "Maintaining the physical data center infrastructure"
+    },
+    {
+        "question": "What is the primary advantage of cloud computing over traditional data centers?",
+        "options": [
+            "Scalability and flexibility",
+            "Lower initial cost only",
+            "Fixed resource allocation",
+            "Limited network access"
+        ],
+        "answer": "Scalability and flexibility"
+    },
+    {
+        "question": "Which cloud service model allows customers to manage applications but not the underlying infrastructure?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Software as a Service (SaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Platform as a Service (PaaS)"
+    },
+    {
+        "question": "Which type of cloud deployment is owned and operated by a single organization for its exclusive use?",
+        "options": [
+            "Public cloud",
+            "Community cloud",
+            "Private cloud",
+            "Hybrid cloud"
+        ],
+        "answer": "Private cloud"
+    },
+    {
+        "question": "What does 'pay-as-you-go' pricing in cloud computing mean?",
+        "options": [
+            "Users pay a fixed monthly fee",
+            "Users only pay for resources they actually consume",
+            "Users pre-pay for resources",
+            "Users pay for unlimited resources"
+        ],
+        "answer": "Users only pay for resources they actually consume"
+    },
+    {
+        "question": "Which of these is NOT a typical characteristic of cloud computing?",
+        "options": [
+            "Fixed resource allocation",
+            "On-demand self-service",
+            "Broad network access",
+            "Resource pooling"
+        ],
+        "answer": "Fixed resource allocation"
+    },
+    {
+        "question": "What is the role of virtualization in cloud computing?",
+        "options": [
+            "To create multiple simulated environments from a single physical hardware",
+            "To increase physical hardware capacity",
+            "To physically separate servers",
+            "To secure cloud networks"
+        ],
+        "answer": "To create multiple simulated environments from a single physical hardware"
+    },
+    {
+        "question": "Which term describes the ability of a cloud system to recover quickly after a failure?",
+        "options": [
+            "Scalability",
+            "Elasticity",
+            "Resiliency",
+            "Availability"
+        ],
+        "answer": "Resiliency"
+    },
+    {
+        "question": "What is “cloud bursting”?",
+        "options": [
+            "Extending on-premise resources to cloud during peak loads",
+            "Moving all data to the cloud permanently",
+            "Using cloud for backup only",
+            "Running cloud services offline"
+        ],
+        "answer": "Extending on-premise resources to cloud during peak loads"
+    },
+    {
+        "question": "Which cloud characteristic allows access to services from anywhere via the internet?",
+        "options": [
+            "Limited network access",
+            "Broad network access",
+            "Offline access",
+            "Local area network only"
+        ],
+        "answer": "Broad network access"
+    },
+    {
+        "question": "What is a key difference between public cloud and community cloud?",
+        "options": [
+            "Public cloud is shared by organizations with common concerns",
+            "Community cloud is public and open to all",
+            "Community cloud is shared by organizations with common concerns",
+            "Public cloud is private and restricted"
+        ],
+        "answer": "Community cloud is shared by organizations with common concerns"
+    },
+    {
+        "question": "Which service model provides only the software application over the internet?",
+        "options": [
+            "Software as a Service (SaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What does “fault tolerance” mean in cloud computing?",
+        "options": [
+            "System stops working on failure",
+            "System continues operating despite failures",
+            "System needs reboot after failure",
+            "System ignores failures"
+        ],
+        "answer": "System continues operating despite failures"
+    },
+    {
+        "question": "Which cloud deployment model is best for sensitive data and strict compliance?",
+        "options": [
+            "Public cloud",
+            "Private cloud",
+            "Community cloud",
+            "Hybrid cloud"
+        ],
+        "answer": "Private cloud"
+    },
+    {
+        "question": "What is “multi-tenancy” in cloud environments?",
+        "options": [
+            "Multiple customers share the same physical resources",
+            "Each customer has dedicated hardware",
+            "Cloud services for single tenant only",
+            "Cloud resources are never shared"
+        ],
+        "answer": "Multiple customers share the same physical resources"
+    },
+    {
+        "question": "Which term describes automatic provisioning and de-provisioning of cloud resources?",
+        "options": [
+            "Elasticity",
+            "Scalability",
+            "Cloud bursting",
+            "Redundancy"
+        ],
+        "answer": "Elasticity"
+    },
+    {
+        "question": "What does SaaS stand for in cloud computing?",
+        "options": [
+            "Software as a Service",
+            "System as a Service",
+            "Service and Software",
+            "Secure as a Service"
+        ],
+        "answer": "Software as a Service"
+    },
+    {
+        "question": "Which cloud deployment model allows multiple organizations to share infrastructure for a common purpose?",
+        "options": [
+            "Public cloud",
+            "Community cloud",
+            "Private cloud",
+            "Hybrid cloud"
+        ],
+        "answer": "Community cloud"
+    },
+    {
+        "question": "What is a main benefit of using Infrastructure as a Service (IaaS)?",
+        "options": [
+            "Fixed hardware resources",
+            "Ability to rent virtualized hardware resources",
+            "Pre-configured software applications",
+            "Managed development platform"
+        ],
+        "answer": "Ability to rent virtualized hardware resources"
+    },
+    {
+        "question": "Which term describes the rapid provisioning of cloud resources as needed?",
+        "options": [
+            "Elastic scaling",
+            "On-demand self-service",
+            "Cloud bursting",
+            "Multi-tenancy"
+        ],
+        "answer": "On-demand self-service"
+    },
+    {
+        "question": "Which of the following is a common cloud security concern?",
+        "options": [
+            "Unauthorized access to data",
+            "Improved data backup",
+            "Faster network speed",
+            "Better user interface"
+        ],
+        "answer": "Unauthorized access to data"
+    },
+    {
+        "question": "What technology allows running multiple virtual machines on a single physical server?",
+        "options": [
+            "Cloud storage",
+            "Virtualization",
+            "Load balancing",
+            "Data mining"
+        ],
+        "answer": "Virtualization"
+    },
+    {
+        "question": "Which cloud service model provides a platform for developers to build and deploy applications?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Software as a Service (SaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Platform as a Service (PaaS)"
+    },
+    {
+        "question": "What is the main difference between public cloud and private cloud?",
+        "options": [
+            "Public cloud is available to anyone, private cloud is restricted",
+            "Private cloud is free, public cloud is paid",
+            "Public cloud is slower, private cloud is faster",
+            "Private cloud uses only open-source software"
+        ],
+        "answer": "Public cloud is available to anyone, private cloud is restricted"
+    },
+    {
+        "question": "What is “serverless computing” in cloud services?",
+        "options": [
+            "Running code without managing servers",
+            "Managing physical servers directly",
+            "Buying dedicated hardware",
+            "Installing software on personal computers"
+        ],
+        "answer": "Running code without managing servers"
+    },
+    {
+        "question": "Which cloud model offers on-demand access to shared computing resources over the internet?",
+        "options": [
+            "Private cloud",
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud"
+        ],
+        "answer": "Public cloud"
+    },
+    {
+        "question": "What does the term “latency” refer to in cloud computing?",
+        "options": [
+            "Amount of data stored",
+            "Speed of server CPU",
+            "Delay between request and response",
+            "Number of users connected"
+        ],
+        "answer": "Delay between request and response"
+    },
+    {
+        "question": "Which cloud service model provides pre-configured software applications accessible via web browsers?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)",
+            "Software as a Service (SaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What is a “virtual machine” in cloud computing?",
+        "options": [
+            "A software emulation of a physical computer",
+            "A physical server located remotely",
+            "A type of network switch",
+            "A database management system"
+        ],
+        "answer": "A software emulation of a physical computer"
+    },
+    {
+        "question": "Which of these is an example of Platform as a Service (PaaS)?",
+        "options": [
+            "Amazon EC2",
+            "Google App Engine",
+            "Dropbox",
+            "Microsoft Office 365"
+        ],
+        "answer": "Google App Engine"
+    },
+    {
+        "question": "What does “fault tolerance” mean?",
+        "options": [
+            "System stops immediately after failure",
+            "Ability to detect failures only",
+            "The ability of a system to continue functioning when components fail",
+            "System requires manual reboot after failure"
+        ],
+        "answer": "The ability of a system to continue functioning when components fail"
+    },
+    {
+        "question": "Which cloud deployment model is shared by several organizations with common concerns?",
+        "options": [
+            "Public cloud",
+            "Private cloud",
+            "Hybrid cloud",
+            "Community cloud"
+        ],
+        "answer": "Community cloud"
+    },
+    {
+        "question": "What is “containerization” in cloud computing?",
+        "options": [
+            "Packaging software code and dependencies into lightweight, portable units",
+            "Encrypting data before storage",
+            "Backing up data to remote locations",
+            "Monitoring network traffic"
+        ],
+        "answer": "Packaging software code and dependencies into lightweight, portable units"
+    },
+    {
+        "question": "Who typically manages data security in cloud computing?",
+        "options": [
+            "Only the cloud service provider",
+            "Shared responsibility between provider and consumer",
+            "Only the cloud service consumer",
+            "Third-party security auditors"
+        ],
+        "answer": "Shared responsibility between provider and consumer"
+    },
+    {
+        "question": "What does ‘scalability’ mean in cloud computing?",
+        "options": [
+            "Ability to maintain constant resources",
+            "Ability to improve security",
+            "Ability to monitor usage",
+            "The ability to increase or decrease resources based on demand"
+        ],
+        "answer": "The ability to increase or decrease resources based on demand"
+    },
+    {
+        "question": "Who is responsible for maintaining the physical hardware in cloud computing?",
+        "options": [
+            "The cloud service provider",
+            "The cloud consumer",
+            "Third-party auditors",
+            "End users"
+        ],
+        "answer": "The cloud service provider"
+    },
+    {
+        "question": "What role does an API play in cloud computing?",
+        "options": [
+            "Enables communication between software components",
+            "Controls physical servers",
+            "Manages user accounts",
+            "Encrypts cloud data"
+        ],
+        "answer": "Enables communication between software components"
+    },
+    {
+        "question": "Which of the following is usually the cloud provider’s responsibility?",
+        "options": [
+            "Maintaining physical data center infrastructure",
+            "Managing user passwords",
+            "Developing client applications",
+            "Setting organizational policies"
+        ],
+        "answer": "Maintaining physical data center infrastructure"
+    },
+    {
+        "question": "Which security concern is most associated with multi-tenant cloud environments?",
+        "options": [
+            "Data loss due to hardware failure",
+            "Data leakage between tenants",
+            "Unauthorized physical access",
+            "Slow network speed"
+        ],
+        "answer": "Data leakage between tenants"
+    },
+    {
+        "question": "What does “cloud bursting” refer to?",
+        "options": [
+            "Extending on-premise resources to cloud during peak loads",
+            "Moving all data to the cloud permanently",
+            "Using cloud for backup only",
+            "Running cloud services offline"
+        ],
+        "answer": "Extending on-premise resources to cloud during peak loads"
+    },
+    {
+        "question": "Which cloud characteristic allows users to access services from anywhere via the internet?",
+        "options": [
+            "Limited network access",
+            "Broad network access",
+            "Offline access",
+            "Local area network only"
+        ],
+        "answer": "Broad network access"
+    },
+    {
+        "question": "What is a key difference between public cloud and community cloud?",
+        "options": [
+            "Public cloud is shared by organizations with common concerns",
+            "Community cloud is public and open to all",
+            "Community cloud is shared by organizations with common concerns",
+            "Public cloud is private and restricted"
+        ],
+        "answer": "Community cloud is shared by organizations with common concerns"
+    },
+    {
+        "question": "Which service model provides only the software application over the internet?",
+        "options": [
+            "Software as a Service (SaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)"
+    },
+    {
+        "question": "What is meant by “fault tolerance” in cloud computing?",
+        "options": [
+            "System stops working on failure",
+            "System continues operating despite failures",
+            "System needs reboot after failure",
+            "System ignores failures"
+        ],
+        "answer": "System continues operating despite failures"
+    },
+    {
+        "question": "Which cloud deployment model is best suited for sensitive data and strict compliance?",
+        "options": [
+            "Public cloud",
+            "Private cloud",
+            "Community cloud",
+            "Hybrid cloud"
+        ],
+        "answer": "Private cloud"
+    },
+    {
+        "question": "What is “multi-tenancy” in cloud environments?",
+        "options": [
+            "Multiple customers share the same physical resources",
+            "Each customer has dedicated hardware",
+            "Cloud services for single tenant only",
+            "Cloud resources are never shared"
+        ],
+        "answer": "Multiple customers share the same physical resources"
+    },
+    {
+        "question": "Which term describes automatic provisioning and de-provisioning of cloud resources?",
+        "options": [
+            "Elasticity",
+            "Scalability",
+            "Cloud bursting",
+            "Redundancy"
+        ],
+        "answer": "Elasticity"
+    },
+    {
+        "question": "What role does an API play in cloud computing?",
+        "options": [
+            "Enables communication between software components",
+            "Controls physical servers",
+            "Manages user accounts",
+            "Encrypts cloud data"
+        ],
+        "answer": "Enables communication between software components"
+    },
+    {
+        "question": "Which of the following is a typical responsibility of the cloud provider?",
+        "options": [
+            "Maintaining physical data center infrastructure",
+            "Managing user passwords",
+            "Developing client applications",
+            "Setting organizational policies"
+        ],
+        "answer": "Maintaining physical data center infrastructure"
+    },
+    {
+        "question": "What is a fundamental principle of cloud computing?",
+        "options": [
+            "Exclusive use of private networks",
+            "On-demand self-service",
+            "Fixed resource allocation",
+            "Manual provisioning of servers"
+        ],
+        "answer": "On-demand self-service",
+        "topic": "Cloud principles"
+    },
+    {
+        "question": "Which deployment model combines public and private cloud infrastructure?",
+        "options": [
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud",
+            "Private cloud"
+        ],
+        "answer": "Hybrid cloud",
+        "topic": "Cloud principles"
+    },
+    {
+        "question": "What is the main task when implementing and managing cloud services?",
+        "options": [
+            "Only installing hardware",
+            "Ensuring proper resource allocation and monitoring",
+            "Ignoring security policies",
+            "Disabling automation"
+        ],
+        "answer": "Ensuring proper resource allocation and monitoring",
+        "topic": "Implementing and managing cloud"
+    },
+    {
+        "question": "Which technology helps automate the deployment and management of cloud resources?",
+        "options": [
+            "Manual server configuration",
+            "Cloud orchestration",
+            "Physical hardware upgrades",
+            "Traditional networking"
+        ],
+        "answer": "Cloud orchestration",
+        "topic": "Implementing and managing cloud"
+    },
+    {
+        "question": "Which cloud service model provides software applications over the internet?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Software as a Service (SaaS)",
+            "Data as a Service (DaaS)"
+        ],
+        "answer": "Software as a Service (SaaS)",
+        "topic": "Using the cloud"
+    },
+    {
+        "question": "What is an important benefit of using cloud services?",
+        "options": [
+            "High upfront hardware cost",
+            "Scalability and flexibility",
+            "Limited access",
+            "No internet required"
+        ],
+        "answer": "Scalability and flexibility",
+        "topic": "Using the cloud"
+    },
+    {
+        "question": "Which principle helps ensure that only authorized users access cloud resources?",
+        "options": [
+            "Identity and access management",
+            "Public availability",
+            "Open access",
+            "Anonymous usage"
+        ],
+        "answer": "Identity and access management",
+        "topic": "Cloud security, identity and privacy"
+    },
+    {
+        "question": "What is a common privacy concern when using public cloud services?",
+        "options": [
+            "Complete data control",
+            "Data leakage and unauthorized access",
+            "Unlimited free storage",
+            "Guaranteed data immutability"
+        ],
+        "answer": "Data leakage and unauthorized access",
+        "topic": "Cloud security, identity and privacy"
+    },
+    {
+        "question": "Which aspect should be considered when evaluating a cloud provider?",
+        "options": [
+            "Marketing slogans",
+            "Service level agreements (SLAs) and compliance",
+            "Price only",
+            "Number of employees"
+        ],
+        "answer": "Service level agreements (SLAs) and compliance",
+        "topic": "Evaluation of cloud computing"
+    },
+    {
+        "question": "What does a cloud evaluation typically assess?",
+        "options": [
+            "Only hardware specs",
+            "Cost, security, performance, and compliance",
+            "Just the location of the data center",
+            "Employee satisfaction"
+        ],
+        "answer": "Cost, security, performance, and compliance",
+        "topic": "Evaluation of cloud computing"
+    },
+    {
+        "question": "Which cloud service model provides the most control to the customer over operating systems and applications?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Software as a Service (SaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "answer": "Infrastructure as a Service (IaaS)"
+    },
+    {
+        "question": "What is a common reason companies choose hybrid cloud deployments?",
+        "options": [
+            "To reduce costs by using only public cloud",
+            "To balance workload between private and public clouds",
+            "To use only private cloud resources",
+            "To avoid cloud services altogether"
+        ],
+        "answer": "To balance workload between private and public clouds"
+    },
+    {
+        "question": "Which technology underpins most cloud storage solutions?",
+        "options": [
+            "Distributed file systems",
+            "Local hard drives",
+            "Single server storage",
+            "Optical discs"
+        ],
+        "answer": "Distributed file systems"
+    },
+    {
+        "question": "What is the key difference between IaaS and PaaS?",
+        "options": [
+            "IaaS provides software applications, PaaS provides virtual hardware",
+            "IaaS provides virtualized hardware, while PaaS provides a platform for developing and deploying applications",
+            "PaaS offers physical servers, IaaS offers platforms",
+            "IaaS is managed by user, PaaS is unmanaged"
+        ],
+        "answer": "IaaS provides virtualized hardware, while PaaS provides a platform for developing and deploying applications"
+    },
+    {
+        "question": "Which technology underpins most cloud storage solutions?",
+        "options": [
+            "Distributed file systems",
+            "Local hard drives",
+            "Single server storage",
+            "Optical discs"
+        ],
+        "answer": "Distributed file systems"
+    },
+    {
+        "question": "What is the key difference between IaaS and PaaS?",
+        "options": [
+            "IaaS provides software applications, PaaS provides virtual hardware",
+            "IaaS provides virtualized hardware, while PaaS provides a platform for developing and deploying applications",
+            "PaaS offers physical servers, IaaS offers platforms",
+            "IaaS is managed by user, PaaS is unmanaged"
+        ],
+        "answer": "IaaS provides virtualized hardware, while PaaS provides a platform for developing and deploying applications"
+    },
+    {
+        "question": "Which technology underpins most cloud storage solutions?",
+        "options": [
+            "Distributed file systems",
+            "Local hard drives",
+            "Single server storage",
+            "Optical discs"
+        ],
+        "answer": "Distributed file systems"
+    },
+    {
+        "question": "What is the key difference between IaaS and PaaS?",
+        "options": [
+            "IaaS provides software applications, PaaS provides virtual hardware",
+            "IaaS provides virtualized hardware, while PaaS provides a platform for developing and deploying applications",
+            "PaaS offers physical servers, IaaS offers platforms",
+            "IaaS is managed by user, PaaS is unmanaged"
+        ],
+        "answer": "IaaS provides virtualized hardware, while PaaS provides a platform for developing and deploying applications"
+    },
+    {
+        "question": "Which statement describes a Community Cloud?",
+        "options": [
+            "Owned by a single company",
+            "Publicly accessible to everyone",
+            "Shared by unrelated companies",
+            "Several independent companies share resources to reduce license costs"
+        ],
+        "answer": "Several independent companies share resources to reduce license costs"
+    },
+    {
+        "question": "What is an important benefit of using a hybrid model for cloud services?",
+        "options": [
+            "Faster hardware",
+            "Separation of sensitive data from less sensitive data",
+            "Lower maintenance costs",
+            "No data encryption"
+        ],
+        "answer": "Separation of sensitive data from less sensitive data"
+    },
+    {
+        "question": "What is a thin client?",
+        "options": [
+            "A lightweight device optimized for virtualized computing",
+            "A high-performance gaming computer",
+            "A smartphone with limited storage",
+            "A cloud storage system"
+        ],
+        "answer": "A lightweight device optimized for virtualized computing"
+    },
+    {
+        "question": "To which OSI layer do HTTP and HTTPS relate?",
+        "options": [
+            "Layer 3 – Network layer",
+            "Layer 4 – Transport layer",
+            "Layer 5 – Session layer",
+            "Layer 7 – Application layer"
+        ],
+        "answer": "Layer 7 – Application layer"
+    },
+    {
+        "question": "Who typically manages data security in cloud computing?",
+        "options": [
+            "Only the cloud service provider",
+            "Shared responsibility between provider and consumer",
+            "Only the cloud service consumer",
+            "Third-party security auditors"
+        ],
+        "answer": "Shared responsibility between provider and consumer"
+    }
+]

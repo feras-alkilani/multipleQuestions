@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word's Test</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Word's Test</h1>
+      <h2>Please Select the Test</h2>
+
+      <!-- English Related Tests -->
+      <div class="lang-buttons">
+        <button id="enToAr" onclick="playSoundAndGo('enToAr/enToAr.html')">
+          En - Ar
+        </button>
+        <button id="arToEn" onclick="playSoundAndGo('arToEn/arToEn.html')">
+          Ar - En
+        </button>
+        <button id="enToEn" onclick="playSoundAndGo('enToEn/enToEn.html')">
+          En - En
+        </button>
+        <button
+          id="phrasalVerbs"
+          onclick="playSoundAndGo('Phrasal Verbs/phrasalVerbs.html')"
+        >
+          Phrasal Verbs
+        </button>
+        <button id="lango" onclick="playSoundAndGo('lango/lango.html')">
+          Lango
+        </button>
+      </div>
+
+      <!-- Dutch Related Tests -->
+      <div class="lang-buttons">
+        <button id="enToDu" onclick="playSoundAndGo('enToDu/enToDu.html')">
+          En - Du - Tu
+        </button>
+        <button id="duToEn" onclick="playSoundAndGo('duToEn/duToEn.html')">
+          Du - En
+        </button>
+        <button id="duToAr" onclick="playSoundAndGo('duToAr/duToAr.html')">
+          Du - Ar
+        </button>
+        <button
+          id="ingerburegeing"
+          onclick="playSoundAndGo('ingerburegeing/duToArInburgereingA2.html')"
+        >
+          Inb. A2
+        </button>
+
+        <button
+          id="drivingDuToAR"
+          onclick="playSoundAndGo('drivingDuToAr/drivingDuToAR.html')"
+        >
+          Rijbewijs - Du
+        </button>
+      </div>
+
+      <!-- Miscellaneous & Special Tests -->
+      <div class="lang-buttons">
+        <button id="knm" onclick="playSoundAndGo('knm/knm.html')">KNM</button>
+
+        <button
+          id="collocationWith"
+          onclick="playSoundAndGo('collocationWith/collocationWith.html')"
+        >
+          Collocation With
+        </button>
+        <button id="welkom" onclick="playSoundAndGo('welkom/welkom.html')">
+          Welkom in Nederland
+        </button>
+        <button
+          id="drivingDuToEn"
+          onclick="playSoundAndGo('drivingDuToEn/drivingDuToEn.html')"
+        >
+          Driving - En
+        </button>
+      </div>
+
+      <!-- Click sound -->
+      <audio
+        id="click-sound"
+        src="by the name of God.mp3"
+        preload="auto"
+      ></audio>
+
+      <!-- Script to handle audio then navigation -->
+      <script>
+        function playSoundAndGo(url) {
+          const audio = document.getElementById("click-sound");
+          audio.play();
+          audio.onended = () => {
+            window.location.href = url;
+          };
+        }
+      </script>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <p>
+        Those tests had been made by:
+        <a href="https://www.linkedin.com/in/feras-alkilani/">Feras Alkilani</a>
+      </p>
+    </footer>
+  </body>
+</html>

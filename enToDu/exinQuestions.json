@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "A customer wants to:\n- run application software\n- store related data in central computer systems\n- provide customers or other users access to them through the Internet\nWhat would help do this?",
+        "options": [
+            "Application architecture",
+            "Application management",
+            "Cloud computing",
+            "IT service management"
+        ],
+        "answer": "Cloud computing"
+    },
+    {
+        "question": "A cloud infrastructure delivers services to a specific group of organizations and individuals that share a common goal.\nWhich cloud deployment model is this?",
+        "options": [
+            "Community cloud",
+            "Hybrid cloud",
+            "Private cloud",
+            "Public cloud"
+        ],
+        "answer": "Community cloud"
+    },
+    {
+        "question": "What is a key characteristic of PaaS (Platform as a Service)?",
+        "options": [
+            "No modification of the software",
+            "Provides dynamic scaling",
+            "Used for remote application development",
+            "Vendor with advanced technical knowledge"
+        ],
+        "answer": "Used for remote application development"
+    },
+    {
+        "question": "Which protocol forms the basis of the Internet and, therefore, of cloud computing?",
+        "options": [
+            "FTP",
+            "HTTP",
+            "TCP/IP",
+            "SMTP"
+        ],
+        "answer": "TCP/IP"
+    },
+    {
+        "question": "What is the main role that a network plays in cloud computing?",
+        "options": [
+            "Connecting personal computers to share computing power",
+            "Connecting personal devices to the shared resources",
+            "Connecting thin clients to create a pooled resource server",
+            "Providing offline storage options"
+        ],
+        "answer": "Connecting personal devices to the shared resources"
+    },
+    {
+        "question": "What does virtualization achieve?",
+        "options": [
+            "Virtualization creates more security than using a physical machine.",
+            "Virtualization makes it easier to share resources between users.",
+            "Virtualization leads to better LAN and WAN utilization.",
+            "Virtualization eliminates the need for networking."
+        ],
+        "answer": "Virtualization makes it easier to share resources between users."
+    },
+    {
+        "question": "Application service providers (ASPs) offered an application over a network. The application was not owned by the business.\nWhat is this an early example of?",
+        "options": [
+            "Arpanet",
+            "Mainframes",
+            "Managed services",
+            "VPN (virtual private network)"
+        ],
+        "answer": "Managed services"
+    },
+    {
+        "question": "What is an example of a single-purpose environment?",
+        "options": [
+            "An accounting system on a private server",
+            "An application to share documents over the Internet",
+            "An interface to a large online storage application",
+            "A multi-user collaboration platform"
+        ],
+        "answer": "An accounting system on a private server"
+    },
+    {
+        "question": "What is not a key characteristic of a multi-purpose architecture?",
+        "options": [
+            "Interoperable layers",
+            "Multi-tiered",
+            "Portability",
+            "Security"
+        ],
+        "answer": "Security"
+    },
+    {
+        "question": "What does the abbreviation SOA stand for?",
+        "options": [
+            "Service-organized application",
+            "Service-organized architecture",
+            "Service-oriented application",
+            "Service-oriented architecture"
+        ],
+        "answer": "Service-oriented architecture"
+    },
+    {
+        "question": "What is an environment-related benefit of cloud computing?",
+        "options": [
+            "Lower bandwidth requirements",
+            "Lower Internet dependency",
+            "Lower levels of data protection",
+            "Lower power consumption"
+        ],
+        "answer": "Lower power consumption"
+    },
+    {
+        "question": "What is not a limitation of cloud computing?",
+        "options": [
+            "Concerns about data protection",
+            "Compliance with local laws",
+            "Total costs of ownership (TCO)",
+            "Lack of scalability"
+        ],
+        "answer": "Total costs of ownership (TCO)"
+    },
+    {
+        "question": "Flexibility can be considered both a benefit and a concern of cloud computing.\nWhich aspect is a concern?",
+        "options": [
+            "The absence of application customization",
+            "The immediate fulfilment of new business needs",
+            "The location independence for access",
+            "The speed of implementation"
+        ],
+        "answer": "The absence of application customization"
+    },
+    {
+        "question": "What ensures the interoperability of cloud computing?",
+        "options": [
+            "Multiple system integrators",
+            "Single cloud computing vendor",
+            "Standardized protocols",
+            "Proprietary software"
+        ],
+        "answer": "Standardized protocols"
+    },
+    {
+        "question": "What are the hardware components of a local cloud environment?",
+        "options": [
+            "- Blade server arrays\n- LAN\n- Storage area network (SAN)\n- Network attached storage (NAS)\n- Backup and restore solution\n- Load balancer",
+            "- Cloud automation software\n- Virtualization software\n- Cloud application software\n- Database software\n- Middleware\n- Operating systems",
+            "- On-demand self-service\n- Broad network access\n- Resource pooling\n- Rapid elasticity and scalability\n- Measured service\n- Multi-tenancy",
+            "- Security protocols\n- Encryption algorithms\n- User access controls"
+        ],
+        "answer": "- Blade server arrays\n- LAN\n- Storage area network (SAN)\n- Network attached storage (NAS)\n- Backup and restore solution\n- Load balancer"
+    },
+    {
+        "question": "What is one of the key building blocks for a VPN (virtual private network)?",
+        "options": [
+            "Audits",
+            "Clustering",
+            "Denial of service",
+            "IP tunneling"
+        ],
+        "answer": "IP tunneling"
+    },
+    {
+        "question": "Which measure contributes most to data protection in cloud environments?",
+        "options": [
+            "Failover",
+            "Role-based user profiles",
+            "Service levels",
+            "Virtualization"
+        ],
+        "answer": "Role-based user profiles"
+    },
+    {
+        "question": "Which international standard contains IT service management principles?",
+        "options": [
+            "COBIT",
+            "ISO/IEC 22123",
+            "ISO/IEC 20000",
+            "NIST SP800-145"
+        ],
+        "answer": "ISO/IEC 20000"
+    },
+    {
+        "question": "How does using standards benefit cloud computing?",
+        "options": [
+            "Standards ensure compliance.",
+            "Standards ensure location independence.",
+            "Standards ensure portability.",
+            "Standards ensure security."
+        ],
+        "answer": "Standards ensure portability."
+    },
+    {
+        "question": "Service level requirements (SLRs) for public clouds are highly standardized.\nWhy are they highly standardized?",
+        "options": [
+            "Because these SLRs are legislated and standardized by ISO/IEC",
+            "Because these SLRs are legislated and standardized in the GDPR",
+            "Because these SLRs are meant to be used by a large customer base",
+            "Because these SLRs enable a single service level for all services"
+        ],
+        "answer": "Because these SLRs are meant to be used by a large customer base"
+    },
+    {
+        "question": "Which process is not a part of service level management?",
+        "options": [
+            "Configuration management",
+            "Human resource management",
+            "Service availability management",
+            "Service request management"
+        ],
+        "answer": "Human resource management"
+    },
+    {
+        "question": "What is required for accessing any cloud application?",
+        "options": [
+            "The application and client must use the same programming language.",
+            "The application must verify the user's identity.",
+            "The user must know on which server the application is located.",
+            "The user's browser must support the application's features."
+        ],
+        "answer": "The user's browser must support the application's features."
+    },
+    {
+        "question": "To which Open Systems Interconnection (OSI) model layer do HTTP and HTTPS relate?",
+        "options": [
+            "2 - data link layer",
+            "3 - network layer",
+            "4 - transport layer",
+            "7 - application layer"
+        ],
+        "answer": "7 - application layer"
+    },
+    {
+        "question": "What is a thin client?",
+        "options": [
+            "A lightweight device optimized for virtualized computing",
+            "A name for a desktop computer without a screen",
+            "A smartphone with network access and a large processor",
+            "A user terminal without a processor or a hard drive"
+        ],
+        "answer": "A lightweight device optimized for virtualized computing"
+    },
+    {
+        "question": "What is not a possible benefit of using mobile applications?",
+        "options": [
+            "Mobile applications synchronize e-mail and calendar automatically.",
+            "Mobile devices allow access to desktop virtualizations.",
+            "Mobile devices heighten the chance of shoulder surfing.",
+            "There are many applications available that help staff be productive."
+        ],
+        "answer": "Mobile devices heighten the chance of shoulder surfing."
+    },
+    {
+        "question": "An IT company that creates their own software switches to a PaaS (Platform as a Service) solution.\nWhat benefit does this have for the company?",
+        "options": [
+            "The marketing department gets an extra platform for marketing.",
+            "The sales department can showcase work to clients faster.",
+            "The software can be developed without software developers.",
+            "The software developers can spend more time on valuable work."
+        ],
+        "answer": "The software developers can spend more time on valuable work."
+    },
+    {
+        "question": "A service provider has taken over a large part of a customer’s IT systems and service management.\nHow can the service provider best show their customer that they can and will deliver most of the value chain?",
+        "options": [
+            "By addressing issues surrounding sizing and costing infrastructure",
+            "By matching service level agreements (SLAs) with customer needs",
+            "By providing access to innovative new applications and technology",
+            "By showing understanding of service levels through certification"
+        ],
+        "answer": "By matching service level agreements (SLAs) with customer needs"
+    },
+    {
+        "question": "An organization wishes to become a cloud service provider.\nWhich question must the organization ask themselves before becoming a cloud service provider?",
+        "options": [
+            "Can freed-up assets be re-used in an efficient and financially viable way?",
+            "Do we need personal connections through cellphone data connections?",
+            "What are the names of the customer's service desk employees?",
+            "What are the provisions when we want to migrate to another provider?"
+        ],
+        "answer": "Can freed-up assets be re-used in an efficient and financially viable way?"
+    },
+    {
+        "question": "Data is compromised due to unauthorized access to the data. Which threat is this?",
+        "options": [
+            "Account hijacking",
+            "Data breach",
+            "Insecure interfaces and application programming interfaces (APIs)",
+            "Malware attack"
+        ],
+        "answer": "Data breach"
+    },
+    {
+        "question": "A business implements two-factor authentication and monitoring of user behavior. Which risk will these measures help mitigate most directly?",
+        "options": [
+            "Account hijacking",
+            "Data breach",
+            "Insecure interfaces and application programming interfaces (APIs)",
+            "Phishing attacks"
+        ],
+        "answer": "Account hijacking"
+    },
+    {
+        "question": "A business frequently deals with data breaches due to insider threats. Which risk-mitigating measure is most effective for this business?",
+        "options": [
+            "Awareness campaigns",
+            "Designing for security",
+            "Implement two-factor authentication",
+            "Encryption"
+        ],
+        "answer": "Awareness campaigns"
+    },
+    {
+        "question": "What does federated identity management do?",
+        "options": [
+            "It allows passwords to be used on multiple devices.",
+            "It allows users to reset their own passwords.",
+            "It ensures passwords are only used once.",
+            "It enables the single sign-on (SSO) feature."
+        ],
+        "answer": "It enables the single sign-on (SSO) feature."
+    },
+    {
+        "question": "Presence and location determine the available services and capabilities. Which characteristic of identity management is this?",
+        "options": [
+            "Digital identity",
+            "Group management",
+            "Role management",
+            "Separation of duties"
+        ],
+        "answer": "Digital identity"
+    },
+    {
+        "question": "The European Parliament and the Council of the European Union have drafted this legislation for data protection which came into effect in 2018. Which legislation is meant?",
+        "options": [
+            "The CLOUD Act",
+            "The Constitution",
+            "The GDPR",
+            "The UDHR"
+        ],
+        "answer": "The GDPR"
+    },
+    {
+        "question": "Free cloud applications may use personal data to provide personalized advertisements. What should the user be concerned about?",
+        "options": [
+            "The correctness of their personal data",
+            "The integrity of their personal data",
+            "The security of their personal data",
+            "The usability of their personal data"
+        ],
+        "answer": "The security of their personal data"
+    },
+    {
+        "question": "A business starts using cloud computing solutions. They recalculate their capital expenditure (CAPEX) and operational expenditure (OPEX). What is the most likely result of this re-calculation?",
+        "options": [
+            "Both CAPEX and OPEX decrease.",
+            "CAPEX decreases and OPEX increases.",
+            "CAPEX increases and OPEX decreases.",
+            "Both CAPEX and OPEX increase."
+        ],
+        "answer": "CAPEX decreases and OPEX increases."
+    },
+    {
+        "question": "Which benefit would a start-up company especially have from moving to cloud computing?",
+        "options": [
+            "Lower operational expenditures (OPEX)",
+            "Lower operational support costs",
+            "Shorter implementation times",
+            "Shorter use of cloud solutions"
+        ],
+        "answer": "Shorter implementation times"
+    },
+    {
+        "question": "Why is a short time to market a benefit of cloud computing?",
+        "options": [
+            "Increased capacity or new technology can be implemented in a short time.",
+            "Market leadership is guaranteed by implementing emerging technologies.",
+            "Short time to market enables scalability and elasticity of cloud solutions.",
+            "Slower worldwide coverage reduces the risks of short deployment times."
+        ],
+        "answer": "Increased capacity or new technology can be implemented in a short time."
+    },
+    {
+        "question": "A business is researching cloud service providers. They are concerned about cloud security. Which question addresses this?",
+        "options": [
+            "Can the cloud services support the business?",
+            "How does cloud security level compare to your own?",
+            "What are the cloud service billing mechanism and units?",
+            "What is the system performance of the cloud solution?"
+        ],
+        "answer": "How does cloud security level compare to your own?"
+    },
+    {
+        "question": "A business has chosen a SaaS (Software as a Service) solution. They need to monitor the cloud service provider's financial performance. What helps a business monitor financial performance?",
+        "options": [
+            "Weekly technical performance reports",
+            "Monthly capacity utilization reports",
+            "Yearly third-party audit reports",
+            "Daily user activity reports"
+        ],
+        "answer": "Monthly capacity utilization reports"
+    },
+    {
+        "question": "What is a good question to ask a prospective Cloud provider?",
+        "options": [
+            "How can we access the servers in case of an incident?",
+            "How is data partitioning done?",
+            "What are the names of the Service desk employees?",
+            "What are the provisions when a service ends?"
+        ],
+        "answer": "What are the provisions when a service ends?"
+    },
+    {
+        "question": "What is the implication on storage availability of moving to a Cloud environment?",
+        "options": [
+            "storage capability can be easily added",
+            "storage capability is expensive",
+            "storage capability is limited",
+            "storage capability needs to be integrated"
+        ],
+        "answer": "storage capability can be easily added"
+    },
+    {
+        "question": "What is currently the most common network topology?",
+        "options": [
+            "Hybrid",
+            "Point-to-point",
+            "Ring",
+            "Star"
+        ],
+        "answer": "Star"
+    },
+    {
+        "question": "Capacity management is a process to ensure IT infrastructure is used efficiently and that it is provided at the right time and price in the needed volumes. Which ISO/IEC 20000 process group does Capacity management belong to?",
+        "options": [
+            "Control processes",
+            "Resolution processes",
+            "Relationship processes",
+            "Service delivery processes"
+        ],
+        "answer": "Service delivery processes"
+    },
+    {
+        "question": "Which technique allows multiple operating systems to run on a single host computer?",
+        "options": [
+            "client",
+            "Hypervisor",
+            "sandboxing",
+            "server"
+        ],
+        "answer": "Hypervisor"
+    },
+    {
+        "question": "How might moving to the Cloud have a negative impact on users?",
+        "options": [
+            "Development is no longer in house and may take longer to be performed.",
+            "Software licensing is no longer part of operations.",
+            "Support and maintenance are no longer in house and may take longer to be performed.",
+            "Uptimes can be guaranteed but not adjusted in a flexible manner."
+        ],
+        "answer": "Development is no longer in house and may take longer to be performed."
+    },
+    {
+        "question": "What is the single point of truth in a Claim-based identity management solution?",
+        "options": [
+            "the cloud application",
+            "the Hypervisor",
+            "the identity provider",
+            "the server hosting the application"
+        ],
+        "answer": "the identity provider"
+    },
+    {
+        "question": "What is a major benefit of using applications on mobile devices?",
+        "options": [
+            "Mobile devices are cheaper than personal computers.",
+            "Mobile devices provide location independence.",
+            "Mobile devices uniquely identify the user approaching the application",
+            "Mobile devises are more secure than personal computers."
+        ],
+        "answer": "Mobile devices provide location independence."
+    },
+    {
+        "question": "The three elements that form the security corner stone of IP based network management and policy administration are the so-called Triple-A . What is not one of the Triple-A elements?",
+        "options": [
+            "Accounting",
+            "Application",
+            "Authentication",
+            "Authorization"
+        ],
+        "answer": "Application"
+    },
+    {
+        "question": "What are the functions supported by HTTP?",
+        "options": [
+            "Command Fill Add Use",
+            "Get Post Put Delete",
+            "Order Retrieve Send Replace",
+            "Receive View Select Send"
+        ],
+        "answer": "Get Post Put Delete"
+    },
+    {
+        "question": "Why are multiple sites often used in Cloud computing environments?",
+        "options": [
+            "They make network configuration easier.",
+            "They can help in disaster prevention and recovery.",
+            "They make it easier to virtualize IT resources.",
+            "They are less vulnerable to security attacks."
+        ],
+        "answer": "They can help in disaster prevention and recovery."
+    },
+    {
+        "question": "What is one of the requirements for successfully using a Web-based application?",
+        "options": [
+            "ample client storage capacity",
+            "control of user identity",
+            "Service level agreements (SLAs)",
+            "sufficient bandwidth"
+        ],
+        "answer": "sufficient bandwidth"
+    },
+    {
+        "question": "Why can virus scanning software not run directly on the hypervisor?",
+        "options": [
+            "because the hypervisor is hidden software",
+            "because the hypervisor only guests other operating systems",
+            "because the hypervisor runs on a server",
+            "because the hypervisor starts up before the virus scanning software"
+        ],
+        "answer": "because the hypervisor only guests other operating systems"
+    },
+    {
+        "question": "What is a benefit of virtual client operating systems in protection against virus infections?",
+        "options": [
+            "A virus infection in one operating system will not infect the other operating systems.",
+            "One virus scanner on a client operating system will protect all other operating systems.",
+            "The client operating systems are virtual and cannot be infected from outside.",
+            "The client operating systems can be protected by the virus scanner of the host operating system."
+        ],
+        "answer": "A virus infection in one operating system will not infect the other operating systems."
+    },
+    {
+        "question": "What is not a key characteristic of multipurpose architecture?",
+        "options": [
+            "Multi-tiered",
+            "Open standards",
+            "Security",
+            "Server virtualization"
+        ],
+        "answer": "Security"
+    },
+    {
+        "question": "What is a driver for Cloud Computing?",
+        "options": [
+            "It makes it easier to scale down IT resources.",
+            "It makes an organization less dependent on the network.",
+            "It allows organizations to invest in IT before it is needed.",
+            "It makes it easier to integrate with legacy software."
+        ],
+        "answer": "It makes it easier to scale down IT resources."
+    },
+    {
+        "question": "What is a specific feature of Network Attached Storage (NAS)?",
+        "options": [
+            "NAS presents data to the user as if it is stored on a file server",
+            "NAS uses the file system of the client computers.",
+            "The NAS operating system does not provide security features.",
+            "With NAS the file system is managed by the servers storing the data."
+        ],
+        "answer": "NAS presents data to the user as if it is stored on a file server"
+    },
+    {
+        "question": "What is OpenID used for?",
+        "options": [
+            "to connect to multiple web-sites without using a password",
+            "to identify yourself in dealing on-line with government agencies",
+            "to pay on-line via your own bank account",
+            "to use one account to sign in to multiple web sites"
+        ],
+        "answer": "to use one account to sign in to multiple web sites"
+    },
+    {
+        "question": "Why may Service levels vary for Hybrid Clouds?",
+        "options": [
+            "Hybrid Clouds are constantly shifting from Public to Private Clouds.",
+            "Hybrid Clouds are less reliable than Public Clouds.",
+            "Hybrid Clouds are less reliable than Private Clouds.",
+            "SLAs of Hybrid Clouds contain a mix of Public and Private Cloud SLAs."
+        ],
+        "answer": "SLAs of Hybrid Clouds contain a mix of Public and Private Cloud SLAs."
+    },
+    {
+        "question": "What is the function of the Web Tier?",
+        "options": [
+            "load balanced databases",
+            "multiple backend application servers",
+            "responding to client requests",
+            "supporting the client requests"
+        ],
+        "answer": "responding to client requests"
+    },
+    {
+        "question": "Presenting a user with a logical space for storing data and mapping this to the physical location where it is stored allows many systems to share the same storage device. What is this called?",
+        "options": [
+            "Dynamic scaling",
+            "Load balancing",
+            "Managed services",
+            "Storage virtualization"
+        ],
+        "answer": "Storage virtualization"
+    },
+    {
+        "question": "Why is the Elastic Compute Cloud (EC2) by Amazon a Public Cloud service?",
+        "options": [
+            "Amazon allows anyone with a credit card access to the service.",
+            "Amazon sells books, DVD's and electronic equipment.",
+            "Amazon monitors the servers 24 hours per day.",
+            "Amazon is a company with publicly trade-able stocks."
+        ],
+        "answer": "Amazon allows anyone with a credit card access to the service."
+    },
+    {
+        "question": "What is the goal of an ISO/IEC 20000 follow-up audit?",
+        "options": [
+            "To change procedures and working instructions",
+            "To check if the organization still fulfills the ISO/IEC 20000 requirements",
+            "To implement additional processes within the Cloud provider's organization",
+            "To pay specific attention to the Change management process"
+        ],
+        "answer": "To check if the organization still fulfills the ISO/IEC 20000 requirements"
+    },
+    {
+        "question": "What does the abbreviation IPsec mean?",
+        "options": [
+            "Internet Protocol Security",
+            "Internet Private Section",
+            "Intelligent Protocol Seconds",
+            "Second Internet Protocol"
+        ],
+        "answer": "Internet Protocol Security"
+    },
+    {
+        "question": "What is an example of the implementation of federation?",
+        "options": [
+            "driver's license",
+            "fingerprint",
+            "information card",
+            "iris scan"
+        ],
+        "answer": "information card"
+    },
+    {
+        "question": "What is the most important feature of a virtualized environment?",
+        "options": [
+            "Multiple applications can be used by a single user.",
+            "Multiple computers can be connected to a single network.",
+            "Multiple operating systems can be used on a single hardware platform",
+            "Multiple users can be active on a single network."
+        ],
+        "answer": "Multiple operating systems can be used on a single hardware platform"
+    },
+    {
+        "question": "What is the main tool for users accessing the Cloud?",
+        "options": [
+            "remote desktop",
+            "the firewall",
+            "the web-browser",
+            "the web-server"
+        ],
+        "answer": "the web-browser"
+    },
+    {
+        "question": "In evaluating a Cloud service provider, which security issue is important?",
+        "options": [
+            "how the service provider implements and maintains security",
+            "the compatibility of the virus scanners used by the vendor and in your organization",
+            "the protection provided by your organization's firewall",
+            "the security protocols used by other customers of the services"
+        ],
+        "answer": "how the service provider implements and maintains security"
+    },
+    {
+        "question": "Why is text messaging in automobiles outlawed in many countries?",
+        "options": [
+            "for financial reasons",
+            "for safety reasons",
+            "for security reasons",
+            "for synchronization reasons"
+        ],
+        "answer": "for safety reasons"
+    },
+    {
+        "question": "What was a serious drawback in the early development of networks?",
+        "options": [
+            "computers being dedicated to one function",
+            "computers were too complicated to be connected",
+            "the low speed of the network",
+            "vendors developing their own network communication protocols"
+        ],
+        "answer": "vendors developing their own network communication protocols"
+    },
+    {
+        "question": "Providing a user access to an application in the Cloud requires several steps. In which step are the user's permissions determined?",
+        "options": [
+            "during the auditing phase",
+            "during the authentication phase",
+            "during the authorization phase",
+            "during the verification phase"
+        ],
+        "answer": "during the authorization phase"
+    },
+    {
+        "question": "Why is a thin client called 'thin'?",
+        "options": [
+            "because it has a thin monitor",
+            "because it has limited functionality",
+            "because it has no memory",
+            "because it has no processor"
+        ],
+        "answer": "because it has limited functionality"
+    },
+    {
+        "question": "What is specific for public cloud?",
+        "options": [
+            "It is a client computer connected to a network.",
+            "It uses both local and remote services in its implementation",
+            "It uses services provided by an external service provider.",
+            "The services are shared in the organization."
+        ],
+        "answer": "It uses services provided by an external service provider."
+    },
+    {
+        "question": "How can a protocol analyzer be used?",
+        "options": [
+            "to analyze errors in the protocol syntax used in a failed message",
+            "to distribute messages according to the addressing protocol they use",
+            "to measure the bandwidth required for different types of transactions",
+            "to prevent virus infections in the network software"
+        ],
+        "answer": "to measure the bandwidth required for different types of transactions"
+    },
+    {
+        "question": "What is the principal function of the Hypervisor?",
+        "options": [
+            "identity management",
+            "responding to client requests",
+            "scheduling the sharing of resources",
+            "virus protection"
+        ],
+        "answer": "scheduling the sharing of resources"
+    },
+    {
+        "question": "What is a main challenge for enterprises in using cell phones for collaboration?",
+        "options": [
+            "Applications for collaboration are limited.",
+            "Collaborative applications are complicated.",
+            "Employees want to use their private cell phones.",
+            "Separating business data from personal data."
+        ],
+        "answer": "Separating business data from personal data."
+    },
+    {
+        "question": "What does the integrity of information mean?",
+        "options": [
+            "It means that the access to the information is limited.",
+            "It means that the information can be accessed by those users who are allowed to access it.",
+            "It means that the information is accurate.",
+            "It means that the information is protected."
+        ],
+        "answer": "It means that the information is accurate."
+    },
+    {
+        "question": "What may be an economic benefit of Cloud computing?",
+        "options": [
+            "a custom accounting system",
+            "acceptance by employees",
+            "purchasing thin clients",
+            "reduced overhead"
+        ],
+        "answer": "reduced overhead"
+    },
+    {
+        "question": "What is an economic cloud solution for a short term project like a one time application design?",
+        "options": [
+            "Platform-as-a-Service",
+            "Software as-a-Service",
+            "Communication-as-a-Service",
+            "Security-as-a-Service"
+        ],
+        "answer": "Software as-a-Service"
+    },
+    {
+        "question": "What is the generally accepted communication protocol on the Internet?",
+        "options": [
+            "Net BIOS",
+            "OSI",
+            "SNA",
+            "TCP/IP"
+        ],
+        "answer": "TCP/IP"
+    },
+    {
+        "question": "What is an example of the use of location information?",
+        "options": [
+            "to determine the user's native language",
+            "to determine whether the user is connected via a mobile platform",
+            "to provide advertisements for local restaurants, determined by GPS",
+            "to provide the correct version of the application for the user's operating system"
+        ],
+        "answer": "to provide advertisements for local restaurants, determined by GPS"
+    },
+    {
+        "question": "Why is privacy an area of concern in Cloud computing?",
+        "options": [
+            "Data cannot be securely stored in a Cloud solution.",
+            "Data always resides in another country, with different privacy laws.",
+            "People using Cloud solutions are afraid that their data is not secure in the Cloud.",
+            "Privacy laws vary from country to country."
+        ],
+        "answer": "Privacy laws vary from country to country."
+    },
+    {
+        "question": "Which characteristic of an Identity management system attributes permissions to roles and not to people?",
+        "options": [
+            "digital identity",
+            "group management",
+            "people management",
+            "self service functions"
+        ],
+        "answer": "group management"
+    },
+    {
+        "question": "What is not a security measure associated with the Single Sign On (SSO) principle?",
+        "options": [
+            "Active directory authentication",
+            "Security token",
+            "SOAP protocol",
+            "Smart card"
+        ],
+        "answer": "SOAP protocol"
+    },
+    {
+        "question": "What is one of the main risks associated with using Cloud solutions?",
+        "options": [
+            "Bankruptcy of the Cloud provider",
+            "Constant updates to Cloud applications",
+            "Having to use a password to access Cloud applications and then losing it.",
+            "Having no direct access to applications or infrastructure in case of an incident."
+        ],
+        "answer": "Having no direct access to applications or infrastructure in case of an incident."
+    },
+    {
+        "question": "What is the benefit of replication of data center sites?",
+        "options": [
+            "data protection",
+            "disaster recovery",
+            "extended data storage",
+            "increased response rate"
+        ],
+        "answer": "disaster recovery"
+    },
+    {
+        "question": "Which Service Model provides the best environment for testing new software?",
+        "options": [
+            "Infrastructure as a Service (IaaS)",
+            "Platform as a Service (PaaS)",
+            "Software as a Service (SaaS)",
+            "There is no difference"
+        ],
+        "answer": "Platform as a Service (PaaS)"
+    },
+    {
+        "question": "Why became the Ethernet standard popular for Local Area Networks (LANs)?",
+        "options": [
+            "because the Ethernet standard was fastest",
+            "because the Ethernet standard was released for general use",
+            "because the Ethernet standard was suitable for mainframes",
+            "because the Ethernet standard was used by the largest vendor"
+        ],
+        "answer": "because the Ethernet standard was released for general use"
+    },
+    {
+        "question": "How might moving to Cloud computing enhance user's ongoing experience of software applications?",
+        "options": [
+            "by accomplishing quick and efficient application updates",
+            "by increasing the access to information available on the Internet",
+            "by moving internal systems with performance problems to the Cloud",
+            "by passing problems with applications to the Cloud provider"
+        ],
+        "answer": "by accomplishing quick and efficient application updates"
+    },
+    {
+        "question": "What is a difference between XML and HTML?",
+        "options": [
+            "XML is used to format many types of documents and structures; HTML formats the display of content in a web-browser.",
+            "HTML is used to format many types of documents and structures; XML formats the display of content in a web-browser.",
+            "HTML can be used to format the display of content in a web-browser, XML cannot.",
+            "XML can be used to format the display of content in a web-browser, HTML cannot."
+        ],
+        "answer": "XML is used to format many types of documents and structures; HTML formats the display of content in a web-browser."
+    },
+    {
+        "question": "Which language can be used for running programs on the client side during web access?",
+        "options": [
+            "HTML",
+            "Java",
+            "Javascript",
+            "XML"
+        ],
+        "answer": "Javascript"
+    },
+    {
+        "question": "What is an important environment related benefit of Cloud?",
+        "options": [
+            "Greater data protection",
+            "Reduced dependency on the Internet",
+            "Reduced power requirements",
+            "Smaller bandwidth consumption"
+        ],
+        "answer": "Reduced power requirements"
+    },
+    {
+        "question": "What is Web-based Enterprise Management (WBEM)?",
+        "options": [
+            "a management system for distributed computer environments",
+            "a protocol to manage all web-based applications of an enterprise",
+            "a set of management standards based on Internet standards",
+            "a web-based application to manage the enterprise resources"
+        ],
+        "answer": "a set of management standards based on Internet standards"
+    },
+    {
+        "question": "The e-mail service provided by Google (Gmail) is an example of which deployment and service model?",
+        "options": [
+            "SaaS in a Public Cloud",
+            "SaaS in a Community Cloud",
+            "IaaS in a Private Cloud",
+            "PaaS in a Hybrid Cloud"
+        ],
+        "answer": "SaaS in a Public Cloud"
+    },
+    {
+        "question": "What do we call the threat of data compromised due to unauthorized access?",
+        "options": [
+            "Account service and traffic hijacking",
+            "Data loss/leakage",
+            "Insecure application interfaces",
+            "Shared technology vulnerabilities"
+        ],
+        "answer": "Data loss/leakage"
+    },
+    {
+        "question": "What is the intended result of a Distributed Denial of Service (DDOS) attack on a web site?",
+        "options": [
+            "To change the content of the site to prevent it from providing further services",
+            "To distribute the content of the site to users who are denied access to its service",
+            "To infect the site to distribute a virus to users, which denies them access to further services",
+            "To lock users out of the site by exhausting the sites resources"
+        ],
+        "answer": "To lock users out of the site by exhausting the sites resources"
+    },
+    {
+        "question": "What is the purpose of failover?",
+        "options": [
+            "to automatically restart the system in case of a failure",
+            "to build up a back-up while the system is active",
+            "to switch over automatically to another system",
+            "to work on two systems at the same time"
+        ],
+        "answer": "to switch over automatically to another system"
+    },
+    {
+        "question": "The Total Cost of Ownership (TCO) of a Cloud solution may change and in the worst case increase. How can this happen?",
+        "options": [
+            "In certain cases the TCO is intentionally shortened by lack of vision on future developments.",
+            "In certain cases the TCO is just not the right measure for calculating relevant costs and expenditures.",
+            "In some cases customers have not acted upon a good business case.",
+            "In some cases only the distribution of different components that add up to the TCO may change."
+        ],
+        "answer": "In some cases customers have not acted upon a good business case."
+    },
+    {
+        "question": "What is an important limitation of Cloud computing?",
+        "options": [
+            "actuality of data",
+            "inflexibility",
+            "regulatory concerns",
+            "volume of waste"
+        ],
+        "answer": "regulatory concerns"
+    },
+    {
+        "question": "What is the major benefit for software developers with regard to Cloud platforms?",
+        "options": [
+            "Connectivity with other platforms makes it easier for users to connect to the Cloud.",
+            "Software developers can design, build and test their solutions faster.",
+            "Software developers do not benefit from Cloud platforms.",
+            "Solutions may be marketed on any platform."
+        ],
+        "answer": "Software developers can design, build and test their solutions faster."
+    },
+    {
+        "question": "What is the Pay as You Go Model?",
+        "options": [
+            "a discount for customers changing their network provider",
+            "a discount for mobile connections based on the distance to the datacenter",
+            "to pay for a service after ending the contract",
+            "to pay for services based on their use"
+        ],
+        "answer": "to pay for services based on their use"
+    },
+    {
+        "question": "In its 2010 Whitepaper the Cloud Security Alliance (CSA) identifies a number of Top threats to Cloud Computing. What is not identified by the CSA as a threat?",
+        "options": [
+            "abuse and nefarious use of Cloud computing",
+            "insecure application interfaces",
+            "lack of good Service level agreements",
+            "unknown risk profile and account"
+        ],
+        "answer": "lack of good Service level agreements"
+    },
+    {
+        "question": "In identity management, how might location information be used?",
+        "options": [
+            "to determine the user's native language",
+            "to determine whether the user is connected via a mobile platform",
+            "to provide advertisements for local restaurants, determined by GPS",
+            "to provide the correct version of the application for the user's operating system"
+        ],
+        "answer": "to provide advertisements for local restaurants, determined by GPS"
+    },
+    {
+        "question": "The National Institute of Standards and Technology (NIST) states there are 'five essential characteristics, three service models and four deployment models' to Cloud Computing. What is an example of a service model?",
+        "options": [
+            "Measured service",
+            "On-demand self-service",
+            "Resource pooling",
+            "Software as a Service"
+        ],
+        "answer": "Software as a Service"
+    },
+    {
+        "question": "Where does the abbreviation SOA stand for?",
+        "options": [
+            "Service Oriented Architecture",
+            "Service Oriented Application",
+            "Service Organized Architecture",
+            "Service Organization Agency"
+        ],
+        "answer": "Service Oriented Architecture"
+    },
+    {
+        "question": "What is an important benefit of using a hybrid model for cloud services?",
+        "options": [
+            "It allows the purchaser to save money in infrastructure and licenses.",
+            "It allows the separation of sensitive data from less sensitive data.",
+            "It provides better performance.",
+            "It provides the best client/server experience in a cloud environment."
+        ],
+        "answer": "It allows the separation of sensitive data from less sensitive data."
+    },
+    {
+        "question": "What is required in order to achieve ISO/IEC 20000 certification?",
+        "options": [
+            "A member of ISO must always be present at the Cloud provider.",
+            "Documentation alone is enough to be certified.",
+            "The Cloud provider's IT systems must be upgraded to use ISO software.",
+            "The Cloud provider's staff also needs to adhere to the described procedures and instructions."
+        ],
+        "answer": "The Cloud provider's staff also needs to adhere to the described procedures and instructions."
+    },
+    {
+        "question": "What does the total cost of Application Ownership (TCAO) consist of?",
+        "options": [
+            "The total annual costs of ownership including hardware support plus some amortization costs",
+            "The total annual costs of ownership including all platform costs, staffing and other internal costs",
+            "The total costs of ownership including hardware support plus some amortization costs",
+            "The total costs of ownership including software, hardware and services"
+        ],
+        "answer": "The total annual costs of ownership including hardware support plus some amortization costs"
+    },
+    {
+        "question": "Why can virus scanning software not run directly on the hypervisor?",
+        "options": [
+            "because the hypervisor is hidden software",
+            "because the hypervisor only guests other operating systems",
+            "because the hypervisor runs on a server",
+            "because the hypervisor starts up before the virus scanning software"
+        ],
+        "answer": "because the hypervisor only guests other operating systems"
+    },
+    {
+        "question": "What does CaaS represent?",
+        "options": [
+            "combining applications in a single access system",
+            "communication applications provided by an offsite location service provider",
+            "computer maintenance services provided by an external service provider",
+            "computing services provided by an offsite location service provider"
+        ],
+        "answer": "communication applications provided by an offsite location service provider"
+    }
+]

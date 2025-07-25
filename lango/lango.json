@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Bet",
+        "options": [
+            "Yes, okay, sure",
+            "Seriously",
+            "Quietly or secretly",
+            "Attractive/confident man"
+        ],
+        "answer": "Yes, okay, sure"
+    },
+    {
+        "question": "Cap / No Cap",
+        "options": [
+            "Lie / No lie",
+            "Truth",
+            "Excited (gaming)",
+            "Indirect insult"
+        ],
+        "answer": "Lie / No lie"
+    },
+    {
+        "question": "Flex",
+        "options": [
+            "To show off",
+            "Really tasty or good",
+            "Okay/cool",
+            "Tired"
+        ],
+        "answer": "To show off"
+    },
+    {
+        "question": "Drip",
+        "options": [
+            "Cool outfit/style",
+            "Flawless",
+            "Annoy online",
+            "Throw"
+        ],
+        "answer": "Cool outfit/style"
+    },
+    {
+        "question": "W",
+        "options": [
+            "Win or success",
+            "Annoyed",
+            "Dramatic",
+            "Mood or feeling"
+        ],
+        "answer": "Win or success"
+    },
+    {
+        "question": "L",
+        "options": [
+            "Loss or failure",
+            "Fame or influence",
+            "Really good (music)",
+            "Laughing hard"
+        ],
+        "answer": "Loss or failure"
+    },
+    {
+        "question": "Bruh",
+        "options": [
+            "Bro/dude or disbelief",
+            "Cool (memes)",
+            "Proof",
+            "Socially aware"
+        ],
+        "answer": "Bro/dude or disbelief"
+    },
+    {
+        "question": "Sus",
+        "options": [
+            "Suspicious",
+            "Attractive person",
+            "Perfect",
+            "Bitter or upset"
+        ],
+        "answer": "Suspicious"
+    },
+    {
+        "question": "Yeet",
+        "options": [
+            "Throw or express excitement",
+            "Bold or ruthless",
+            "Really tasty or good",
+            "Awkward"
+        ],
+        "answer": "Throw or express excitement"
+    },
+    {
+        "question": "Slaps",
+        "options": [
+            "Really good (music)",
+            "Cool outfit/style",
+            "Win or success",
+            "Seriously"
+        ],
+        "answer": "Really good (music)"
+    },
+    {
+        "question": "Vibe / Vibing",
+        "options": [
+            "Mood or feeling",
+            "Tired",
+            "Relatable feeling",
+            "Loss or failure"
+        ],
+        "answer": "Mood or feeling"
+    },
+    {
+        "question": "Ghost",
+        "options": [
+            "Disappear or ignore",
+            "Annoy online",
+            "Excited",
+            "Lie / No lie"
+        ],
+        "answer": "Disappear or ignore"
+    },
+    {
+        "question": "Salty",
+        "options": [
+            "Bitter or upset",
+            "Quietly or secretly",
+            "Perfect",
+            "Shocked"
+        ],
+        "answer": "Bitter or upset"
+    },
+    {
+        "question": "Noob / Newb",
+        "options": [
+            "Inexperienced player",
+            "Bold or ruthless",
+            "Cool (memes)",
+            "Amazing"
+        ],
+        "answer": "Inexperienced player"
+    },
+    {
+        "question": "Pog / Poggers",
+        "options": [
+            "Excited (gaming)",
+            "Mood or feeling",
+            "Proof",
+            "Really good (music)"
+        ],
+        "answer": "Excited (gaming)"
+    },
+    {
+        "question": "Chill",
+        "options": [
+            "Relax",
+            "Fame or influence",
+            "Flawless",
+            "Truth"
+        ],
+        "answer": "Relax"
+    },
+    {
+        "question": "Simp",
+        "options": [
+            "Overly attentive to a crush",
+            "Tired",
+            "Win or success",
+            "Perfect"
+        ],
+        "answer": "Overly attentive to a crush"
+    },
+    {
+        "question": "Clout",
+        "options": [
+            "Fame or influence",
+            "Bro/dude or disbelief",
+            "Annoy online",
+            "Relatable feeling"
+        ],
+        "answer": "Fame or influence"
+    },
+    {
+        "question": "Bussin’",
+        "options": [
+            "Really tasty or good",
+            "Annoyed",
+            "Throw",
+            "Loss or failure"
+        ],
+        "answer": "Really tasty or good"
+    },
+    {
+        "question": "Dead",
+        "options": [
+            "Laughing hard",
+            "Cool (memes)",
+            "Suspicious",
+            "Truth"
+        ],
+        "answer": "Laughing hard"
+    },
+    {
+        "question": "Goat",
+        "options": [
+            "Greatest Of All Time",
+            "Indirect insult",
+            "Okay/cool",
+            "Throw or express excitement"
+        ],
+        "answer": "Greatest Of All Time"
+    },
+    {
+        "question": "Slay",
+        "options": [
+            "Do something well",
+            "Really good (music)",
+            "Seriously",
+            "Fame or influence"
+        ],
+        "answer": "Do something well"
+    },
+    {
+        "question": "Flexin’",
+        "options": [
+            "Showing off",
+            "Loss or failure",
+            "Truth",
+            "Mood or feeling"
+        ],
+        "answer": "Showing off"
+    },
+    {
+        "question": "Savage",
+        "options": [
+            "Bold or ruthless",
+            "Awkward",
+            "Relatable feeling",
+            "Proof"
+        ],
+        "answer": "Bold or ruthless"
+    },
+    {
+        "question": "Triggered",
+        "options": [
+            "Annoyed",
+            "Flawless",
+            "Win or success",
+            "Excited"
+        ],
+        "answer": "Annoyed"
+    },
+    {
+        "question": "Snack",
+        "options": [
+            "Attractive person",
+            "Cool (memes)",
+            "Tired",
+            "Socially aware"
+        ],
+        "answer": "Attractive person"
+    },
+    {
+        "question": "low-key",
+        "options": [
+            "Quietly or secretly",
+            "Cool outfit/style",
+            "Throw",
+            "Indirect insult"
+        ],
+        "answer": "Quietly or secretly"
+    },
+    {
+        "question": "Highkey",
+        "options": [
+            "Openly",
+            "Disappeared",
+            "Perfect",
+            "Bro/dude or disbelief"
+        ],
+        "answer": "Openly"
+    },
+    {
+        "question": "Facts",
+        "options": [
+            "Truth",
+            "Shocked",
+            "Mood or feeling",
+            "Dramatic"
+        ],
+        "answer": "Truth"
+    },
+    {
+        "question": "Bae",
+        "options": [
+            "Crush/partner",
+            "Seriously",
+            "Laughing hard",
+            "Loss or failure"
+        ],
+        "answer": "Crush/partner"
+    },
+    {
+        "question": "Capper",
+        "options": [
+            "Liar",
+            "Excited (gaming)",
+            "Fame or influence",
+            "Attractive/confident man"
+        ],
+        "answer": "Liar"
+    },
+    {
+        "question": "Deadass",
+        "options": [
+            "Seriously",
+            "Annoyed",
+            "Perfect",
+            "Tired"
+        ],
+        "answer": "Seriously"
+    },
+    {
+        "question": "Mood",
+        "options": [
+            "Relatable feeling",
+            "Indirect insult",
+            "Quietly or secretly",
+            "Bold or ruthless"
+        ],
+        "answer": "Relatable feeling"
+    },
+    {
+        "question": "Receipts",
+        "options": [
+            "Proof",
+            "Excited",
+            "Cool outfit/style",
+            "Throw or express excitement"
+        ],
+        "answer": "Proof"
+    },
+    {
+        "question": "Shook",
+        "options": [
+            "Shocked",
+            "Annoy online",
+            "Truth",
+            "Okay/cool"
+        ],
+        "answer": "Shocked"
+    },
+    {
+        "question": "Troll",
+        "options": [
+            "Annoy online",
+            "Really tasty or good",
+            "Win or success",
+            "Mood or feeling"
+        ],
+        "answer": "Annoy online"
+    },
+    {
+        "question": "Throwing shade",
+        "options": [
+            "Indirect insult",
+            "Disappeared",
+            "Fame or influence",
+            "Perfect"
+        ],
+        "answer": "Indirect insult"
+    },
+    {
+        "question": "Woke",
+        "options": [
+            "Socially aware",
+            "Cool (memes)",
+            "Awkward",
+            "Attractive person"
+        ],
+        "answer": "Socially aware"
+    },
+    {
+        "question": "On fleek",
+        "options": [
+            "Perfect",
+            "Excited",
+            "Seriously",
+            "Dramatic"
+        ],
+        "answer": "Perfect"
+    },
+    {
+        "question": "Zonked",
+        "options": [
+            "Tired",
+            "Bold or ruthless",
+            "Annoyed",
+            "Mood or feeling"
+        ],
+        "answer": "Tired"
+    },
+    {
+        "question": "Big yikes",
+        "options": [
+            "Awkward",
+            "Laughing hard",
+            "Throw",
+            "Flawless"
+        ],
+        "answer": "Awkward"
+    },
+    {
+        "question": "Dank",
+        "options": [
+            "Cool (memes)",
+            "Fame or influence",
+            "Relatable feeling",
+            "Indirect insult"
+        ],
+        "answer": "Cool (memes)"
+    },
+    {
+        "question": "Extra",
+        "options": [
+            "Dramatic",
+            "Seriously",
+            "Really tasty or good",
+            "Truth"
+        ],
+        "answer": "Dramatic"
+    },
+    {
+        "question": "Fire",
+        "options": [
+            "Amazing",
+            "Tired",
+            "Loss or failure",
+            "Throw or express excitement"
+        ],
+        "answer": "Amazing"
+    },
+    {
+        "question": "Gucci",
+        "options": [
+            "Okay/cool",
+            "Flawless",
+            "Mood or feeling",
+            "Quietly or secretly"
+        ],
+        "answer": "Okay/cool"
+    },
+    {
+        "question": "Hits different",
+        "options": [
+            "Feels unique",
+            "Excited",
+            "Cool (memes)",
+            "Seriously"
+        ],
+        "answer": "Feels unique"
+    },
+    {
+        "question": "Hyped",
+        "options": [
+            "Excited",
+            "Annoy online",
+            "Bold or ruthless",
+            "Laughing hard"
+        ],
+        "answer": "Excited"
+    },
+    {
+        "question": "Snatched",
+        "options": [
+            "Flawless",
+            "Throw",
+            "Socially aware",
+            "Bitter or upset"
+        ],
+        "answer": "Flawless"
+    },
+    {
+        "question": "Yeeted",
+        "options": [
+            "Forcefully thrown",
+            "Indirect insult",
+            "Excited (gaming)",
+            "Mood or feeling"
+        ],
+        "answer": "Forcefully thrown"
+    },
+    {
+        "question": "Zaddy",
+        "options": [
+            "Attractive/confident man",
+            "Perfect",
+            "Truth",
+            "Tired"
+        ],
+        "answer": "Attractive/confident man"
+    }
+]
