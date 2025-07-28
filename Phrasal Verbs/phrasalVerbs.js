@@ -1,0 +1,165 @@
+const audioPlayer = new Audio();
+const audioPlayer1 = new Audio();
+const audioPlayer2 = new Audio();
+let correctAnswers = 0;
+let wrongAnswers = 0;
+
+function shuffleArray(array) {
+  const arr = [...array];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function fetchQuestions() {
+  fetch("phrasalVerbs.json")
+    .then((res) => res.json())
+    .then((questions) => renderQuiz(shuffleArray(questions).slice(0, 10)))
+    .catch((err) => console.error("Failed to load questions:", err));
+}
+
+function getAudioURLs(word) {
+  const wordMain = word.split(" ")[0];
+  const encodedWord = encodeURIComponent(word);
+  const wordUnderscore = word.replace(/\s+/g, "_");
+
+  return {
+    us: `https://api.dictionaryapi.dev/media/pronunciations/en/${wordMain}-us.mp3`,
+    uk: `https://api.dictionaryapi.dev/media/pronunciations/en/${wordMain}-uk.mp3`,
+    google1: `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${wordMain}--_gb_1.mp3`,
+    google2: `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${encodedWord}--_gb_1.mp3`,
+    google3: `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${wordUnderscore}--_gb_1.mp3`
+  };
+}
+
+function renderQuiz(questions) {
+  const wordsArray = questions.map((q) => q.question);
+  console.log(wordsArray.join(", "));
+
+  const quizContainer = document.getElementById("quiz-container");
+  quizContainer.innerHTML = "";
+
+  questions.forEach((q, index) => {
+    const questionDiv = document.createElement("div");
+    questionDiv.classList.add("question-container");
+
+    const questionText = document.createElement("button");
+    questionText.classList.add("question");
+
+    if (q.question && typeof q.question === "string") {
+      questionText.textContent = `${index + 1} - ${q.question}`;
+
+      questionText.onclick = async () => {
+        const urls = getAudioURLs(q.question);
+
+        const tryPlay = (player, url) =>
+          new Promise((resolve) => {
+            player.pause();
+            player.currentTime = 0;
+            player.src = url;
+            player.oncanplaythrough = () => {
+              player.play();
+              resolve(true);
+            };
+            player.onerror = () => {
+              console.log(`Audio file not found or can't be played: ${url}`);
+              resolve(false);
+            };
+          });
+
+        if (await tryPlay(audioPlayer, urls.us)) return;
+        if (await tryPlay(audioPlayer1, urls.uk)) return;
+        if (await tryPlay(audioPlayer2, urls.google1)) return;
+        if (await tryPlay(audioPlayer2, urls.google2)) return;
+        if (await tryPlay(audioPlayer2, urls.google3)) return;
+
+        console.log("No valid audio file found.");
+      };
+
+      const youglishBtn = document.createElement("button");
+      youglishBtn.classList.add("youglish");
+      youglishBtn.innerHTML = `<img width="20" height="20" src="../images/brandyg.png" alt="YouGlish" />`;
+      youglishBtn.onclick = () => {
+        const encoded = encodeURIComponent(q.question);
+        const link = `https://youglish.com/pronounce/${encoded}/english`;
+        window.open(link, "_blank");
+      };
+
+      const buttonsContainer = document.createElement("div");
+      buttonsContainer.classList.add("questionsButtons");
+      buttonsContainer.appendChild(questionText);
+      buttonsContainer.appendChild(youglishBtn);
+      questionDiv.appendChild(buttonsContainer);
+
+      const showOptions = document.createElement("div");
+      showOptions.classList.add("answer");
+      showOptions.textContent = "Show Options";
+      questionDiv.appendChild(showOptions);
+
+      let clicked = false;
+
+      showOptions.addEventListener("mousedown", (e) => {
+        e.preventDefault();
+      });
+
+      showOptions.onclick = () => {
+        if (clicked) return;
+        clicked = true;
+
+        const shuffledOptions = shuffleArray(q.options);
+        shuffledOptions.forEach((option) => {
+          const answerDiv = document.createElement("div");
+          answerDiv.classList.add("answer");
+          answerDiv.textContent = option;
+          answerDiv.setAttribute("tabindex", "-1");
+          answerDiv.setAttribute("contenteditable", "false");
+          answerDiv.style.userSelect = "none";
+          answerDiv.addEventListener("mousedown", (e) => {
+            e.preventDefault();
+          });
+
+          answerDiv.onclick = () => handleAnswer(answerDiv, q.answer, option);
+          questionDiv.appendChild(answerDiv);
+        });
+
+        showOptions.style.display = "none";
+      };
+
+      quizContainer.appendChild(questionDiv);
+    } else {
+      console.log("Found invalid question:", q);
+    }
+  });
+}
+
+function handleAnswer(answerDiv, correctAnswer, selectedAnswer) {
+  const allAnswers = answerDiv.parentElement.querySelectorAll(".answer");
+  allAnswers.forEach((el) => (el.style.pointerEvents = "none"));
+
+  if (selectedAnswer === correctAnswer) {
+    answerDiv.classList.add("correct");
+    correctAnswers++;
+    updateResult("correct", correctAnswers);
+  } else {
+    answerDiv.classList.add("incorrect");
+    allAnswers.forEach((el) => {
+      if (el.textContent === correctAnswer) el.classList.add("correct");
+    });
+    wrongAnswers++;
+    updateResult("wrong", wrongAnswers);
+  }
+}
+
+function updateResult(type, count) {
+  const element = document.getElementById(
+    type === "correct" ? "correct-result" : "wrong-result"
+  );
+  element.textContent = `${
+    type === "correct" ? "Correct" : "Wrong"
+  } Questions Number is: ${count} of 20`;
+}
+
+// Start the quiz
+fetchQuestions();

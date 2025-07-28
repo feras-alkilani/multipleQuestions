@@ -84,6 +84,7 @@ function renderQuiz(questions) {
       const answerDiv = document.createElement("div");
       answerDiv.classList.add("answer");
       answerDiv.textContent = option;
+
       answerDiv.setAttribute("tabindex", "-1");
       answerDiv.setAttribute("contenteditable", "false");
       answerDiv.style.userSelect = "none";
@@ -92,6 +93,12 @@ function renderQuiz(questions) {
       });
 
       answerDiv.onclick = () => handleAnswer(answerDiv, q.answer, option);
+
+      // if (await tryPlay(audioPlayer, audioURL)) return;
+      // if (await tryPlay(audioPlayer1, audioURL1)) return;
+      // if (await tryPlay(audioPlayer2, audioURL2)) return;
+      // console.log("No valid audio file found.");
+
       questionDiv.appendChild(answerDiv);
     });
 
@@ -99,7 +106,7 @@ function renderQuiz(questions) {
   });
 }
 
-function handleAnswer(answerDiv, correctAnswer, selectedAnswer) {
+async function handleAnswer(answerDiv, correctAnswer, selectedAnswer) {
   const allAnswers = answerDiv.parentElement.querySelectorAll(".answer");
   allAnswers.forEach((el) => (el.style.pointerEvents = "none"));
 
@@ -115,6 +122,31 @@ function handleAnswer(answerDiv, correctAnswer, selectedAnswer) {
     wrongAnswers++;
     updateResult("wrong", wrongAnswers);
   }
+
+  const word = selectedAnswer.toLowerCase();
+  const audioURL = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
+  const audioURL1 = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-uk.mp3`;
+  const audioURL2 = `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${word}--_gb_1.mp3`;
+
+  const tryPlay = (player, url) =>
+    new Promise((resolve) => {
+      player.pause();
+      player.currentTime = 0;
+      player.src = url;
+      player.oncanplaythrough = () => {
+        player.play();
+        resolve(true);
+      };
+      player.onerror = () => {
+        console.log(`Audio file not found or can't be played: ${url}`);
+        resolve(false);
+      };
+    });
+
+  if (await tryPlay(audioPlayer, audioURL)) return;
+  if (await tryPlay(audioPlayer1, audioURL1)) return;
+  if (await tryPlay(audioPlayer2, audioURL2)) return;
+  console.log("No valid audio file found.");
 }
 
 function updateResult(type, count) {

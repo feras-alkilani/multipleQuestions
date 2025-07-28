@@ -1,76 +1,81 @@
-// to make the randomly answers
-function shuffleOptions(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-}
+const audioPlayer = new Audio();
+const audioPlayer1 = new Audio();
+const audioPlayer2 = new Audio();
+let correctAnswers = 0;
+let wrongAnswers = 0;
 
-// to make the randomly questions
 function shuffleArray(array) {
-  const arr = [...array]; // copy to avoid mutating the original
+  const arr = [...array];
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]]; // swap
+    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
   return arr;
 }
 
-let correctAnswers = 0;
-let wrongAnswers = 0;
+function fetchQuestions() {
+  fetch("drivingDuToEnQuestions.json")
+    .then((res) => res.json())
+    .then((questions) => renderQuiz(shuffleArray(questions).slice(0, 20)))
+    .catch((err) => console.error("Failed to load questions:", err));
+}
 
-// Reading the questions from JSON file
-fetch("drivingDuToEnQuestions.json")
-  .then((response) => response.json())
-  .then((questions) => renderQuiz(questions));
-
-// Function to show the question
 function renderQuiz(questions) {
-  // Getting the random questions
-  const shuffledQuestions = shuffleArray(questions).slice(0, 20);
-
   const quizContainer = document.getElementById("quiz-container");
   quizContainer.innerHTML = "";
 
-  shuffledQuestions.forEach((q, index) => {
+  questions.forEach((q, index) => {
     const questionDiv = document.createElement("div");
     questionDiv.classList.add("question-container");
 
+    // === Question Button ===
     const questionText = document.createElement("button");
     questionText.classList.add("question");
-
-    let word = q.question.toLowerCase();
-    // q.audio = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
-    // q.audio = `https://translate.google.com/translate_tts?ie=UTF-8&tl=nl&client=tw-ob&q=${word}`;
-    q.audio = `https://translate.google.com/translate_tts?ie=UTF-8&tl=nl&client=tw-ob&q=dag`;
-
+    const word = q.question.toLowerCase();
+    const audioURL = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
+    questionText.textContent = `${index + 1} - ${q.question}`;
     questionText.onclick = () => {
-      const audio = new Audio(q.audio);
-      audio.play();
+      audioPlayer.src = audioURL;
+      audioPlayer.play();
     };
 
-    questionText.innerText = `${index + 1} - ${q.question}`;
+    // === Youglish Button ===
+    const youglishBtn = document.createElement("button");
+    youglishBtn.classList.add("youglish");
+    youglishBtn.innerHTML = `<img width="20" height="20" src="../images/brandyg.png" alt="YouGlish" />`;
+    youglishBtn.onclick = () => {
+      const link = `https://youglish.com/pronounce/${word}/dutch`;
+      window.open(link, "_blank");
+    };
 
-    questionDiv.appendChild(questionText);
+    // === Button Container ===
+    const buttonsContainer = document.createElement("div");
+    buttonsContainer.classList.add("questionsButtons");
+    buttonsContainer.appendChild(questionText);
+    buttonsContainer.appendChild(youglishBtn);
+    questionDiv.appendChild(buttonsContainer);
 
-    // mix the options
-    const shuffledOptions = [...q.options];
-    shuffleOptions(shuffledOptions);
-
+    // === Options ===
+    const shuffledOptions = shuffleArray(q.options);
     shuffledOptions.forEach((option) => {
       const answerDiv = document.createElement("div");
       answerDiv.classList.add("answer");
-      answerDiv.innerText = option;
-
+      answerDiv.textContent = option;
       answerDiv.setAttribute("tabindex", "-1");
       answerDiv.setAttribute("contenteditable", "false");
       answerDiv.style.userSelect = "none";
 
       answerDiv.addEventListener("mousedown", (e) => {
-        e.preventDefault();
+        e.preventDefault(); // يمنع التركيز وظهور المؤشر
       });
 
-      answerDiv.onclick = () => selectAnswer(answerDiv, q.answer, option);
+      let word = answerDiv.innerText;
+      const audioURL = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
+      answerDiv.onclick = () => {
+        audioPlayer.src = audioURL;
+        audioPlayer.play();
+        handleAnswer(answerDiv, q.answer, option);
+      };
       questionDiv.appendChild(answerDiv);
     });
 
@@ -78,35 +83,57 @@ function renderQuiz(questions) {
   });
 }
 
-function selectAnswer(answerDiv, correctAnswer, selectedAnswer) {
-  // prevent clicking after selecting the option
+async function handleAnswer(answerDiv, correctAnswer, selectedAnswer) {
   const allAnswers = answerDiv.parentElement.querySelectorAll(".answer");
-  allAnswers.forEach((ans) => {
-    ans.style.pointerEvents = "none"; // prevent clicking
-  });
+  allAnswers.forEach((el) => (el.style.pointerEvents = "none"));
 
-  // select the answer if it is true or false depending on the color
   if (selectedAnswer === correctAnswer) {
     answerDiv.classList.add("correct");
     correctAnswers++;
-    document.getElementById("correct-result").innerHTML = "";
-
-    const msg = document.createElement("div");
-    msg.textContent = `Correct Questions Number is: ${correctAnswers} of 20 `;
-
-    document.getElementById("correct-result").appendChild(msg);
+    updateResult("correct", correctAnswers);
   } else {
     answerDiv.classList.add("incorrect");
-    allAnswers.forEach((ans) => {
-      ans.innerText === correctAnswer
-        ? ans.classList.add("correct")
-        : undefined;
+    allAnswers.forEach((el) => {
+      if (el.textContent === correctAnswer) el.classList.add("correct");
     });
     wrongAnswers++;
-    document.getElementById("wrong-result").innerHTML = "";
-
-    const msg = document.createElement("div");
-    msg.textContent = `Wrong Questions Number is: ${wrongAnswers} of 20 `;
-    document.getElementById("wrong-result").appendChild(msg);
+    updateResult("wrong", wrongAnswers);
   }
+
+  const word = selectedAnswer.toLowerCase();
+  const audioURL = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
+  const audioURL1 = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-uk.mp3`;
+  const audioURL2 = `https://ssl.gstatic.com/dictionary/static/sounds/20200429/${word}--_gb_1.mp3`;
+
+  const tryPlay = (player, url) =>
+    new Promise((resolve) => {
+      player.pause();
+      player.currentTime = 0;
+      player.src = url;
+      player.oncanplaythrough = () => {
+        player.play();
+        resolve(true);
+      };
+      player.onerror = () => {
+        console.log(`Audio file not found or can't be played: ${url}`);
+        resolve(false);
+      };
+    });
+
+  if (await tryPlay(audioPlayer, audioURL)) return;
+  if (await tryPlay(audioPlayer1, audioURL1)) return;
+  if (await tryPlay(audioPlayer2, audioURL2)) return;
+  console.log("No valid audio file found.");
 }
+
+function updateResult(type, count) {
+  const element = document.getElementById(
+    type === "correct" ? "correct-result" : "wrong-result"
+  );
+  element.textContent = `${
+    type === "correct" ? "Correct" : "Wrong"
+  } Questions Number is: ${count} of 20`;
+}
+
+// Start the quiz
+fetchQuestions();

@@ -21567,7 +21567,8 @@
       "Resist, fight, oppose"
     ],
     "answer": "Enable, ease, assist"
-  },{
+  },
+  {
     "question": "recognize",
     "options": [
       "Identify, acknowledge, discern",
@@ -21652,6 +21653,932 @@
       "Confuse, complicate, disturb"
     ],
     "answer": "Enable, ease, assist"
+  },
+  {
+    "question": "famine",
+    "options": [
+      "hunger, starvation, scarcity",
+      "feast, plenty, abundance",
+      "drought, flood, storm",
+      "health, growth, nourishment"
+    ],
+    "answer": "hunger, starvation, scarcity"
+  },
+  {
+    "question": "malnutrition",
+    "options": [
+      "undernourishment, deficiency, starvation",
+      "hydration, energy, strength",
+      "exercise, fitness, health",
+      "recovery, healing, rest"
+    ],
+    "answer": "undernourishment, deficiency, starvation"
+  },
+  {
+    "question": "hip",
+    "options": [
+      "pelvis, flank, side",
+      "shoulder, elbow, wrist",
+      "knee, ankle, toe",
+      "neck, head, face"
+    ],
+    "answer": "pelvis, flank, side"
+  },
+  {
+    "question": "barely",
+    "options": [
+      "hardly, scarcely, narrowly",
+      "fully, completely, entirely",
+      "quickly, swiftly, rapidly",
+      "clearly, obviously, plainly"
+    ],
+    "answer": "hardly, scarcely, narrowly"
+  },
+  {
+    "question": "steady",
+    "options": [
+      "stable, constant, firm",
+      "unsteady, shaky, unstable",
+      "fast, quick, rapid",
+      "soft, gentle, mild"
+    ],
+    "answer": "stable, constant, firm"
+  },
+  {
+    "question": "pace",
+    "options": [
+      "speed, rate, tempo",
+      "stop, pause, halt",
+      "jump, run, sprint",
+      "slow, delay, wait"
+    ],
+    "answer": "speed, rate, tempo"
+  },
+  {
+    "question": "shout",
+    "options": [
+      "yell, scream, yell out",
+      "whisper, murmur, mumble",
+      "speak, talk, say",
+      "laugh, smile, grin"
+    ],
+    "answer": "yell, scream, yell out"
+  },
+  {
+    "question": "toothpaste",
+    "options": [
+      "dentifrice, gel, cream",
+      "soap, lotion, shampoo",
+      "medicine, tablet, pill",
+      "water, juice, milk"
+    ],
+    "answer": "dentifrice, gel, cream"
+  },
+  {
+    "question": "crumple",
+    "options": [
+      "wrinkle, crush, fold",
+      "stretch, straighten, smooth",
+      "break, shatter, snap",
+      "tear, rip, split"
+    ],
+    "answer": "wrinkle, crush, fold"
+  },
+  {
+    "question": "persists",
+    "options": [
+      "continues, endures, remains",
+      "stops, ends, ceases",
+      "fails, quits, surrenders",
+      "changes, shifts, alters"
+    ],
+    "answer": "continues, endures, remains"
+  },
+  {
+    "question": "contested",
+    "options": [
+      "disputed, challenged, debated",
+      "accepted, agreed, approved",
+      "ignored, overlooked, neglected",
+      "won, gained, achieved"
+    ],
+    "answer": "disputed, challenged, debated"
+  },
+  {
+    "question": "heavily",
+    "options": [
+      "strongly, intensely, greatly",
+      "lightly, softly, mildly",
+      "quickly, rapidly, swiftly",
+      "rarely, seldom, occasionally"
+    ],
+    "answer": "strongly, intensely, greatly"
+  },
+  {
+    "question": "sustain",
+    "options": [
+      "maintain, support, continue",
+      "destroy, ruin, damage",
+      "stop, halt, cease",
+      "ignore, neglect, avoid"
+    ],
+    "answer": "maintain, support, continue"
+  },
+  {
+    "question": "defeat",
+    "options": [
+      "loss, failure, overthrow",
+      "victory, success, triumph",
+      "help, aid, assist",
+      "win, conquer, beat"
+    ],
+    "answer": "loss, failure, overthrow"
+  },
+  {
+    "question": "humiliated",
+    "options": [
+      "embarrassed, shamed, degraded",
+      "proud, confident, honored",
+      "ignored, neglected, avoided",
+      "happy, joyful, pleased"
+    ],
+    "answer": "embarrassed, shamed, degraded"
+  },
+  {
+    "question": "instability",
+    "options": [
+      "uncertainty, insecurity, volatility",
+      "stability, balance, firmness",
+      "strength, power, control",
+      "peace, calm, order"
+    ],
+    "answer": "uncertainty, insecurity, volatility"
+  },
+  {
+    "question": "pavement",
+    "options": [
+      "sidewalk, pathway, walkway",
+      "road, street, highway",
+      "grass, field, lawn",
+      "building, house, structure"
+    ],
+    "answer": "sidewalk, pathway, walkway"
+  },
+  {
+    "question": "starvation",
+    "options": [
+      "hunger, famine, malnutrition",
+      "satisfaction, fullness, satiety",
+      "sleep, rest, relaxation",
+      "exercise, activity, movement"
+    ],
+    "answer": "hunger, famine, malnutrition"
+  },
+  {
+    "question": "relentless",
+    "options": [
+      "persistent, unyielding, continuous",
+      "gentle, soft, kind",
+      "occasional, rare, infrequent",
+      "weak, tired, feeble"
+    ],
+    "answer": "persistent, unyielding, continuous"
+  },
+  {
+    "question": "tactics",
+    "options": [
+      "strategies, methods, plans",
+      "accidents, mistakes, errors",
+      "feelings, emotions, thoughts",
+      "games, sports, contests"
+    ],
+    "answer": "strategies, methods, plans"
+  },
+  {
+    "question": "imposed",
+    "options": [
+      "forced, enforced, applied",
+      "voluntary, optional, free",
+      "ignored, avoided, neglected",
+      "accepted, agreed, approved"
+    ],
+    "answer": "forced, enforced, applied"
+  },
+  {
+    "question": "blockade",
+    "options": [
+      "barrier, obstruction, siege",
+      "opening, passage, access",
+      "road, street, highway",
+      "gate, door, entrance"
+    ],
+    "answer": "barrier, obstruction, siege"
+  },
+  {
+    "question": "halting",
+    "options": [
+      "hesitant, faltering, stammering",
+      "steady, smooth, continuous",
+      "fast, quick, rapid",
+      "confident, sure, certain"
+    ],
+    "answer": "hesitant, faltering, stammering"
+  },
+  {
+    "question": "deteriorated",
+    "options": [
+      "worsened, declined, degraded",
+      "improved, healed, recovered",
+      "stayed, remained, continued",
+      "strengthened, reinforced, built"
+    ],
+    "answer": "worsened, declined, degraded"
+  },
+  {
+    "question": "infants",
+    "options": [
+      "babies, newborns, toddlers",
+      "adults, elders, seniors",
+      "children, teens, youths",
+      "parents, guardians, caretakers"
+    ],
+    "answer": "babies, newborns, toddlers"
+  },
+  {
+    "question": "toddler",
+    "options": [
+      "young child, baby, infant",
+      "teenager, adolescent, youth",
+      "adult, grown-up, elder",
+      "parent, guardian, caretaker"
+    ],
+    "answer": "young child, baby, infant"
+  },
+  {
+    "question": "sensible",
+    "options": [
+      "reasonable, practical, wise",
+      "foolish, silly, unwise",
+      "strange, odd, weird",
+      "careless, reckless, irresponsible"
+    ],
+    "answer": "reasonable, practical, wise"
+  },
+  {
+    "question": "satisfactory",
+    "options": [
+      "acceptable, adequate, sufficient",
+      "unsatisfactory, poor, bad",
+      "excellent, outstanding, superb",
+      "terrible, awful, dreadful"
+    ],
+    "answer": "acceptable, adequate, sufficient"
+  },
+  {
+    "question": "hand",
+    "options": [
+      "Give, pass, offer",
+      "Take, grab, pull",
+      "Hide, hold, delay"
+    ],
+    "answer": "Give, pass, offer"
+  },
+  {
+    "question": "drop",
+    "options": [
+      "Fall, collapse, plunge",
+      "Catch, lift, raise",
+      "Walk, run, jog"
+    ],
+    "answer": "Fall, collapse, plunge"
+  },
+  {
+    "question": "filibuster",
+    "options": [
+      "Delay, obstruct, stall",
+      "Approve, support, encourage",
+      "Explain, clarify, resolve"
+    ],
+    "answer": "Delay, obstruct, stall"
+  },
+  {
+    "question": "pick",
+    "options": [
+      "Choose, select, grab",
+      "Ignore, avoid, deny",
+      "Lose, drop, waste"
+    ],
+    "answer": "Choose, select, grab"
+  },
+  {
+    "question": "sneeze",
+    "options": [
+      "Expel, blow, burst",
+      "Sniff, inhale, suck",
+      "Cough, wheeze, spit"
+    ],
+    "answer": "Expel, blow, burst"
+  },
+  {
+    "question": "demand",
+    "options": [
+      "Request, require, insist",
+      "Offer, suggest, propose",
+      "Decline, reject, dismiss"
+    ],
+    "answer": "Request, require, insist"
+  },
+  {
+    "question": "seize",
+    "options": [
+      "Grab, capture, snatch",
+      "Release, let go, free",
+      "Ignore, overlook, miss"
+    ],
+    "answer": "Grab, capture, snatch"
+  },
+  {
+    "question": "backbite",
+    "options": [
+      "Talk behind, slander, malign",
+      "Support, assist, encourage",
+      "Forget, ignore, neglect"
+    ],
+    "answer": "Talk behind, slander, malign"
+  },
+  {
+    "question": "vile",
+    "options": [
+      "Disgusting, wicked, nasty",
+      "Kind, pleasant, friendly",
+      "Weak, small, fragile"
+    ],
+    "answer": "Disgusting, wicked, nasty"
+  },
+  {
+    "question": "wretched",
+    "options": [
+      "Miserable, pitiful, unfortunate",
+      "Happy, joyful, excited",
+      "Rich, successful, admired"
+    ],
+    "answer": "Miserable, pitiful, unfortunate"
+  },
+  {
+    "question": "scoundrel",
+    "options": [
+      "Villain, rogue, crook",
+      "Hero, savior, protector",
+      "Stranger, outsider, foreigner"
+    ],
+    "answer": "Villain, rogue, crook"
+  },
+  {
+    "question": "despicable",
+    "options": [
+      "Shameful, hateful, contemptible",
+      "Brave, noble, strong",
+      "Simple, honest, open"
+    ],
+    "answer": "Shameful, hateful, contemptible"
+  },
+  {
+    "question": "unfit",
+    "options": [
+      "Incapable, unsuitable, unqualified",
+      "Healthy, prepared, ready",
+      "Balanced, stable, grounded"
+    ],
+    "answer": "Incapable, unsuitable, unqualified"
+  },
+  {
+    "question": "tow",
+    "options": [
+      "Drag, pull, haul",
+      "Push, shove, kick",
+      "Drive, race, chase"
+    ],
+    "answer": "Drag, pull, haul"
+  },
+  {
+    "question": "car-ramming",
+    "options": [
+      "Crash, slam, plow",
+      "Park, stop, idle",
+      "Repair, fix, restore"
+    ],
+    "answer": "Crash, slam, plow"
+  },
+  {
+    "question": "manhunt",
+    "options": [
+      "Pursue, chase, track",
+      "Hide, escape, vanish",
+      "Search, explore, wander"
+    ],
+    "answer": "Pursue, chase, track"
+  },
+  {
+    "question": "bias",
+    "options": [
+      "Prejudice, favoritism, partiality",
+      "Fairness, justice, equality",
+      "Knowledge, wisdom, insight"
+    ],
+    "answer": "Prejudice, favoritism, partiality"
+  },
+  {
+    "question": "hurt",
+    "options": [
+      "Injure, wound, damage",
+      "Heal, fix, recover",
+      "Calm, soothe, relieve"
+    ],
+    "answer": "Injure, wound, damage"
+  },
+  {
+    "question": "nab",
+    "options": [
+      "Catch, seize, grab",
+      "Release, free, let go",
+      "Look, spot, observe"
+    ],
+    "answer": "Catch, seize, grab"
+  },
+  {
+    "question": "suspect",
+    "options": [
+      "Doubt, accuse, mistrust",
+      "Trust, believe, support",
+      "Ignore, neglect, forget"
+    ],
+    "answer": "Doubt, accuse, mistrust"
+  },
+  {
+    "question": "apprehended",
+    "options": [
+      "Arrested, captured, seized",
+      "Released, forgiven, ignored",
+      "Warned, questioned, advised"
+    ],
+    "answer": "Arrested, captured, seized"
+  },
+  {
+    "question": "scammer",
+    "options": [
+      "Fraudster, deceiver, swindler",
+      "Worker, employee, assistant",
+      "Leader, manager, boss"
+    ],
+    "answer": "Fraudster, deceiver, swindler"
+  },
+  {
+    "question": "point out",
+    "options": [
+      "Indicate, highlight, show",
+      "Hide, cover, bury",
+      "Erase, remove, delete"
+    ],
+    "answer": "Indicate, highlight, show"
+  },
+  {
+    "question": "when push comes to shove",
+    "options": [
+      "desperate",
+      "urgent",
+      "final",
+      "critical"
+    ],
+    "answer": "critical"
+  },
+  {
+    "question": "نميمة",
+    "options": [
+      "backbite",
+      "gossip",
+      "rumor",
+      "slander"
+    ],
+    "answer": "backbite"
+  },
+  {
+    "question": "vile",
+    "options": [
+      "vile",
+      "pleasant",
+      "charming",
+      "graceful"
+    ],
+    "answer": "vile"
+  },
+  {
+    "question": "wretched",
+    "options": [
+      "miserable",
+      "wretched",
+      "joyful",
+      "delighted"
+    ],
+    "answer": "wretched"
+  },
+  {
+    "question": "scoundrel",
+    "options": [
+      "gentleman",
+      "scoundrel",
+      "hero",
+      "savior"
+    ],
+    "answer": "scoundrel"
+  },
+  {
+    "question": "despicable",
+    "options": [
+      "honorable",
+      "despicable",
+      "admirable",
+      "respectable"
+    ],
+    "answer": "despicable"
+  },
+  {
+    "question": "at will",
+    "options": [
+      "randomly",
+      "forcibly",
+      "at will",
+      "without control"
+    ],
+    "answer": "at will"
+  },
+  {
+    "question": "mind your P's and Q's",
+    "options": [
+      "be rude",
+      "mind your P's and Q's",
+      "speak up",
+      "act out"
+    ],
+    "answer": "mind your P's and Q's"
+  },
+  {
+    "question": "put up or shut up",
+    "options": [
+      "quit",
+      "put up or shut up",
+      "rest",
+      "compromise"
+    ],
+    "answer": "put up or shut up"
+  },
+  {
+    "question": "I will see you fortnight",
+    "options": [
+      "tomorrow",
+      "fortnight",
+      "weekly",
+      "tonight"
+    ],
+    "answer": "fortnight"
+  },
+  {
+    "question": "ثلاث أيام ورا بعض",
+    "options": [
+      "intermittent",
+      "3 days in a row",
+      "weekly",
+      "biweekly"
+    ],
+    "answer": "3 days in a row"
+  },
+  {
+    "question": "كل يومين",
+    "options": [
+      "every other day",
+      "once a month",
+      "daily",
+      "weekly"
+    ],
+    "answer": "every other day"
+  },
+  {
+    "question": "مُتَصَنِّع",
+    "options": [
+      "pretentious",
+      "natural",
+      "spontaneous",
+      "authentic"
+    ],
+    "answer": "pretentious"
+  },
+  {
+    "question": "غير متصنّع",
+    "options": [
+      "fake",
+      "pretentious",
+      "authentic",
+      "forced"
+    ],
+    "answer": "authentic"
+  },
+  {
+    "question": "عفوي",
+    "options": [
+      "pretentious",
+      "spontaneous",
+      "controlled",
+      "reserved"
+    ],
+    "answer": "spontaneous"
+  },
+  {
+    "question": "unfit",
+    "options": [
+      "eligible",
+      "fit",
+      "unfit",
+      "prepared"
+    ],
+    "answer": "unfit"
+  },
+  {
+    "question": "tow - two",
+    "options": [
+      "tow",
+      "two",
+      "toe",
+      "to"
+    ],
+    "answer": "tow"
+  },
+  {
+    "question": "car-ramming",
+    "options": [
+      "explosion",
+      "accident",
+      "car-ramming",
+      "rescue"
+    ],
+    "answer": "car-ramming"
+  },
+  {
+    "question": "manhunt",
+    "options": [
+      "hideout",
+      "manhunt",
+      "rescue mission",
+      "investigation"
+    ],
+    "answer": "manhunt"
+  },
+  {
+    "question": "bias",
+    "options": [
+      "bias",
+      "neutrality",
+      "fairness",
+      "objectivity"
+    ],
+    "answer": "bias"
+  },
+  {
+    "question": "hurt",
+    "options": [
+      "heal",
+      "hurt",
+      "recover",
+      "comfort"
+    ],
+    "answer": "hurt"
+  },
+  {
+    "question": "يمسك / يقبض على",
+    "options": [
+      "release",
+      "grab",
+      "nab",
+      "drop"
+    ],
+    "answer": "nab"
+  },
+  {
+    "question": "suspect",
+    "options": [
+      "suspect",
+      "witness",
+      "victim",
+      "officer"
+    ],
+    "answer": "suspect"
+  },
+  {
+    "question": "apprehended",
+    "options": [
+      "apprehended",
+      "released",
+      "missing",
+      "escaped"
+    ],
+    "answer": "apprehended"
+  },
+  {
+    "question": "scammer",
+    "options": [
+      "scammer",
+      "banker",
+      "donor",
+      "helper"
+    ],
+    "answer": "scammer"
+  },
+  {
+    "question": "point out",
+    "options": [
+      "ignore",
+      "point out",
+      "hide",
+      "confuse"
+    ],
+    "answer": "point out"
+  },
+  {
+    "question": "tend - tent",
+    "options": [
+      "tent",
+      "tend",
+      "tint",
+      "tone"
+    ],
+    "answer": "tend"
+  },
+  {
+    "question": "grant us",
+    "options": [
+      "grant us",
+      "take from us",
+      "ignore us",
+      "deny us"
+    ],
+    "answer": "grant us"
+  },
+  {
+    "question": "cannon",
+    "options": [
+      "gun",
+      "cannon",
+      "bomb",
+      "missile"
+    ],
+    "answer": "cannon"
+  },
+  {
+    "question": "أصل البلا",
+    "options": [
+      "wise man",
+      "leader",
+      "loose cannon",
+      "peacemaker"
+    ],
+    "answer": "loose cannon"
+  },
+  {
+    "question": "it is pouring outside",
+    "options": [
+      "sunny",
+      "cloudy",
+      "it is pouring outside",
+      "windy"
+    ],
+    "answer": "it is pouring outside"
+  },
+  {
+    "question": "tend",
+    "options": [
+      "Care, nurture, look after",
+      "Ignore, avoid, neglect",
+      "Destroy, damage, ruin"
+    ],
+    "answer": "Care, nurture, look after"
+  },
+  {
+    "question": "grant",
+    "options": [
+      "Give, award, bestow",
+      "Deny, refuse, reject",
+      "Beg, ask, request"
+    ],
+    "answer": "Give, award, bestow"
+  },
+  {
+    "question": "cannon",
+    "options": [
+      "Fire, blast, shoot",
+      "Hide, bury, cover",
+      "Freeze, pause, hold"
+    ],
+    "answer": "Fire, blast, shoot"
+  },
+  {
+    "question": "pour",
+    "options": [
+      "Rain, spill, gush",
+      "Dry, soak, absorb",
+      "Stop, hold, block"
+    ],
+    "answer": "Rain, spill, gush"
+  },
+  {
+    "question": "intercept",
+    "options": [
+      "Stop, block, catch",
+      "Miss, ignore, avoid",
+      "Deliver, send, forward"
+    ],
+    "answer": "Stop, block, catch"
+  },
+  {
+    "question": "disregard",
+    "options": [
+      "Ignore, neglect, dismiss",
+      "Respect, value, honor",
+      "Observe, notice, heed"
+    ],
+    "answer": "Ignore, neglect, dismiss"
+  },
+  {
+    "question": "recruit",
+    "options": [
+      "Enlist, hire, attract",
+      "Fire, expel, dismiss",
+      "Delay, postpone, suspend"
+    ],
+    "answer": "Enlist, hire, attract"
+  },
+  {
+    "question": "dehumanize",
+    "options": [
+      "Degrade, demean, objectify",
+      "Respect, admire, honor",
+      "Educate, uplift, enlighten"
+    ],
+    "answer": "Degrade, demean, objectify"
+  },
+  {
+    "question": "blow",
+    "options": [
+      "Exhale, puff, gust",
+      "Suck, absorb, inhale",
+      "Catch, collect, keep"
+    ],
+    "answer": "Exhale, puff, gust"
+  },
+  {
+    "question": "sniff",
+    "options": [
+      "Inhale, smell, whiff",
+      "Blow, cough, sneeze",
+      "Lick, bite, chew"
+    ],
+    "answer": "Inhale, smell, whiff"
+  },
+  {
+    "question": "beat",
+    "options": [
+      "Strike, hit, pound",
+      "Build, create, form",
+      "Lift, hold, raise"
+    ],
+    "answer": "Strike, hit, pound"
+  },
+  {
+    "question": "lousy",
+    "options": [
+      "bad, poor, terrible",
+      "good, great, excellent",
+      "happy, joyful, pleased",
+      "strong, healthy, fit"
+    ],
+    "answer": "bad, poor, terrible"
+  },
+  {
+    "question": "nutrition",
+    "options": [
+      "nourishment, diet, sustenance",
+      "exercise, fitness, health",
+      "sleep, rest, relaxation",
+      "medicine, treatment, cure"
+    ],
+    "answer": "nourishment, diet, sustenance"
+  },
+  {
+    "question": "yuck",
+    "options": [
+      "disgusting, gross, nasty",
+      "delicious, tasty, yummy",
+      "clean, fresh, pure",
+      "beautiful, pretty, lovely"
+    ],
+    "answer": "disgusting, gross, nasty"
   },
   {
     "question": "reintegrate",

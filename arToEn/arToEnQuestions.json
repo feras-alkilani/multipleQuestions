@@ -8290,6 +8290,1885 @@
     "answer": "prosecutor"
   },
   {
+    "question": "المجاعة",
+    "options": [
+      "famine",
+      "blockade",
+      "tactics",
+      "starvation"
+    ],
+    "answer": "famine"
+  },
+  {
+    "question": "سوء التغذية",
+    "options": [
+      "malnutrition",
+      "nutrition",
+      "lousy",
+      "satisfactory"
+    ],
+    "answer": "malnutrition"
+  },
+  {
+    "question": "المفصل أو الورك",
+    "options": [
+      "hip",
+      "pace",
+      "shout",
+      "barely"
+    ],
+    "answer": "hip"
+  },
+  {
+    "question": "بالكاد",
+    "options": [
+      "steady",
+      "barely",
+      "heavily",
+      "humiliated"
+    ],
+    "answer": "barely"
+  },
+  {
+    "question": "ثابت",
+    "options": [
+      "steady",
+      "defeat",
+      "imposed",
+      "contested"
+    ],
+    "answer": "steady"
+  },
+  {
+    "question": "الإيقاع أو السرعة",
+    "options": [
+      "pace",
+      "persists",
+      "tactics",
+      "sustain"
+    ],
+    "answer": "pace"
+  },
+  {
+    "question": "يصرخ",
+    "options": [
+      "shout",
+      "crumple",
+      "humiliated",
+      "relentless"
+    ],
+    "answer": "shout"
+  },
+  {
+    "question": "معجون الأسنان",
+    "options": [
+      "toothpaste",
+      "blockade",
+      "pavement",
+      "starvation"
+    ],
+    "answer": "toothpaste"
+  },
+  {
+    "question": "ينهار أو يتجعد",
+    "options": [
+      "crumple",
+      "persist",
+      "imposed",
+      "halting"
+    ],
+    "answer": "crumple"
+  },
+  {
+    "question": "يستمر أو يصر",
+    "options": [
+      "persists",
+      "relentless",
+      "contested",
+      "steady"
+    ],
+    "answer": "persists"
+  },
+  {
+    "question": "إرثه ينهار بينما الصراع مستمر",
+    "options": [
+      "His legacy crumples AS the conflict persists.",
+      "As per your concern",
+      "it just came out",
+      "yuck"
+    ],
+    "answer": "His legacy crumples AS the conflict persists."
+  },
+  {
+    "question": "مثار جدل أو محل نزاع",
+    "options": [
+      "contested",
+      "imposed",
+      "halting",
+      "deteriorated"
+    ],
+    "answer": "contested"
+  },
+  {
+    "question": "بشدة",
+    "options": [
+      "heavily",
+      "barely",
+      "steady",
+      "humiliated"
+    ],
+    "answer": "heavily"
+  },
+  {
+    "question": "يُحافظ على",
+    "options": [
+      "sustain",
+      "defeat",
+      "blockade",
+      "relentless"
+    ],
+    "answer": "sustain"
+  },
+  {
+    "question": "الهزيمة",
+    "options": [
+      "defeat",
+      "humiliated",
+      "starvation",
+      "pavement"
+    ],
+    "answer": "defeat"
+  },
+  {
+    "question": "مذل أو مهان",
+    "options": [
+      "humiliated",
+      "relentless",
+      "steady",
+      "sensible"
+    ],
+    "answer": "humiliated"
+  },
+  {
+    "question": "عدم الاستقرار",
+    "options": [
+      "instability",
+      "imposed",
+      "halting",
+      "pace"
+    ],
+    "answer": "instability"
+  },
+  {
+    "question": "حسب ما تراه مناسباً",
+    "options": [
+      "As per your concern",
+      "His legacy crumples AS the conflict persists.",
+      "blockade",
+      "contested"
+    ],
+    "answer": "As per your concern"
+  },
+  {
+    "question": "رصيف أو ممشى",
+    "options": [
+      "pavement",
+      "nutrition",
+      "tactics",
+      "relentless"
+    ],
+    "answer": "pavement"
+  },
+  {
+    "question": "مجاعة شديدة",
+    "options": [
+      "starvation",
+      "famine",
+      "malnutrition",
+      "toddler"
+    ],
+    "answer": "starvation"
+  },
+  {
+    "question": "متواصل أو لا يلين",
+    "options": [
+      "relentless",
+      "halting",
+      "defeat",
+      "humiliated"
+    ],
+    "answer": "relentless"
+  },
+  {
+    "question": "تكتيكات أو أساليب",
+    "options": [
+      "tactics",
+      "steady",
+      "imposed",
+      "satisfactory"
+    ],
+    "answer": "tactics"
+  },
+  {
+    "question": "مفروض أو مفروض عليه",
+    "options": [
+      "imposed",
+      "blockade",
+      "relentless",
+      "humiliated"
+    ],
+    "answer": "imposed"
+  },
+  {
+    "question": "حصار",
+    "options": [
+      "blockade",
+      "pace",
+      "defeat",
+      "starvation"
+    ],
+    "answer": "blockade"
+  },
+  {
+    "question": "متوقف مؤقتاً",
+    "options": [
+      "halting",
+      "steady",
+      "imposed",
+      "crumple"
+    ],
+    "answer": "halting"
+  },
+  {
+    "question": "تدهورت",
+    "options": [
+      "deteriorated",
+      "persists",
+      "contested",
+      "humiliated"
+    ],
+    "answer": "deteriorated"
+  },
+  {
+    "question": "رضع",
+    "options": [
+      "infants",
+      "toddler",
+      "nutrition",
+      "starvation"
+    ],
+    "answer": "infants"
+  },
+  {
+    "question": "طفل صغير",
+    "options": [
+      "toddler",
+      "infants",
+      "sensible",
+      "relentless"
+    ],
+    "answer": "toddler"
+  },
+  {
+    "question": "عقلاني أو حساس",
+    "options": [
+      "sensible",
+      "satisfactory",
+      "lousy",
+      "yuck"
+    ],
+    "answer": "sensible"
+  },
+  {
+    "question": "مُرضي أو مقبول",
+    "options": [
+      "satisfactory",
+      "lousy",
+      "steady",
+      "relentless"
+    ],
+    "answer": "satisfactory"
+  },
+  {
+    "question": "سدادة زجاجة",
+    "options": [
+      "stopper",
+      "lid",
+      "cap",
+      "plug"
+    ],
+    "answer": "stopper"
+  },
+  {
+    "question": "ناولني",
+    "options": [
+      "hand me",
+      "grab me",
+      "take from me",
+      "pass over"
+    ],
+    "answer": "hand me"
+  },
+  {
+    "question": "يستخدم للأشياء مثل زجاجات، أقلام، أنابيب معجون",
+    "options": [
+      "lid",
+      "cover",
+      "caps",
+      "plug"
+    ],
+    "answer": "caps"
+  },
+  {
+    "question": "يستخدم مع علب، أواني، صناديق",
+    "options": [
+      "lid",
+      "cap",
+      "stopper",
+      "seal"
+    ],
+    "answer": "lid"
+  },
+  {
+    "question": "يموت فجأة",
+    "options": [
+      "drop off",
+      "drop dead",
+      "pass away",
+      "vanish"
+    ],
+    "answer": "drop dead"
+  },
+  {
+    "question": "يا تصيب يا تخيب",
+    "options": [
+      "fifty-fifty",
+      "hit or miss",
+      "trial and error",
+      "on and off"
+    ],
+    "answer": "hit or miss"
+  },
+  {
+    "question": "تعطيل عمل تشريعي بالمماطلة في الكلام",
+    "options": [
+      "delay",
+      "filibuster",
+      "interruption",
+      "blockade"
+    ],
+    "answer": "filibuster"
+  },
+  {
+    "question": "شر",
+    "options": [
+      "evil",
+      "bad",
+      "immoral",
+      "sinful"
+    ],
+    "answer": "evil"
+  },
+  {
+    "question": "يتيم الوالدين",
+    "options": [
+      "without parents",
+      "orphans",
+      "parenless",
+      "child alone"
+    ],
+    "answer": "parenless"
+  },
+  {
+    "question": "مغري",
+    "options": [
+      "appealing",
+      "tempting",
+      "inviting",
+      "desirable"
+    ],
+    "answer": "tempting"
+  },
+  {
+    "question": "الليل لسا بأوله",
+    "options": [
+      "the night is ending",
+      "it’s midnight",
+      "the night is still young",
+      "it’s getting late"
+    ],
+    "answer": "the night is still young"
+  },
+  {
+    "question": "فاعل خير",
+    "options": [
+      "benefactor",
+      "philanthropist",
+      "donor",
+      "charitable man"
+    ],
+    "answer": "philanthropist"
+  },
+  {
+    "question": "لا تلعب بمناخيرك",
+    "options": [
+      "do not scratch",
+      "do not blow your nose",
+      "do not pick your nose",
+      "do not sniff"
+    ],
+    "answer": "do not pick your nose"
+  },
+  {
+    "question": "لا تعطس",
+    "options": [
+      "do not sneeze",
+      "don’t cough",
+      "do not sniff",
+      "do not wheeze"
+    ],
+    "answer": "do not sneeze"
+  },
+  {
+    "question": "لا تمخّط",
+    "options": [
+      "do not sniff",
+      "do not sneeze",
+      "do not blow your nose",
+      "do not cough"
+    ],
+    "answer": "do not blow your nose"
+  },
+  {
+    "question": "لا تشهق بأنفك",
+    "options": [
+      "do not sniff",
+      "do not sneeze",
+      "do not pick",
+      "do not wheeze"
+    ],
+    "answer": "do not sniff"
+  },
+  {
+    "question": "بدرجة كبيرة ومقبولة",
+    "options": [
+      "very",
+      "too",
+      "so",
+      "extremely"
+    ],
+    "answer": "very"
+  },
+  {
+    "question": "بدرجة زائدة وغير مقبولة",
+    "options": [
+      "extreme",
+      "very",
+      "too",
+      "extra"
+    ],
+    "answer": "too"
+  },
+  {
+    "question": "تذكارات",
+    "options": [
+      "memories",
+      "gifts",
+      "souvenirs",
+      "tokens"
+    ],
+    "answer": "souvenirs"
+  },
+  {
+    "question": "واجب أو مسؤولية",
+    "options": [
+      "responsibility",
+      "work",
+      "task",
+      "duty"
+    ],
+    "answer": "duty"
+  },
+  {
+    "question": "نشيط جدًا = مفرط النشاط",
+    "options": [
+      "Very energetic = Hyper",
+      "Very tired = Exhausted",
+      "Very small = Tiny",
+      "Very fast = Rapid"
+    ],
+    "answer": "Very energetic = Hyper"
+  },
+  {
+    "question": "خائف جدًا = مذعور",
+    "options": [
+      "Very scared = Frightened",
+      "Very angry = Furious",
+      "Very happy = Joyful",
+      "Very sad = Melancholy"
+    ],
+    "answer": "Very scared = Frightened"
+  },
+  {
+    "question": "نعسان جدًا = مترنح",
+    "options": [
+      "Very sleepy = Groggy",
+      "Very hungry = Starving",
+      "Very cold = Chilly",
+      "Very hot = Scorching"
+    ],
+    "answer": "Very sleepy = Groggy"
+  },
+  {
+    "question": "نحيف جدًا = ممشوق",
+    "options": [
+      "Very slim = Slender",
+      "Very fat = Obese",
+      "Very tall = Towering",
+      "Very short = Petite"
+    ],
+    "answer": "Very slim = Slender"
+  },
+  {
+    "question": "نحيف جدًا = عظمي",
+    "options": [
+      "Very skinny = Bony",
+      "Very strong = Robust",
+      "Very bright = Gleaming",
+      "Very soft = Velvety"
+    ],
+    "answer": "Very skinny = Bony"
+  },
+  {
+    "question": "قوي جدًا = صلب",
+    "options": [
+      "Very strong = Robust",
+      "Very weak = Frail",
+      "Very bright = Gleaming",
+      "Very loud = Piercing"
+    ],
+    "answer": "Very strong = Robust"
+  },
+  {
+    "question": "ساطع جدًا = لامع",
+    "options": [
+      "Very bright = Gleaming",
+      "Very dark = Gloomy",
+      "Very loud = Piercing",
+      "Very soft = Velvety"
+    ],
+    "answer": "Very bright = Gleaming"
+  },
+  {
+    "question": "بارد جدًا = لاذع",
+    "options": [
+      "Very cold = Nippy",
+      "Very hot = Scorching",
+      "Very loud = Piercing",
+      "Very soft = Velvety"
+    ],
+    "answer": "Very cold = Nippy"
+  },
+  {
+    "question": "ناعم جدًا = مخملي",
+    "options": [
+      "Very soft = Velvety",
+      "Very hard = Rough",
+      "Very loud = Piercing",
+      "Very bright = Gleaming"
+    ],
+    "answer": "Very soft = Velvety"
+  },
+  {
+    "question": "عالٍ جدًا = حادّ",
+    "options": [
+      "Very loud = Piercing",
+      "Very quiet = Silent",
+      "Very soft = Velvety",
+      "Very bright = Gleaming"
+    ],
+    "answer": "Very loud = Piercing"
+  },
+  {
+    "question": "جميل جدًا = ملائكي",
+    "options": [
+      "Very beautiful = Angelic",
+      "Very ugly = Hideous",
+      "Very funny = Whimsical",
+      "Very sad = Melancholy"
+    ],
+    "answer": "Very beautiful = Angelic"
+  },
+  {
+    "question": "إشارة أو إيعاز",
+    "options": [
+      "cue = signal",
+      "imposes = forces",
+      "horror = fear",
+      "water polo = sport"
+    ],
+    "answer": "cue = signal"
+  },
+  {
+    "question": "إشارة بدء",
+    "options": [
+      "cue = start signal",
+      "downtown = city center",
+      "fleet = group of ships",
+      "awful = terrible"
+    ],
+    "answer": "cue = start signal"
+  },
+  {
+    "question": "عصا البلياردو",
+    "options": [
+      "cue = billiard stick",
+      "cheerful = happy",
+      "critics = reviewers",
+      "composer = music creator"
+    ],
+    "answer": "cue = billiard stick"
+  },
+  {
+    "question": "غالبًا يشير إلى المناطق السكنية الراقية أو الهادئة.",
+    "options": [
+      "uptown = residential area",
+      "downtown = city center",
+      "fleet = group of ships",
+      "awful = terrible"
+    ],
+    "answer": "uptown = residential area"
+  },
+  {
+    "question": "ذكرنا القط قام نط",
+    "options": [
+      "speak of the devil = mentioned person appears",
+      "legendary = famous",
+      "playwright = drama writer",
+      "tackle = confront"
+    ],
+    "answer": "speak of the devil = mentioned person appears"
+  },
+  {
+    "question": "غاضب جدًا = غاضب بشدة",
+    "options": [
+      "Very angry = Enraged",
+      "Very boring = Tedious",
+      "Very beautiful = Elegant",
+      "Very big = Colossal"
+    ],
+    "answer": "Very angry = Enraged"
+  },
+  {
+    "question": "جميل جدًا = أنيق",
+    "options": [
+      "Very beautiful = Elegant",
+      "Very calm = Tranquil",
+      "Very careful = Vigilant",
+      "Very clear = Lucid"
+    ],
+    "answer": "Very beautiful = Elegant"
+  },
+  {
+    "question": "كبير جدًا = هائل",
+    "options": [
+      "Very big = Colossal",
+      "Very busy = Hectic",
+      "Very cold = Icy",
+      "Very colorful = Kaleidoscopic"
+    ],
+    "answer": "Very big = Colossal"
+  },
+  {
+    "question": "ممل جدًا = رتيب",
+    "options": [
+      "Very boring = Tedious",
+      "Very bright = Radiant",
+      "Very clean = Pristine",
+      "Very calm = Tranquil"
+    ],
+    "answer": "Very boring = Tedious"
+  },
+  {
+    "question": "ساطع جدًا = متألق",
+    "options": [
+      "Very bright = Radiant",
+      "Very careful = Vigilant",
+      "Very calm = Tranquil",
+      "Very busy = Hectic"
+    ],
+    "answer": "Very bright = Radiant"
+  },
+  {
+    "question": "مشغول جدًا = محموم",
+    "options": [
+      "Very busy = Hectic",
+      "Very boring = Tedious",
+      "Very calm = Tranquil",
+      "Very angry = Enraged"
+    ],
+    "answer": "Very busy = Hectic"
+  },
+  {
+    "question": "هادئ جدًا = ساكن",
+    "options": [
+      "Very calm = Tranquil",
+      "Very careful = Vigilant",
+      "Very cold = Icy",
+      "Very colorful = Kaleidoscopic"
+    ],
+    "answer": "Very calm = Tranquil"
+  },
+  {
+    "question": "حذر جدًا = يقظ",
+    "options": [
+      "Very careful = Vigilant",
+      "Very clear = Lucid",
+      "Very clean = Pristine",
+      "Very cold = Icy"
+    ],
+    "answer": "Very careful = Vigilant"
+  },
+  {
+    "question": "نظيف جدًا = نقي",
+    "options": [
+      "Very clean = Pristine",
+      "Very colorful = Kaleidoscopic",
+      "Very bright = Radiant",
+      "Very busy = Hectic"
+    ],
+    "answer": "Very clean = Pristine"
+  },
+  {
+    "question": "واضح جدًا = جلي",
+    "options": [
+      "Very clear = Lucid",
+      "Very cold = Icy",
+      "Very calm = Tranquil",
+      "Very careful = Vigilant"
+    ],
+    "answer": "Very clear = Lucid"
+  },
+  {
+    "question": "بارد جدًا = متجمد",
+    "options": [
+      "Very cold = Icy",
+      "Very clean = Pristine",
+      "Very bright = Radiant",
+      "Very boring = Tedious"
+    ],
+    "answer": "Very cold = Icy"
+  },
+  {
+    "question": "مليء بالألوان = متعدد الألوان",
+    "options": [
+      "Very colorful = Kaleidoscopic",
+      "Very busy = Hectic",
+      "Very angry = Enraged",
+      "Very calm = Tranquil"
+    ],
+    "answer": "Very colorful = Kaleidoscopic"
+  },
+  {
+    "question": "مشوش جدًا = مرتبك",
+    "options": [
+      "Very confused = Baffled",
+      "Very crowded = Jam-packed",
+      "Very cute = Charming",
+      "Very dangerous = Hazardous"
+    ],
+    "answer": "Very confused = Baffled"
+  },
+  {
+    "question": "مزدحم جدًا = مكتظ",
+    "options": [
+      "Very crowded = Jam-packed",
+      "Very dark = Jet-black",
+      "Very deep = Bottomless",
+      "Very dirty = Grimy"
+    ],
+    "answer": "Very crowded = Jam-packed"
+  },
+  {
+    "question": "لطيف جدًا = ساحر",
+    "options": [
+      "Very cute = Charming",
+      "Very easy = Painless",
+      "Very empty = Barren",
+      "Very excited = Ecstatic"
+    ],
+    "answer": "Very cute = Charming"
+  },
+  {
+    "question": "خطير جدًا = خطِر",
+    "options": [
+      "Very dangerous = Hazardous",
+      "Very fast = Speedy",
+      "Very fat = Plump",
+      "Very friendly = Cordial"
+    ],
+    "answer": "Very dangerous = Hazardous"
+  },
+  {
+    "question": "مظلم جدًا = أسود حالك",
+    "options": [
+      "Very dark = Jet-black",
+      "Very funny = Comical",
+      "Very good = Superb",
+      "Very great = Splendid"
+    ],
+    "answer": "Very dark = Jet-black"
+  },
+  {
+    "question": "عميق جدًا = سحيق",
+    "options": [
+      "Very deep = Bottomless",
+      "Very hard = Tough",
+      "Very hot = Boiling",
+      "Very hungry = Ravenous"
+    ],
+    "answer": "Very deep = Bottomless"
+  },
+  {
+    "question": "متسخ جدًا = قذر",
+    "options": [
+      "Very dirty = Grimy",
+      "Very hurt = Shattered",
+      "Very important = Vital",
+      "Very interesting = Captivating"
+    ],
+    "answer": "Very dirty = Grimy"
+  },
+  {
+    "question": "جاف جدًا = يابس",
+    "options": [
+      "Very dry = Bone-dry",
+      "Very kind = Warm-hearted",
+      "Very funny = Comical",
+      "Very good = Superb"
+    ],
+    "answer": "Very dry = Bone-dry"
+  },
+  {
+    "question": "سهل جدًا = بسيط",
+    "options": [
+      "Very easy = Painless",
+      "Very empty = Barren",
+      "Very excited = Ecstatic",
+      "Very fast = Speedy"
+    ],
+    "answer": "Very easy = Painless"
+  },
+  {
+    "question": "فارغ جدًا = قاحل",
+    "options": [
+      "Very empty = Barren",
+      "Very fat = Plump",
+      "Very friendly = Cordial",
+      "Very funny = Comical"
+    ],
+    "answer": "Very empty = Barren"
+  },
+  {
+    "question": "متحمس جدًا = مبتهج",
+    "options": [
+      "Very excited = Ecstatic",
+      "Very good = Superb",
+      "Very great = Splendid",
+      "Very happy = Cheerful"
+    ],
+    "answer": "Very excited = Ecstatic"
+  },
+  {
+    "question": "سريع جدًا = خاطف",
+    "options": [
+      "Very fast = Speedy",
+      "Very hard = Tough",
+      "Very hot = Boiling",
+      "Very hungry = Ravenous"
+    ],
+    "answer": "Very fast = Speedy"
+  },
+  {
+    "question": "سمين جدًا = بدين",
+    "options": [
+      "Very fat = Plump",
+      "Very hurt = Shattered",
+      "Very important = Vital",
+      "Very interesting = Captivating"
+    ],
+    "answer": "Very fat = Plump"
+  },
+  {
+    "question": "ودود جدًا = لطيف",
+    "options": [
+      "Very friendly = Cordial",
+      "Very funny = Comical",
+      "Very good = Superb",
+      "Very great = Splendid"
+    ],
+    "answer": "Very friendly = Cordial"
+  },
+  {
+    "question": "مضحك جدًا = فكاهي",
+    "options": [
+      "Very funny = Comical",
+      "Very happy = Cheerful",
+      "Very hard = Tough",
+      "Very hot = Boiling"
+    ],
+    "answer": "Very funny = Comical"
+  },
+  {
+    "question": "جيد جدًا = رائع",
+    "options": [
+      "Very good = Superb",
+      "Very great = Splendid",
+      "Very happy = Cheerful",
+      "Very hard = Tough"
+    ],
+    "answer": "Very good = Superb"
+  },
+  {
+    "question": "عظيم جدًا = مبهر",
+    "options": [
+      "Very great = Splendid",
+      "Very happy = Cheerful",
+      "Very hard = Tough",
+      "Very hot = Boiling"
+    ],
+    "answer": "Very great = Splendid"
+  },
+  {
+    "question": "سعيد جدًا = مبتهج",
+    "options": [
+      "Very happy = Cheerful",
+      "Very hard = Tough",
+      "Very hungry = Ravenous",
+      "Very hurt = Shattered"
+    ],
+    "answer": "Very happy = Cheerful"
+  },
+  {
+    "question": "صعب جدًا = قاسٍ",
+    "options": [
+      "Very hard = Tough",
+      "Very hot = Boiling",
+      "Very hungry = Ravenous",
+      "Very hurt = Shattered"
+    ],
+    "answer": "Very hard = Tough"
+  },
+  {
+    "question": "حار جدًا = يغلي",
+    "options": [
+      "Very hot = Boiling",
+      "Very hungry = Ravenous",
+      "Very hurt = Shattered",
+      "Very important = Vital"
+    ],
+    "answer": "Very hot = Boiling"
+  },
+  {
+    "question": "جائع جدًا = نهم",
+    "options": [
+      "Very hungry = Ravenous",
+      "Very hurt = Shattered",
+      "Very important = Vital",
+      "Very interesting = Captivating"
+    ],
+    "answer": "Very hungry = Ravenous"
+  },
+  {
+    "question": "مجروح جدًا = محطم",
+    "options": [
+      "Very hurt = Shattered",
+      "Very important = Vital",
+      "Very interesting = Captivating",
+      "Very kind = Warm-hearted"
+    ],
+    "answer": "Very hurt = Shattered"
+  },
+  {
+    "question": "مهم جدًا = أساسي",
+    "options": [
+      "Very important = Vital",
+      "Very interesting = Captivating",
+      "Very kind = Warm-hearted",
+      "Very confused = Baffled"
+    ],
+    "answer": "Very important = Vital"
+  },
+  {
+    "question": "ممتع جدًا = آسر",
+    "options": [
+      "Very interesting = Captivating",
+      "Very kind = Warm-hearted",
+      "Very confused = Baffled",
+      "Very crowded = Jam-packed"
+    ],
+    "answer": "Very interesting = Captivating"
+  },
+  {
+    "question": "طيب جدًا = حنون",
+    "options": [
+      "Very kind = Warm-hearted",
+      "Very funny = Comical",
+      "Very good = Superb",
+      "Very great = Splendid"
+    ],
+    "answer": "Very kind = Warm-hearted"
+  },
+  {
+    "question": "ضخم جدًا = عملاق",
+    "options": [
+      "Very large = Enormous",
+      "Very lazy = Idle",
+      "Very long = Endless",
+      "Very loud = Thunderous"
+    ],
+    "answer": "Very large = Enormous"
+  },
+  {
+    "question": "كسول جدًا = خامل",
+    "options": [
+      "Very lazy = Idle",
+      "Very mad = Fuming",
+      "Very neat = Orderly",
+      "Very nice = Delightful"
+    ],
+    "answer": "Very lazy = Idle"
+  },
+  {
+    "question": "طويل جدًا = لا نهائي",
+    "options": [
+      "Very long = Endless",
+      "Very noisy = Rowdy",
+      "Very often = Frequently",
+      "Very old = Elderly"
+    ],
+    "answer": "Very long = Endless"
+  },
+  {
+    "question": "عالٍ جدًا = مدوٍ",
+    "options": [
+      "Very loud = Thunderous",
+      "Very painful = Excruciating",
+      "Very pale = Pallid",
+      "Very perfect = Impeccable"
+    ],
+    "answer": "Very loud = Thunderous"
+  },
+  {
+    "question": "غاضب جدًا = يشتعل غضبًا",
+    "options": [
+      "Very mad = Fuming",
+      "Very poor = Penniless",
+      "Very pretty = Elegant",
+      "Very quick = Brisk"
+    ],
+    "answer": "Very mad = Fuming"
+  },
+  {
+    "question": "مرتب جدًا = منظم",
+    "options": [
+      "Very neat = Orderly",
+      "Very quiet = Hushed",
+      "Very rainy = Drizzly",
+      "Very rich = Affluent"
+    ],
+    "answer": "Very neat = Orderly"
+  },
+  {
+    "question": "لطيف جدًا = مبهج",
+    "options": [
+      "Very nice = Delightful",
+      "Very sad = Miserable",
+      "Very scary = Horrifying",
+      "Very serious = Stern"
+    ],
+    "answer": "Very nice = Delightful"
+  },
+  {
+    "question": "صاخب جدًا = هائج",
+    "options": [
+      "Very noisy = Rowdy",
+      "Very sharp = Keen",
+      "Very short = Fleeting",
+      "Very shy = Bashful"
+    ],
+    "answer": "Very noisy = Rowdy"
+  },
+  {
+    "question": "كثيرًا = بشكل متكرر",
+    "options": [
+      "Very often = Frequently",
+      "Very old = Elderly",
+      "Very painful = Excruciating",
+      "Very pale = Pallid"
+    ],
+    "answer": "Very often = Frequently"
+  },
+  {
+    "question": "كبير في السن = مسن",
+    "options": [
+      "Very old = Elderly",
+      "Very perfect = Impeccable",
+      "Very poor = Penniless",
+      "Very pretty = Elegant"
+    ],
+    "answer": "Very old = Elderly"
+  },
+  {
+    "question": "مؤلم جدًا = لا يُطاق",
+    "options": [
+      "Very painful = Excruciating",
+      "Very quick = Brisk",
+      "Very quiet = Hushed",
+      "Very rainy = Drizzly"
+    ],
+    "answer": "Very painful = Excruciating"
+  },
+  {
+    "question": "شاحب جدًا = باهت",
+    "options": [
+      "Very pale = Pallid",
+      "Very rich = Affluent",
+      "Very sad = Miserable",
+      "Very scary = Horrifying"
+    ],
+    "answer": "Very pale = Pallid"
+  },
+  {
+    "question": "مثالي جدًا = لا عيب فيه",
+    "options": [
+      "Very perfect = Impeccable",
+      "Very serious = Stern",
+      "Very sharp = Keen",
+      "Very short = Fleeting"
+    ],
+    "answer": "Very perfect = Impeccable"
+  },
+  {
+    "question": "فقير جدًا = مفلس",
+    "options": [
+      "Very poor = Penniless",
+      "Very shy = Bashful",
+      "Very simple = Uncomplicated",
+      "Very large = Enormous"
+    ],
+    "answer": "Very poor = Penniless"
+  },
+  {
+    "question": "جميل جدًا = أنيق",
+    "options": [
+      "Very pretty = Elegant",
+      "Very lazy = Idle",
+      "Very long = Endless",
+      "Very loud = Thunderous"
+    ],
+    "answer": "Very pretty = Elegant"
+  },
+  {
+    "question": "سريع جدًا = نشيط",
+    "options": [
+      "Very quick = Brisk",
+      "Very neat = Orderly",
+      "Very nice = Delightful",
+      "Very noisy = Rowdy"
+    ],
+    "answer": "Very quick = Brisk"
+  },
+  {
+    "question": "هادئ جدًا = صامت",
+    "options": [
+      "Very quiet = Hushed",
+      "Very rainy = Drizzly",
+      "Very rich = Affluent",
+      "Very sad = Miserable"
+    ],
+    "answer": "Very quiet = Hushed"
+  },
+  {
+    "question": "ممطر جدًا = رذاذي",
+    "options": [
+      "Very rainy = Drizzly",
+      "Very scary = Horrifying",
+      "Very serious = Stern",
+      "Very sharp = Keen"
+    ],
+    "answer": "Very rainy = Drizzly"
+  },
+  {
+    "question": "غني جدًا = ثري",
+    "options": [
+      "Very rich = Affluent",
+      "Very short = Fleeting",
+      "Very shy = Bashful",
+      "Very simple = Uncomplicated"
+    ],
+    "answer": "Very rich = Affluent"
+  },
+  {
+    "question": "حزين جدًا = بائس",
+    "options": [
+      "Very sad = Miserable",
+      "Very scary = Horrifying",
+      "Very serious = Stern",
+      "Very sharp = Keen"
+    ],
+    "answer": "Very sad = Miserable"
+  },
+  {
+    "question": "مخيف جدًا = مرعب",
+    "options": [
+      "Very scary = Horrifying",
+      "Very serious = Stern",
+      "Very sharp = Keen",
+      "Very short = Fleeting"
+    ],
+    "answer": "Very scary = Horrifying"
+  },
+  {
+    "question": "جاد جدًا = صارم",
+    "options": [
+      "Very serious = Stern",
+      "Very sharp = Keen",
+      "Very short = Fleeting",
+      "Very shy = Bashful"
+    ],
+    "answer": "Very serious = Stern"
+  },
+  {
+    "question": "حاد جدًا = حاد الذكاء",
+    "options": [
+      "Very sharp = Keen",
+      "Very short = Fleeting",
+      "Very shy = Bashful",
+      "Very simple = Uncomplicated"
+    ],
+    "answer": "Very sharp = Keen"
+  },
+  {
+    "question": "بطيء جدًا = خامل",
+    "options": [
+      "Very slow = Sluggish",
+      "Very small = Petite",
+      "Very smart = Sharp",
+      "Very smelly = Stinky"
+    ],
+    "answer": "Very slow = Sluggish"
+  },
+  {
+    "question": "صغير جدًا = رقيق الجسم",
+    "options": [
+      "Very small = Petite",
+      "Very smooth = Silky",
+      "Very soft = Cushiony",
+      "Very sorry = Regretful"
+    ],
+    "answer": "Very small = Petite"
+  },
+  {
+    "question": "ذكي جدًا = فطِن",
+    "options": [
+      "Very smart = Sharp",
+      "Very stupid = Foolish",
+      "Very successful = Flourishing",
+      "Very tall = Towering"
+    ],
+    "answer": "Very smart = Sharp"
+  },
+  {
+    "question": "ذو رائحة كريهة جدًا = نتن",
+    "options": [
+      "Very smelly = Stinky",
+      "Very special = Remarkable",
+      "Very strong = Sturdy",
+      "Very weird = Peculiar"
+    ],
+    "answer": "Very smelly = Stinky"
+  },
+  {
+    "question": "ناعم جدًا = حريري",
+    "options": [
+      "Very smooth = Silky",
+      "Very soft = Cushiony",
+      "Very sorry = Regretful",
+      "Very tasty = Scrumptious"
+    ],
+    "answer": "Very smooth = Silky"
+  },
+  {
+    "question": "طري جدًا = كالإسفنج",
+    "options": [
+      "Very soft = Cushiony",
+      "Very strong = Sturdy",
+      "Very stupid = Foolish",
+      "Very tall = Towering"
+    ],
+    "answer": "Very soft = Cushiony"
+  },
+  {
+    "question": "آسف جدًا = نادم",
+    "options": [
+      "Very sorry = Regretful",
+      "Very special = Remarkable",
+      "Very thirsty = Dehydrated",
+      "Very ugly = Repulsive"
+    ],
+    "answer": "Very sorry = Regretful"
+  },
+  {
+    "question": "مميز جدًا = رائع",
+    "options": [
+      "Very special = Remarkable",
+      "Very weak = Frail",
+      "Very weird = Peculiar",
+      "Very wet = Drenched"
+    ],
+    "answer": "Very special = Remarkable"
+  },
+  {
+    "question": "قوي جدًا = صلب",
+    "options": [
+      "Very strong = Sturdy",
+      "Very stupid = Foolish",
+      "Very successful = Flourishing",
+      "Very tall = Towering"
+    ],
+    "answer": "Very strong = Sturdy"
+  },
+  {
+    "question": "غبي جدًا = أحمق",
+    "options": [
+      "Very stupid = Foolish",
+      "Very tasty = Scrumptious",
+      "Very thirsty = Dehydrated",
+      "Very ugly = Repulsive"
+    ],
+    "answer": "Very stupid = Foolish"
+  },
+  {
+    "question": "ناجح جدًا = مزدهر",
+    "options": [
+      "Very successful = Flourishing",
+      "Very weak = Frail",
+      "Very weird = Peculiar",
+      "Very wet = Drenched"
+    ],
+    "answer": "Very successful = Flourishing"
+  },
+  {
+    "question": "طويل جدًا = شامخ",
+    "options": [
+      "Very tall = Towering",
+      "Very tasty = Scrumptious",
+      "Very thirsty = Dehydrated",
+      "Very ugly = Repulsive"
+    ],
+    "answer": "Very tall = Towering"
+  },
+  {
+    "question": "لذيذ جدًا = شهي",
+    "options": [
+      "Very tasty = Scrumptious",
+      "Very weak = Frail",
+      "Very weird = Peculiar",
+      "Very wet = Drenched"
+    ],
+    "answer": "Very tasty = Scrumptious"
+  },
+  {
+    "question": "عطشان جدًا = مصاب بالجفاف",
+    "options": [
+      "Very thirsty = Dehydrated",
+      "Very willing = Eager",
+      "Very windy = Breezy",
+      "Very worried = Troubled"
+    ],
+    "answer": "Very thirsty = Dehydrated"
+  },
+  {
+    "question": "قبيح جدًا = مثير للاشمئزاز",
+    "options": [
+      "Very ugly = Repulsive",
+      "Very weak = Frail",
+      "Very weird = Peculiar",
+      "Very wet = Drenched"
+    ],
+    "answer": "Very ugly = Repulsive"
+  },
+  {
+    "question": "ضعيف جدًا = هش",
+    "options": [
+      "Very weak = Frail",
+      "Very willing = Eager",
+      "Very windy = Breezy",
+      "Very worried = Troubled"
+    ],
+    "answer": "Very weak = Frail"
+  },
+  {
+    "question": "غريب جدًا = عجيب",
+    "options": [
+      "Very weird = Peculiar",
+      "Very wet = Drenched",
+      "Very wide = Broad",
+      "Very willing = Eager"
+    ],
+    "answer": "Very weird = Peculiar"
+  },
+  {
+    "question": "مبلل جدًا = مغمور",
+    "options": [
+      "Very wet = Drenched",
+      "Very wide = Broad",
+      "Very willing = Eager",
+      "Very windy = Breezy"
+    ],
+    "answer": "Very wet = Drenched"
+  },
+  {
+    "question": "واسع جدًا = عريض",
+    "options": [
+      "Very wide = Broad",
+      "Very willing = Eager",
+      "Very windy = Breezy",
+      "Very worried = Troubled"
+    ],
+    "answer": "Very wide = Broad"
+  },
+  {
+    "question": "راغب جدًا = متحمس",
+    "options": [
+      "Very willing = Eager",
+      "Very windy = Breezy",
+      "Very worried = Troubled",
+      "Very young = Youthful"
+    ],
+    "answer": "Very willing = Eager"
+  },{
+    "question": "اعتمادية متبادلة",
+    "options": [
+      "codependency",
+      "independence",
+      "self-care",
+      "detachment"
+    ],
+    "answer": "codependency"
+  },
+  {
+    "question": "علاقة ارتدادية",
+    "options": [
+      "rebound relationship",
+      "true love",
+      "commitment",
+      "engagement"
+    ],
+    "answer": "rebound relationship"
+  },
+  {
+    "question": "إساءة عاطفية",
+    "options": [
+      "emotional abuse",
+      "emotional support",
+      "kindness",
+      "care"
+    ],
+    "answer": "emotional abuse"
+  },
+  {
+    "question": "لازم أغير جو",
+    "options": [
+      "I need a change of scenery",
+      "I need new shoes",
+      "I want to travel abroad",
+      "Let's stay inside"
+    ],
+    "answer": "I need a change of scenery"
+  },
+  {
+    "question": "إذا ما عندك مانع",
+    "options": [
+      "if you do not mind",
+      "if you agree",
+      "if you like it",
+      "if you want to"
+    ],
+    "answer": "if you do not mind"
+  },
+  {
+    "question": "بإذنك",
+    "options": [
+      "with your permission",
+      "with your bag",
+      "without asking",
+      "on your time"
+    ],
+    "answer": "with your permission"
+  },
+  {
+    "question": "عن تاف",
+    "options": [
+      "about tov",
+      "about love",
+      "about you",
+      "about them"
+    ],
+    "answer": "about tov"
+  },
+  {
+    "question": "زلّة لسان",
+    "options": [
+      "a slip of the tongue",
+      "a quick answer",
+      "a sudden talk",
+      "a whisper"
+    ],
+    "answer": "a slip of the tongue"
+  },
+  {
+    "question": "يمكنك الاعتماد عليّ",
+    "options": [
+      "you can count on me",
+      "you can lie to me",
+      "you can ask someone",
+      "you can depend on luck"
+    ],
+    "answer": "you can count on me"
+  },
+  {
+    "question": "وقف إطلاق النار لا يزال بعيد المنال",
+    "options": [
+      "ceasefire still seems distant",
+      "ceasefire already started",
+      "peace has come",
+      "the war is over"
+    ],
+    "answer": "ceasefire still seems distant"
+  },
+  {
+    "question": "حصار",
+    "options": [
+      "blockade",
+      "freedom",
+      "passage",
+      "retreat"
+    ],
+    "answer": "blockade"
+  },
+  {
+    "question": "سفينة",
+    "options": [
+      "vessel",
+      "rocket",
+      "car",
+      "container"
+    ],
+    "answer": "vessel"
+  },
+  {
+    "question": "تم اعتراضه",
+    "options": [
+      "intercepted",
+      "ignored",
+      "sent",
+      "delivered"
+    ],
+    "answer": "intercepted"
+  },
+  {
+    "question": "تم تجاهله",
+    "options": [
+      "disregarded",
+      "accepted",
+      "noticed",
+      "observed"
+    ],
+    "answer": "disregarded"
+  },
+  {
+    "question": "طلب",
+    "options": [
+      "demand",
+      "offer",
+      "gift",
+      "suggestion"
+    ],
+    "answer": "demand"
+  },
+  {
+    "question": "انقطاع",
+    "options": [
+      "outage",
+      "flow",
+      "supply",
+      "increase"
+    ],
+    "answer": "outage"
+  },
+  {
+    "question": "الأرنب اختبأ في الشجيرة.",
+    "options": [
+      "The rabbit hid in the bush.",
+      "The fox ran away quickly.",
+      "The bird sat in the tree.",
+      "The dog chased the cat."
+    ],
+    "answer": "The rabbit hid in the bush."
+  },
+  {
+    "question": "شجيرة",
+    "options": [
+      "bush",
+      "tree",
+      "flower",
+      "plant"
+    ],
+    "answer": "bush"
+  },
+  {
+    "question": "تم الاستيلاء عليه",
+    "options": [
+      "seized",
+      "freed",
+      "ignored",
+      "protected"
+    ],
+    "answer": "seized"
+  },
+  {
+    "question": "جوي",
+    "options": [
+      "aerial",
+      "ground",
+      "underground",
+      "marine"
+    ],
+    "answer": "aerial"
+  },
+  {
+    "question": "إسقاطات جوية",
+    "options": [
+      "airdrops",
+      "missiles",
+      "helicopters",
+      "storms"
+    ],
+    "answer": "airdrops"
+  },
+  {
+    "question": "طحين",
+    "options": [
+      "flour",
+      "sugar",
+      "salt",
+      "butter"
+    ],
+    "answer": "flour"
+  },
+  {
+    "question": "تجنيد",
+    "options": [
+      "recruitment",
+      "retirement",
+      "refusal",
+      "promotion"
+    ],
+    "answer": "recruitment"
+  },
+  {
+    "question": "تجريد من الإنسانية",
+    "options": [
+      "dehumanising",
+      "empowering",
+      "respecting",
+      "honoring"
+    ],
+    "answer": "dehumanising"
+  },
+  {
+    "question": "أمّي (لا يعرف القراءة والكتابة)",
+    "options": [
+      "illiterate",
+      "educated",
+      "scholarly",
+      "literate"
+    ],
+    "answer": "illiterate"
+  },
+  {
+    "question": "عاصف جدًا = كثير النسيم",
+    "options": [
+      "Very windy = Breezy",
+      "Very worried = Troubled",
+      "Very young = Youthful",
+      "Very zany = Wacky"
+    ],
+    "answer": "Very windy = Breezy"
+  },
+  {
+    "question": "قلق جدًا = مضطرب",
+    "options": [
+      "Very worried = Troubled",
+      "Very young = Youthful",
+      "Very zany = Wacky",
+      "Very slow = Sluggish"
+    ],
+    "answer": "Very worried = Troubled"
+  },
+  {
+    "question": "صغير جدًا = يافع",
+    "options": [
+      "Very young = Youthful",
+      "Very zany = Wacky",
+      "Very slow = Sluggish",
+      "Very small = Petite"
+    ],
+    "answer": "Very young = Youthful"
+  },
+  {
+    "question": "غريب الأطوار جدًا = أحمق ظريف",
+    "options": [
+      "Very zany = Wacky",
+      "Very slow = Sluggish",
+      "Very smart = Sharp",
+      "Very smelly = Stinky"
+    ],
+    "answer": "Very zany = Wacky"
+  },
+  {
+    "question": "قصير جدًا = عابر",
+    "options": [
+      "Very short = Fleeting",
+      "Very shy = Bashful",
+      "Very simple = Uncomplicated",
+      "Very large = Enormous"
+    ],
+    "answer": "Very short = Fleeting"
+  },
+  {
+    "question": "خجول جدًا = خجول",
+    "options": [
+      "Very shy = Bashful",
+      "Very simple = Uncomplicated",
+      "Very large = Enormous",
+      "Very lazy = Idle"
+    ],
+    "answer": "Very shy = Bashful"
+  },
+  {
+    "question": "بسيط جدًا = غير معقد",
+    "options": [
+      "Very simple = Uncomplicated",
+      "Very loud = Thunderous",
+      "Very mad = Fuming",
+      "Very neat = Orderly"
+    ],
+    "answer": "Very simple = Uncomplicated"
+  },
+  {
+    "question": "سهل جدًا = مباشر",
+    "options": [
+      "Very easy = Straightforward",
+      "Very difficult = Complicated",
+      "Very funny = Whimsical",
+      "Very scary = Frightened"
+    ],
+    "answer": "Very easy = Straightforward"
+  },
+  {
+    "question": "مضحك جدًا = غريب الطبع",
+    "options": [
+      "Very funny = Whimsical",
+      "Very sad = Melancholy",
+      "Very angry = Furious",
+      "Very happy = Joyful"
+    ],
+    "answer": "Very funny = Whimsical"
+  },
+  {
+    "question": "بشكل نسبي",
+    "options": [
+      "slightly",
+      "comparatively",
+      "relatively",
+      "partially"
+    ],
+    "answer": "relatively"
+  },
+  {
+    "question": "مكيف أو مهيأ",
+    "options": [
+      "prepared",
+      "trained",
+      "set",
+      "conditioned"
+    ],
+    "answer": "conditioned"
+  },
+  {
+    "question": "لا تلف و تدور",
+    "options": [
+      "do not dodge",
+      "do not beat around the bush",
+      "be direct",
+      "say it clearly"
+    ],
+    "answer": "do not beat around the bush"
+  },
+  {
+    "question": "بالإكراه أو تم انتزاعه بالقوة",
+    "options": [
+      "under duress",
+      "under pressure",
+      "forced",
+      "by demand"
+    ],
+    "answer": "under duress"
+  },
+  {
+    "question": "رديء أو سيء",
+    "options": [
+      "lousy",
+      "satisfactory",
+      "steady",
+      "imposed"
+    ],
+    "answer": "lousy"
+  },
+  {
+    "question": "التغذية",
+    "options": [
+      "nutrition",
+      "malnutrition",
+      "starvation",
+      "infants"
+    ],
+    "answer": "nutrition"
+  },
+  {
+    "question": "لقد خرج للتو",
+    "options": [
+      "it just came out",
+      "yuck",
+      "persists",
+      "imposed"
+    ],
+    "answer": "it just came out"
+  },
+  {
+    "question": "قرف أو رفض",
+    "options": [
+      "yuck",
+      "it just came out",
+      "sensible",
+      "steady"
+    ],
+    "answer": "yuck"
+  },
+  {
     "question": "أصل مالي",
     "options": [
       "asset",
