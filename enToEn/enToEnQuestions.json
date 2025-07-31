@@ -570,6 +570,194 @@
     "answer": "Expand, broaden, enlarge"
   },
   {
+    "question": "argue",
+    "options": [
+      "Dispute, debate, quarrel",
+      "Agree, accept, comply",
+      "Explain, describe, narrate"
+    ],
+    "answer": "Dispute, debate, quarrel"
+  },
+  {
+    "question": "flew",
+    "options": [
+      "Soared, glided, zoomed",
+      "Walked, crawled, limped",
+      "Fell, dropped, sank"
+    ],
+    "answer": "Soared, glided, zoomed"
+  },
+  {
+    "question": "dispute",
+    "options": [
+      "argue, debate, challenge",
+      "agree, accept, comply",
+      "ignore, neglect, overlook",
+      "support, approve, confirm"
+    ],
+    "answer": "argue, debate, challenge"
+  },
+  {
+    "question": "throw",
+    "options": [
+      "toss, hurl, fling",
+      "catch, hold, keep",
+      "drop, fall, fall off",
+      "push, pull, drag"
+    ],
+    "answer": "toss, hurl, fling"
+  },
+  {
+    "question": "reckon",
+    "options": [
+      "calculate, estimate, consider",
+      "ignore, dismiss, forget",
+      "build, create, form",
+      "break, destroy, damage"
+    ],
+    "answer": "calculate, estimate, consider"
+  },
+  {
+    "question": "rise",
+    "options": [
+      "increase, climb, ascend",
+      "fall, drop, descend",
+      "sink, lower, decline",
+      "stop, pause, halt"
+    ],
+    "answer": "increase, climb, ascend"
+  },{
+    "question": "wipe",
+    "options": [
+      "clean, erase, remove",
+      "break, damage, destroy",
+      "hide, cover, conceal",
+      "write, draw, paint"
+    ],
+    "answer": "clean, erase, remove"
+  },{
+    "question": "luring",
+    "options": [
+      "Attract, entice, seduce",
+      "Ignore, neglect, abandon",
+      "Resist, oppose, reject"
+    ],
+    "answer": "Attract, entice, seduce"
+  },
+  {
+    "question": "opt for",
+    "options": [
+      "Choose, select, prefer",
+      "Refuse, deny, avoid",
+      "Delay, hesitate, pause"
+    ],
+    "answer": "Choose, select, prefer"
+  },
+  {
+    "question": "opt to",
+    "options": [
+      "Decide, choose, intend",
+      "Forget, skip, ignore",
+      "Wander, drift, roam"
+    ],
+    "answer": "Decide, choose, intend"
+  },
+  {
+    "question": "maneuver",
+    "options": [
+      "Navigate, steer, manipulate",
+      "Stumble, fall, collapse",
+      "Rush, hurry, race"
+    ],
+    "answer": "Navigate, steer, manipulate"
+  },
+  {
+    "question": "rely on",
+    "options": [
+      "depend, trust, count on",
+      "ignore, avoid, neglect",
+      "question, doubt, mistrust",
+      "test, examine, check"
+    ],
+    "answer": "depend, trust, count on"
+  },
+  {
+    "question": "compete",
+    "options": [
+      "contest, vie, challenge",
+      "help, assist, support",
+      "avoid, evade, dodge",
+      "fail, lose, quit"
+    ],
+    "answer": "contest, vie, challenge"
+  },
+  {
+    "question": "extract",
+    "options": [
+      "remove, take out, withdraw",
+      "insert, put in, add",
+      "break, destroy, damage",
+      "push, pull, drag"
+    ],
+    "answer": "remove, take out, withdraw"
+  },
+  {
+    "question": "bankrupt",
+    "options": [
+      "fail, collapse, insolvency",
+      "win, succeed, profit",
+      "build, create, form",
+      "save, protect, guard"
+    ],
+    "answer": "fail, collapse, insolvency"
+  },
+  {
+    "question": "feint",
+    "options": [
+      "fake, deceive, trick",
+      "honest, truthful, real",
+      "run, walk, jump",
+      "hit, punch, strike"
+    ],
+    "answer": "fake, deceive, trick"
+  },
+  {
+    "question": "faxed",
+    "options": [
+      "Sent, transmitted, delivered",
+      "Shredded, destroyed, burned",
+      "Received, accepted, opened"
+    ],
+    "answer": "Sent, transmitted, delivered"
+  },
+  {
+    "question": "violate",
+    "options": [
+      "Breach, disobey, infringe",
+      "Follow, respect, obey",
+      "Repair, restore, fix"
+    ],
+    "answer": "Breach, disobey, infringe"
+  },
+  {
+    "question": "bare",
+    "options": [
+      "Expose, uncover, reveal",
+      "Hide, protect, cover",
+      "Create, build, construct"
+    ],
+    "answer": "Expose, uncover, reveal"
+  },
+  {
+    "question": "bust",
+    "options": [
+      "Break, smash, shatter",
+      "Fix, mend, heal",
+      "Draw, sketch, paint"
+    ],
+    "answer": "Break, smash, shatter"
+  },
+  {
     "question": "versed",
     "options": [
       "Skilled, knowledgeable, experienced",
@@ -22420,6 +22608,756 @@
       "deny us"
     ],
     "answer": "grant us"
+  },
+  {
+    "question": "Inconvenience",
+    "options": [
+      "Disturb, trouble, bother",
+      "Support, assist, help",
+      "Forget, ignore, neglect",
+      "Delay, stop, pause"
+    ],
+    "answer": "Disturb, trouble, bother"
+  },
+  {
+    "question": "bet",
+    "options": [
+      "wager, gamble, stake",
+      "lose, waste, scatter",
+      "trade, barter, swap"
+    ],
+    "answer": "wager, gamble, stake"
+  },
+  {
+    "question": "spoof",
+    "options": [
+      "mock, parody, imitate",
+      "hide, steal, erase",
+      "forge, destroy, expose"
+    ],
+    "answer": "mock, parody, imitate"
+  },
+  {
+    "question": "characterize",
+    "options": [
+      "describe, define, distinguish",
+      "remove, hide, blend",
+      "criticize, exaggerate, ignore"
+    ],
+    "answer": "describe, define, distinguish"
+  },
+  {
+    "question": "brainstorm",
+    "options": [
+      "think, ideate, discuss",
+      "argue, shout, disagree",
+      "memorize, read, review"
+    ],
+    "answer": "think, ideate, discuss"
+  },
+  {
+    "question": "annex",
+    "options": [
+      "seize, occupy, take",
+      "leave, abandon, escape",
+      "borrow, request, lend"
+    ],
+    "answer": "seize, occupy, take"
+  },
+  {
+    "question": "split up",
+    "options": [
+      "separate, divide, break",
+      "join, connect, merge",
+      "hide, avoid, disappear"
+    ],
+    "answer": "separate, divide, break"
+  },
+  {
+    "question": "abide by",
+    "options": [
+      "follow, obey, respect",
+      "break, deny, ignore",
+      "delay, avoid, reject"
+    ],
+    "answer": "follow, obey, respect"
+  },
+  {
+    "question": "staff",
+    "options": [
+      "Man, employ, provide",
+      "Train, teach, instruct",
+      "Build, construct, develop"
+    ],
+    "answer": "Man, employ, provide"
+  },
+  {
+    "question": "stuff",
+    "options": [
+      "Fill, pack, cram",
+      "Drop, spill, scatter",
+      "Organize, arrange, align"
+    ],
+    "answer": "Fill, pack, cram"
+  },
+  {
+    "question": "stiff",
+    "options": [
+      "Cheat, skip, evade",
+      "Bend, soften, twist",
+      "Relax, rest, sleep"
+    ],
+    "answer": "Cheat, skip, evade"
+  },
+  {
+    "question": "top off",
+    "options": [
+      "Refill, complete, finish",
+      "Start, begin, initiate",
+      "Drain, empty, reduce"
+    ],
+    "answer": "Refill, complete, finish"
+  },
+  {
+    "question": "shape up",
+    "options": [
+      "Improve, behave, reform",
+      "Delay, pause, stop",
+      "Decline, regress, worsen"
+    ],
+    "answer": "Improve, behave, reform"
+  },
+  {
+    "question": "bomb",
+    "options": [
+      "Explode, destroy, ruin",
+      "Build, create, repair",
+      "Hide, cover, protect"
+    ],
+    "answer": "Explode, destroy, ruin"
+  },
+  {
+    "question": "Through",
+    "options": [
+      "Across, throughout, via",
+      "Under, beneath, below",
+      "Before, ahead, prior"
+    ],
+    "answer": "Across, throughout, via"
+  },
+  {
+    "question": "Able",
+    "options": [
+      "Capable, competent, fit",
+      "Weak, frail, broken",
+      "Lazy, idle, sluggish"
+    ],
+    "answer": "Capable, competent, fit"
+  },
+  {
+    "question": "Play",
+    "options": [
+      "Perform, act, engage",
+      "Sleep, rest, doze",
+      "Work, labor, struggle"
+    ],
+    "answer": "Perform, act, engage"
+  },
+  {
+    "question": "Thrust",
+    "options": [
+      "Push, drive, force",
+      "Pull, drag, draw",
+      "Lift, elevate, raise"
+    ],
+    "answer": "Push, drive, force"
+  },
+  {
+    "question": "Tribute",
+    "options": [
+      "Honor, praise, salute",
+      "Ignore, deny, reject",
+      "Punish, blame, scold"
+    ],
+    "answer": "Honor, praise, salute"
+  },
+  {
+    "question": "Found",
+    "options": [
+      "Establish, create, launch",
+      "Abandon, end, destroy",
+      "Forget, lose, ignore"
+    ],
+    "answer": "Establish, create, launch"
+  },
+  {
+    "question": "Illustrated",
+    "options": [
+      "Depicted, portrayed, shown",
+      "Erased, concealed, hidden",
+      "Blurred, distorted, faded"
+    ],
+    "answer": "Depicted, portrayed, shown"
+  },
+  {
+    "question": "Conscript",
+    "options": [
+      "Draft, enlist, recruit",
+      "Fire, dismiss, expel",
+      "Ignore, overlook, bypass"
+    ],
+    "answer": "Draft, enlist, recruit"
+  },
+  {
+    "question": "Conquer",
+    "options": [
+      "Defeat, overcome, subdue",
+      "Yield, surrender, retreat",
+      "Block, hinder, resist"
+    ],
+    "answer": "Defeat, overcome, subdue"
+  },
+  {
+    "question": "Aspire",
+    "options": [
+      "Desire, aim, strive",
+      "Quit, drop, abandon",
+      "Forget, ignore, neglect"
+    ],
+    "answer": "Desire, aim, strive"
+  },
+  {
+    "question": "Diet",
+    "options": [
+      "Restrict, regulate, fast",
+      "Overeat, indulge, binge",
+      "Starve, dehydrate, faint"
+    ],
+    "answer": "Restrict, regulate, fast"
+  },
+  {
+    "question": "Investigate",
+    "options": [
+      "Examine, probe, inspect",
+      "Ignore, skip, dismiss",
+      "Guess, assume, imagine"
+    ],
+    "answer": "Examine, probe, inspect"
+  },
+  {
+    "question": "Plug",
+    "options": [
+      "Insert, block, seal",
+      "Open, remove, extract",
+      "Split, slice, divide"
+    ],
+    "answer": "Insert, block, seal"
+  },
+  {
+    "question": "Cease",
+    "options": [
+      "Stop, end, halt",
+      "Start, begin, commence",
+      "Push, continue, advance"
+    ],
+    "answer": "Stop, end, halt"
+  },
+  {
+    "question": "Plead",
+    "options": [
+      "Beg, appeal, request",
+      "Deny, reject, dismiss",
+      "Shout, demand, order"
+    ],
+    "answer": "Beg, appeal, request"
+  },
+  {
+    "question": "Hinge",
+    "options": [
+      "Depend, pivot, rotate",
+      "Fix, attach, weld",
+      "Carry, lift, drag"
+    ],
+    "answer": "Depend, pivot, rotate"
+  },
+  {
+    "question": "Through",
+    "options": [
+      "Across, throughout, via",
+      "Under, beneath, below",
+      "Before, ahead, prior"
+    ],
+    "answer": "Across, throughout, via"
+  },
+  {
+    "question": "Able",
+    "options": [
+      "Capable, competent, fit",
+      "Weak, frail, broken",
+      "Lazy, idle, sluggish"
+    ],
+    "answer": "Capable, competent, fit"
+  },
+  {
+    "question": "Play",
+    "options": [
+      "Perform, act, engage",
+      "Sleep, rest, doze",
+      "Work, labor, struggle"
+    ],
+    "answer": "Perform, act, engage"
+  },
+  {
+    "question": "Thrust",
+    "options": [
+      "Push, drive, force",
+      "Pull, drag, draw",
+      "Lift, elevate, raise"
+    ],
+    "answer": "Push, drive, force"
+  },
+  {
+    "question": "Tribute",
+    "options": [
+      "Honor, praise, salute",
+      "Ignore, deny, reject",
+      "Punish, blame, scold"
+    ],
+    "answer": "Honor, praise, salute"
+  },
+  {
+    "question": "Found",
+    "options": [
+      "Establish, create, launch",
+      "Abandon, end, destroy",
+      "Forget, lose, ignore"
+    ],
+    "answer": "Establish, create, launch"
+  },
+  {
+    "question": "Illustrated",
+    "options": [
+      "Depicted, portrayed, shown",
+      "Erased, concealed, hidden",
+      "Blurred, distorted, faded"
+    ],
+    "answer": "Depicted, portrayed, shown"
+  },
+  {
+    "question": "Conscript",
+    "options": [
+      "Draft, enlist, recruit",
+      "Fire, dismiss, expel",
+      "Ignore, overlook, bypass"
+    ],
+    "answer": "Draft, enlist, recruit"
+  },
+  {
+    "question": "Conquer",
+    "options": [
+      "Defeat, overcome, subdue",
+      "Yield, surrender, retreat",
+      "Block, hinder, resist"
+    ],
+    "answer": "Defeat, overcome, subdue"
+  },
+  {
+    "question": "Aspire",
+    "options": [
+      "Desire, aim, strive",
+      "Quit, drop, abandon",
+      "Forget, ignore, neglect"
+    ],
+    "answer": "Desire, aim, strive"
+  },
+  {
+    "question": "Diet",
+    "options": [
+      "Restrict, regulate, fast",
+      "Overeat, indulge, binge",
+      "Starve, dehydrate, faint"
+    ],
+    "answer": "Restrict, regulate, fast"
+  },
+  {
+    "question": "Investigate",
+    "options": [
+      "Examine, probe, inspect",
+      "Ignore, skip, dismiss",
+      "Guess, assume, imagine"
+    ],
+    "answer": "Examine, probe, inspect"
+  },
+  {
+    "question": "Plug",
+    "options": [
+      "Insert, block, seal",
+      "Open, remove, extract",
+      "Split, slice, divide"
+    ],
+    "answer": "Insert, block, seal"
+  },
+  {
+    "question": "Cease",
+    "options": [
+      "Stop, end, halt",
+      "Start, begin, commence",
+      "Push, continue, advance"
+    ],
+    "answer": "Stop, end, halt"
+  },
+  {
+    "question": "Plead",
+    "options": [
+      "Beg, appeal, request",
+      "Deny, reject, dismiss",
+      "Shout, demand, order"
+    ],
+    "answer": "Beg, appeal, request"
+  },
+  {
+    "question": "Hinge",
+    "options": [
+      "Depend, pivot, rotate",
+      "Fix, attach, weld",
+      "Carry, lift, drag"
+    ],
+    "answer": "Depend, pivot, rotate"
+  },
+  {
+    "question": "Repair",
+    "options": [
+      "Fix, mend, restore",
+      "Break, destroy, smash",
+      "Ignore, overlook, skip"
+    ],
+    "answer": "Fix, mend, restore"
+  },
+  {
+    "question": "Drain",
+    "options": [
+      "Empty, release, exhaust",
+      "Fill, load, charge",
+      "Block, stop, clog"
+    ],
+    "answer": "Empty, release, exhaust"
+  },
+  {
+    "question": "urge",
+    "options": [
+      "Encourage, push, prompt",
+      "Delay, hinder, suppress",
+      "Ignore, neglect, overlook",
+      "Refuse, deny, reject"
+    ],
+    "answer": "Encourage, push, prompt"
+  },
+  {
+    "question": "prosecute",
+    "options": [
+      "Charge, sue, indict",
+      "Defend, excuse, pardon",
+      "Ignore, dismiss, avoid",
+      "Settle, resolve, compromise"
+    ],
+    "answer": "Charge, sue, indict"
+  },
+  {
+    "question": "advise",
+    "options": [
+      "Recommend, counsel, suggest",
+      "Order, command, demand",
+      "Ignore, neglect, reject",
+      "Distract, confuse, mislead"
+    ],
+    "answer": "Recommend, counsel, suggest"
+  },
+  {
+    "question": "forensic",
+    "options": [
+      "Analyze, investigate, examine",
+      "Ignore, neglect, overlook",
+      "Destroy, erase, conceal"
+    ],
+    "answer": "Analyze, investigate, examine"
+  },
+  {
+    "question": "assess",
+    "options": [
+      "Evaluate, judge, estimate",
+      "Guess, ignore, dismiss",
+      "Forget, abandon, reject"
+    ],
+    "answer": "Evaluate, judge, estimate"
+  },
+  {
+    "question": "alter",
+    "options": [
+      "Change, modify, adjust",
+      "Maintain, preserve, protect",
+      "Ignore, neglect, avoid"
+    ],
+    "answer": "Change, modify, adjust"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "Mock, ridicule, taunt",
+      "Compliment, praise, admire",
+      "Explain, clarify, describe"
+    ],
+    "answer": "Mock, ridicule, taunt"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "Flirt, entice, provoke",
+      "Ignore, reject, avoid",
+      "Confuse, distort, distract"
+    ],
+    "answer": "Flirt, entice, provoke"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "Backcomb, fluff, volumize",
+      "Wash, rinse, cleanse",
+      "Straighten, flatten, compress"
+    ],
+    "answer": "Backcomb, fluff, volumize"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "Hint, preview, suggest",
+      "Demand, declare, insist",
+      "Forget, erase, suppress"
+    ],
+    "answer": "Hint, preview, suggest"
+  },
+  {
+    "question": "make fun of",
+    "options": [
+      "Mock, ridicule, laugh at",
+      "Support, encourage, uplift",
+      "Ignore, neglect, abandon"
+    ],
+    "answer": "Mock, ridicule, laugh at"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "Joke, kid, poke fun",
+      "Attack, insult, hurt",
+      "Explain, educate, inform"
+    ],
+    "answer": "Joke, kid, poke fun"
+  },
+  {
+    "question": "originate",
+    "options": [
+      "Begin, emerge, arise",
+      "End, finish, stop",
+      "Forget, ignore, lose"
+    ],
+    "answer": "Begin, emerge, arise"
+  },
+  {
+    "question": "lose",
+    "options": [
+      "Misplace, drop, forfeit",
+      "Win, gain, obtain",
+      "Find, recover, retrieve",
+      "Earn, achieve, acquire"
+    ],
+    "answer": "Misplace, drop, forfeit"
+  },
+  {
+    "question": "spit",
+    "options": [
+      "Expectorate, eject, discharge",
+      "Swallow, inhale, consume",
+      "Lick, bite, chew",
+      "Splash, spill, spray"
+    ],
+    "answer": "Expectorate, eject, discharge"
+  },
+  {
+    "question": "coordinate",
+    "options": [
+      "Organize, arrange, align",
+      "Separate, scatter, divide",
+      "Ignore, overlook, avoid",
+      "Guess, assume, suppose"
+    ],
+    "answer": "Organize, arrange, align"
+  },
+  {
+    "question": "accommodate",
+    "options": [
+      "House, host, shelter",
+      "Reject, expel, deny",
+      "Ignore, resist, oppose",
+      "Disturb, interrupt, bother"
+    ],
+    "answer": "House, host, shelter"
+  },
+  {
+    "question": "erupts",
+    "options": [
+      "explodes, bursts, blows up",
+      "melts, softens, dissolves",
+      "settles, calms, stabilizes"
+    ],
+    "answer": "explodes, bursts, blows up"
+  },
+  {
+    "question": "harass",
+    "options": [
+      "bother, intimidate, persecute",
+      "praise, encourage, support",
+      "ignore, overlook, dismiss"
+    ],
+    "answer": "bother, intimidate, persecute"
+  },
+  {
+    "question": "expelled",
+    "options": [
+      "ejected, dismissed, removed",
+      "accepted, welcomed, invited",
+      "hid, disguised, protected"
+    ],
+    "answer": "ejected, dismissed, removed"
+  },
+  {
+    "question": "ignited",
+    "options": [
+      "lit, sparked, triggered",
+      "cooled, froze, suppressed",
+      "washed, soaked, drowned"
+    ],
+    "answer": "lit, sparked, triggered"
+  },
+  {
+    "question": "Repair",
+    "options": [
+      "Fix, mend, restore",
+      "Break, destroy, smash",
+      "Ignore, overlook, skip"
+    ],
+    "answer": "Fix, mend, restore"
+  },
+  {
+    "question": "Drain",
+    "options": [
+      "Empty, release, exhaust",
+      "Fill, load, charge",
+      "Block, stop, clog"
+    ],
+    "answer": "Empty, release, exhaust"
+  },
+  {
+    "question": "climb",
+    "options": [
+      "Ascend, scale, mount",
+      "Fall, drop, slide",
+      "Jump, skip, hop"
+    ],
+    "answer": "Ascend, scale, mount"
+  },
+  {
+    "question": "comb",
+    "options": [
+      "Brush, tidy, smooth",
+      "Cut, trim, shave",
+      "Color, dye, bleach"
+    ],
+    "answer": "Brush, tidy, smooth"
+  },
+  {
+    "question": "bear",
+    "options": [
+      "Endure, carry, support",
+      "Avoid, skip, reject",
+      "Catch, chase, hunt"
+    ],
+    "answer": "Endure, carry, support"
+  },
+  {
+    "question": "jog",
+    "options": [
+      "run, trot, exercise",
+      "walk, skip, crawl",
+      "sleep, rest, relax"
+    ],
+    "answer": "run, trot, exercise"
+  },
+  {
+    "question": "boast",
+    "options": [
+      "brag, flaunt, show off",
+      "lie, deny, fake",
+      "cry, mourn, regret"
+    ],
+    "answer": "brag, flaunt, show off"
+  },
+  {
+    "question": "soak",
+    "options": [
+      "immerse, saturate, drench",
+      "dry, heat, evaporate",
+      "scratch, cut, mark"
+    ],
+    "answer": "immerse, saturate, drench"
+  },
+  {
+    "question": "tumble",
+    "options": [
+      "fall, collapse, topple",
+      "jump, rise, float",
+      "slide, drift, swim"
+    ],
+    "answer": "fall, collapse, topple"
+  },
+  {
+    "question": "Delve",
+    "options": [
+      "Investigate, explore, probe",
+      "Ignore, skip, neglect",
+      "Float, fly, hover",
+      "Exaggerate, boast, brag"
+    ],
+    "answer": "Investigate, explore, probe"
+  },
+  {
+    "question": "Boast",
+    "options": [
+      "Brag, show off, flaunt",
+      "Hide, suppress, cover",
+      "Help, support, assist",
+      "Complain, cry, grumble"
+    ],
+    "answer": "Brag, show off, flaunt"
+  },
+  {
+    "question": "Comprehend",
+    "options": [
+      "Understand, grasp, perceive",
+      "Forget, ignore, deny",
+      "Confuse, mix up, distort",
+      "Speak, tell, express"
+    ],
+    "answer": "Understand, grasp, perceive"
+  },
+  {
+    "question": "Slander",
+    "options": [
+      "Defame, malign, libel",
+      "Praise, admire, compliment",
+      "Forgive, excuse, absolve",
+      "Lie, fabricate, exaggerate"
+    ],
+    "answer": "Defame, malign, libel"
   },
   {
     "question": "cannon",

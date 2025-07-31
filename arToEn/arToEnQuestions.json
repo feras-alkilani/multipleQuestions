@@ -2870,6 +2870,1116 @@
     "answer": "mumbo jumbo"
   },
   {
+    "question": "الفصل العنصري",
+    "options": [
+      "segregation",
+      "guesswork",
+      "rotation",
+      "trader"
+    ],
+    "answer": "segregation"
+  },
+  {
+    "question": "التخمين",
+    "options": [
+      "deception",
+      "guesswork",
+      "prominent",
+      "resignation"
+    ],
+    "answer": "guesswork"
+  },
+  {
+    "question": "القمار",
+    "options": [
+      "Gambling",
+      "fatigue",
+      "subsidiary",
+      "Vogue"
+    ],
+    "answer": "Gambling"
+  },
+  {
+    "question": "الخداع",
+    "options": [
+      "subterfuge",
+      "safeguards",
+      "spin cycle",
+      "colleague"
+    ],
+    "answer": "subterfuge"
+  },
+  {
+    "question": "المراوغة",
+    "options": [
+      "chicanery",
+      "nudity",
+      "trader",
+      "perfume"
+    ],
+    "answer": "chicanery"
+  },
+  {
+    "question": "مجنون بشدة",
+    "options": [
+      "maniac",
+      "residual",
+      "monetary",
+      "dialogue"
+    ],
+    "answer": "maniac"
+  },
+  {
+    "question": "وسائل الحماية",
+    "options": [
+      "safeguards",
+      "bust",
+      "spin cycle",
+      "unattended"
+    ],
+    "answer": "safeguards"
+  },
+  {
+    "question": "الأعمال المنزلية",
+    "options": [
+      "household",
+      "rotation",
+      "resignation",
+      "allegedly"
+    ],
+    "answer": "household"
+  },
+  {
+    "question": "دورة العصر",
+    "options": [
+      "spin cycle",
+      "rotation",
+      "supplementary",
+      "Vogue"
+    ],
+    "answer": "spin cycle"
+  },
+  {
+    "question": "بارز",
+    "options": [
+      "prominent",
+      "unfettered",
+      "argue",
+      "cry me a river"
+    ],
+    "answer": "prominent"
+  },
+  {
+    "question": "متبقي",
+    "options": [
+      "residual",
+      "subsidiary",
+      "colleague",
+      "rogue"
+    ],
+    "answer": "residual"
+  },
+  {
+    "question": "تكميلي",
+    "options": [
+      "supplementary",
+      "rotation",
+      "league",
+      "bust"
+    ],
+    "answer": "supplementary"
+  },
+  {
+    "question": "مضاد للفيروسات",
+    "options": [
+      "antiviral",
+      "faxed",
+      "trader",
+      "nude"
+    ],
+    "answer": "antiviral"
+  },
+  {
+    "question": "لا تراجع عن ذلك القرار",
+    "options": [
+      "no backsies",
+      "tongue",
+      "baring",
+      "subsidiary"
+    ],
+    "answer": "no backsies"
+  },
+  {
+    "question": "عطر",
+    "options": [
+      "perfume",
+      "dialogue",
+      "cry me a river",
+      "league"
+    ],
+    "answer": "perfume"
+  },
+  {
+    "question": "من النظرة الأولى",
+    "options": [
+      "at first blush",
+      "unattended",
+      "argue",
+      "resignation"
+    ],
+    "answer": "at first blush"
+  },
+  {
+    "question": "شخص يحب يتمشى لوحده و يكتشف",
+    "options": [
+      "solivagent",
+      "vogue",
+      "rogue",
+      "fatigue"
+    ],
+    "answer": "solivagent"
+  },
+  {
+    "question": "قال: لا أعلم ما حدث، ولكنني سأكتشف",
+    "options": [
+      "“I don’t know what happened, but I’ll find out,” he said.",
+      "residual",
+      "naked",
+      "violation"
+    ],
+    "answer": "“I don’t know what happened, but I’ll find out,” he said."
+  },
+  {
+    "question": "غير مراقب",
+    "options": [
+      "unattended",
+      "nudity",
+      "maniac",
+      "prominent"
+    ],
+    "answer": "unattended"
+  },
+  {
+    "question": "بلغ حد الجنون",
+    "options": [
+      "at wit's end",
+      "allegedly",
+      "guesswork",
+      "vagina"
+    ],
+    "answer": "at wit's end"
+  },
+  {
+    "question": "غير شرعي",
+    "options": [
+      "illegitimate",
+      "supplementary",
+      "colleague",
+      "tongue"
+    ],
+    "answer": "illegitimate"
+  },
+  {
+    "question": "الدوران",
+    "options": [
+      "rotation",
+      "dialogue",
+      "residual",
+      "nude"
+    ],
+    "answer": "rotation"
+  },
+  {
+    "question": "مو فارقة معي",
+    "options": [
+      "cry me a river",
+      "prominent",
+      "subsidiary",
+      "baring"
+    ],
+    "answer": "cry me a river"
+  },
+  {
+    "question": "يكون مسؤولا",
+    "options": [
+      "be in charge",
+      "bust",
+      "unfettered",
+      "guesswork"
+    ],
+    "answer": "be in charge"
+  },
+  {
+    "question": "شركة فرعية",
+    "options": [
+      "subsidiary",
+      "rotation",
+      "allegedly",
+      "league"
+    ],
+    "answer": "subsidiary"
+  },
+  {
+    "question": "نقدي",
+    "options": [
+      "monetary",
+      "argue",
+      "spin cycle",
+      "rogue"
+    ],
+    "answer": "monetary"
+  },
+  {
+    "question": "تاجر",
+    "options": [
+      "trader",
+      "vogue",
+      "tongue",
+      "nail"
+    ],
+    "answer": "trader"
+  },
+  {
+    "question": "طار",
+    "options": [
+      "flew",
+      "baring",
+      "dialogue",
+      "faxed"
+    ],
+    "answer": "flew"
+  },
+  {
+    "question": "أرسل بالفاكس",
+    "options": [
+      "faxed",
+      "resignation",
+      "spin cycle",
+      "fatigue"
+    ],
+    "answer": "faxed"
+  },
+  {
+    "question": "استقالة",
+    "options": [
+      "resignation",
+      "trader",
+      "vogue",
+      "subsidiary"
+    ],
+    "answer": "resignation"
+  },
+  {
+    "question": "مارق",
+    "options": [
+      "Rogue",
+      "Vogue",
+      "League",
+      "Colleague"
+    ],
+    "answer": "Rogue"
+  },
+  {
+    "question": "صيحة الموضة",
+    "options": [
+      "Vogue",
+      "Rogue",
+      "Fatigue",
+      "Argue"
+    ],
+    "answer": "Vogue"
+  },
+  {
+    "question": "رابطة",
+    "options": [
+      "League",
+      "Dialogue",
+      "Nudity",
+      "Tongue"
+    ],
+    "answer": "League"
+  },
+  {
+    "question": "إرهاق",
+    "options": [
+      "Fatigue",
+      "Barning",
+      "Nude",
+      "Rotation"
+    ],
+    "answer": "Fatigue"
+  },
+  {
+    "question": "زميل",
+    "options": [
+      "Colleague",
+      "Argue",
+      "Bust",
+      "Perfume"
+    ],
+    "answer": "Colleague"
+  },
+  {
+    "question": "حوار",
+    "options": [
+      "Dialogue",
+      "Tongue",
+      "Cry me a river",
+      "Rotation"
+    ],
+    "answer": "Dialogue"
+  },
+  {
+    "question": "يجادل",
+    "options": [
+      "Argue",
+      "Bust",
+      "Fatigue",
+      "Allegedly"
+    ],
+    "answer": "Argue"
+  },
+  {
+    "question": "لسان",
+    "options": [
+      "Tongue",
+      "Nudity",
+      "Spin cycle",
+      "League"
+    ],
+    "answer": "Tongue"
+  },
+  {
+    "question": "تحطيم",
+    "options": [
+      "bust",
+      "resignation",
+      "vogue",
+      "guesswork"
+    ],
+    "answer": "bust"
+  },
+  {
+    "question": "كشف الجلد",
+    "options": [
+      "baring",
+      "naked",
+      "antiviral",
+      "rotation"
+    ],
+    "answer": "baring"
+  },
+  {
+    "question": "عارٍ",
+    "options": [
+      "naked",
+      "unfettered",
+      "perfume",
+      "rogue"
+    ],
+    "answer": "naked"
+  },
+  {
+    "question": "عارٍ (فنياً)",
+    "options": [
+      "nude",
+      "residual",
+      "vogue",
+      "rotation"
+    ],
+    "answer": "nude"
+  },
+  {
+    "question": "استعادي",
+    "options": [
+      "retrospective",
+      "illegitimate",
+      "nailing",
+      "tongue"
+    ],
+    "answer": "retrospective"
+  },
+  {
+    "question": "غير مقيّد",
+    "options": [
+      "Unfettered",
+      "subsidiary",
+      "spin cycle",
+      "dialogue"
+    ],
+    "answer": "Unfettered"
+  },
+  {
+    "question": "عري",
+    "options": [
+      "Nudity",
+      "cry me a river",
+      "argue",
+      "prominent"
+    ],
+    "answer": "Nudity"
+  },
+  {
+    "question": "دعوى قضائية",
+    "options": [
+      "lawsuit",
+      "dispute",
+      "arbitration",
+      "bankrupt"
+    ],
+    "answer": "lawsuit"
+  },
+  {
+    "question": "أواخر أبريل",
+    "options": [
+      "late April",
+      "fullest",
+      "reckon",
+      "smashingly"
+    ],
+    "answer": "late April"
+  },
+  {
+    "question": "نزاع",
+    "options": [
+      "dispute",
+      "arbitration",
+      "lawsuit",
+      "reckon"
+    ],
+    "answer": "dispute"
+  },
+  {
+    "question": "تحكيم",
+    "options": [
+      "arbitration",
+      "dispute",
+      "odds",
+      "picky"
+    ],
+    "answer": "arbitration"
+  },
+  {
+    "question": "بغض النظر",
+    "options": [
+      "regardless",
+      "reckon",
+      "picky",
+      "odds"
+    ],
+    "answer": "regardless"
+  },
+  {
+    "question": "احتمالات",
+    "options": [
+      "odds",
+      "impulse",
+      "picky",
+      "bubbly"
+    ],
+    "answer": "odds"
+  },
+  {
+    "question": "يشتت انتباهي",
+    "options": [
+      "throw me off",
+      "reckon",
+      "impulse",
+      "aggressive"
+    ],
+    "answer": "throw me off"
+  },
+  {
+    "question": "اندفاع",
+    "options": [
+      "impulse",
+      "reckon",
+      "picky",
+      "smashingly"
+    ],
+    "answer": "impulse"
+  },
+  {
+    "question": "دقيق في الاختيار",
+    "options": [
+      "picky",
+      "naughty",
+      "bubbly",
+      "reckon"
+    ],
+    "answer": "picky"
+  },
+  {
+    "question": "بأقصى درجة",
+    "options": [
+      "fullest",
+      "reckon",
+      "smashingly",
+      "impulse"
+    ],
+    "answer": "fullest"
+  },
+  {
+    "question": "أعتقد",
+    "options": [
+      "reckon",
+      "picky",
+      "smashingly",
+      "impulse"
+    ],
+    "answer": "reckon"
+  },
+  {
+    "question": "مشاغب",
+    "options": [
+      "naughty",
+      "bubbly",
+      "picky",
+      "reckon"
+    ],
+    "answer": "naughty"
+  },
+  {
+    "question": "مرح ومفعم بالحيوية",
+    "options": [
+      "bubbly",
+      "smashingly",
+      "picky",
+      "reckon"
+    ],
+    "answer": "bubbly"
+  },
+  {
+    "question": "بشكل رائع",
+    "options": [
+      "smashingly",
+      "reckon",
+      "impulse",
+      "picky"
+    ],
+    "answer": "smashingly"
+  },
+  {
+    "question": "معسر",
+    "options": [
+      "insolvent",
+      "bankrupt",
+      "lawsuit",
+      "reckon"
+    ],
+    "answer": "insolvent"
+  },
+  {
+    "question": "وردة - ارتفع",
+    "options": [
+      "rose",
+      "extracted",
+      "bankrupt",
+      "insolvent"
+    ],
+    "answer": "rose"
+  },
+  {
+    "question": "مستخرج",
+    "options": [
+      "extracted",
+      "rose",
+      "bankrupt",
+      "impulse"
+    ],
+    "answer": "extracted"
+  },
+  {
+    "question": "مفلس",
+    "options": [
+      "bankrupt",
+      "insolvent",
+      "lawsuit",
+      "reckon"
+    ],
+    "answer": "bankrupt"
+  },
+  {
+    "question": "ما إلي دخل (مثل المثل: not my circus, not my monkeys)",
+    "options": [
+      "not my circus, not my monkeys",
+      "hearsay",
+      "gumshoe",
+      "impulse"
+    ],
+    "answer": "not my circus, not my monkeys"
+  },
+  {
+    "question": "سمع كلام الناس",
+    "options": [
+      "hearsay",
+      "gumshoe",
+      "reckon",
+      "picky"
+    ],
+    "answer": "hearsay"
+  },
+  {
+    "question": "مع السلامة، منيح إنو أنا مو مكانك",
+    "options": [
+      "see, wouldn't wanna be ya",
+      "reckon",
+      "gumshoe",
+      "hearsay"
+    ],
+    "answer": "see, wouldn't wanna be ya"
+  },
+  {
+    "question": "محقق خاص",
+    "options": [
+      "gumshoe",
+      "gum",
+      "reckon",
+      "impulse"
+    ],
+    "answer": "gumshoe"
+  },
+  {
+    "question": "علكة",
+    "options": [
+      "gum",
+      "gumshoe",
+      "reckon",
+      "hearsay"
+    ],
+    "answer": "gum"
+  },
+  {
+    "question": "ملحد",
+    "options": [
+      "Atheist",
+      "aggressive",
+      "concert",
+      "reckon"
+    ],
+    "answer": "Atheist"
+  },
+  {
+    "question": "عدواني",
+    "options": [
+      "aggressive",
+      "reckon",
+      "picky",
+      "impulse"
+    ],
+    "answer": "aggressive"
+  },
+  {
+    "question": "حفلة موسيقية",
+    "options": [
+      "concert",
+      "reckon",
+      "picky",
+      "smashingly"
+    ],
+    "answer": "concert"
+  },
+  {
+    "question": "غير قابل للشفاء",
+    "options": [
+      "incurable",
+      "spineless",
+      "goose",
+      "wipe"
+    ],
+    "answer": "incurable"
+  },
+  {
+    "question": "عديم الشجاعة أو ضعيف الإرادة",
+    "options": [
+      "spineless",
+      "bison",
+      "tornado",
+      "bright"
+    ],
+    "answer": "spineless"
+  },
+  {
+    "question": "إوزة",
+    "options": [
+      "goose",
+      "pond",
+      "overpass",
+      "cello"
+    ],
+    "answer": "goose"
+  },
+  {
+    "question": "نسيت الأمر",
+    "options": [
+      "It slipped my mind",
+      "come again",
+      "use your brain",
+      "stop"
+    ],
+    "answer": "It slipped my mind"
+  },
+  {
+    "question": "ما سبب التأخير؟",
+    "options": [
+      "what is the hold up",
+      "rely on",
+      "diagnosis",
+      "legislation"
+    ],
+    "answer": "what is the hold up"
+  },
+  {
+    "question": "استخدم عقلك",
+    "options": [
+      "use your brain",
+      "compete",
+      "wipe",
+      "misogynist"
+    ],
+    "answer": "use your brain"
+  },
+  {
+    "question": "جسر مرتفع أو طريق مرتفع",
+    "options": [
+      "overpass",
+      "pond",
+      "ellipsis",
+      "spineless"
+    ],
+    "answer": "overpass"
+  },
+  {
+    "question": "هل يمكنك إعادة ما قلت؟",
+    "options": [
+      "come again",
+      "disarmament",
+      "wipe",
+      "ellipsis"
+    ],
+    "answer": "come again"
+  },
+  {
+    "question": "جدول أو مجرى مائي",
+    "options": [
+      "stream",
+      "bison",
+      "misandrist",
+      "demobilization"
+    ],
+    "answer": "stream"
+  },
+  {
+    "question": "نقطة توقف مؤقتة بدون مرافق",
+    "options": [
+      "stop",
+      "pond",
+      "volcano",
+      "crisis"
+    ],
+    "answer": "stop"
+  },
+  {
+    "question": "بركة ماء صغيرة",
+    "options": [
+      "pond",
+      "tornado",
+      "bright",
+      "ellipsis"
+    ],
+    "answer": "pond"
+  },
+  {
+    "question": "تشريع أو قوانين",
+    "options": [
+      "legislation",
+      "misogynist",
+      "cello",
+      "wipe"
+    ],
+    "answer": "legislation"
+  },
+  {
+    "question": "كاره للتدخين",
+    "options": [
+      "misocapnist",
+      "misogamist",
+      "misoneist",
+      "misandrist"
+    ],
+    "answer": "misocapnist"
+  },
+  {
+    "question": "كاره النساء",
+    "options": [
+      "misogynist",
+      "misanthrope",
+      "misogamist",
+      "misoneist"
+    ],
+    "answer": "misogynist"
+  },
+  {
+    "question": "كاره الرجال",
+    "options": [
+      "misandrist",
+      "misogynist",
+      "misoneist",
+      "misanthrope"
+    ],
+    "answer": "misandrist"
+  },
+  {
+    "question": "نزع السلاح",
+    "options": [
+      "disarmament",
+      "demobilization",
+      "wipe",
+      "legislation"
+    ],
+    "answer": "disarmament"
+  },
+  {
+    "question": "تسريح الجنود أو التعبئة",
+    "options": [
+      "demobilization",
+      "disarmament",
+      "ellipsis",
+      "wipe"
+    ],
+    "answer": "demobilization"
+  },
+  {
+    "question": "من يكره الزواج",
+    "options": [
+      "misogamist",
+      "misoneist",
+      "misandrist",
+      "misocapnist"
+    ],
+    "answer": "misogamist"
+  },
+  {
+    "question": "كاره للبشر",
+    "options": [
+      "misanthrope",
+      "misogynist",
+      "misogamist",
+      "misoneist"
+    ],
+    "answer": "misanthrope"
+  },
+  {
+    "question": "كاره للتغيير أو الجديد",
+    "options": [
+      "misoneist",
+      "misocapnist",
+      "misandrist",
+      "misanthrope"
+    ],
+    "answer": "misoneist"
+  },
+  {
+    "question": "يمسح أو ينظف",
+    "options": [
+      "wipe",
+      "rely on",
+      "overpass",
+      "compete"
+    ],
+    "answer": "wipe"
+  },
+  {
+    "question": "يعتمد على",
+    "options": [
+      "rely on",
+      "wipe",
+      "use your brain",
+      "stop"
+    ],
+    "answer": "rely on"
+  },
+  {
+    "question": "الجانب العلوي أو المفيد",
+    "options": [
+      "upside",
+      "ellipsis",
+      "tornado",
+      "cello"
+    ],
+    "answer": "upside"
+  },
+  {
+    "question": "وهكذا",
+    "options": [
+      "et cetera",
+      "ellipsis",
+      "erratum",
+      "wipe"
+    ],
+    "answer": "et cetera"
+  },
+  {
+    "question": "مشرق أو ذكي",
+    "options": [
+      "bright",
+      "spineless",
+      "bison",
+      "goose"
+    ],
+    "answer": "bright"
+  },
+  {
+    "question": "يتنافس",
+    "options": [
+      "compete",
+      "rely on",
+      "wipe",
+      "stop"
+    ],
+    "answer": "compete"
+  },
+  {
+    "question": "تشخيص",
+    "options": [
+      "diagnosis",
+      "legislation",
+      "disarmament",
+      "wipe"
+    ],
+    "answer": "diagnosis"
+  },
+  {
+    "question": "بيسون (نوع من الثدييات)",
+    "options": [
+      "bison",
+      "goose",
+      "tornado",
+      "cello"
+    ],
+    "answer": "bison"
+  },
+  {
+    "question": "أزمة",
+    "options": [
+      "crisis",
+      "misogynist",
+      "stop",
+      "wipe"
+    ],
+    "answer": "crisis"
+  },
+  {
+    "question": "حذف أو نقط الحذف (…) في النص",
+    "options": [
+      "ellipsis",
+      "erratum",
+      "wipe",
+      "goose"
+    ],
+    "answer": "ellipsis"
+  },
+  {
+    "question": "تصحيح خطأ مطبعي",
+    "options": [
+      "erratum",
+      "ellipsis",
+      "wipe",
+      "bison"
+    ],
+    "answer": "erratum"
+  },
+  {
+    "question": "بركان",
+    "options": [
+      "volcano",
+      "tornado",
+      "bright",
+      "pond"
+    ],
+    "answer": "volcano"
+  },
+  {
+    "question": "إعصار",
+    "options": [
+      "tornado",
+      "volcano",
+      "cello",
+      "wipe"
+    ],
+    "answer": "tornado"
+  },
+  {
+    "question": "تشيلو (آلة موسيقية)",
+    "options": [
+      "cello",
+      "goose",
+      "bison",
+      "wipe"
+    ],
+    "answer": "cello"
+  },
+  {
+    "question": "ضعيف",
+    "options": [
+      "faient",
+      "feint",
+      "reckon",
+      "picky"
+    ],
+    "answer": "faient"
+  },
+  {
+    "question": "مناورة خداعية",
+    "options": [
+      "feint",
+      "faient",
+      "reckon",
+      "picky"
+    ],
+    "answer": "feint"
+  },
+  {
+    "question": "تاجر مارق",
+    "options": [
+      "Rogue Trader",
+      "reckon",
+      "picky",
+      "impulse"
+    ],
+    "answer": "Rogue Trader"
+  },
+  {
+    "question": "يُزعم أنه",
+    "options": [
+      "allegedly",
+      "monetary",
+      "colleague",
+      "fatigue"
+    ],
+    "answer": "allegedly"
+  },
+  {
+    "question": "انتهاك",
+    "options": [
+      "violating",
+      "league",
+      "supplementary",
+      "household"
+    ],
+    "answer": "violating"
+  },
+  {
+    "question": "مهبل",
+    "options": [
+      "vagina",
+      "tongue",
+      "dialogue",
+      "bust"
+    ],
+    "answer": "vagina"
+  },
+  {
     "question": "أنا في قمة السعادة",
     "options": [
       "I am over the moon",
@@ -2880,7 +3990,7 @@
     "answer": "I am over the moon"
   },
   {
-    "question": "ثغرات",
+    "question": "ثغرات أو نقاط ضعف",
     "options": [
       "vulnerabilities",
       "slate",
@@ -5778,16 +6888,6 @@
       "novice"
     ],
     "answer": "versed"
-  },
-  {
-    "question": "ثغرات",
-    "options": [
-      "strengths",
-      "features",
-      "vulnerabilities",
-      "shields"
-    ],
-    "answer": "vulnerabilities"
   },
   {
     "question": "بعمق",
@@ -9748,7 +10848,8 @@
       "Very young = Youthful"
     ],
     "answer": "Very willing = Eager"
-  },{
+  },
+  {
     "question": "اعتمادية متبادلة",
     "options": [
       "codependency",
@@ -9957,6 +11058,1756 @@
       "storms"
     ],
     "answer": "airdrops"
+  },
+  {
+    "question": "إزعاج",
+    "options": [
+      "inconvenience",
+      "comfort",
+      "pleasure",
+      "vacation"
+    ],
+    "answer": "inconvenience"
+  },
+  {
+    "question": "لاحقًا",
+    "options": [
+      "afterwards",
+      "before",
+      "suddenly",
+      "beside"
+    ],
+    "answer": "afterwards"
+  },
+  {
+    "question": "القدرة على التحمل",
+    "options": [
+      "energy",
+      "endurance",
+      "stamina",
+      "limit"
+    ],
+    "answer": "stamina"
+  },
+  {
+    "question": "الإدراك المتأخر",
+    "options": [
+      "foresight",
+      "insight",
+      "hindsight",
+      "oversight"
+    ],
+    "answer": "hindsight"
+  },
+  {
+    "question": "مقلمة",
+    "options": [
+      "pencil case",
+      "pen",
+      "box",
+      "folder"
+    ],
+    "answer": "pencil case"
+  },
+  {
+    "question": "العادة القديمة لا تموت بسهولة",
+    "options": [
+      "Old habits die hard",
+      "Change is easy",
+      "Better late than never",
+      "A fresh start"
+    ],
+    "answer": "Old habits die hard"
+  },
+  {
+    "question": "معتدل",
+    "options": [
+      "extreme",
+      "moderate",
+      "radical",
+      "aggressive"
+    ],
+    "answer": "moderate"
+  },
+  {
+    "question": "نفقات",
+    "options": [
+      "salary",
+      "expenses",
+      "income",
+      "bonus"
+    ],
+    "answer": "expenses"
+  },
+  {
+    "question": "مثل",
+    "options": [
+      "like",
+      "such",
+      "same",
+      "as if"
+    ],
+    "answer": "such"
+  },
+  {
+    "question": "غبار",
+    "options": [
+      "fog",
+      "mist",
+      "dust",
+      "smoke"
+    ],
+    "answer": "dust"
+  },
+  {
+    "question": "عصيدة",
+    "options": [
+      "porridge",
+      "soup",
+      "stew",
+      "pudding"
+    ],
+    "answer": "porridge"
+  },
+  {
+    "question": "موفّر",
+    "options": [
+      "greedy",
+      "rich",
+      "thrifty",
+      "wasteful"
+    ],
+    "answer": "thrifty"
+  },
+  {
+    "question": "الخريف",
+    "options": [
+      "autumn",
+      "spring",
+      "summer",
+      "winter"
+    ],
+    "answer": "autumn"
+  },
+  {
+    "question": "النكاف",
+    "options": [
+      "mumps",
+      "measles",
+      "flu",
+      "cold"
+    ],
+    "answer": "mumps"
+  },
+  {
+    "question": "طفل صغير",
+    "options": [
+      "infant",
+      "teenager",
+      "toddler",
+      "adult"
+    ],
+    "answer": "toddler"
+  },
+  {
+    "question": "عزل",
+    "options": [
+      "exposure",
+      "insulation",
+      "conduction",
+      "ventilation"
+    ],
+    "answer": "insulation"
+  },
+  {
+    "question": "يتعمق",
+    "options": [
+      "ignore",
+      "delve",
+      "avoid",
+      "deny"
+    ],
+    "answer": "delve"
+  },
+  {
+    "question": "دقيق جدًا",
+    "options": [
+      "rough",
+      "quick",
+      "meticulous",
+      "lazy"
+    ],
+    "answer": "meticulous"
+  },
+  {
+    "question": "عالم/مجال",
+    "options": [
+      "area",
+      "realm",
+      "territory",
+      "space"
+    ],
+    "answer": "realm"
+  },
+  {
+    "question": "يتفاخر",
+    "options": [
+      "hide",
+      "boast",
+      "regret",
+      "blame"
+    ],
+    "answer": "boast"
+  },
+  {
+    "question": "يفهم",
+    "options": [
+      "ignore",
+      "forget",
+      "comprehend",
+      "miss"
+    ],
+    "answer": "comprehend"
+  },
+  {
+    "question": "زنا",
+    "options": [
+      "adultery",
+      "betrayal",
+      "marriage",
+      "engagement"
+    ],
+    "answer": "adultery"
+  },
+  {
+    "question": "ربا",
+    "options": [
+      "charity",
+      "usury",
+      "donation",
+      "loan"
+    ],
+    "answer": "usury"
+  },
+  {
+    "question": "فهمتك",
+    "options": [
+      "Understood",
+      "Never mind",
+      "Gotcha you",
+      "Alright"
+    ],
+    "answer": "Gotcha you"
+  },
+  {
+    "question": "شخص مهمش",
+    "options": [
+      "hero",
+      "leader",
+      "wet lettuce",
+      "warrior"
+    ],
+    "answer": "wet lettuce"
+  },
+  {
+    "question": "لماذا تجلس بمفردك كالشخص المهمش؟",
+    "options": [
+      "Because I’m bored",
+      "I like solitude",
+      "why are you sitting by yourself like a wet lettuce",
+      "I have no friends"
+    ],
+    "answer": "why are you sitting by yourself like a wet lettuce"
+  },
+  {
+    "question": "من التراب إلى التراب، ومن الرماد إلى الرماد",
+    "options": [
+      "ashes to ashes Dust to dust",
+      "circle of life",
+      "death and rebirth",
+      "ashes of hope"
+    ],
+    "answer": "ashes to ashes Dust to dust"
+  },
+  {
+    "question": "لا تكن مثبطًا للعزيمة",
+    "options": [
+      "buzzkill",
+      "enthusiastic",
+      "cheerful",
+      "motivator"
+    ],
+    "answer": "buzzkill"
+  },
+  {
+    "question": "بأي طريقة كانت",
+    "options": [
+      "one way or another",
+      "no matter",
+      "either",
+      "somehow"
+    ],
+    "answer": "one way or another"
+  },
+  {
+    "question": "هل تتهمني؟",
+    "options": [
+      "are you accusing me?",
+      "are you blaming them?",
+      "did they accuse?",
+      "are you rejecting me?"
+    ],
+    "answer": "are you accusing me?"
+  },
+  {
+    "question": "لا تفزع",
+    "options": [
+      "do not freak out",
+      "stay still",
+      "calm down",
+      "take it slow"
+    ],
+    "answer": "do not freak out"
+  },
+  {
+    "question": "هذا محرج",
+    "options": [
+      "that is awkward",
+      "how strange",
+      "how cool",
+      "how confusing"
+    ],
+    "answer": "that is awkward"
+  },
+  {
+    "question": "زاوية ضيقة",
+    "options": [
+      "tight corner",
+      "sharp turn",
+      "narrow road",
+      "small alley"
+    ],
+    "answer": "tight corner"
+  },
+  {
+    "question": "من وقت لآخر",
+    "options": [
+      "from time to time",
+      "once a year",
+      "always",
+      "often"
+    ],
+    "answer": "from time to time"
+  },
+  {
+    "question": "بؤبؤ العين",
+    "options": [
+      "pupil",
+      "iris",
+      "retina",
+      "eyelid"
+    ],
+    "answer": "pupil"
+  },
+  {
+    "question": "فحص الطبيب بؤبؤ عين المريض.",
+    "options": [
+      "The doctor examined the patient's pupil.",
+      "The doctor removed the patient's eye.",
+      "The doctor watched the surgery.",
+      "The patient examined the doctor."
+    ],
+    "answer": "The doctor examined the patient's pupil."
+  },
+  {
+    "question": "النميمة",
+    "options": [
+      "gossiping",
+      "talking",
+      "hearing",
+      "rumor"
+    ],
+    "answer": "gossiping"
+  },
+  {
+    "question": "الزواج المدبر",
+    "options": [
+      "arranged marriage",
+      "forced wedding",
+      "spontaneous marriage",
+      "love marriage"
+    ],
+    "answer": "arranged marriage"
+  },
+  {
+    "question": "عدم الإنكار",
+    "options": [
+      "Non-Repudiation",
+      "Confidentiality",
+      "Integrity",
+      "Encryption"
+    ],
+    "answer": "Non-Repudiation"
+  },
+  {
+    "question": "ثغرة",
+    "options": [
+      "vulnerability",
+      "defense",
+      "patch",
+      "firewall"
+    ],
+    "answer": "vulnerability"
+  },
+  {
+    "question": "عجين",
+    "options": [
+      "dough",
+      "flour",
+      "bread",
+      "batter"
+    ],
+    "answer": "dough"
+  },
+  {
+    "question": "الاحتيال عبر الهاتف",
+    "options": [
+      "vishing",
+      "phishing",
+      "spamming",
+      "spoofing"
+    ],
+    "answer": "vishing"
+  },
+  {
+    "question": "طلب الإلحاح أو التماس",
+    "options": [
+      "solicitation",
+      "application",
+      "petition",
+      "suggestion"
+    ],
+    "answer": "solicitation"
+  },
+  {
+    "question": "رهان",
+    "options": [
+      "bet",
+      "gamble",
+      "deal",
+      "match"
+    ],
+    "answer": "bet"
+  },
+  {
+    "question": "انتحال",
+    "options": [
+      "spoof",
+      "mask",
+      "steal",
+      "trace"
+    ],
+    "answer": "spoof"
+  },
+  {
+    "question": "استحواذ",
+    "options": [
+      "acquisition",
+      "purchase",
+      "sell",
+      "loss"
+    ],
+    "answer": "acquisition"
+  },
+  {
+    "question": "أدب",
+    "options": [
+      "literature",
+      "language",
+      "history",
+      "novel"
+    ],
+    "answer": "literature"
+  },
+  {
+    "question": "احتمالية",
+    "options": [
+      "likelihood",
+      "certainty",
+      "possibility",
+      "chance"
+    ],
+    "answer": "likelihood"
+  },
+  {
+    "question": "يتميز بـ",
+    "options": [
+      "characterized",
+      "defined",
+      "marked",
+      "described"
+    ],
+    "answer": "characterized"
+  },
+  {
+    "question": "يستغل",
+    "options": [
+      "exploit",
+      "help",
+      "fix",
+      "hide"
+    ],
+    "answer": "exploit"
+  },
+  {
+    "question": "ثغرات أمنية",
+    "options": [
+      "vulnerabilities",
+      "patches",
+      "protections",
+      "firewalls"
+    ],
+    "answer": "vulnerabilities"
+  },
+  {
+    "question": "عصف ذهني",
+    "options": [
+      "brainstorming",
+      "planning",
+      "meeting",
+      "arguing"
+    ],
+    "answer": "brainstorming"
+  },
+  {
+    "question": "الإنكار",
+    "options": [
+      "Denial",
+      "Rejection",
+      "Refusal",
+      "Acceptance"
+    ],
+    "answer": "Denial"
+  },
+  {
+    "question": "ضمّ",
+    "options": [
+      "annex",
+      "attach",
+      "add",
+      "include"
+    ],
+    "answer": "annex"
+  },
+  {
+    "question": "للأبد",
+    "options": [
+      "for good",
+      "forever",
+      "temporarily",
+      "once"
+    ],
+    "answer": "for good"
+  },
+  {
+    "question": "لقد أقلعت عن التدخين نهائيًا.",
+    "options": [
+      "I quit smoking for good.",
+      "I smoke once a week.",
+      "I am trying to stop smoking.",
+      "I reduced my smoking."
+    ],
+    "answer": "I quit smoking for good."
+  },
+  {
+    "question": "شامل",
+    "options": [
+      "exhaustive",
+      "limited",
+      "brief",
+      "basic"
+    ],
+    "answer": "exhaustive"
+  },
+  {
+    "question": "واجبات",
+    "options": [
+      "duties",
+      "tasks",
+      "jobs",
+      "responsibilities"
+    ],
+    "answer": "duties"
+  },
+  {
+    "question": "خروج من العمل",
+    "options": [
+      "offboarding",
+      "firing",
+      "resignation",
+      "promotion"
+    ],
+    "answer": "offboarding"
+  },
+  {
+    "question": "متعلق بشخص بشكل زائد",
+    "options": [
+      "clingy",
+      "loyal",
+      "friendly",
+      "shy"
+    ],
+    "answer": "clingy"
+  },
+  {
+    "question": "فصل أو تمييز",
+    "options": [
+      "Segregation",
+      "Integration",
+      "Unity",
+      "Collaboration"
+    ],
+    "answer": "Segregation"
+  },
+  {
+    "question": "اختلاس",
+    "options": [
+      "embezzlement",
+      "theft",
+      "robbery",
+      "fraud"
+    ],
+    "answer": "embezzlement"
+  },
+  {
+    "question": "انفصال",
+    "options": [
+      "split up",
+      "gather",
+      "meet",
+      "reunite"
+    ],
+    "answer": "split up"
+  },
+  {
+    "question": "الامتثال لـ",
+    "options": [
+      "abide by",
+      "resist",
+      "refuse",
+      "break"
+    ],
+    "answer": "abide by"
+  },
+  {
+    "question": "ثانوي",
+    "options": [
+      "ancillary",
+      "primary",
+      "important",
+      "main"
+    ],
+    "answer": "ancillary"
+  },
+  {
+    "question": "قوس قزح",
+    "options": [
+      "rainbow",
+      "spectrum",
+      "sunbeam",
+      "cloud"
+    ],
+    "answer": "rainbow"
+  },
+  {
+    "question": "الموظفون",
+    "options": [
+      "personnel",
+      "workers",
+      "crew",
+      "laborers"
+    ],
+    "answer": "personnel"
+  },
+  {
+    "question": "معتمد",
+    "options": [
+      "accredited",
+      "licensed",
+      "certified",
+      "approved"
+    ],
+    "answer": "accredited"
+  },
+  {
+    "question": "هرول",
+    "options": [
+      "jog",
+      "run",
+      "walk",
+      "sprint"
+    ],
+    "answer": "jog"
+  },
+  {
+    "question": "نقانق",
+    "options": [
+      "sausage",
+      "meatball",
+      "steak",
+      "ham"
+    ],
+    "answer": "sausage"
+  },
+  {
+    "question": "يفتخر",
+    "options": [
+      "boast",
+      "praise",
+      "thank",
+      "brag"
+    ],
+    "answer": "boast"
+  },
+  {
+    "question": "قماش",
+    "options": [
+      "cloth",
+      "fabric",
+      "sheet",
+      "thread"
+    ],
+    "answer": "cloth"
+  },
+  {
+    "question": "دمية",
+    "options": [
+      "doll",
+      "toy",
+      "puppet",
+      "figure"
+    ],
+    "answer": "doll"
+  },
+  {
+    "question": "نزهة",
+    "options": [
+      "outing",
+      "picnic",
+      "trip",
+      "tour"
+    ],
+    "answer": "outing"
+  },
+  {
+    "question": "مكثف",
+    "options": [
+      "intensive",
+      "deep",
+      "quick",
+      "light"
+    ],
+    "answer": "intensive"
+  },
+  {
+    "question": "ينقع",
+    "options": [
+      "soak",
+      "dip",
+      "dry",
+      "boil"
+    ],
+    "answer": "soak"
+  },
+  {
+    "question": "واضح",
+    "options": [
+      "obvious",
+      "hidden",
+      "unclear",
+      "secret"
+    ],
+    "answer": "obvious"
+  },
+  {
+    "question": "مظاهرات",
+    "options": [
+      "demonstrations",
+      "celebrations",
+      "meetings",
+      "shows"
+    ],
+    "answer": "demonstrations"
+  },
+  {
+    "question": "حصار",
+    "options": [
+      "siege",
+      "attack",
+      "fight",
+      "protest"
+    ],
+    "answer": "siege"
+  },
+  {
+    "question": "اختراع",
+    "options": [
+      "invention",
+      "creation",
+      "discovery",
+      "innovation"
+    ],
+    "answer": "invention"
+  },
+  {
+    "question": "اضطهاد",
+    "options": [
+      "oppression",
+      "freedom",
+      "rescue",
+      "help"
+    ],
+    "answer": "oppression"
+  },
+  {
+    "question": "الطغيان",
+    "options": [
+      "tyrranny",
+      "justice",
+      "democracy",
+      "order"
+    ],
+    "answer": "tyrranny"
+  },
+  {
+    "question": "تمييز",
+    "options": [
+      "discrimination",
+      "equality",
+      "justice",
+      "acceptance"
+    ],
+    "answer": "discrimination"
+  },
+  {
+    "question": "أرني كيف أبدأ",
+    "options": [
+      "show me the ropes",
+      "start it now",
+      "take me there",
+      "teach me the way"
+    ],
+    "answer": "show me the ropes"
+  },
+  {
+    "question": "تقليص",
+    "options": [
+      "cutback",
+      "expansion",
+      "extension",
+      "growth"
+    ],
+    "answer": "cutback"
+  },
+  {
+    "question": "مجلس",
+    "options": [
+      "council",
+      "committee",
+      "group",
+      "union"
+    ],
+    "answer": "council"
+  },
+  {
+    "question": "مجفف ملابس",
+    "options": [
+      "tumble dryer",
+      "washing machine",
+      "heater",
+      "spin dryer"
+    ],
+    "answer": "tumble dryer"
+  },
+  {
+    "question": "يتعثر",
+    "options": [
+      "tumble",
+      "stumble",
+      "fall",
+      "slip"
+    ],
+    "answer": "tumble"
+  },
+  {
+    "question": "من بعدك",
+    "options": [
+      "after you",
+      "go ahead",
+      "you first",
+      "your turn"
+    ],
+    "answer": "after you"
+  },
+  {
+    "question": "توقف عن التطفل",
+    "options": [
+      "stop snooping",
+      "stop asking",
+      "stop spying",
+      "stop talking"
+    ],
+    "answer": "stop snooping"
+  },
+  {
+    "question": "راقب كلامك",
+    "options": [
+      "watch your mouth",
+      "watch your words",
+      "be quiet",
+      "calm down"
+    ],
+    "answer": "watch your mouth"
+  },
+  {
+    "question": "التزم بالقانون",
+    "options": [
+      "keep your nose clean",
+      "obey the law",
+      "follow the rules",
+      "be legal"
+    ],
+    "answer": "keep your nose clean"
+  },
+  {
+    "question": "غمازات",
+    "options": [
+      "dimples",
+      "wrinkles",
+      "scars",
+      "freckles"
+    ],
+    "answer": "dimples"
+  },
+  {
+    "question": "وحمة",
+    "options": [
+      "birthmark",
+      "mole",
+      "scar",
+      "spot"
+    ],
+    "answer": "birthmark"
+  },
+  {
+    "question": "نمش",
+    "options": [
+      "freckles",
+      "spots",
+      "dots",
+      "pimples"
+    ],
+    "answer": "freckles"
+  },
+  {
+    "question": "شامة",
+    "options": [
+      "mole",
+      "freckle",
+      "spot",
+      "mark"
+    ],
+    "answer": "mole"
+  },
+  {
+    "question": "ندبة",
+    "options": [
+      "scar",
+      "cut",
+      "bruise",
+      "scratch"
+    ],
+    "answer": "scar"
+  },
+  {
+    "question": "من خلال أي منظمة وصلت إلينا؟",
+    "options": [
+      "organization",
+      "founder",
+      "through",
+      "army"
+    ],
+    "answer": "organization"
+  },
+  {
+    "question": "ذكرى سنوية",
+    "options": [
+      "anniversary",
+      "event",
+      "celebrate",
+      "party"
+    ],
+    "answer": "anniversary"
+  },
+  {
+    "question": "قادر",
+    "options": [
+      "abled",
+      "capable",
+      "disable",
+      "ability"
+    ],
+    "answer": "abled"
+  },
+  {
+    "question": "الطيران",
+    "options": [
+      "aviation",
+      "airplane",
+      "fly",
+      "jet"
+    ],
+    "answer": "aviation"
+  },
+  {
+    "question": "مقدر له أن يلعب",
+    "options": [
+      "meant to play",
+      "forced to play",
+      "chosen",
+      "player"
+    ],
+    "answer": "meant to play"
+  },
+  {
+    "question": "دفع قوي",
+    "options": [
+      "thrust",
+      "push",
+      "strike",
+      "force"
+    ],
+    "answer": "thrust"
+  },
+  {
+    "question": "الجيش",
+    "options": [
+      "army",
+      "soldiers",
+      "military",
+      "war"
+    ],
+    "answer": "army"
+  },
+  {
+    "question": "تحية إجلال",
+    "options": [
+      "tribute",
+      "gift",
+      "respect",
+      "award"
+    ],
+    "answer": "tribute"
+  },
+  {
+    "question": "المؤسس",
+    "options": [
+      "founder",
+      "leader",
+      "creator",
+      "chairman"
+    ],
+    "answer": "founder"
+  },
+  {
+    "question": "الإنجازات",
+    "options": [
+      "accomplishments",
+      "goals",
+      "results",
+      "trials"
+    ],
+    "answer": "accomplishments"
+  },
+  {
+    "question": "رئيس مجلس الإدارة",
+    "options": [
+      "chairman",
+      "president",
+      "CEO",
+      "leader"
+    ],
+    "answer": "chairman"
+  },
+  {
+    "question": "القدر",
+    "options": [
+      "destiny",
+      "luck",
+      "future",
+      "hope"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "دائم أو مستمر",
+    "options": [
+      "enduring",
+      "lasting",
+      "constant",
+      "ongoing"
+    ],
+    "answer": "enduring"
+  },
+  {
+    "question": "كبير أو مهم",
+    "options": [
+      "substantial",
+      "major",
+      "strong",
+      "heavy"
+    ],
+    "answer": "substantial"
+  },
+  {
+    "question": "تجميع",
+    "options": [
+      "compilation",
+      "collection",
+      "gathering",
+      "archive"
+    ],
+    "answer": "compilation"
+  },
+  {
+    "question": "مصور أو موضح برسوم",
+    "options": [
+      "illustrated",
+      "drawn",
+      "sketched",
+      "visual"
+    ],
+    "answer": "illustrated"
+  },
+  {
+    "question": "مجند",
+    "options": [
+      "conscript",
+      "soldier",
+      "volunteer",
+      "cadet"
+    ],
+    "answer": "conscript"
+  },
+  {
+    "question": "حافل بالأحداث",
+    "options": [
+      "eventful",
+      "exciting",
+      "chaotic",
+      "dramatic"
+    ],
+    "answer": "eventful"
+  },
+  {
+    "question": "خط اليد",
+    "options": [
+      "handwriting",
+      "writing",
+      "script",
+      "note"
+    ],
+    "answer": "handwriting"
+  },
+  {
+    "question": "فاتح البلدان",
+    "options": [
+      "conqueror",
+      "warrior",
+      "invader",
+      "leader"
+    ],
+    "answer": "conqueror"
+  },
+  {
+    "question": "تجسيد طموحي",
+    "options": [
+      "aspirational embodiment",
+      "role model",
+      "dream figure",
+      "ideal"
+    ],
+    "answer": "aspirational embodiment"
+  },
+  {
+    "question": "حمية غذائية",
+    "options": [
+      "diet",
+      "plan",
+      "food",
+      "nutrition"
+    ],
+    "answer": "diet"
+  },
+  {
+    "question": "أنا أتبع حمية",
+    "options": [
+      "I am on a diet",
+      "I eat less",
+      "I’m dieting",
+      "No sugar"
+    ],
+    "answer": "I am on a diet"
+  },
+  {
+    "question": "يحقق أو يتحقق من",
+    "options": [
+      "investigate",
+      "search",
+      "interrogate",
+      "ask"
+    ],
+    "answer": "investigate"
+  },
+  {
+    "question": "مفردات",
+    "options": [
+      "vocabulary",
+      "words",
+      "phrases",
+      "language"
+    ],
+    "answer": "vocabulary"
+  },
+  {
+    "question": "قابس كهرباء",
+    "options": [
+      "plug",
+      "outlet",
+      "wire",
+      "adapter"
+    ],
+    "answer": "plug"
+  },
+  {
+    "question": "سأطلب التوقف",
+    "options": [
+      "I will be ordering the cessation",
+      "Stop it now",
+      "Cease!",
+      "Halt immediately"
+    ],
+    "answer": "I will be ordering the cessation"
+  },
+  {
+    "question": "كوكاكولا أو فحم أو كوكائين (حسب السياق)",
+    "options": [
+      "coke",
+      "coca",
+      "soda",
+      "fuel"
+    ],
+    "answer": "coke"
+  },
+  {
+    "question": "اصمت فورًا (بلهجة حادة)",
+    "options": [
+      "can it!",
+      "shut up!",
+      "silence!",
+      "be quiet!"
+    ],
+    "answer": "can it!"
+  },
+  {
+    "question": "أنا أحتفظ بحقي في الصمت",
+    "options": [
+      "I plead the fifth",
+      "I won’t talk",
+      "No comment",
+      "Silence please"
+    ],
+    "answer": "I plead the fifth"
+  },
+  {
+    "question": "يتوسل أو يدفع بوجهة نظر قانونية",
+    "options": [
+      "plead",
+      "beg",
+      "argue",
+      "confess"
+    ],
+    "answer": "plead"
+  },
+  {
+    "question": "مفصلة الباب",
+    "options": [
+      "hinge",
+      "joint",
+      "lock",
+      "knob"
+    ],
+    "answer": "hinge"
+  },
+  {
+    "question": "صالة الانتظار",
+    "options": [
+      "lounge",
+      "contractor",
+      "temples",
+      "rivers"
+    ],
+    "answer": "lounge"
+  },
+  {
+    "question": "كتيبة عسكرية",
+    "options": [
+      "battalion",
+      "gang",
+      "coup",
+      "presence"
+    ],
+    "answer": "battalion"
+  },
+  {
+    "question": "مقاول",
+    "options": [
+      "contractor",
+      "servant",
+      "incentives",
+      "proxy"
+    ],
+    "answer": "contractor"
+  },
+  {
+    "question": "بوق",
+    "options": [
+      "horn",
+      "frank",
+      "harass",
+      "mutual consent"
+    ],
+    "answer": "horn"
+  },
+  {
+    "question": "معنويات",
+    "options": [
+      "morale",
+      "hostile",
+      "terrible",
+      "nexus"
+    ],
+    "answer": "morale"
+  },
+  {
+    "question": "محمّل بالتوتر",
+    "options": [
+      "fraught",
+      "ignited",
+      "erupts",
+      "disarming"
+    ],
+    "answer": "fraught"
+  },
+  {
+    "question": "نزع سلاح",
+    "options": [
+      "disarming",
+      "expelled",
+      "harass",
+      "teasing"
+    ],
+    "answer": "disarming"
+  },
+  {
+    "question": "مبالغ فيه",
+    "options": [
+      "exaggerated",
+      "frank",
+      "generous",
+      "racist"
+    ],
+    "answer": "exaggerated"
+  },
+  {
+    "question": "اتفاق متبادل",
+    "options": [
+      "mutual consent",
+      "grand deal",
+      "nexus",
+      "territory"
+    ],
+    "answer": "mutual consent"
+  },
+  {
+    "question": "ينفجر فجأة",
+    "options": [
+      "erupts",
+      "ignited",
+      "harass",
+      "expelled"
+    ],
+    "answer": "erupts"
+  },
+  {
+    "question": "موعظة",
+    "options": [
+      "sermon",
+      "temples",
+      "antiques",
+      "presence"
+    ],
+    "answer": "sermon"
+  },
+  {
+    "question": "وكيل",
+    "options": [
+      "proxy",
+      "servant",
+      "contractor",
+      "gang"
+    ],
+    "answer": "proxy"
+  },
+  {
+    "question": "علم بيئة العمل",
+    "options": [
+      "ergonomics",
+      "nexus",
+      "fraught",
+      "rivers"
+    ],
+    "answer": "ergonomics"
+  },
+  {
+    "question": "إقليم",
+    "options": [
+      "territory",
+      "presence",
+      "caspian",
+      "horn"
+    ],
+    "answer": "territory"
+  },
+  {
+    "question": "حضور",
+    "options": [
+      "presence",
+      "sermon",
+      "gang",
+      "hostile"
+    ],
+    "answer": "presence"
+  },
+  {
+    "question": "تحف قديمة",
+    "options": [
+      "antiques",
+      "temples",
+      "exaggerated",
+      "fraught"
+    ],
+    "answer": "antiques"
+  },
+  {
+    "question": "معابد",
+    "options": [
+      "temples",
+      "territory",
+      "sermon",
+      "lounge"
+    ],
+    "answer": "temples"
+  },
+  {
+    "question": "كريم",
+    "options": [
+      "generous",
+      "frank",
+      "racist",
+      "harass"
+    ],
+    "answer": "generous"
+  },
+  {
+    "question": "حوافز",
+    "options": [
+      "incentives",
+      "presence",
+      "coup",
+      "morale"
+    ],
+    "answer": "incentives"
+  },
+  {
+    "question": "فظيع",
+    "options": [
+      "terrible",
+      "fraught",
+      "teasing",
+      "disarming"
+    ],
+    "answer": "terrible"
+  },
+  {
+    "question": "غزو",
+    "options": [
+      "invasion",
+      "coup",
+      "ignited",
+      "battalion"
+    ],
+    "answer": "invasion"
+  },
+  {
+    "question": "بحر قزوين",
+    "options": [
+      "caspian",
+      "territory",
+      "horn",
+      "rivers"
+    ],
+    "answer": "caspian"
+  },
+  {
+    "question": "انقلاب",
+    "options": [
+      "coup",
+      "erupts",
+      "proxy",
+      "nexus"
+    ],
+    "answer": "coup"
+  },
+  {
+    "question": "انقلاب عسكري",
+    "options": [
+      "military coup",
+      "hostile",
+      "gang",
+      "expelled"
+    ],
+    "answer": "military coup"
+  },
+  {
+    "question": "صلة وصل",
+    "options": [
+      "nexus",
+      "ergonomics",
+      "mutual consent",
+      "generous"
+    ],
+    "answer": "nexus"
+  },
+  {
+    "question": "مضايقة",
+    "options": [
+      "teasing",
+      "harass",
+      "frank",
+      "hostile"
+    ],
+    "answer": "teasing"
+  },
+  {
+    "question": "عنصري",
+    "options": [
+      "racist",
+      "frank",
+      "proxy",
+      "gang"
+    ],
+    "answer": "racist"
+  },
+  {
+    "question": "صريح",
+    "options": [
+      "frank",
+      "generous",
+      "morale",
+      "temples"
+    ],
+    "answer": "frank"
+  },
+  {
+    "question": "عدائي",
+    "options": [
+      "hostile",
+      "terrible",
+      "ignited",
+      "servant"
+    ],
+    "answer": "hostile"
+  },
+  {
+    "question": "أنهار",
+    "options": [
+      "rivers",
+      "horn",
+      "caspian",
+      "presence"
+    ],
+    "answer": "rivers"
+  },
+  {
+    "question": "عصابة",
+    "options": [
+      "gang",
+      "battalion",
+      "proxy",
+      "teasing"
+    ],
+    "answer": "gang"
+  },
+  {
+    "question": "صفقة كبرى",
+    "options": [
+      "grand deal",
+      "mutual consent",
+      "incentives",
+      "contractor"
+    ],
+    "answer": "grand deal"
+  },
+  {
+    "question": "تحرّش",
+    "options": [
+      "harass",
+      "teasing",
+      "hostile",
+      "fraught"
+    ],
+    "answer": "harass"
+  },
+  {
+    "question": "مطرود",
+    "options": [
+      "expelled",
+      "ignited",
+      "coup",
+      "proxy"
+    ],
+    "answer": "expelled"
+  },
+  {
+    "question": "خادم",
+    "options": [
+      "servant",
+      "contractor",
+      "proxy",
+      "presence"
+    ],
+    "answer": "servant"
+  },
+  {
+    "question": "مشتعل",
+    "options": [
+      "ignited",
+      "erupts",
+      "fraught",
+      "horn"
+    ],
+    "answer": "ignited"
+  },
+  {
+    "question": "يُصلِح",
+    "options": [
+      "repair",
+      "fix",
+      "adjust",
+      "replace"
+    ],
+    "answer": "repair"
+  },
+  {
+    "question": "يُصرّف أو يصرف المياه",
+    "options": [
+      "drain",
+      "pipe",
+      "leak",
+      "empty"
+    ],
+    "answer": "drain"
+  },
+  {
+    "question": "البالوعة مسدودة.",
+    "options": [
+      "The drain is clogged.",
+      "Water is stuck.",
+      "It's blocked.",
+      "Drain is full."
+    ],
+    "answer": "The drain is clogged."
+  },
+  {
+    "question": "ببساطة وسرعة (عبارة عامية)",
+    "options": [
+      "bish bash bosh",
+      "quick and easy",
+      "snap snap",
+      "done deal"
+    ],
+    "answer": "bish bash bosh"
+  },
+  {
+    "question": "علامة تمدد",
+    "options": [
+      "stretch mark",
+      "scar",
+      "line",
+      "crack"
+    ],
+    "answer": "stretch mark"
+  },
+  {
+    "question": "تجاعيد",
+    "options": [
+      "wrinkles",
+      "folds",
+      "lines",
+      "creases"
+    ],
+    "answer": "wrinkles"
+  },
+  {
+    "question": "مسام",
+    "options": [
+      "pores",
+      "spots",
+      "holes",
+      "marks"
+    ],
+    "answer": "pores"
+  },
+  {
+    "question": "لا تستخف بي",
+    "options": [
+      "do not belittle me",
+      "do not ignore me",
+      "do not hate me",
+      "do not deny me"
+    ],
+    "answer": "do not belittle me"
+  },
+  {
+    "question": "افتراء - تشويه سمعة",
+    "options": [
+      "truth",
+      "slander",
+      "praise",
+      "compliment"
+    ],
+    "answer": "slander"
+  },
+  {
+    "question": "يدي مقيدة",
+    "options": [
+      "I’m free",
+      "my hands are tied",
+      "I’ll handle it",
+      "I’m ready"
+    ],
+    "answer": "my hands are tied"
   },
   {
     "question": "طحين",
@@ -23571,6 +26422,706 @@
     "answer": "enforce"
   },
   {
+    "question": "قضى فترة بعد الظهر مستلقيًا على الأريكة",
+    "options": [
+      "lounging",
+      "stooges",
+      "rumor",
+      "jungle"
+    ],
+    "answer": "lounging"
+  },
+  {
+    "question": "شخصين متشابهين في كل شيء",
+    "options": [
+      "urge",
+      "two peas in a pod",
+      "sophistication",
+      "breaches"
+    ],
+    "answer": "two peas in a pod"
+  },
+  {
+    "question": "أنا جاهز",
+    "options": [
+      "I am game",
+      "I am down for that",
+      "sign me up",
+      "mankind"
+    ],
+    "answer": "I am down for that"
+  },
+  {
+    "question": "احسب حسابي",
+    "options": [
+      "count me in",
+      "auditing",
+      "soporific",
+      "prosecute"
+    ],
+    "answer": "count me in"
+  },
+  {
+    "question": "أنا معكم",
+    "options": [
+      "urge",
+      "I am game",
+      "disruptions",
+      "notional"
+    ],
+    "answer": "I am game"
+  },
+  {
+    "question": "سجل اسمي معكون",
+    "options": [
+      "sign me up",
+      "loose",
+      "aviation",
+      "upbeat"
+    ],
+    "answer": "sign me up"
+  },
+  {
+    "question": "التحدث في أشياء غير هامة",
+    "options": [
+      "witter on",
+      "let's find some middle ground",
+      "rotor",
+      "embargo"
+    ],
+    "answer": "witter on"
+  },
+  {
+    "question": "مُسكن أو مسبب للنعاس",
+    "options": [
+      "soporific",
+      "entrusted",
+      "accommodate",
+      "coordinate"
+    ],
+    "answer": "soporific"
+  },
+  {
+    "question": "مرة بعد مرة",
+    "options": [
+      "over and over again",
+      "advice",
+      "quiet",
+      "spit"
+    ],
+    "answer": "over and over again"
+  },
+  {
+    "question": "الأكثر انشغالًا",
+    "options": [
+      "busiest",
+      "notional",
+      "carefree",
+      "embargo"
+    ],
+    "answer": "busiest"
+  },
+  {
+    "question": "مخول أو موكل إليه",
+    "options": [
+      "entrusted",
+      "persist",
+      "urge",
+      "lose"
+    ],
+    "answer": "entrusted"
+  },
+  {
+    "question": "نصيحة",
+    "options": [
+      "advice",
+      "advise",
+      "quite",
+      "quiet"
+    ],
+    "answer": "advice"
+  },
+  {
+    "question": "فضفاض أو غير محكم",
+    "options": [
+      "loose",
+      "lose",
+      "nail",
+      "persist"
+    ],
+    "answer": "loose"
+  },
+  {
+    "question": "تمامًا أو جدًا",
+    "options": [
+      "quite",
+      "quiet",
+      "urge",
+      "audit"
+    ],
+    "answer": "quite"
+  },
+  {
+    "question": "هادئ",
+    "options": [
+      "quiet",
+      "upbeat",
+      "sophistication",
+      "nailing"
+    ],
+    "answer": "quiet"
+  },
+  {
+    "question": "يخسر",
+    "options": [
+      "lose",
+      "loose",
+      "rumor",
+      "aviation"
+    ],
+    "answer": "lose"
+  },
+  {
+    "question": "ينصح",
+    "options": [
+      "advise",
+      "advice",
+      "breaches",
+      "persist"
+    ],
+    "answer": "advise"
+  },
+  {
+    "question": "افتتح رسميًا",
+    "options": [
+      "Inaugurated",
+      "coordinate",
+      "audit",
+      "urge"
+    ],
+    "answer": "Inaugurated"
+  },
+  {
+    "question": "طيران",
+    "options": [
+      "aviation",
+      "rotor",
+      "jungle",
+      "persist"
+    ],
+    "answer": "aviation"
+  },
+  {
+    "question": "يستوعب أو يتسع لـ",
+    "options": [
+      "accommodate",
+      "coordinate",
+      "soporific",
+      "advise"
+    ],
+    "answer": "accommodate"
+  },
+  {
+    "question": "دوّار أو شفرات مروحية",
+    "options": [
+      "rotor",
+      "embargo",
+      "nailing",
+      "quiet"
+    ],
+    "answer": "rotor"
+  },
+  {
+    "question": "يبصق",
+    "options": [
+      "spit",
+      "audit",
+      "notional",
+      "rumor"
+    ],
+    "answer": "spit"
+  },
+  {
+    "question": "ينسّق",
+    "options": [
+      "coordinate",
+      "accommodate",
+      "entrusted",
+      "jungle"
+    ],
+    "answer": "coordinate"
+  },
+  {
+    "question": "وسطية أو نقطة توافق",
+    "options": [
+      "let's find some middle ground",
+      "rumor",
+      "sophistication",
+      "breaches"
+    ],
+    "answer": "let's find some middle ground"
+  },
+  {
+    "question": "التدقيق المالي",
+    "options": [
+      "auditing",
+      "persist",
+      "spit",
+      "upbeat"
+    ],
+    "answer": "auditing"
+  },
+  {
+    "question": "انتهاكات",
+    "options": [
+      "breaches",
+      "disruptions",
+      "jungle",
+      "notional"
+    ],
+    "answer": "breaches"
+  },
+  {
+    "question": "افتراضي أو رمزي",
+    "options": [
+      "notional",
+      "loose",
+      "rotor",
+      "count me in"
+    ],
+    "answer": "notional"
+  },
+  {
+    "question": "البشرية",
+    "options": [
+      "mankind",
+      "carefree",
+      "audit",
+      "advice"
+    ],
+    "answer": "mankind"
+  },
+  {
+    "question": "رغبة شديدة",
+    "options": [
+      "urge",
+      "persist",
+      "sign me up",
+      "spit"
+    ],
+    "answer": "urge"
+  },
+  {
+    "question": "مبتهج أو متفائل",
+    "options": [
+      "upbeat",
+      "prosecute",
+      "embargo",
+      "auditing"
+    ],
+    "answer": "upbeat"
+  },
+  {
+    "question": "إجماع",
+    "options": [
+      "consensus",
+      "sophistication",
+      "advise",
+      "audit"
+    ],
+    "answer": "consensus"
+  },
+  {
+    "question": "الاضطرابات",
+    "options": [
+      "disruptions",
+      "breaches",
+      "rumor",
+      "aviation"
+    ],
+    "answer": "disruptions"
+  },
+  {
+    "question": "تعقيد أو رُقي",
+    "options": [
+      "sophistication",
+      "notional",
+      "audit",
+      "advise"
+    ],
+    "answer": "sophistication"
+  },
+  {
+    "question": "يقاضي",
+    "options": [
+      "prosecute",
+      "persist",
+      "audit",
+      "let's find some middle ground"
+    ],
+    "answer": "prosecute"
+  },
+  {
+    "question": "خالي البال أو مستهتر",
+    "options": [
+      "carefree",
+      "entrusted",
+      "rumor",
+      "rotor"
+    ],
+    "answer": "carefree"
+  },
+  {
+    "question": "حظر تجاري",
+    "options": [
+      "embargo",
+      "audit",
+      "loose",
+      "rumor"
+    ],
+    "answer": "embargo"
+  },
+  {
+    "question": "لا أرى من الغبار",
+    "options": [
+      "not see for dust",
+      "not dust for see",
+      "can't see from dust",
+      "dust can't be seen"
+    ],
+    "answer": "not see for dust"
+  },
+  {
+    "question": "أدلة جنائية",
+    "options": [
+      "crime",
+      "forensic",
+      "forensics",
+      "investigate"
+    ],
+    "answer": "forensic"
+  },
+  {
+    "question": "دليل",
+    "options": [
+      "proof",
+      "argument",
+      "evidence",
+      "fact"
+    ],
+    "answer": "evidence"
+  },
+  {
+    "question": "قابلية التأثر",
+    "options": [
+      "invulnerability",
+      "vulnerability",
+      "exposure",
+      "fragile"
+    ],
+    "answer": "vulnerability"
+  },
+  {
+    "question": "المُقيّم",
+    "options": [
+      "inspector",
+      "assessor",
+      "judge",
+      "auditor"
+    ],
+    "answer": "assessor"
+  },
+  {
+    "question": "السرية",
+    "options": [
+      "confidentiality",
+      "privacy",
+      "secrecy",
+      "discretion"
+    ],
+    "answer": "confidentiality"
+  },
+  {
+    "question": "الإهمال",
+    "options": [
+      "negligence",
+      "carelessness",
+      "ignore",
+      "recklessness"
+    ],
+    "answer": "negligence"
+  },
+  {
+    "question": "تغيير / تعديل",
+    "options": [
+      "change",
+      "modification",
+      "alteration",
+      "edition"
+    ],
+    "answer": "alteration"
+  },
+  {
+    "question": "يمازح / يسخر",
+    "options": [
+      "mock",
+      "praise",
+      "tease",
+      "laugh at"
+    ],
+    "answer": "tease"
+  },
+  {
+    "question": "إغراء جنسي دون نية جدية",
+    "options": [
+      "flirt",
+      "seduce",
+      "tease",
+      "entice"
+    ],
+    "answer": "tease"
+  },
+  {
+    "question": "يسرّح الشعر للتكثيف",
+    "options": [
+      "comb",
+      "tease",
+      "brush",
+      "style"
+    ],
+    "answer": "tease"
+  },
+  {
+    "question": "يلمّح / يشوّق",
+    "options": [
+      "hint",
+      "announce",
+      "reveal",
+      "tease"
+    ],
+    "answer": "tease"
+  },
+  {
+    "question": "شخص يُغري أو يمازح كثيرًا",
+    "options": [
+      "joker",
+      "player",
+      "tease",
+      "flirt"
+    ],
+    "answer": "tease"
+  },
+  {
+    "question": "يسخر من شخص بطريقة قد تكون مهينة",
+    "options": [
+      "Make fun of",
+      "Laugh with",
+      "Play with",
+      "Joke with"
+    ],
+    "answer": "Make fun of"
+  },
+  {
+    "question": "يمازح أو يضايق بلطف أو بخفة",
+    "options": [
+      "offend",
+      "bully",
+      "tease",
+      "mock"
+    ],
+    "answer": "tease"
+  },
+  {
+    "question": "متعمد",
+    "options": [
+      "coincidental",
+      "accidental",
+      "intentional",
+      "casual"
+    ],
+    "answer": "intentional"
+  },
+  {
+    "question": "تكرار غير ضروري / فائض",
+    "options": [
+      "duplication",
+      "redundancy",
+      "repetition",
+      "again"
+    ],
+    "answer": "redundancy"
+  },
+  {
+    "question": "وجهة نظر",
+    "options": [
+      "vision",
+      "perspective",
+      "opinion",
+      "insight"
+    ],
+    "answer": "perspective"
+  },
+  {
+    "question": "غير فعال",
+    "options": [
+      "efficient",
+      "productive",
+      "inefficient",
+      "organized"
+    ],
+    "answer": "inefficient"
+  },
+  {
+    "question": "عرضة للخطر",
+    "options": [
+      "secure",
+      "protected",
+      "vulnerable",
+      "invincible"
+    ],
+    "answer": "vulnerable"
+  },
+  {
+    "question": "إمكانات / محتمل",
+    "options": [
+      "potential",
+      "possible",
+      "future",
+      "optional"
+    ],
+    "answer": "potential"
+  },
+  {
+    "question": "كشف / إفشاء",
+    "options": [
+      "disclosure",
+      "hiding",
+      "secrecy",
+      "cover-up"
+    ],
+    "answer": "disclosure"
+  },
+  {
+    "question": "إغلاق / نهاية",
+    "options": [
+      "closure",
+      "open",
+      "start",
+      "launch"
+    ],
+    "answer": "closure"
+  },
+  {
+    "question": "إزعاج",
+    "options": [
+      "discomfort",
+      "annoyance",
+      "inconvenience",
+      "bother"
+    ],
+    "answer": "inconvenience"
+  },
+  {
+    "question": "إحراج",
+    "options": [
+      "embarrassment",
+      "pride",
+      "confidence",
+      "comfort"
+    ],
+    "answer": "embarrassment"
+  },
+  {
+    "question": "لازم روح عالتواليت",
+    "options": [
+      "I am bursting",
+      "I need food",
+      "I am sleeping",
+      "I want water"
+    ],
+    "answer": "I am bursting"
+  },
+  {
+    "question": "ينشأ / ينبع من",
+    "options": [
+      "originate",
+      "start",
+      "create",
+      "initiate"
+    ],
+    "answer": "originate"
+  },
+  {
+    "question": "رح أنفجر (للحمام)",
+    "options": [
+      "I'm full",
+      "I'm about to explode",
+      "I'm dizzy",
+      "I'm too cold"
+    ],
+    "answer": "I'm about to explode"
+  },
+  {
+    "question": "رح أتبول على نفسي",
+    "options": [
+      "I'm gonna pee myself",
+      "I'm gonna cry",
+      "I'm gonna fall",
+      "I'm gonna eat"
+    ],
+    "answer": "I'm gonna pee myself"
+  },
+  {
+    "question": "ما عاد فيني أتحمل!",
+    "options": [
+      "I'm calm",
+      "I can't hold it anymore!",
+      "I feel great",
+      "I'm patient"
+    ],
+    "answer": "I can't hold it anymore!"
+  },
+  {
+    "question": "طارئة! مثانتي ستتوقف عن العمل.",
+    "options": [
+      "Emergency! My bladder's about to quit.",
+      "Help me study",
+      "Call a doctor",
+      "Bring water"
+    ],
+    "answer": "Emergency! My bladder's about to quit."
+  },
+  {
+    "question": "إشاعة",
+    "options": [
+      "rumor",
+      "audit",
+      "breaches",
+      "accommodate"
+    ],
+    "answer": "rumor"
+  },
+  {
+    "question": "غابة",
+    "options": [
+      "jungle",
+      "aviation",
+      "persist",
+      "audit"
+    ],
+    "answer": "jungle"
+  },
+  {
+    "question": "أحمق تابع",
+    "options": [
+      "stooges",
+      "audit",
+      "soporific",
+      "urge"
+    ],
+    "answer": "stooges"
+  },
+  {
     "question": "المصداقية",
     "options": [
       "credibility",
@@ -35698,6 +39249,145 @@
       "Decorate, display, arrange"
     ],
     "answer": "Conceal, cover, veil"
+  },{
+    "question": "يتأثر بشكل سلبي",
+    "options": [
+      "positively",
+      "gently",
+      "adversely",
+      "smoothly"
+    ],
+    "answer": "adversely"
+  },
+  {
+    "question": "برنامج ضار",
+    "options": [
+      "update",
+      "malware",
+      "software",
+      "network"
+    ],
+    "answer": "malware"
+  },
+  {
+    "question": "دودة إلكترونية",
+    "options": [
+      "bug",
+      "virus",
+      "worm",
+      "trojan"
+    ],
+    "answer": "worm"
+  },
+  {
+    "question": "أجهزة الطرد المركزي",
+    "options": [
+      "centrifuges",
+      "generators",
+      "motors",
+      "compressors"
+    ],
+    "answer": "centrifuges"
+  },
+  {
+    "question": "خبيث أو ضار",
+    "options": [
+      "useful",
+      "malicious",
+      "friendly",
+      "passive"
+    ],
+    "answer": "malicious"
+  },
+  {
+    "question": "بدون تحضير مسبق",
+    "options": [
+      "off the cuff",
+      "by the book",
+      "on purpose",
+      "with plan"
+    ],
+    "answer": "off the cuff"
+  },
+  {
+    "question": "إغراء أو استدراج",
+    "options": [
+      "pushing",
+      "guiding",
+      "luring",
+      "inviting"
+    ],
+    "answer": "luring"
+  },
+  {
+    "question": "ضحية",
+    "options": [
+      "attacker",
+      "suspect",
+      "victim",
+      "offender"
+    ],
+    "answer": "victim"
+  },
+  {
+    "question": "احتيال إلكتروني (تصيد معلومات)",
+    "options": [
+      "scamming",
+      "hunting",
+      "phishing",
+      "fishing"
+    ],
+    "answer": "phishing"
+  },
+  {
+    "question": "لديه توحد",
+    "options": [
+      "He has autism",
+      "He is deaf",
+      "He has anxiety",
+      "He has cancer"
+    ],
+    "answer": "He has autism"
+  },
+  {
+    "question": "يختار شيئًا",
+    "options": [
+      "opt for",
+      "go against",
+      "run from",
+      "let go"
+    ],
+    "answer": "opt for"
+  },
+  {
+    "question": "يقرر أن يفعل شيئًا",
+    "options": [
+      "opt in",
+      "opt to",
+      "plan not to",
+      "opt out"
+    ],
+    "answer": "opt to"
+  },
+  {
+    "question": "قصر صغير أو بيت كبير",
+    "options": [
+      "konak",
+      "cottage",
+      "palace",
+      "mansion"
+    ],
+    "answer": "konak"
+  },
+  {
+    "question": "مناورة",
+    "options": [
+      "fight",
+      "maneuver",
+      "error",
+      "shortcut"
+    ],
+    "answer": "maneuver"
   },
   {
     "question": "happy",

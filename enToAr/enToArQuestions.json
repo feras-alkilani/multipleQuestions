@@ -1810,16 +1810,6 @@
     "answer": "استهلاك"
   },
   {
-    "question": "appropriately",
-    "options": [
-      "بشكل مناسب",
-      "بشكل خاطئ",
-      "بشكل سريع",
-      "بشكل غير ملائم"
-    ],
-    "answer": "بشكل مناسب"
-  },
-  {
     "question": "portion",
     "options": [
       "جزء",
@@ -3393,7 +3383,7 @@
       "مرونة",
       "صلابة"
     ],
-    "answer": "ثغرات"
+    "answer": "ثغرات أو نقاط ضعف"
   },
   {
     "question": "in-depth",
@@ -3719,12 +3709,12 @@
   {
     "question": "Autistic",
     "options": [
-      "توحدي",
+      "مصاب بالتوحد",
       "انطوائي",
       "حزين",
       "شارد الذهن"
     ],
-    "answer": "توحدي"
+    "answer": "مصاب بالتوحد"
   },
   {
     "question": "introvert",
@@ -3786,6 +3776,316 @@
       "هذا أمر سهل جدً"
     ],
     "answer": "هذا أمر سهل جدً"
+  },
+  {
+    "question": "not see for dust",
+    "options": [
+      "يغادر بسرعة",
+      "يختفي فجأة",
+      "ينظف المكان جيدًا",
+      "يعاني من ضعف البصر"
+    ],
+    "answer": "يغادر بسرعة"
+  },
+  {
+    "question": "forensic",
+    "options": [
+      "جنائي",
+      "أدبي",
+      "اجتماعي",
+      "إعلامي"
+    ],
+    "answer": "جنائي"
+  },
+  {
+    "question": "evidence",
+    "options": [
+      "دليل",
+      "افتراض",
+      "ادعاء",
+      "معلومة غير مؤكدة"
+    ],
+    "answer": "دليل"
+  },
+  {
+    "question": "vulnerability",
+    "options": [
+      "ضعف",
+      "قوة",
+      "استقرار",
+      "توازن"
+    ],
+    "answer": "ضعف"
+  },
+  {
+    "question": "assessor",
+    "options": [
+      "مُقيِّم",
+      "طالب",
+      "مشرف",
+      "محقق"
+    ],
+    "answer": "مُقيِّم"
+  },
+  {
+    "question": "confidentiality",
+    "options": [
+      "سرية",
+      "علنية",
+      "تعاون",
+      "نزاهة"
+    ],
+    "answer": "سرية"
+  },
+  {
+    "question": "negligence",
+    "options": [
+      "إهمال",
+      "حرص",
+      "التزام",
+      "تنظيم"
+    ],
+    "answer": "إهمال"
+  },
+  {
+    "question": "alteration",
+    "options": [
+      "تعديل",
+      "تكرار",
+      "رفض",
+      "تحقيق"
+    ],
+    "answer": "تعديل"
+  },
+  {
+    "question": "tease (verb)",
+    "options": [
+      "يمازح",
+      "يضرب",
+      "يهرب",
+      "يشرح"
+    ],
+    "answer": "يمازح"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "إغراء جنسي دون نية جدية",
+      "إهانة",
+      "نصيحة",
+      "مراقبة"
+    ],
+    "answer": "إغراء جنسي دون نية جدية"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "يسرّح الشعر للتكثيف",
+      "يغسل الشعر",
+      "يقص الشعر",
+      "يصبغ الشعر"
+    ],
+    "answer": "يسرّح الشعر للتكثيف"
+  },
+  {
+    "question": "tease",
+    "options": [
+      "يلمّح / يشوّق",
+      "ينتقد",
+      "يسأل",
+      "يؤكد"
+    ],
+    "answer": "يلمّح / يشوّق"
+  },
+  {
+    "question": "tease (Noun)",
+    "options": [
+      "شخص يُغري أو يمازح كثيرًا",
+      "شخص منعزل",
+      "شخص أناني",
+      "شخص خجول"
+    ],
+    "answer": "شخص يُغري أو يمازح كثيرًا"
+  },
+  {
+    "question": "Make fun of",
+    "options": [
+      "يسخر من شخص بطريقة قد تكون مهينة",
+      "يشجّع شخصًا",
+      "يقلد شخصًا باحترام",
+      "يمدح شخصًا"
+    ],
+    "answer": "يسخر من شخص بطريقة قد تكون مهينة"
+  },
+  {
+    "question": "Tease",
+    "options": [
+      "يمازح أو يضايق بلطف أو بخفة",
+      "يضرب بشدة",
+      "يؤذي عمدًا",
+      "يُهمل شخصًا"
+    ],
+    "answer": "يمازح أو يضايق بلطف أو بخفة"
+  },
+  {
+    "question": "intentional",
+    "options": [
+      "متعمد",
+      "غير مقصود",
+      "عشوائي",
+      "مفاجئ"
+    ],
+    "answer": "متعمد"
+  },
+  {
+    "question": "redundancy",
+    "options": [
+      "فائض / تكرار",
+      "نقص",
+      "ابتكار",
+      "ندرة"
+    ],
+    "answer": "فائض / تكرار"
+  },
+  {
+    "question": "perspective",
+    "options": [
+      "وجهة نظر",
+      "حقيقة",
+      "تاريخ",
+      "خريطة"
+    ],
+    "answer": "وجهة نظر"
+  },
+  {
+    "question": "inefficient",
+    "options": [
+      "غير فعّال",
+      "سريع",
+      "دقيق",
+      "ماهر"
+    ],
+    "answer": "غير فعّال"
+  },
+  {
+    "question": "vulnerable",
+    "options": [
+      "عرضة للخطر",
+      "قوي",
+      "مستقر",
+      "غير متأثر"
+    ],
+    "answer": "عرضة للخطر"
+  },
+  {
+    "question": "potential",
+    "options": [
+      "إمكانية",
+      "مخاطرة",
+      "مشكلة",
+      "شك"
+    ],
+    "answer": "إمكانية"
+  },
+  {
+    "question": "disclosure",
+    "options": [
+      "كشف / إفشاء",
+      "إخفاء",
+      "تحذير",
+      "حماية"
+    ],
+    "answer": "كشف / إفشاء"
+  },
+  {
+    "question": "closure",
+    "options": [
+      "إغلاق",
+      "افتتاح",
+      "تمديد",
+      "إلغاء"
+    ],
+    "answer": "إغلاق"
+  },
+  {
+    "question": "inconvenience",
+    "options": [
+      "إزعاج",
+      "راحة",
+      "استمتاع",
+      "تقدير"
+    ],
+    "answer": "إزعاج"
+  },
+  {
+    "question": "embarrassment",
+    "options": [
+      "إحراج",
+      "فخر",
+      "رضا",
+      "نجاح"
+    ],
+    "answer": "إحراج"
+  },
+  {
+    "question": "I am bursting",
+    "options": [
+      "لازم روح عالتواليت",
+      "أشعر بالملل",
+      "أشعر بالجوع",
+      "أريد النوم"
+    ],
+    "answer": "لازم روح عالتواليت"
+  },
+  {
+    "question": "originate",
+    "options": [
+      "ينشأ / ينحدر",
+      "ينتهي",
+      "يعارض",
+      "يُهمَل"
+    ],
+    "answer": "ينشأ / ينحدر"
+  },
+  {
+    "question": "I'm about to explode",
+    "options": [
+      "لازم روح عالتواليت",
+      "سأنفجر غضبًا",
+      "سأبكي",
+      "سأضحك بشدة"
+    ],
+    "answer": "لازم روح عالتواليت"
+  },
+  {
+    "question": "I'm gonna pee myself",
+    "options": [
+      "لازم روح عالتواليت",
+      "سأنام فورًا",
+      "سأتقيأ",
+      "سأغيب عن الوعي"
+    ],
+    "answer": "لازم روح عالتواليت"
+  },
+  {
+    "question": "I can't hold it anymore!",
+    "options": [
+      "لازم روح عالتواليت",
+      "لم أعد أتحمل الغضب",
+      "سأنفجر بالبكاء",
+      "سأنام فورًا"
+    ],
+    "answer": "لازم روح عالتواليت"
+  },
+  {
+    "question": "Emergency! My bladder's about to quit.",
+    "options": [
+      "لازم روح عالتواليت",
+      "حدث طارئ في العمل",
+      "أنا خائف جدًا",
+      "أشعر بالجوع المفاجئ"
+    ],
+    "answer": "لازم روح عالتواليت"
   },
   {
     "question": "Boss",
@@ -7276,16 +7576,6 @@
     "answer": "عرضة"
   },
   {
-    "question": "appropriately",
-    "options": [
-      "بشكل مناسب",
-      "بتهور",
-      "عشوائيًا",
-      "بتأخير"
-    ],
-    "answer": "بشكل مناسب"
-  },
-  {
     "question": "peers",
     "options": [
       "أقران",
@@ -7984,16 +8274,6 @@
       "خائف"
     ],
     "answer": "في قمة السعادة"
-  },
-  {
-    "question": "vulnerabilities",
-    "options": [
-      "ثغرات",
-      "قوة",
-      "أمان",
-      "حماية"
-    ],
-    "answer": "ثغرات"
   },
   {
     "question": "rear",
@@ -16871,16 +17151,6 @@
       "قبعة"
     ],
     "answer": "سترة صحفية"
-  },
-  {
-    "question": "appropriately",
-    "options": [
-      "بشكل مناسب",
-      "بشكل خاطئ",
-      "ببطء",
-      "بسرعة"
-    ],
-    "answer": "بشكل مناسب"
   },
   {
     "question": "Witness",
@@ -26933,6 +27203,496 @@
     "answer": "هي خرابة بيوت"
   },
   {
+    "question": "اتبع احساسك",
+    "options": [
+      "go with your gut",
+      "gut decision",
+      "gut reaction",
+      "he has guts"
+    ],
+    "answer": "go with your gut"
+  },
+  {
+    "question": "قرار مبني على الإحساس",
+    "options": [
+      "gut feeling",
+      "gut reaction",
+      "gut decision",
+      "instinct"
+    ],
+    "answer": "gut decision"
+  },
+  {
+    "question": "رد فعل تلقائي / عفوي",
+    "options": [
+      "gut decision",
+      "gut reaction",
+      "he has guts",
+      "go with your gut"
+    ],
+    "answer": "gut reaction"
+  },
+  {
+    "question": "عنده شجاعة",
+    "options": [
+      "he has guts",
+      "bravery",
+      "coward",
+      "fear"
+    ],
+    "answer": "he has guts"
+  },
+  {
+    "question": "طاقم عمل",
+    "options": [
+      "stuff",
+      "staff",
+      "stiff",
+      "steps"
+    ],
+    "answer": "staff"
+  },
+  {
+    "question": "أشياء أو أدوات",
+    "options": [
+      "staff",
+      "stiff",
+      "stuff",
+      "supplies"
+    ],
+    "answer": "stuff"
+  },
+  {
+    "question": "قاس أو صلب",
+    "options": [
+      "soft",
+      "stiff",
+      "staff",
+      "stuff"
+    ],
+    "answer": "stiff"
+  },
+  {
+    "question": "يعبي كاسة أو خزان أو .... الخ",
+    "options": [
+      "fill up",
+      "top you off",
+      "top off",
+      "charge"
+    ],
+    "answer": "top off"
+  },
+  {
+    "question": "عبيلك",
+    "options": [
+      "top you off",
+      "fill it",
+      "serve you",
+      "refill"
+    ],
+    "answer": "top you off"
+  },
+  {
+    "question": "بقدر عبيلك؟",
+    "options": [
+      "can I top you off?",
+      "need a refill?",
+      "do you want more?",
+      "should I serve you?"
+    ],
+    "answer": "can I top you off?"
+  },
+  {
+    "question": "على حسابي",
+    "options": [
+      "free of charge",
+      "on the house",
+      "no payment",
+      "special offer"
+    ],
+    "answer": "on the house"
+  },
+  {
+    "question": "إما أن تلتزم وتنضبط أو تغادر المكان",
+    "options": [
+      "shape up or ship out",
+      "follow the rules",
+      "be disciplined",
+      "get lost"
+    ],
+    "answer": "shape up or ship out"
+  },
+  {
+    "question": "شخص يتملق للمدير لكي يكسب رضاه",
+    "options": [
+      "brown-noser",
+      "liar",
+      "manager's pet",
+      "bootlicker"
+    ],
+    "answer": "brown-noser"
+  },
+  {
+    "question": "كلمات لا يُلفظ فيها حرف B",
+    "options": [
+      "Doubt",
+      "Debt",
+      "Bomb",
+      "Climb"
+    ],
+    "answer": "Doubt"
+  },
+  {
+    "question": "صالحة للأكل",
+    "options": [
+      "edible",
+      "eatable",
+      "consumable",
+      "eaten"
+    ],
+    "answer": "edible"
+  },
+  {
+    "question": "صالحة للسكن",
+    "options": [
+      "livable",
+      "habitable",
+      "residential",
+      "inhabited"
+    ],
+    "answer": "habitable"
+  },
+  {
+    "question": "مصادفة",
+    "options": [
+      "coincidence",
+      "fate",
+      "accident",
+      "incident"
+    ],
+    "answer": "coincidence"
+  },
+  {
+    "question": "يا لها من مصادفة",
+    "options": [
+      "what a coincidence",
+      "that’s strange",
+      "really unexpected",
+      "how odd"
+    ],
+    "answer": "what a coincidence"
+  },
+  {
+    "question": "go with your gut",
+    "options": [
+      "اتبع إحساسك",
+      "خذ وقتك بالتفكير",
+      "اتبع المنطق",
+      "لا تفعل شيئاً"
+    ],
+    "answer": "اتبع إحساسك"
+  },
+  {
+    "question": "Gut decision",
+    "options": [
+      "قرار مبني على الإحساس",
+      "قرار منطقي",
+      "قرار نهائي",
+      "قرار قانوني"
+    ],
+    "answer": "قرار مبني على الإحساس"
+  },
+  {
+    "question": "Gut reaction",
+    "options": [
+      "رد فعل تلقائي / عفوي",
+      "رد فعل مخطط",
+      "رد فعل غاضب",
+      "رد فعل بارد"
+    ],
+    "answer": "رد فعل تلقائي / عفوي"
+  },
+  {
+    "question": "He has guts.",
+    "options": [
+      "عنده شجاعة",
+      "عنده طموح",
+      "عنده معلومات",
+      "عنده حظ"
+    ],
+    "answer": "عنده شجاعة"
+  },
+  {
+    "question": "staff",
+    "options": [
+      "طاقم عمل",
+      "أدوات منزلية",
+      "صلابة",
+      "مساحة"
+    ],
+    "answer": "طاقم عمل"
+  },
+  {
+    "question": "stuff",
+    "options": [
+      "أشياء أو أدوات",
+      "طاقم عمل",
+      "صلابة",
+      "مسؤوليات"
+    ],
+    "answer": "أشياء أو أدوات"
+  },
+  {
+    "question": "stiff",
+    "options": [
+      "قاس أو صلب",
+      "أشياء أو أدوات",
+      "سريع",
+      "مضحك"
+    ],
+    "answer": "قاس أو صلب"
+  },
+  {
+    "question": "top off",
+    "options": [
+      "يعبي كاسة أو خزان أو .... الخ",
+      "يبدأ شيئًا",
+      "ينظف شيئًا",
+      "يصلح شيئًا"
+    ],
+    "answer": "يعبي كاسة أو خزان أو .... الخ"
+  },
+  {
+    "question": "top you off",
+    "options": [
+      "عبيلك",
+      "اسحبك",
+      "وصلك",
+      "أوصيك"
+    ],
+    "answer": "عبيلك"
+  },
+  {
+    "question": "can I top you off?",
+    "options": [
+      "بقدر عبيلك؟",
+      "بقدر أساعدك؟",
+      "بقدر أوصلك؟",
+      "بقدر آخذ طلبك؟"
+    ],
+    "answer": "بقدر عبيلك؟"
+  },
+  {
+    "question": "on the house",
+    "options": [
+      "على حسابي",
+      "على الطاولة",
+      "من البيت",
+      "على الدور"
+    ],
+    "answer": "على حسابي"
+  },
+  {
+    "question": "shape up or ship out",
+    "options": [
+      "إما أن تلتزم وتنضبط أو تغادر المكان",
+      "حسّن مظهرك أو غادر",
+      "انتهى وقتك هنا",
+      "استعد للرحيل"
+    ],
+    "answer": "إما أن تلتزم وتنضبط أو تغادر المكان"
+  },
+  {
+    "question": "brown-noser",
+    "options": [
+      "شخص يتملق للمدير لكي يكسب رضاه",
+      "شخص فضولي",
+      "شخص فوضوي",
+      "شخص منافق"
+    ],
+    "answer": "شخص يتملق للمدير لكي يكسب رضاه"
+  },
+  {
+    "question": "Doubt",
+    "options": [
+      "شك",
+      "ديْن",
+      "إبهام",
+      "صعود"
+    ],
+    "answer": "شك"
+  },
+  {
+    "question": "Debt",
+    "options": [
+      "دين",
+      "شك",
+      "قنبلة",
+      "خداع"
+    ],
+    "answer": "دين"
+  },
+  {
+    "question": "subtle",
+    "options": [
+      "دقيق / غير واضح",
+      "شديد",
+      "واضح",
+      "عنيف"
+    ],
+    "answer": "دقيق / غير واضح"
+  },
+  {
+    "question": "thumb",
+    "options": [
+      "إبهام",
+      "دين",
+      "شك",
+      "قنبلة"
+    ],
+    "answer": "إبهام"
+  },
+  {
+    "question": "climb",
+    "options": [
+      "صعود",
+      "هبوط",
+      "توازن",
+      "ضغط"
+    ],
+    "answer": "صعود"
+  },
+  {
+    "question": "comb",
+    "options": [
+      "مشط",
+      "دين",
+      "إبهام",
+      "قنبلة"
+    ],
+    "answer": "مشط"
+  },
+  {
+    "question": "bomb",
+    "options": [
+      "قنبلة",
+      "إبهام",
+      "دين",
+      "صدفة"
+    ],
+    "answer": "قنبلة"
+  },
+  {
+    "question": "edible",
+    "options": [
+      "صالح للأكل",
+      "قابل للسكن",
+      "مضحك",
+      "مطبوخ"
+    ],
+    "answer": "صالح للأكل"
+  },
+  {
+    "question": "habitable",
+    "options": [
+      "قابل للسكن",
+      "صالح للأكل",
+      "مزدحم",
+      "مريح"
+    ],
+    "answer": "قابل للسكن"
+  },
+  {
+    "question": "coincidence",
+    "options": [
+      "صدفة",
+      "تعارض",
+      "اتفاق",
+      "تخطيط"
+    ],
+    "answer": "صدفة"
+  },
+  {
+    "question": "what a coincidence",
+    "options": [
+      "يا لها من صدفة!",
+      "كم هو غريب!",
+      "ما هذا التوقيت!",
+      "هل تخطط لهذا؟"
+    ],
+    "answer": "يا لها من صدفة!"
+  },
+  {
+    "question": "bear in mind",
+    "options": [
+      "خليها ببالك - لا يغيب عن ذهنك",
+      "لا تنساها",
+      "تخيلها جيداً",
+      "دافع عنها"
+    ],
+    "answer": "خليها ببالك - لا يغيب عن ذهنك"
+  },
+  {
+    "question": "memorandum ( Memo )",
+    "options": [
+      "مذكرة داخلية",
+      "مقال طويل",
+      "جدول أعمال",
+      "أجندة يومية"
+    ],
+    "answer": "مذكرة داخلية"
+  },
+  {
+    "question": "Essay",
+    "options": [
+      "مقال",
+      "رواية",
+      "مذكرة",
+      "تقرير"
+    ],
+    "answer": "مقال"
+  },
+  {
+    "question": "خليها ببالك - لا يغيب عن ذهنك",
+    "options": [
+      "bear in mind",
+      "don’t forget",
+      "remember that",
+      "keep it"
+    ],
+    "answer": "bear in mind"
+  },
+  {
+    "question": "مذكرة إدارية",
+    "options": [
+      "memorandum (memo)",
+      "notice",
+      "report",
+      "announcement"
+    ],
+    "answer": "memorandum (memo)"
+  },
+  {
+    "question": "طاقم عمل - أشياء أو أدوات - قاس أو صلب",
+    "options": [
+      "staff - stuff - stiff",
+      "team - tools - tight",
+      "crew - items - hard",
+      "work - gear - solid"
+    ],
+    "answer": "staff - stuff - stiff"
+  },
+  {
+    "question": "مقال",
+    "options": [
+      "essay",
+      "report",
+      "memo",
+      "summary"
+    ],
+    "answer": "essay"
+  },
+  {
     "question": "bear in mind",
     "options": [
       "ضع في الاعتبار",
@@ -27231,6 +27991,726 @@
       "يركض"
     ],
     "answer": "ينتصر"
+  },
+  {
+    "question": "Through which organization did you come to us?",
+    "options": [
+      "من خلال أي منظمة أتيت إلينا؟",
+      "ما هو اسم المنظمة؟",
+      "من دعاك؟",
+      "أين تعمل؟"
+    ],
+    "answer": "من خلال أي منظمة أتيت إلينا؟"
+  },
+  {
+    "question": "anniversary",
+    "options": [
+      "ذكرى سنوية",
+      "عيد ميلاد",
+      "احتفال",
+      "حفل زفاف"
+    ],
+    "answer": "ذكرى سنوية"
+  },
+  {
+    "question": "abled",
+    "options": [
+      "قادر جسديًا",
+      "معاق",
+      "ضعيف",
+      "بطيء الحركة"
+    ],
+    "answer": "قادر جسديًا"
+  },
+  {
+    "question": "aviation",
+    "options": [
+      "طيران",
+      "ملاحة بحرية",
+      "قطار",
+      "سفينة"
+    ],
+    "answer": "طيران"
+  },
+  {
+    "question": "meant to play",
+    "options": [
+      "مقدر له أن يلعب",
+      "يجب أن يرتاح",
+      "يلعب أحيانًا",
+      "منع من اللعب"
+    ],
+    "answer": "مقدر له أن يلعب"
+  },
+  {
+    "question": "thrust",
+    "options": [
+      "دفع",
+      "سحب",
+      "سقوط",
+      "اهتزاز"
+    ],
+    "answer": "دفع"
+  },
+  {
+    "question": "army",
+    "options": [
+      "جيش",
+      "شرطة",
+      "حرس",
+      "قوات جوية"
+    ],
+    "answer": "جيش"
+  },
+  {
+    "question": "tribute",
+    "options": [
+      "تحية أو تكريم",
+      "نقد",
+      "رفض",
+      "إهانة"
+    ],
+    "answer": "تحية أو تكريم"
+  },
+  {
+    "question": "founder",
+    "options": [
+      "مؤسس",
+      "موظف",
+      "رئيس",
+      "مدير"
+    ],
+    "answer": "مؤسس"
+  },
+  {
+    "question": "accomplishments",
+    "options": [
+      "إنجازات",
+      "أحلام",
+      "أهداف",
+      "خطط"
+    ],
+    "answer": "إنجازات"
+  },
+  {
+    "question": "chairman",
+    "options": [
+      "رئيس مجلس الإدارة",
+      "عضو",
+      "كاتب",
+      "سكرتير"
+    ],
+    "answer": "رئيس مجلس الإدارة"
+  },
+  {
+    "question": "destiny",
+    "options": [
+      "مصير",
+      "اختيار",
+      "نهاية",
+      "فرصة"
+    ],
+    "answer": "مصير"
+  },
+  {
+    "question": "enduring",
+    "options": [
+      "دائم",
+      "مؤقت",
+      "قصير",
+      "ضعيف"
+    ],
+    "answer": "دائم"
+  },
+  {
+    "question": "substantial",
+    "options": [
+      "كبير/جوهري",
+      "صغير",
+      "محدود",
+      "نادر"
+    ],
+    "answer": "كبير/جوهري"
+  },
+  {
+    "question": "compilation",
+    "options": [
+      "تجميع",
+      "تحليل",
+      "حذف",
+      "تنظيف"
+    ],
+    "answer": "تجميع"
+  },
+  {
+    "question": "illustrated",
+    "options": [
+      "موضّح",
+      "غامض",
+      "غير واضح",
+      "مهمل"
+    ],
+    "answer": "موضّح"
+  },
+  {
+    "question": "conscript",
+    "options": [
+      "مجند إجباريًا",
+      "متطوع",
+      "مدني",
+      "ضابط"
+    ],
+    "answer": "مجند إجباريًا"
+  },
+  {
+    "question": "eventful",
+    "options": [
+      "حافل بالأحداث",
+      "هادئ",
+      "ممل",
+      "بسيط"
+    ],
+    "answer": "حافل بالأحداث"
+  },
+  {
+    "question": "handwriting",
+    "options": [
+      "خط اليد",
+      "كتابة آلية",
+      "طباعة",
+      "نقش"
+    ],
+    "answer": "خط اليد"
+  },
+  {
+    "question": "conqueror",
+    "options": [
+      "غازٍ",
+      "شجاع",
+      "مغامر",
+      "مواطن"
+    ],
+    "answer": "غازٍ"
+  },
+  {
+    "question": "aspirational embodiment",
+    "options": [
+      "تجسيد طموحي",
+      "نموذج فاشل",
+      "هدف صغير",
+      "صورة رمزية"
+    ],
+    "answer": "تجسيد طموحي"
+  },
+  {
+    "question": "diet",
+    "options": [
+      "حمية",
+      "طعام عشوائي",
+      "ماء فقط",
+      "صيام"
+    ],
+    "answer": "حمية"
+  },
+  {
+    "question": "I am on a diet",
+    "options": [
+      "أنا أتّبع حمية",
+      "أنا جائع",
+      "لا أحب الطعام",
+      "أصوم"
+    ],
+    "answer": "أنا أتّبع حمية"
+  },
+  {
+    "question": "investigate",
+    "options": [
+      "يحقق",
+      "يتجاهل",
+      "يساعد",
+      "يهرب"
+    ],
+    "answer": "يحقق"
+  },
+  {
+    "question": "vocabulary",
+    "options": [
+      "مفردات",
+      "قواعد",
+      "خط",
+      "كلمات مشوشة"
+    ],
+    "answer": "مفردات"
+  },
+  {
+    "question": "I will be ordering the cessation",
+    "options": [
+      "سأصدر أمرًا بوقف الأمر",
+      "سأبدأ المشروع",
+      "سأطلب المساعدة",
+      "سأؤجل العمل"
+    ],
+    "answer": "سأصدر أمرًا بوقف الأمر"
+  },
+  {
+    "question": "coke",
+    "options": [
+      "كوكاكولا",
+      "فحم",
+      "كوكايين",
+      "حسب السياق"
+    ],
+    "answer": "حسب السياق"
+  },
+  {
+    "question": "can it!",
+    "options": [
+      "اصمت!",
+      "تكلّم!",
+      "احكِ أكثر!",
+      "اذهب الآن!"
+    ],
+    "answer": "اصمت!"
+  },
+  {
+    "question": "You're always complaining. Can it!",
+    "options": [
+      "أنت دائم الشكوى. اصمت!",
+      "أنت دائم الشكوى. تابع!",
+      "اشكر ربك!",
+      "كفى مزاحًا!"
+    ],
+    "answer": "أنت دائم الشكوى. اصمت!"
+  },
+  {
+    "question": "I plead the fifth",
+    "options": [
+      "أحتفظ بحقي في الصمت",
+      "أطلب المساعدة",
+      "أعترف",
+      "أنكر"
+    ],
+    "answer": "أحتفظ بحقي في الصمت"
+  },
+  {
+    "question": "plead",
+    "options": [
+      "يتوسل أو يدفع ببراءته",
+      "يشرح",
+      "يأمر",
+      "ينسحب"
+    ],
+    "answer": "يتوسل أو يدفع ببراءته"
+  },
+  {
+    "question": "Hinge",
+    "options": [
+      "مفصل الباب",
+      "مسمار",
+      "مقبض",
+      "مفتاح"
+    ],
+    "answer": "مفصل الباب"
+  },
+  {
+    "question": "repair",
+    "options": [
+      "يصلح",
+      "يكسر",
+      "يقطع",
+      "يرمي"
+    ],
+    "answer": "يصلح"
+  },
+  {
+    "question": "Drain",
+    "options": [
+      "مصرف",
+      "حنفية",
+      "مضخة",
+      "سقف"
+    ],
+    "answer": "مصرف"
+  },
+  {
+    "question": "lounge",
+    "options": [
+      "صالة",
+      "باب",
+      "سرير",
+      "ممر"
+    ],
+    "answer": "صالة"
+  },
+  {
+    "question": "battalion",
+    "options": [
+      "كتيبة",
+      "خيمة",
+      "بندقية",
+      "معركة"
+    ],
+    "answer": "كتيبة"
+  },
+  {
+    "question": "contractor",
+    "options": [
+      "مقاول",
+      "عامل",
+      "مشرف",
+      "مورد"
+    ],
+    "answer": "مقاول"
+  },
+  {
+    "question": "horn",
+    "options": [
+      "بوق",
+      "مقبض",
+      "خاتم",
+      "غطاء"
+    ],
+    "answer": "بوق"
+  },
+  {
+    "question": "morale",
+    "options": [
+      "معنويات",
+      "قانون",
+      "شجاعة",
+      "تكتيك"
+    ],
+    "answer": "معنويات"
+  },
+  {
+    "question": "fraught",
+    "options": [
+      "مثقل",
+      "فارغ",
+      "بسيط",
+      "ضعيف"
+    ],
+    "answer": "مثقل"
+  },
+  {
+    "question": "disarming",
+    "options": [
+      "مُسْتَلِب للسلاح",
+      "هجومي",
+      "مُسلح",
+      "قاتل"
+    ],
+    "answer": "مُسْتَلِب للسلاح"
+  },
+  {
+    "question": "exaggerated",
+    "options": [
+      "مبالغ فيه",
+      "واقعي",
+      "غير كافٍ",
+      "مقبول"
+    ],
+    "answer": "مبالغ فيه"
+  },
+  {
+    "question": "mutual consent",
+    "options": [
+      "اتفاق متبادل",
+      "خلاف دائم",
+      "سيطرة فردية",
+      "قرار قسري"
+    ],
+    "answer": "اتفاق متبادل"
+  },
+  {
+    "question": "erupts",
+    "options": [
+      "ينفجر",
+      "يهدأ",
+      "يختفي",
+      "يغلق"
+    ],
+    "answer": "ينفجر"
+  },
+  {
+    "question": "sermon",
+    "options": [
+      "موعظة",
+      "قصة",
+      "قصيدة",
+      "محاضرة علمية"
+    ],
+    "answer": "موعظة"
+  },
+  {
+    "question": "proxy",
+    "options": [
+      "وكيل",
+      "عدو",
+      "قائد",
+      "أجير"
+    ],
+    "answer": "وكيل"
+  },
+  {
+    "question": "ergonomics",
+    "options": [
+      "علم الراحة",
+      "الميكانيكا",
+      "الفيزياء",
+      "الطب الحيوي"
+    ],
+    "answer": "علم الراحة"
+  },
+  {
+    "question": "territory",
+    "options": [
+      "إقليم",
+      "قرية",
+      "حديقة",
+      "حي"
+    ],
+    "answer": "إقليم"
+  },
+  {
+    "question": "presence",
+    "options": [
+      "حضور",
+      "غياب",
+      "إهمال",
+      "انسحاب"
+    ],
+    "answer": "حضور"
+  },
+  {
+    "question": "antiques",
+    "options": [
+      "تحف",
+      "أدوات",
+      "أقمشة",
+      "ألعاب"
+    ],
+    "answer": "تحف"
+  },
+  {
+    "question": "temples",
+    "options": [
+      "معابد",
+      "قصور",
+      "كنائس",
+      "مدارس"
+    ],
+    "answer": "معابد"
+  },
+  {
+    "question": "generous",
+    "options": [
+      "كريم",
+      "بخيل",
+      "متردد",
+      "متشدد"
+    ],
+    "answer": "كريم"
+  },
+  {
+    "question": "incentives",
+    "options": [
+      "حوافز",
+      "ضرائب",
+      "عقوبات",
+      "قيود"
+    ],
+    "answer": "حوافز"
+  },
+  {
+    "question": "terrible",
+    "options": [
+      "فظيع",
+      "رائع",
+      "مقبول",
+      "ضعيف"
+    ],
+    "answer": "فظيع"
+  },
+  {
+    "question": "invasion",
+    "options": [
+      "غزو",
+      "انسحاب",
+      "هدنة",
+      "حوار"
+    ],
+    "answer": "غزو"
+  },
+  {
+    "question": "caspian",
+    "options": [
+      "قزوين",
+      "أطلسي",
+      "هندي",
+      "أحمر"
+    ],
+    "answer": "قزوين"
+  },
+  {
+    "question": "coup",
+    "options": [
+      "انقلاب",
+      "تظاهرة",
+      "إضراب",
+      "مفاوضة"
+    ],
+    "answer": "انقلاب"
+  },
+  {
+    "question": "military coup",
+    "options": [
+      "انقلاب عسكري",
+      "هجوم نووي",
+      "انسحاب تكتيكي",
+      "احتلال اقتصادي"
+    ],
+    "answer": "انقلاب عسكري"
+  },
+  {
+    "question": "nexus",
+    "options": [
+      "صلة",
+      "عقدة",
+      "نهاية",
+      "عائق"
+    ],
+    "answer": "صلة"
+  },
+  {
+    "question": "teasing",
+    "options": [
+      "مضايقة",
+      "لعب",
+      "مدح",
+      "مساعدة"
+    ],
+    "answer": "مضايقة"
+  },
+  {
+    "question": "racist",
+    "options": [
+      "عنصري",
+      "محايد",
+      "وطني",
+      "ليبرالي"
+    ],
+    "answer": "عنصري"
+  },
+  {
+    "question": "frank",
+    "options": [
+      "صريح",
+      "غامض",
+      "كاذب",
+      "ساخر"
+    ],
+    "answer": "صريح"
+  },
+  {
+    "question": "hostile",
+    "options": [
+      "عدائي",
+      "ودود",
+      "محايد",
+      "مرحب"
+    ],
+    "answer": "عدائي"
+  },
+  {
+    "question": "rivers",
+    "options": [
+      "أنهار",
+      "جبال",
+      "سهول",
+      "غابات"
+    ],
+    "answer": "أنهار"
+  },
+  {
+    "question": "gang",
+    "options": [
+      "عصابة",
+      "فرقة",
+      "عائلة",
+      "قبيلة"
+    ],
+    "answer": "عصابة"
+  },
+  {
+    "question": "grand deal",
+    "options": [
+      "صفقة كبرى",
+      "نزاع طويل",
+      "تفاهم بسيط",
+      "اقتراح مرفوض"
+    ],
+    "answer": "صفقة كبرى"
+  },
+  {
+    "question": "harass",
+    "options": [
+      "يُضايق",
+      "يُكرم",
+      "يُساعد",
+      "يُقنع"
+    ],
+    "answer": "يُضايق"
+  },
+  {
+    "question": "expelled",
+    "options": [
+      "مطرود",
+      "ناجح",
+      "منتقل",
+      "مقبول"
+    ],
+    "answer": "مطرود"
+  },
+  {
+    "question": "servant",
+    "options": [
+      "خادم",
+      "معلم",
+      "مهندس",
+      "طبيب"
+    ],
+    "answer": "خادم"
+  },
+  {
+    "question": "ignited",
+    "options": [
+      "أشعل",
+      "أطفأ",
+      "خفض",
+      "أغلق"
+    ],
+    "answer": "أشعل"
+  },
+  {
+    "question": "The drain is clogged.",
+    "options": [
+      "المصرف مسدود",
+      "البالوعة مفتوحة",
+      "الماء نقي",
+      "لا يوجد مصرف"
+    ],
+    "answer": "المصرف مسدود"
+  },
+  {
+    "question": "bish bash bosh",
+    "options": [
+      "بكل سهولة وسرعة",
+      "بهدوء",
+      "بطء شديد",
+      "خوفًا"
+    ],
+    "answer": "بكل سهولة وسرعة"
   },
   {
     "question": "Halt",
@@ -29353,6 +30833,936 @@
     "answer": "Iron contracts when it cools."
   },
   {
+    "question": "segregation",
+    "options": [
+      "فصل",
+      "دمج",
+      "توازن",
+      "توزيع"
+    ],
+    "answer": "فصل"
+  },
+  {
+    "question": "guesswork",
+    "options": [
+      "تخمين",
+      "بحث",
+      "تحقيق",
+      "تأكيد"
+    ],
+    "answer": "تخمين"
+  },
+  {
+    "question": "Gambling",
+    "options": [
+      "مقامرة",
+      "ادخار",
+      "إقراض",
+      "استثمار"
+    ],
+    "answer": "مقامرة"
+  },
+  {
+    "question": "deception",
+    "options": [
+      "خداع",
+      "صدق",
+      "وضوح",
+      "شفافية"
+    ],
+    "answer": "خداع"
+  },
+  {
+    "question": "subterfuge",
+    "options": [
+      "حيلة",
+      "قوة",
+      "حقيقة",
+      "إقناع"
+    ],
+    "answer": "حيلة"
+  },
+  {
+    "question": "chicanery",
+    "options": [
+      "مراوغة",
+      "وضوح",
+      "صراحة",
+      "احترام"
+    ],
+    "answer": "مراوغة"
+  },
+  {
+    "question": "maniac",
+    "options": [
+      "مجنون",
+      "عاقل",
+      "حكيم",
+      "طبيب"
+    ],
+    "answer": "مجنون"
+  },
+  {
+    "question": "safeguards",
+    "options": [
+      "ضمانات",
+      "مخاطر",
+      "تهديدات",
+      "مشاكل"
+    ],
+    "answer": "ضمانات"
+  },
+  {
+    "question": "household",
+    "options": [
+      "أسرة",
+      "شركة",
+      "مدرسة",
+      "مستشفى"
+    ],
+    "answer": "أسرة"
+  },
+  {
+    "question": "spin cycle",
+    "options": [
+      "دورة العصر",
+      "غسيل يدوي",
+      "تنشيف شمسي",
+      "رذاذ الماء"
+    ],
+    "answer": "دورة العصر"
+  },
+  {
+    "question": "prominent",
+    "options": [
+      "بارز",
+      "مخفي",
+      "ثانوي",
+      "ضعيف"
+    ],
+    "answer": "بارز"
+  },
+  {
+    "question": "residual",
+    "options": [
+      "متبقي",
+      "أساسي",
+      "مبدئي",
+      "كامل"
+    ],
+    "answer": "متبقي"
+  },
+  {
+    "question": "supplementary",
+    "options": [
+      "إضافي",
+      "أساسي",
+      "نهائي",
+      "ناقص"
+    ],
+    "answer": "إضافي"
+  },
+  {
+    "question": "antiviral",
+    "options": [
+      "مضاد للفيروسات",
+      "بكتيري",
+      "معقم",
+      "مسكن"
+    ],
+    "answer": "مضاد للفيروسات"
+  },
+  {
+    "question": "no backsies",
+    "options": [
+      "لا تراجع عن ذلك القرار",
+      "فكر مرة أخرى",
+      "يمكنك التراجع",
+      "اختر من جديد"
+    ],
+    "answer": "لا تراجع عن ذلك القرار"
+  },
+  {
+    "question": "perfume",
+    "options": [
+      "عطر",
+      "ملح",
+      "ماء",
+      "كريم"
+    ],
+    "answer": "عطر"
+  },
+  {
+    "question": "at first blush",
+    "options": [
+      "من النظرة الأولى",
+      "في النهاية",
+      "بشكل مؤكد",
+      "بتردد"
+    ],
+    "answer": "من النظرة الأولى"
+  },
+  {
+    "question": "solivagent",
+    "options": [
+      "شخص يحب يتمشى لوحده و يكتشف",
+      "منعزل اجتماعيًا",
+      "مكتئب",
+      "سائح جماعي"
+    ],
+    "answer": "شخص يحب يتمشى لوحده و يكتشف"
+  },
+  {
+    "question": "“I don’t know what happened, but I’ll find out,” he said.",
+    "options": [
+      "لا أعرف ما الذي حدث، لكنني سأكتشف ذلك",
+      "لقد كذبت، وسأخفي الحقيقة",
+      "أنا السبب، وسأعترف",
+      "لن أبحث عن السبب"
+    ],
+    "answer": "لا أعرف ما الذي حدث، لكنني سأكتشف ذلك"
+  },
+  {
+    "question": "unattended",
+    "options": [
+      "بدون مراقبة",
+      "مراقب",
+      "محمي",
+      "مغلق"
+    ],
+    "answer": "بدون مراقبة"
+  },
+  {
+    "question": "at wit's end",
+    "options": [
+      "بلغ حد الجنون",
+      "في قمة السعادة",
+      "يتأمل",
+      "يضحك بشدة"
+    ],
+    "answer": "بلغ حد الجنون"
+  },
+  {
+    "question": "illegitimate",
+    "options": [
+      "غير شرعي",
+      "قانوني",
+      "مصرح",
+      "أصلي"
+    ],
+    "answer": "غير شرعي"
+  },
+  {
+    "question": "rotation",
+    "options": [
+      "دوران",
+      "ثبات",
+      "توقف",
+      "هبوط"
+    ],
+    "answer": "دوران"
+  },
+  {
+    "question": "cry me a river",
+    "options": [
+      "مو فارقة معي",
+      "أنا آسف جدًا",
+      "لا تبكي",
+      "هذا محزن فعلًا"
+    ],
+    "answer": "مو فارقة معي"
+  },
+  {
+    "question": "be in charge",
+    "options": [
+      "يكون مسؤولا",
+      "يتقاعد",
+      "يستقيل",
+      "يُراقب فقط"
+    ],
+    "answer": "يكون مسؤولا"
+  },
+  {
+    "question": "subsidiary",
+    "options": [
+      "تابع",
+      "رئيسي",
+      "مستقل",
+      "منفصل"
+    ],
+    "answer": "تابع"
+  },
+  {
+    "question": "monetary",
+    "options": [
+      "نقدي",
+      "زراعي",
+      "طبي",
+      "علمي"
+    ],
+    "answer": "نقدي"
+  },
+  {
+    "question": "trader",
+    "options": [
+      "تاجر",
+      "عامل",
+      "محاسب",
+      "مزارع"
+    ],
+    "answer": "تاجر"
+  },
+  {
+    "question": "flew",
+    "options": [
+      "طار",
+      "مشى",
+      "زحف",
+      "غرق"
+    ],
+    "answer": "طار"
+  },
+  {
+    "question": "faxed",
+    "options": [
+      "أرسل بالفاكس",
+      "اتصل",
+      "نسخ",
+      "أرسل بالبريد"
+    ],
+    "answer": "أرسل بالفاكس"
+  },
+  {
+    "question": "resignation",
+    "options": [
+      "استقالة",
+      "ترقية",
+      "توظيف",
+      "تحويل"
+    ],
+    "answer": "استقالة"
+  },
+  {
+    "question": "Rogue",
+    "options": [
+      "متمرد",
+      "نظامي",
+      "هادئ",
+      "قانوني"
+    ],
+    "answer": "متمرد"
+  },
+  {
+    "question": "Vogue",
+    "options": [
+      "موضة",
+      "تقليد",
+      "قديم",
+      "رفض"
+    ],
+    "answer": "موضة"
+  },
+  {
+    "question": "League",
+    "options": [
+      "دوري",
+      "فريق",
+      "مبارة",
+      "جائزة"
+    ],
+    "answer": "دوري"
+  },
+  {
+    "question": "Fatigue",
+    "options": [
+      "إرهاق",
+      "نشاط",
+      "راحة",
+      "مرح"
+    ],
+    "answer": "إرهاق"
+  },
+  {
+    "question": "Colleague",
+    "options": [
+      "زميل",
+      "رئيس",
+      "موظف",
+      "مساعد"
+    ],
+    "answer": "زميل"
+  },
+  {
+    "question": "Dialogue",
+    "options": [
+      "حوار",
+      "جدال",
+      "نقاش حاد",
+      "صمت"
+    ],
+    "answer": "حوار"
+  },
+  {
+    "question": "Argue",
+    "options": [
+      "يجادل",
+      "يتجاهل",
+      "يتفق",
+      "يسكت"
+    ],
+    "answer": "يجادل"
+  },
+  {
+    "question": "Tongue",
+    "options": [
+      "لسان",
+      "أنف",
+      "عين",
+      "أذن"
+    ],
+    "answer": "لسان"
+  },
+  {
+    "question": "bust",
+    "options": [
+      "اقتحام/مداهمة",
+      "ترقية",
+      "صعود",
+      "ابتسامة"
+    ],
+    "answer": "اقتحام/مداهمة"
+  },
+  {
+    "question": "baring",
+    "options": [
+      "كشف",
+      "تغطية",
+      "حجب",
+      "ستر"
+    ],
+    "answer": "كشف"
+  },
+  {
+    "question": "naked",
+    "options": [
+      "عارٍ",
+      "مغطى",
+      "مبلل",
+      "نظيف"
+    ],
+    "answer": "عارٍ"
+  },
+  {
+    "question": "nude",
+    "options": [
+      "عاري",
+      "مرتدٍ",
+      "محجوب",
+      "ملون"
+    ],
+    "answer": "عاري"
+  },
+  {
+    "question": "retrospective",
+    "options": [
+      "استعادي",
+      "مستقبلي",
+      "عشوائي",
+      "مبكر"
+    ],
+    "answer": "استعادي"
+  },
+  {
+    "question": "Unfettered",
+    "options": [
+      "غير مقيّد",
+      "مربوط",
+      "محكوم",
+      "خاضع"
+    ],
+    "answer": "غير مقيّد"
+  },
+  {
+    "question": "Nudity",
+    "options": [
+      "عري",
+      "ستر",
+      "لباس",
+      "زينة"
+    ],
+    "answer": "عري"
+  },
+  {
+    "question": "allegedly",
+    "options": [
+      "يزعم أنه",
+      "بالتأكيد",
+      "منفيًا",
+      "مثبتًا"
+    ],
+    "answer": "يزعم أنه"
+  },
+  {
+    "question": "lawsuit",
+    "options": [
+      "دعوى قضائية",
+      "نزاع",
+      "تحكيم",
+      "إفلاس"
+    ],
+    "answer": "دعوى قضائية"
+  },
+  {
+    "question": "late April",
+    "options": [
+      "أواخر أبريل",
+      "أوائل أبريل",
+      "منتصف أبريل",
+      "أواخر مارس"
+    ],
+    "answer": "أواخر أبريل"
+  },
+  {
+    "question": "dispute",
+    "options": [
+      "نزاع",
+      "تحكيم",
+      "دعوى قضائية",
+      "إفلاس"
+    ],
+    "answer": "نزاع"
+  },
+  {
+    "question": "arbitration",
+    "options": [
+      "تحكيم",
+      "نزاع",
+      "دعوى قضائية",
+      "إفلاس"
+    ],
+    "answer": "تحكيم"
+  },
+  {
+    "question": "regardless",
+    "options": [
+      "بغض النظر",
+      "بسبب",
+      "بعد",
+      "قبل"
+    ],
+    "answer": "بغض النظر"
+  },
+  {
+    "question": "odds",
+    "options": [
+      "احتمالات",
+      "فرص",
+      "عقبات",
+      "مستحيلات"
+    ],
+    "answer": "احتمالات"
+  },
+  {
+    "question": "throw me off",
+    "options": [
+      "يضيعني",
+      "يساعدني",
+      "يرشدني",
+      "يدعمني"
+    ],
+    "answer": "يضيعني"
+  },
+  {
+    "question": "impulse",
+    "options": [
+      "اندفاع",
+      "تفكير",
+      "تردد",
+      "تخطيط"
+    ],
+    "answer": "اندفاع"
+  },
+  {
+    "question": "picky",
+    "options": [
+      "دقيق",
+      "غير مبالي",
+      "سريع",
+      "كسول"
+    ],
+    "answer": "دقيق"
+  },
+  {
+    "question": "adversely",
+    "options": [
+      "بشكل سلبي",
+      "بشكل إيجابي",
+      "بطريقة محايدة",
+      "بدون تأثير"
+    ],
+    "answer": "بشكل سلبي"
+  },
+  {
+    "question": "malware",
+    "options": [
+      "برمجيات خبيثة",
+      "برمجيات مفيدة",
+      "موقع إلكتروني",
+      "تحديث نظام"
+    ],
+    "answer": "برمجيات خبيثة"
+  },
+  {
+    "question": "worm",
+    "options": [
+      "دودة إلكترونية",
+      "حصان طروادة",
+      "فيروس بيولوجي",
+      "ملف صوتي"
+    ],
+    "answer": "دودة إلكترونية"
+  },
+  {
+    "question": "centrifuges",
+    "options": [
+      "أجهزة الطرد المركزي",
+      "محركات نفاثة",
+      "مبردات",
+      "آلات طباعة"
+    ],
+    "answer": "أجهزة الطرد المركزي"
+  },
+  {
+    "question": "malicious",
+    "options": [
+      "خبيث",
+      "لطيف",
+      "بريء",
+      "محايد"
+    ],
+    "answer": "خبيث"
+  },
+  {
+    "question": "off the cuff",
+    "options": [
+      "مرتجل",
+      "مخطط مسبقًا",
+      "غير واضح",
+      "غير مناسب"
+    ],
+    "answer": "مرتجل"
+  },
+  {
+    "question": "luring",
+    "options": [
+      "استدراج",
+      "رفض",
+      "حماية",
+      "إبعاد"
+    ],
+    "answer": "استدراج"
+  },
+  {
+    "question": "victim",
+    "options": [
+      "ضحية",
+      "مجرم",
+      "شاهد",
+      "قاضٍ"
+    ],
+    "answer": "ضحية"
+  },
+  {
+    "question": "phishing",
+    "options": [
+      "احتيال إلكتروني",
+      "صيد الأسماك",
+      "تصفح الإنترنت",
+      "استخدام الشبكة"
+    ],
+    "answer": "احتيال إلكتروني"
+  },
+  {
+    "question": "fishing",
+    "options": [
+      "صيد الأسماك",
+      "صيد إلكتروني",
+      "سباحة",
+      "رحلة تخييم"
+    ],
+    "answer": "صيد الأسماك"
+  },
+  {
+    "question": "He has autism",
+    "options": [
+      "هو مصاب بالتوحد",
+      "هو مصاب بالإنفلونزا",
+      "هو مصاب بالحساسية",
+      "هو يعاني من الاكتئاب"
+    ],
+    "answer": "هو مصاب بالتوحد"
+  },
+  {
+    "question": "opt for",
+    "options": [
+      "يختار شيئًا",
+      "يقرر أن يفعل شيئًا",
+      "يتجاهل الخيار",
+      "يرفض الاختيار"
+    ],
+    "answer": "يختار شيئًا"
+  },
+  {
+    "question": "opt to",
+    "options": [
+      "يقرر أن يفعل شيئًا",
+      "يختار شيئًا",
+      "يتوقف عن الفعل",
+      "يؤجل التنفيذ"
+    ],
+    "answer": "يقرر أن يفعل شيئًا"
+  },
+  {
+    "question": "konak",
+    "options": [
+      "قصر صغير أو بيت كبير",
+      "مدرسة",
+      "قلعة",
+      "كوخ"
+    ],
+    "answer": "قصر صغير أو بيت كبير"
+  },
+  {
+    "question": "maneuver",
+    "options": [
+      "مناورة",
+      "مواجهة",
+      "تراجع",
+      "ثبات"
+    ],
+    "answer": "مناورة"
+  },
+  {
+    "question": "fullest",
+    "options": [
+      "الأكمل",
+      "الأقل",
+      "الأوسط",
+      "الأضعف"
+    ],
+    "answer": "الأكمل"
+  },
+  {
+    "question": "reckon",
+    "options": [
+      "يعتقد",
+      "يشك",
+      "يرفض",
+      "ينكر"
+    ],
+    "answer": "يعتقد"
+  },
+  {
+    "question": "naughty",
+    "options": [
+      "مشاغب",
+      "مهذب",
+      "خجول",
+      "حزين"
+    ],
+    "answer": "مشاغب"
+  },
+  {
+    "question": "bubbly",
+    "options": [
+      "مرح",
+      "حزين",
+      "جدي",
+      "كسول"
+    ],
+    "answer": "مرح"
+  },
+  {
+    "question": "smashingly",
+    "options": [
+      "بشكل رائع",
+      "بشكل سيء",
+      "بشكل ممل",
+      "بشكل عادي"
+    ],
+    "answer": "بشكل رائع"
+  },
+  {
+    "question": "insolvent",
+    "options": [
+      "معسر مالياً",
+      "غني",
+      "مقتدر",
+      "مدين"
+    ],
+    "answer": "معسر مالياً"
+  },
+  {
+    "question": "rose",
+    "options": [
+      "وردة",
+      "شجرة",
+      "زهرة عباد الشمس",
+      "نبات"
+    ],
+    "answer": "وردة"
+  },
+  {
+    "question": "extracted",
+    "options": [
+      "مستخرج",
+      "مغروس",
+      "مكسور",
+      "محروق"
+    ],
+    "answer": "مستخرج"
+  },
+  {
+    "question": "bankrupt",
+    "options": [
+      "إفلاس",
+      "ثراء",
+      "دين",
+      "ربح"
+    ],
+    "answer": "إفلاس"
+  },
+  {
+    "question": "not my circus, not my monkeys",
+    "options": [
+      "ما إلي دخل",
+      "أنا المسؤول",
+      "يجب أن أساعد",
+      "هذا مش شأني"
+    ],
+    "answer": "ما إلي دخل"
+  },
+  {
+    "question": "hearsay",
+    "options": [
+      "سمعته",
+      "حقيقة",
+      "خبر رسمي",
+      "شهادة"
+    ],
+    "answer": "سمعته"
+  },
+  {
+    "question": "see, wouldn't wanna be ya",
+    "options": [
+      "مع السلامة, منيح إنو أنا مو مكانك",
+      "مرحباً، أنا سعيد",
+      "أتمنى لك التوفيق",
+      "لا أريد أن أكون مكانك"
+    ],
+    "answer": "مع السلامة, منيح إنو أنا مو مكانك"
+  },
+  {
+    "question": "gumshoe",
+    "options": [
+      "محقق خاص",
+      "شرطي",
+      "محامي",
+      "قاضي"
+    ],
+    "answer": "محقق خاص"
+  },
+  {
+    "question": "gum",
+    "options": [
+      "علكة",
+      "لبان",
+      "صمغ",
+      "لصق"
+    ],
+    "answer": "علكة"
+  },
+  {
+    "question": "Atheist",
+    "options": [
+      "ملحد",
+      "مؤمن",
+      "مشكك",
+      "مسيحي"
+    ],
+    "answer": "ملحد"
+  },
+  {
+    "question": "aggressive",
+    "options": [
+      "عدواني",
+      "ودي",
+      "خجول",
+      "كسول"
+    ],
+    "answer": "عدواني"
+  },
+  {
+    "question": "concert",
+    "options": [
+      "حفلة موسيقية",
+      "مسرحية",
+      "عرض سينمائي",
+      "مهرجان"
+    ],
+    "answer": "حفلة موسيقية"
+  },
+  {
+    "question": "faient",
+    "options": [
+      "مغشوش",
+      "صادق",
+      "كاذب",
+      "مخادع"
+    ],
+    "answer": "مغشوش"
+  },
+  {
+    "question": "feint",
+    "options": [
+      "مناورة",
+      "هجوم مباشر",
+      "دفاع",
+      "انسحاب"
+    ],
+    "answer": "مناورة"
+  },
+  {
+    "question": "Rogue Trader",
+    "options": [
+      "متداول متمرد",
+      "متداول ناجح",
+      "سمسار عادي",
+      "مستثمر حكيم"
+    ],
+    "answer": "متداول متمرد"
+  },
+  {
+    "question": "violating",
+    "options": [
+      "انتهاك",
+      "حماية",
+      "دعم",
+      "احترام"
+    ],
+    "answer": "انتهاك"
+  },
+  {
+    "question": "vagina",
+    "options": [
+      "مهبل",
+      "معدة",
+      "عضو ذكري",
+      "صدر"
+    ],
+    "answer": "مهبل"
+  },
+  {
     "question": "الانكشاف أو التفتح التدريجي",
     "options": [
       "folding",
@@ -30111,6 +32521,1016 @@
       "تبرع"
     ],
     "answer": "اختلاس"
+  },
+  {
+    "question": "The plural of: person",
+    "options": [
+      "is people",
+      "is persons",
+      "is peoples",
+      "is person"
+    ],
+    "answer": "is people"
+  },
+  {
+    "question": "The plural of: foot",
+    "options": [
+      "is feet",
+      "is foots",
+      "is footes",
+      "is feets"
+    ],
+    "answer": "is feet"
+  },
+  {
+    "question": "The plural of: tooth",
+    "options": [
+      "is teeth",
+      "is tooths",
+      "is toothes",
+      "is teet"
+    ],
+    "answer": "is teeth"
+  },
+  {
+    "question": "The plural of: child",
+    "options": [
+      "is children",
+      "is childs",
+      "is childes",
+      "is childer"
+    ],
+    "answer": "is children"
+  },
+  {
+    "question": "The plural of: mouse",
+    "options": [
+      "is mice",
+      "is mouses",
+      "is meese",
+      "is mouse"
+    ],
+    "answer": "is mice"
+  },
+  {
+    "question": "The plural of: sheep",
+    "options": [
+      "is sheep",
+      "is sheeps",
+      "is sheepes",
+      "is ship"
+    ],
+    "answer": "is sheep"
+  },
+  {
+    "question": "The plural of: fish",
+    "options": [
+      "is fish",
+      "is fishes",
+      "is fishs",
+      "is fishe"
+    ],
+    "answer": "is fish"
+  },
+  {
+    "question": "The plural of: leaf",
+    "options": [
+      "is leaves",
+      "is leafs",
+      "is leavs",
+      "is leafes"
+    ],
+    "answer": "is leaves"
+  },
+  {
+    "question": "The plural of: goose",
+    "options": [
+      "is geese",
+      "is gooses",
+      "is goose",
+      "is geeses"
+    ],
+    "answer": "is geese"
+  },
+  {
+    "question": "The plural of: woman",
+    "options": [
+      "is women",
+      "is womans",
+      "is womanses",
+      "is womins"
+    ],
+    "answer": "is women"
+  },
+  {
+    "question": "The plural of: aircraft",
+    "options": [
+      "is aircraft",
+      "is aircrafts",
+      "is aircrafs",
+      "is aercraft"
+    ],
+    "answer": "is aircraft"
+  },
+  {
+    "question": "The plural of: diagnosis",
+    "options": [
+      "is diagnoses",
+      "is diagnosises",
+      "is diagnosis",
+      "is diagnosi"
+    ],
+    "answer": "is diagnoses"
+  },
+  {
+    "question": "The plural of: bison",
+    "options": [
+      "is bison",
+      "is bisons",
+      "is bisen",
+      "is bisones"
+    ],
+    "answer": "is bison"
+  },
+  {
+    "question": "The plural of: crisis",
+    "options": [
+      "is crises",
+      "is crisises",
+      "is crisii",
+      "is crisis"
+    ],
+    "answer": "is crises"
+  },
+  {
+    "question": "The plural of: curriculum",
+    "options": [
+      "is curricula",
+      "is curriculums",
+      "is curriculum",
+      "is curriculi"
+    ],
+    "answer": "is curricula"
+  },
+  {
+    "question": "The plural of: datum",
+    "options": [
+      "is data",
+      "is datums",
+      "is datan",
+      "is datas"
+    ],
+    "answer": "is data"
+  },
+  {
+    "question": "The plural of: focus",
+    "options": [
+      "is foci",
+      "is focuses",
+      "is focusses",
+      "is focae"
+    ],
+    "answer": "is foci"
+  },
+  {
+    "question": "The plural of: series",
+    "options": [
+      "is series",
+      "is serie",
+      "is serieses",
+      "is seri"
+    ],
+    "answer": "is series"
+  },
+  {
+    "question": "The plural of: vita",
+    "options": [
+      "is vitae",
+      "is vitas",
+      "is vitai",
+      "is vitaeas"
+    ],
+    "answer": "is vitae"
+  },
+  {
+    "question": "The plural of: tuna",
+    "options": [
+      "is tuna",
+      "is tunas",
+      "is tunae",
+      "is tunan"
+    ],
+    "answer": "is tuna"
+  },
+  {
+    "question": "The plural of: quiz",
+    "options": [
+      "is quizzes",
+      "is quizs",
+      "is quizes",
+      "is quiz"
+    ],
+    "answer": "is quizzes"
+  },
+  {
+    "question": "The plural of: index",
+    "options": [
+      "is indices",
+      "is indexs",
+      "is index",
+      "is indixes"
+    ],
+    "answer": "is indices"
+  },
+  {
+    "question": "The plural of: ellipsis",
+    "options": [
+      "is ellipses",
+      "is ellipsis",
+      "is ellipsises",
+      "is ellipsi"
+    ],
+    "answer": "is ellipses"
+  },
+  {
+    "question": "The plural of: codex",
+    "options": [
+      "is codices",
+      "is codexes",
+      "is codexs",
+      "is codixes"
+    ],
+    "answer": "is codices"
+  },
+  {
+    "question": "The plural of: erratum",
+    "options": [
+      "is errata",
+      "is errors",
+      "is erratums",
+      "is erratones"
+    ],
+    "answer": "is errata"
+  },
+  {
+    "question": "The plural of: ox",
+    "options": [
+      "is oxen",
+      "is oxes",
+      "is ox",
+      "is oxies"
+    ],
+    "answer": "is oxen"
+  },
+  {
+    "question": "The plural of: oasis",
+    "options": [
+      "is oases",
+      "is oasis",
+      "is oasises",
+      "is oasii"
+    ],
+    "answer": "is oases"
+  },
+  {
+    "question": "The plural of: swine",
+    "options": [
+      "is swine",
+      "is swines",
+      "is swin",
+      "is swinies"
+    ],
+    "answer": "is swine"
+  },
+  {
+    "question": "The plural of: trout",
+    "options": [
+      "is trout",
+      "is trouts",
+      "is trouters",
+      "is trouted"
+    ],
+    "answer": "is trout"
+  },
+  {
+    "question": "The plural of: genus",
+    "options": [
+      "is genera",
+      "is genuses",
+      "is genii",
+      "is geneses"
+    ],
+    "answer": "is genera"
+  },
+  {
+    "question": "The plural of: apex",
+    "options": [
+      "is apices",
+      "is apexes",
+      "is apii",
+      "is apic"
+    ],
+    "answer": "is apices"
+  },
+  {
+    "question": "The plural of: analysis",
+    "options": [
+      "is analyses",
+      "is analysis",
+      "is analysises",
+      "is analysi"
+    ],
+    "answer": "is analyses"
+  },
+  {
+    "question": "The plural of: man",
+    "options": [
+      "is men",
+      "is mans",
+      "is manes",
+      "is man"
+    ],
+    "answer": "is men"
+  },
+  {
+    "question": "The plural of: woman",
+    "options": [
+      "is women",
+      "is womans",
+      "is woman",
+      "is wemen"
+    ],
+    "answer": "is women"
+  },
+  {
+    "question": "The plural of: louse",
+    "options": [
+      "is lice",
+      "is louses",
+      "is lici",
+      "is lousi"
+    ],
+    "answer": "is lice"
+  },
+  {
+    "question": "The plural of: cactus",
+    "options": [
+      "is cacti",
+      "is cactuses",
+      "is cactii",
+      "is cactus"
+    ],
+    "answer": "is cacti"
+  },
+  {
+    "question": "The plural of: fungus",
+    "options": [
+      "is fungi",
+      "is funguses",
+      "is fungii",
+      "is fungus"
+    ],
+    "answer": "is fungi"
+  },
+  {
+    "question": "The plural of: nucleus",
+    "options": [
+      "is nuclei",
+      "is nucleuses",
+      "is nucleus",
+      "is nucleii"
+    ],
+    "answer": "is nuclei"
+  },
+  {
+    "question": "The plural of: radius",
+    "options": [
+      "is radii",
+      "is radiuses",
+      "is radia",
+      "is radius"
+    ],
+    "answer": "is radii"
+  },
+  {
+    "question": "The plural of: stimulus",
+    "options": [
+      "is stimuli",
+      "is stimuluses",
+      "is stimula",
+      "is stimulus"
+    ],
+    "answer": "is stimuli"
+  },
+  {
+    "question": "The plural of: syllabus",
+    "options": [
+      "is syllabi",
+      "is syllabuses",
+      "is syllaba",
+      "is syllabus"
+    ],
+    "answer": "is syllabi"
+  },
+  {
+    "question": "The plural of: thesis",
+    "options": [
+      "is theses",
+      "is thesis",
+      "is thesi",
+      "is thesises"
+    ],
+    "answer": "is theses"
+  },
+  {
+    "question": "The plural of: hypothesis",
+    "options": [
+      "is hypotheses",
+      "is hypothesi",
+      "is hypothesis",
+      "is hypothesises"
+    ],
+    "answer": "is hypotheses"
+  },
+  {
+    "question": "The plural of: axis",
+    "options": [
+      "is axes",
+      "is axises",
+      "is axis",
+      "is axii"
+    ],
+    "answer": "is axes"
+  },
+  {
+    "question": "The plural of: person",
+    "options": [
+      "is people",
+      "is persons",
+      "is persones",
+      "is peopel"
+    ],
+    "answer": "is people"
+  },
+  {
+    "question": "The plural of: formula",
+    "options": [
+      "is formulas",
+      "is formuli",
+      "is formulae",
+      "is formulen"
+    ],
+    "answer": "is formulae"
+  },
+  {
+    "question": "The plural of: larva",
+    "options": [
+      "is larvae",
+      "is larvas",
+      "is larvi",
+      "is larvoe"
+    ],
+    "answer": "is larvae"
+  },
+  {
+    "question": "The plural of: antenna",
+    "options": [
+      "is antennas",
+      "is antenni",
+      "is antennae",
+      "is antenae"
+    ],
+    "answer": "is antennae"
+  },
+  {
+    "question": "The plural of: stratum",
+    "options": [
+      "is stratas",
+      "is strata",
+      "is stratae",
+      "is strati"
+    ],
+    "answer": "is strata"
+  },
+  {
+    "question": "The plural of: medium",
+    "options": [
+      "is mediums",
+      "is media",
+      "is mediuma",
+      "is medii"
+    ],
+    "answer": "is media"
+  },
+  {
+    "question": "The plural of: memorandum",
+    "options": [
+      "is memorandums",
+      "is memorandi",
+      "is memoranda",
+      "is memorando"
+    ],
+    "answer": "is memoranda"
+  },
+  {
+    "question": "The plural of: addendum",
+    "options": [
+      "is addendi",
+      "is addenda",
+      "is addendums",
+      "is addendia"
+    ],
+    "answer": "is addenda"
+  },
+  {
+    "question": "The plural of: agendum",
+    "options": [
+      "is agenda",
+      "is agendi",
+      "is agendums",
+      "is agendia"
+    ],
+    "answer": "is agenda"
+  },
+  {
+    "question": "The plural of: bacterium",
+    "options": [
+      "is bacterias",
+      "is bacteria",
+      "is bacteriae",
+      "is bacteri"
+    ],
+    "answer": "is bacteria"
+  },
+  {
+    "question": "The plural of: corpus",
+    "options": [
+      "is corpora",
+      "is corpuses",
+      "is corpi",
+      "is corpa"
+    ],
+    "answer": "is corpora"
+  },
+  {
+    "question": "The plural of: curriculum",
+    "options": [
+      "is curricula",
+      "is curriculums",
+      "is curriculi",
+      "is curriculumos"
+    ],
+    "answer": "is curricula"
+  },
+  {
+    "question": "The plural of: datum",
+    "options": [
+      "is data",
+      "is datums",
+      "is dati",
+      "is datuma"
+    ],
+    "answer": "is data"
+  },
+  {
+    "question": "The plural of: index",
+    "options": [
+      "is indices",
+      "is indexs",
+      "is indexies",
+      "is indixes"
+    ],
+    "answer": "is indices"
+  },
+  {
+    "question": "The plural of: genus",
+    "options": [
+      "is genera",
+      "is genuses",
+      "is genii",
+      "is genora"
+    ],
+    "answer": "is genera"
+  },
+  {
+    "question": "The plural of: vortex",
+    "options": [
+      "is vortexes",
+      "is vortices",
+      "is vortixi",
+      "is vortae"
+    ],
+    "answer": "is vortices"
+  },
+  {
+    "question": "The plural of: vertex",
+    "options": [
+      "is vertices",
+      "is vertexes",
+      "is vertici",
+      "is vertes"
+    ],
+    "answer": "is vertices"
+  },
+  {
+    "question": "The plural of: calf",
+    "options": [
+      "is calves",
+      "is calfs",
+      "is calfes",
+      "is calvi"
+    ],
+    "answer": "is calves"
+  },
+  {
+    "question": "The plural of: half",
+    "options": [
+      "is halves",
+      "is halfs",
+      "is halvs",
+      "is halvas"
+    ],
+    "answer": "is halves"
+  },
+  {
+    "question": "The plural of: knife",
+    "options": [
+      "is knives",
+      "is knifes",
+      "is knivos",
+      "is knivies"
+    ],
+    "answer": "is knives"
+  },
+  {
+    "question": "The plural of: life",
+    "options": [
+      "is lifes",
+      "is lives",
+      "is livs",
+      "is lifves"
+    ],
+    "answer": "is lives"
+  },
+  {
+    "question": "The plural of: loaf",
+    "options": [
+      "is loafs",
+      "is loaves",
+      "is loavies",
+      "is loavs"
+    ],
+    "answer": "is loaves"
+  },
+  {
+    "question": "The plural of: self",
+    "options": [
+      "is selfs",
+      "is selves",
+      "is selfes",
+      "is selfies"
+    ],
+    "answer": "is selves"
+  },
+  {
+    "question": "The plural of: thief",
+    "options": [
+      "is thiefs",
+      "is thieves",
+      "is thives",
+      "is thievs"
+    ],
+    "answer": "is thieves"
+  },
+  {
+    "question": "The plural of: scarf",
+    "options": [
+      "is scarfs",
+      "is scarves",
+      "is scarvies",
+      "is scarfes"
+    ],
+    "answer": "is scarves"
+  },
+  {
+    "question": "The plural of: leaf",
+    "options": [
+      "is leafs",
+      "is leaves",
+      "is leavs",
+      "is leavies"
+    ],
+    "answer": "is leaves"
+  },
+  {
+    "question": "The plural of: shelf",
+    "options": [
+      "is shelfs",
+      "is shelves",
+      "is shelvies",
+      "is shelfes"
+    ],
+    "answer": "is shelves"
+  },
+  {
+    "question": "The plural of: hoof",
+    "options": [
+      "is hoofs",
+      "is hooves",
+      "is hoovz",
+      "is hoofies"
+    ],
+    "answer": "is hooves"
+  },
+  {
+    "question": "The plural of: wharf",
+    "options": [
+      "is wharfs",
+      "is wharves",
+      "is wharvies",
+      "is wharfes"
+    ],
+    "answer": "is wharves"
+  },
+  {
+    "question": "The plural of: chief",
+    "options": [
+      "is chiefs",
+      "is chieves",
+      "is chiefes",
+      "is chieveses"
+    ],
+    "answer": "is chiefs"
+  },
+  {
+    "question": "The plural of: roof",
+    "options": [
+      "is roofs",
+      "is rooves",
+      "is roovs",
+      "is roofes"
+    ],
+    "answer": "is roofs"
+  },
+  {
+    "question": "The plural of: belief",
+    "options": [
+      "is beliefs",
+      "is believes",
+      "is belieffs",
+      "is believs"
+    ],
+    "answer": "is beliefs"
+  },
+  {
+    "question": "The plural of: safe",
+    "options": [
+      "is safes",
+      "is saves",
+      "is safies",
+      "is safees"
+    ],
+    "answer": "is safes"
+  },
+  {
+    "question": "The plural of: staff",
+    "options": [
+      "is staffs",
+      "is staves",
+      "is staffes",
+      "is stafs"
+    ],
+    "answer": "is staffs"
+  },
+  {
+    "question": "The plural of: handkerchief",
+    "options": [
+      "is handkerchiefs",
+      "is handkerchieves",
+      "is handkerchieveses",
+      "is handkerchiefes"
+    ],
+    "answer": "is handkerchiefs"
+  },
+  {
+    "question": "The plural of: piano",
+    "options": [
+      "is pianos",
+      "is pianoes",
+      "is pianis",
+      "is pianoes"
+    ],
+    "answer": "is pianos"
+  },
+  {
+    "question": "The plural of: photo",
+    "options": [
+      "is photos",
+      "is photoes",
+      "is photies",
+      "is photas"
+    ],
+    "answer": "is photos"
+  },
+  {
+    "question": "The plural of: solo",
+    "options": [
+      "is solos",
+      "is soloes",
+      "is solis",
+      "is soloes"
+    ],
+    "answer": "is solos"
+  },
+  {
+    "question": "The plural of: cello",
+    "options": [
+      "is cellos",
+      "is cellies",
+      "is celloes",
+      "is cellaes"
+    ],
+    "answer": "is cellos"
+  },
+  {
+    "question": "The plural of: zero",
+    "options": [
+      "is zeros",
+      "is zeroes",
+      "is zerox",
+      "is zeroz"
+    ],
+    "answer": "is zeros"
+  },
+  {
+    "question": "The plural of: hero",
+    "options": [
+      "is heroes",
+      "is heros",
+      "is heroies",
+      "is heroz"
+    ],
+    "answer": "is heroes"
+  },
+  {
+    "question": "The plural of: tomato",
+    "options": [
+      "is tomatoes",
+      "is tomatos",
+      "is tomaties",
+      "is tomata"
+    ],
+    "answer": "is tomatoes"
+  },
+  {
+    "question": "The plural of: potato",
+    "options": [
+      "is potatoes",
+      "is potatos",
+      "is potata",
+      "is potatox"
+    ],
+    "answer": "is potatoes"
+  },
+  {
+    "question": "The plural of: echo",
+    "options": [
+      "is echoes",
+      "is echos",
+      "is echoz",
+      "is echies"
+    ],
+    "answer": "is echoes"
+  },
+  {
+    "question": "The plural of: tornado",
+    "options": [
+      "is tornadoes",
+      "is tornados",
+      "is tornada",
+      "is tornadies"
+    ],
+    "answer": "is tornadoes"
+  },
+  {
+    "question": "The plural of: mosquito",
+    "options": [
+      "is mosquitoes",
+      "is mosquitos",
+      "is mosquities",
+      "is mosquata"
+    ],
+    "answer": "is mosquitoes"
+  },
+  {
+    "question": "The plural of: volcano",
+    "options": [
+      "is volcanoes",
+      "is volcanos",
+      "is volcanas",
+      "is volcaniz"
+    ],
+    "answer": "is volcanoes"
+  },
+  {
+    "question": "The plural of: cargo",
+    "options": [
+      "is cargoes",
+      "is cargos",
+      "is cargies",
+      "is cargons"
+    ],
+    "answer": "is cargoes"
+  },
+  {
+    "question": "The plural of: proof",
+    "options": [
+      "is proofs",
+      "is proves",
+      "is proofes",
+      "is prooves"
+    ],
+    "answer": "is proofs"
+  },
+  {
+    "question": "The plural of: wife",
+    "options": [
+      "is wifes",
+      "is wives",
+      "is wivis",
+      "is wivves"
+    ],
+    "answer": "is wives"
+  },
+  {
+    "question": "The plural of: wolf",
+    "options": [
+      "is wolfs",
+      "is wolves",
+      "is wulves",
+      "is wolvies"
+    ],
+    "answer": "is wolves"
+  },
+  {
+    "question": "The plural of: criterion",
+    "options": [
+      "is criteria",
+      "is criterions",
+      "is criterii",
+      "is criterion"
+    ],
+    "answer": "is criteria"
+  },
+  {
+    "question": "The plural of: phenomenon",
+    "options": [
+      "is phenomena",
+      "is phenomenons",
+      "is phenomeni",
+      "is phenomenon"
+    ],
+    "answer": "is phenomena"
+  },
+  {
+    "question": "The plural of: appendix",
+    "options": [
+      "is appendices",
+      "is appendixes",
+      "is appendix",
+      "is appendi"
+    ],
+    "answer": "is appendices"
+  },
+  {
+    "question": "The plural of: matrix",
+    "options": [
+      "is matrices",
+      "is matrixes",
+      "is matrix",
+      "is matrii"
+    ],
+    "answer": "is matrices"
+  },
+  {
+    "question": "The plural of: vertebra",
+    "options": [
+      "is vertebrae",
+      "is vertebras",
+      "is vertebri",
+      "is vertebra"
+    ],
+    "answer": "is vertebrae"
+  },
+  {
+    "question": "The plural of: alumna",
+    "options": [
+      "is alumnae",
+      "is alumnas",
+      "is alumnai",
+      "is alumnaes"
+    ],
+    "answer": "is alumnae"
   },
   {
     "question": "downside",
@@ -33013,6 +36433,396 @@
     "answer": "مقصود"
   },
   {
+    "question": "stooges",
+    "options": [
+      "مغفلين",
+      "أذكياء",
+      "محترفين",
+      "زعماء"
+    ],
+    "answer": "مغفلين"
+  },
+  {
+    "question": "jungle",
+    "options": [
+      "غابة",
+      "صحراء",
+      "بحر",
+      "سهل"
+    ],
+    "answer": "غابة"
+  },
+  {
+    "question": "rumor",
+    "options": [
+      "شائعة",
+      "حقيقة",
+      "بيان رسمي",
+      "تحقيق"
+    ],
+    "answer": "شائعة"
+  },
+  {
+    "question": "embargo",
+    "options": [
+      "حظر",
+      "سماح",
+      "ترخيص",
+      "إعفاء"
+    ],
+    "answer": "حظر"
+  },
+  {
+    "question": "let's find some middle ground",
+    "options": [
+      "دعونا نجد حلاً وسطاً",
+      "فلننسحب تماماً",
+      "لنهاجم أولاً",
+      "لنرفض التفاوض"
+    ],
+    "answer": "دعونا نجد حلاً وسطاً"
+  },
+  {
+    "question": "auditing",
+    "options": [
+      "تدقيق",
+      "إنفاق",
+      "ادخار",
+      "مراجعة شخصية"
+    ],
+    "answer": "تدقيق"
+  },
+  {
+    "question": "breaches",
+    "options": [
+      "انتهاكات",
+      "تحسينات",
+      "التزامات",
+      "مساعدات"
+    ],
+    "answer": "انتهاكات"
+  },
+  {
+    "question": "notional",
+    "options": [
+      "افتراضي",
+      "واقعي",
+      "مادي",
+      "فعلي"
+    ],
+    "answer": "افتراضي"
+  },
+  {
+    "question": "mankind",
+    "options": [
+      "البشرية",
+      "الحيوانات",
+      "الرجال فقط",
+      "النساء فقط"
+    ],
+    "answer": "البشرية"
+  },
+  {
+    "question": "urge",
+    "options": [
+      "حث",
+      "رفض",
+      "إهمال",
+      "تردد"
+    ],
+    "answer": "حث"
+  },
+  {
+    "question": "upbeat",
+    "options": [
+      "متفائل",
+      "حزين",
+      "عنيف",
+      "متوتر"
+    ],
+    "answer": "متفائل"
+  },
+  {
+    "question": "consensus",
+    "options": [
+      "إجماع",
+      "خلاف",
+      "صراع",
+      "انقسام"
+    ],
+    "answer": "إجماع"
+  },
+  {
+    "question": "disruptions",
+    "options": [
+      "اضطرابات",
+      "استقرار",
+      "تقدم",
+      "هدوء"
+    ],
+    "answer": "اضطرابات"
+  },
+  {
+    "question": "sophistication",
+    "options": [
+      "تعقيد",
+      "بساطة",
+      "إهمال",
+      "سرعة"
+    ],
+    "answer": "تعقيد"
+  },
+  {
+    "question": "prosecute",
+    "options": [
+      "مقاضاة",
+      "تبرئة",
+      "تحفيز",
+      "مكافأة"
+    ],
+    "answer": "مقاضاة"
+  },
+  {
+    "question": "carefree",
+    "options": [
+      "غير مبالٍ",
+      "قلق",
+      "مشغول",
+      "مضطرب"
+    ],
+    "answer": "غير مبالٍ"
+  },
+  {
+    "question": "two peas in a pod",
+    "options": [
+      "شخصين متشابهين في كل شيء",
+      "شخصين مختلفين تمامًا",
+      "شخصين في شجار",
+      "شخصين لا يعرفان بعضهما"
+    ],
+    "answer": "شخصين متشابهين في كل شيء"
+  },
+  {
+    "question": "I am down for that",
+    "options": [
+      "أنا جاهز",
+      "أنا متردد",
+      "أنا رافض",
+      "أنا غير مهتم"
+    ],
+    "answer": "أنا جاهز"
+  },
+  {
+    "question": "count me in",
+    "options": [
+      "احسب حسابي",
+      "انساني",
+      "استبعدني",
+      "لا تحسبني"
+    ],
+    "answer": "احسب حسابي"
+  },
+  {
+    "question": "I am game",
+    "options": [
+      "أنا معكم",
+      "أنا ضدكم",
+      "أنا مشغول",
+      "أنا متفرج فقط"
+    ],
+    "answer": "أنا معكم"
+  },
+  {
+    "question": "sign me up",
+    "options": [
+      "سجل اسمي معكون",
+      "احذفني",
+      "لا تسجلني",
+      "تجاهلني"
+    ],
+    "answer": "سجل اسمي معكون"
+  },
+  {
+    "question": "soporific",
+    "options": [
+      "مسبب للنعاس",
+      "منبه",
+      "مرعب",
+      "مثير"
+    ],
+    "answer": "مسبب للنعاس"
+  },
+  {
+    "question": "over and over again",
+    "options": [
+      "مراراً وتكراراً",
+      "لمرة واحدة",
+      "نادراً",
+      "أحياناً"
+    ],
+    "answer": "مراراً وتكراراً"
+  },
+  {
+    "question": "witter on",
+    "options": [
+      "التحدث في أشياء غير هامة",
+      "الكلام المنطقي",
+      "الصراخ",
+      "النقاش الحاد"
+    ],
+    "answer": "التحدث في أشياء غير هامة"
+  },
+  {
+    "question": "busiest",
+    "options": [
+      "الأكثر انشغالًا",
+      "الأهدأ",
+      "الأقل أهمية",
+      "الأصغر حجمًا"
+    ],
+    "answer": "الأكثر انشغالًا"
+  },
+  {
+    "question": "entrusted",
+    "options": [
+      "موكل إليه",
+      "منزوع الصلاحية",
+      "ممنوع",
+      "غير مسؤول"
+    ],
+    "answer": "موكل إليه"
+  },
+  {
+    "question": "advice",
+    "options": [
+      "نصيحة",
+      "انتقاد",
+      "رفض",
+      "إهانة"
+    ],
+    "answer": "نصيحة"
+  },
+  {
+    "question": "loose",
+    "options": [
+      "فضفاض",
+      "ضيق",
+      "مقيد",
+      "محكم"
+    ],
+    "answer": "فضفاض"
+  },
+  {
+    "question": "quite",
+    "options": [
+      "إلى حد كبير",
+      "بصوت عالٍ",
+      "أبداً",
+      "جزئيًا"
+    ],
+    "answer": "إلى حد كبير"
+  },
+  {
+    "question": "quiet",
+    "options": [
+      "هادئ",
+      "صاخب",
+      "مزعج",
+      "مرتفع الصوت"
+    ],
+    "answer": "هادئ"
+  },
+  {
+    "question": "lose",
+    "options": [
+      "يخسر",
+      "يربح",
+      "يجد",
+      "يكسب"
+    ],
+    "answer": "يخسر"
+  },
+  {
+    "question": "advise",
+    "options": [
+      "ينصح",
+      "يشتكي",
+      "يعارض",
+      "يسكت"
+    ],
+    "answer": "ينصح"
+  },
+  {
+    "question": "Inaugurated",
+    "options": [
+      "تم تدشينه",
+      "أُلغي",
+      "توقف",
+      "أُخِر"
+    ],
+    "answer": "تم تدشينه"
+  },
+  {
+    "question": "aviation",
+    "options": [
+      "طيران",
+      "سياحة",
+      "سفينة",
+      "قطار"
+    ],
+    "answer": "طيران"
+  },
+  {
+    "question": "accommodate",
+    "options": [
+      "استيعاب",
+      "رفض",
+      "طرد",
+      "إهمال"
+    ],
+    "answer": "استيعاب"
+  },
+  {
+    "question": "rotor",
+    "options": [
+      "دوّار",
+      "مكبس",
+      "مفتاح",
+      "صمام"
+    ],
+    "answer": "دوّار"
+  },
+  {
+    "question": "spit",
+    "options": [
+      "يبصق",
+      "يبتلع",
+      "يشرب",
+      "يمضغ"
+    ],
+    "answer": "يبصق"
+  },
+  {
+    "question": "coordinate",
+    "options": [
+      "ينسق",
+      "يخرب",
+      "يشتت",
+      "يُفشل"
+    ],
+    "answer": "ينسق"
+  },
+  {
+    "question": "He spent the afternoon lounging on the sofa.",
+    "options": [
+      "قضى فترة بعد الظهر مستلقيًا على الأريكة",
+      "ذهب للتسوق",
+      "نام في الحديقة",
+      "عمل لساعات طويلة"
+    ],
+    "answer": "قضى فترة بعد الظهر مستلقيًا على الأريكة"
+  },
+  {
     "question": "Riot",
     "options": [
       "أعمال شغب",
@@ -35803,6 +39613,346 @@
     "answer": "التوقف عن العمل"
   },
   {
+    "question": "incurable",
+    "options": [
+      "لا يُشفى منه",
+      "مؤقت",
+      "سهل علاجه",
+      "خامل"
+    ],
+    "answer": "لا يُشفى منه"
+  },
+  {
+    "question": "spineless",
+    "options": [
+      "جبان",
+      "شجاع",
+      "مرن",
+      "متعاون"
+    ],
+    "answer": "جبان"
+  },
+  {
+    "question": "goose",
+    "options": [
+      "إوزة",
+      "بطة",
+      "نعامة",
+      "طاووس"
+    ],
+    "answer": "إوزة"
+  },
+  {
+    "question": "It slipped my mind",
+    "options": [
+      "نسيت",
+      "تذكرت فجأة",
+      "فكرت بها مطولاً",
+      "أخبرني أحدهم"
+    ],
+    "answer": "نسيت"
+  },
+  {
+    "question": "what is the hold up",
+    "options": [
+      "ما سبب التأخير؟",
+      "أين المخرج؟",
+      "متى نبدأ؟",
+      "ما القرار؟"
+    ],
+    "answer": "ما سبب التأخير؟"
+  },
+  {
+    "question": "use your brain",
+    "options": [
+      "استخدم عقلك",
+      "تحرك بسرعة",
+      "اصمت",
+      "لا تفكر كثيرًا"
+    ],
+    "answer": "استخدم عقلك"
+  },
+  {
+    "question": "overpass",
+    "options": [
+      "جسر علوي",
+      "نفق",
+      "ممر أرضي",
+      "دوار"
+    ],
+    "answer": "جسر علوي"
+  },
+  {
+    "question": "come again",
+    "options": [
+      "أعد ما قلت",
+      "أحضر هدية",
+      "تعال لاحقًا",
+      "ارجع إلى مكانك"
+    ],
+    "answer": "أعد ما قلت"
+  },
+  {
+    "question": "stream",
+    "options": [
+      "جدول أو مجرى مائي",
+      "تيار هوائي",
+      "قناة تصريف",
+      "مستنقع"
+    ],
+    "answer": "جدول أو مجرى مائي"
+  },
+  {
+    "question": "stop",
+    "options": [
+      "نقطة توقف مؤقتة بدون مرافق",
+      "محطة حافلات",
+      "إشارة مرور",
+      "موقف سيارات"
+    ],
+    "answer": "نقطة توقف مؤقتة بدون مرافق"
+  },
+  {
+    "question": "pond",
+    "options": [
+      "بركة",
+      "نهر",
+      "بحيرة كبيرة",
+      "مستنقع"
+    ],
+    "answer": "بركة"
+  },
+  {
+    "question": "legislation",
+    "options": [
+      "تشريع",
+      "قانوني",
+      "محكمة",
+      "تنفيذ"
+    ],
+    "answer": "تشريع"
+  },
+  {
+    "question": "misocapnist",
+    "options": [
+      "كاره للتدخين",
+      "محب للتدخين",
+      "مدخن معتاد",
+      "مدخن سلبي"
+    ],
+    "answer": "كاره للتدخين"
+  },
+  {
+    "question": "misogynist",
+    "options": [
+      "كاره النساء",
+      "محب النساء",
+      "يخاف من النساء",
+      "يعمل مع النساء"
+    ],
+    "answer": "كاره النساء"
+  },
+  {
+    "question": "misandrist",
+    "options": [
+      "كارهة الرجال",
+      "محبة للرجال",
+      "مستقلة عن الرجال",
+      "محايدة تجاه الرجال"
+    ],
+    "answer": "كارهة الرجال"
+  },
+  {
+    "question": "disarmament",
+    "options": [
+      "نزع السلاح",
+      "زيادة التسليح",
+      "التجنيد",
+      "الدفاع الجوي"
+    ],
+    "answer": "نزع السلاح"
+  },
+  {
+    "question": "demobilization",
+    "options": [
+      "تسريح الجنود",
+      "التعبئة",
+      "الهجوم العسكري",
+      "الدفاع الوطني"
+    ],
+    "answer": "تسريح الجنود"
+  },
+  {
+    "question": "misogamist",
+    "options": [
+      "كاره الزواج",
+      "محب الزواج",
+      "متزوج حديثًا",
+      "خائف من الزواج"
+    ],
+    "answer": "كاره الزواج"
+  },
+  {
+    "question": "misanthrope",
+    "options": [
+      "كاره للبشر",
+      "اجتماعي",
+      "متحدث لبق",
+      "محب للمجتمع"
+    ],
+    "answer": "كاره للبشر"
+  },
+  {
+    "question": "misoneist",
+    "options": [
+      "كاره للتجديد",
+      "مبتكر",
+      "محب للتكنولوجيا",
+      "مجدد دائمًا"
+    ],
+    "answer": "كاره للتجديد"
+  },
+  {
+    "question": "wipe",
+    "options": [
+      "يمسح",
+      "يغسل",
+      "يصب",
+      "ينقع"
+    ],
+    "answer": "يمسح"
+  },
+  {
+    "question": "rely on",
+    "options": [
+      "يعتمد على",
+      "ينتقد",
+      "يتجاهل",
+      "يتغافل عن"
+    ],
+    "answer": "يعتمد على"
+  },
+  {
+    "question": "upside",
+    "options": [
+      "جانب إيجابي",
+      "سلبيات",
+      "منتصف",
+      "خطأ بسيط"
+    ],
+    "answer": "جانب إيجابي"
+  },
+  {
+    "question": "et cetera",
+    "options": [
+      "وما إلى ذلك",
+      "ولكن",
+      "في المقابل",
+      "من جهة أخرى"
+    ],
+    "answer": "وما إلى ذلك"
+  },
+  {
+    "question": "bright",
+    "options": [
+      "مضيء",
+      "غامق",
+      "باهت",
+      "معتم"
+    ],
+    "answer": "مضيء"
+  },
+  {
+    "question": "compete",
+    "options": [
+      "يتنافس",
+      "يتعاون",
+      "يتجاهل",
+      "يتحكم"
+    ],
+    "answer": "يتنافس"
+  },
+  {
+    "question": "diagnosis",
+    "options": [
+      "تشخيص",
+      "علاج",
+      "نصيحة",
+      "وقاية"
+    ],
+    "answer": "تشخيص"
+  },
+  {
+    "question": "bison",
+    "options": [
+      "ثور أمريكي",
+      "غزال",
+      "نمر",
+      "أسد"
+    ],
+    "answer": "ثور أمريكي"
+  },
+  {
+    "question": "crisis",
+    "options": [
+      "أزمة",
+      "فرصة",
+      "نقطة بداية",
+      "انفراج"
+    ],
+    "answer": "أزمة"
+  },
+  {
+    "question": "ellipsis",
+    "options": [
+      "الحذف بعلامات (...) ",
+      "علامة تعجب",
+      "علامة استفهام",
+      "فاصلة"
+    ],
+    "answer": "الحذف بعلامات (...) "
+  },
+  {
+    "question": "erratum",
+    "options": [
+      "خطأ مطبعي",
+      "عنوان",
+      "مقدمة",
+      "مرجع"
+    ],
+    "answer": "خطأ مطبعي"
+  },
+  {
+    "question": "volcano",
+    "options": [
+      "بركان",
+      "زلزال",
+      "جبل",
+      "صحراء"
+    ],
+    "answer": "بركان"
+  },
+  {
+    "question": "tornado",
+    "options": [
+      "إعصار",
+      "عاصفة مطرية",
+      "زوبعة صغيرة",
+      "رياح خفيفة"
+    ],
+    "answer": "إعصار"
+  },
+  {
+    "question": "cello",
+    "options": [
+      "تشيلو (آلة وترية)",
+      "كمان",
+      "عود",
+      "قيثارة"
+    ],
+    "answer": "تشيلو (آلة وترية)"
+  },
+  {
     "question": "Wild goose chase",
     "options": [
       "مطاردة الإوزة البرية",
@@ -37121,6 +41271,1026 @@
       "يرمي"
     ],
     "answer": "يسحب"
+  },
+  {
+    "question": "Inconvenience",
+    "options": [
+      "إزعاج",
+      "راحة",
+      "فرصة",
+      "ميزة"
+    ],
+    "answer": "إزعاج"
+  },
+  {
+    "question": "afterwards",
+    "options": [
+      "لاحقًا",
+      "قبل",
+      "الآن",
+      "دائمًا"
+    ],
+    "answer": "لاحقًا"
+  },
+  {
+    "question": "Stamina",
+    "options": [
+      "التحمل",
+      "الضعف",
+      "السرعة",
+      "الراحة"
+    ],
+    "answer": "التحمل"
+  },
+  {
+    "question": "hindsight",
+    "options": [
+      "الإدراك المتأخر",
+      "الاستباق",
+      "الوضوح",
+      "النجاح"
+    ],
+    "answer": "الإدراك المتأخر"
+  },
+  {
+    "question": "pencil case",
+    "options": [
+      "مقلمة",
+      "دفتر",
+      "مسطرة",
+      "حقيبة"
+    ],
+    "answer": "مقلمة"
+  },
+  {
+    "question": "Old habits die hard",
+    "options": [
+      "العادات القديمة لا تموت بسهولة",
+      "لا وقت للعادات",
+      "تعلم عادة جديدة",
+      "من شبّ على شيء شاب عليه"
+    ],
+    "answer": "العادات القديمة لا تموت بسهولة"
+  },
+  {
+    "question": "moderate",
+    "options": [
+      "معتدل",
+      "قوي",
+      "حاد",
+      "ضعيف"
+    ],
+    "answer": "معتدل"
+  },
+  {
+    "question": "expenses",
+    "options": [
+      "نفقات",
+      "إيرادات",
+      "استثمار",
+      "ربح"
+    ],
+    "answer": "نفقات"
+  },
+  {
+    "question": "such",
+    "options": [
+      "هكذا",
+      "لكن",
+      "دائمًا",
+      "ربما"
+    ],
+    "answer": "هكذا"
+  },
+  {
+    "question": "dust",
+    "options": [
+      "غبار",
+      "ماء",
+      "هواء",
+      "نار"
+    ],
+    "answer": "غبار"
+  },
+  {
+    "question": "porridge",
+    "options": [
+      "عصيدة",
+      "شوربة",
+      "خبز",
+      "رز"
+    ],
+    "answer": "عصيدة"
+  },
+  {
+    "question": "thrifty",
+    "options": [
+      "مقتصد",
+      "مسرف",
+      "غني",
+      "مبذر"
+    ],
+    "answer": "مقتصد"
+  },
+  {
+    "question": "autumn",
+    "options": [
+      "الخريف",
+      "الربيع",
+      "الشتاء",
+      "الصيف"
+    ],
+    "answer": "الخريف"
+  },
+  {
+    "question": "mumps",
+    "options": [
+      "النكاف",
+      "الحصبة",
+      "نزلة برد",
+      "الإنفلونزا"
+    ],
+    "answer": "النكاف"
+  },
+  {
+    "question": "toddler",
+    "options": [
+      "طفل صغير",
+      "بالغ",
+      "مراهق",
+      "رضيع"
+    ],
+    "answer": "طفل صغير"
+  },
+  {
+    "question": "insulation",
+    "options": [
+      "عزل",
+      "تهوية",
+      "تدفئة",
+      "تكييف"
+    ],
+    "answer": "عزل"
+  },
+  {
+    "question": "delve",
+    "options": [
+      "يتعمق",
+      "يتجنب",
+      "يتحدث",
+      "يسرح"
+    ],
+    "answer": "يتعمق"
+  },
+  {
+    "question": "meticulous",
+    "options": [
+      "دقيق",
+      "مهمل",
+      "سريع",
+      "غامض"
+    ],
+    "answer": "دقيق"
+  },
+  {
+    "question": "realm",
+    "options": [
+      "مملكة",
+      "خريطة",
+      "جيش",
+      "حرب"
+    ],
+    "answer": "مملكة"
+  },
+  {
+    "question": "boast",
+    "options": [
+      "يتفاخر",
+      "يتواضع",
+      "يصمت",
+      "يندم"
+    ],
+    "answer": "يتفاخر"
+  },
+  {
+    "question": "comprehend",
+    "options": [
+      "يفهم",
+      "ينسى",
+      "يتكلم",
+      "يقرأ"
+    ],
+    "answer": "يفهم"
+  },
+  {
+    "question": "adultery",
+    "options": [
+      "زنا",
+      "زواج",
+      "طلاق",
+      "خطوبة"
+    ],
+    "answer": "زنا"
+  },
+  {
+    "question": "usury",
+    "options": [
+      "الربا",
+      "القرض الحسن",
+      "الزكاة",
+      "التبرع"
+    ],
+    "answer": "الربا"
+  },
+  {
+    "question": "Gotcha you",
+    "options": [
+      "فهمتك",
+      "أمسكتك",
+      "انتباهك",
+      "دعابتك"
+    ],
+    "answer": "فهمتك"
+  },
+  {
+    "question": "Wet lettuce",
+    "options": [
+      "شخص مهمش",
+      "شخص غني",
+      "قوي الشخصية",
+      "مضحك"
+    ],
+    "answer": "شخص مهمش"
+  },
+  {
+    "question": "why are you sitting by yourself like a wet lettuce",
+    "options": [
+      "لماذا تجلس بمفردك كالشخص المهمش",
+      "هل أنت مشغول؟",
+      "ما سبب جلوسك وحدك؟",
+      "هل تنتظر أحدًا؟"
+    ],
+    "answer": "لماذا تجلس بمفردك كالشخص المهمش"
+  },
+  {
+    "question": "ashes to ashes Dust to dust",
+    "options": [
+      "من التراب إلى التراب، ومن الرماد إلى الرماد.",
+      "رماد فقط",
+      "تراب فقط",
+      "كل شيء فانٍ"
+    ],
+    "answer": "من التراب إلى التراب، ومن الرماد إلى الرماد."
+  },
+  {
+    "question": "do not be buzzkill",
+    "options": [
+      "لا تكن مفسدًا للمتعة",
+      "لا تكن مزعجًا",
+      "لا تكن ثرثارًا",
+      "لا تكن متشائمًا"
+    ],
+    "answer": "لا تكن مفسدًا للمتعة"
+  },
+  {
+    "question": "one way or another",
+    "options": [
+      "بأي طريقة كانت",
+      "بطريقة واحدة فقط",
+      "إما هذا أو ذاك",
+      "بشكل غير مباشر"
+    ],
+    "answer": "بأي طريقة كانت"
+  },
+  {
+    "question": "are you accusing me?",
+    "options": [
+      "هل تتهمني؟",
+      "هل تسألني؟",
+      "هل تراقبني؟",
+      "هل تخدعني؟"
+    ],
+    "answer": "هل تتهمني؟"
+  },
+  {
+    "question": "do not freak out",
+    "options": [
+      "لا تفزع",
+      "لا تصرخ",
+      "لا تجن",
+      "لا تبكِ"
+    ],
+    "answer": "لا تفزع"
+  },
+  {
+    "question": "that is awkward",
+    "options": [
+      "هذا محرج",
+      "هذا غريب",
+      "هذا مزعج",
+      "هذا مربك"
+    ],
+    "answer": "هذا محرج"
+  },
+  {
+    "question": "tight corner",
+    "options": [
+      "زاوية ضيقة",
+      "طريق صعب",
+      "خيار محدود",
+      "مكان مغلق"
+    ],
+    "answer": "زاوية ضيقة"
+  },
+  {
+    "question": "from time to time",
+    "options": [
+      "من وقت لآخر",
+      "كثيرًا",
+      "نادراً",
+      "كل يوم"
+    ],
+    "answer": "من وقت لآخر"
+  },
+  {
+    "question": "pupil",
+    "options": [
+      "حدقة العين",
+      "طالب",
+      "معلم",
+      "مريض"
+    ],
+    "answer": "حدقة العين"
+  },
+  {
+    "question": "The doctor examined the patient's pupil.",
+    "options": [
+      "فحص الطبيب حدقة المريض.",
+      "زار الطبيب الطالب.",
+      "تحدث الطبيب مع المريض.",
+      "أعطى الطبيب دواءً للمريض."
+    ],
+    "answer": "فحص الطبيب حدقة المريض."
+  },
+  {
+    "question": "gossiping",
+    "options": [
+      "النميمة",
+      "التحدث الرسمي",
+      "النقد البناء",
+      "التحليل"
+    ],
+    "answer": "النميمة"
+  },
+  {
+    "question": "arranged marriage",
+    "options": [
+      "زواج مرتب",
+      "زواج تقليدي",
+      "زواج سري",
+      "خطوبة مبكرة"
+    ],
+    "answer": "زواج مرتب"
+  },
+  {
+    "question": "Non-Repudiation",
+    "options": [
+      "عدم الإنكار",
+      "الخصوصية",
+      "عدم الكشف",
+      "الشفافية"
+    ],
+    "answer": "عدم الإنكار"
+  },
+  {
+    "question": "vulnerability",
+    "options": [
+      "ثغرة",
+      "قوة",
+      "استقرار",
+      "تحسين"
+    ],
+    "answer": "ثغرة"
+  },
+  {
+    "question": "dough",
+    "options": [
+      "عجين",
+      "طحين",
+      "سكر",
+      "كريمة"
+    ],
+    "answer": "عجين"
+  },
+  {
+    "question": "vishing",
+    "options": [
+      "احتيال صوتي",
+      "تصيد إلكتروني",
+      "اتصال قانوني",
+      "تحقيق هاتفي"
+    ],
+    "answer": "احتيال صوتي"
+  },
+  {
+    "question": "solicitation",
+    "options": [
+      "التحريض",
+      "المناشدة",
+      "الدعم",
+      "الردع"
+    ],
+    "answer": "التحريض"
+  },
+  {
+    "question": "bet",
+    "options": [
+      "رهان",
+      "تخمين",
+      "لعب",
+      "حظ"
+    ],
+    "answer": "رهان"
+  },
+  {
+    "question": "spoof",
+    "options": [
+      "خداع",
+      "سخرية",
+      "مزحة",
+      "محاكاة"
+    ],
+    "answer": "خداع"
+  },
+  {
+    "question": "acquisition",
+    "options": [
+      "استحواذ",
+      "بيع",
+      "استثمار",
+      "تقسيم"
+    ],
+    "answer": "استحواذ"
+  },
+  {
+    "question": "literature",
+    "options": [
+      "أدب",
+      "لغة",
+      "تاريخ",
+      "ثقافة"
+    ],
+    "answer": "أدب"
+  },
+  {
+    "question": "likelihood",
+    "options": [
+      "احتمالية",
+      "واقع",
+      "حقيقة",
+      "تكرار"
+    ],
+    "answer": "احتمالية"
+  },
+  {
+    "question": "characterized",
+    "options": [
+      "يتميز",
+      "ينتقد",
+      "يحاكي",
+      "يقلد"
+    ],
+    "answer": "يتميز"
+  },
+  {
+    "question": "exploit",
+    "options": [
+      "استغلال",
+      "استخدام",
+      "إخفاء",
+      "إلغاء"
+    ],
+    "answer": "استغلال"
+  },
+  {
+    "question": "brainstorming",
+    "options": [
+      "عصف ذهني",
+      "تحليل نقدي",
+      "نقاش",
+      "تبادل الآراء"
+    ],
+    "answer": "عصف ذهني"
+  },
+  {
+    "question": "Denial",
+    "options": [
+      "إنكار",
+      "رفض",
+      "إخفاء",
+      "تهرب"
+    ],
+    "answer": "إنكار"
+  },
+  {
+    "question": "annex",
+    "options": [
+      "ضم",
+      "إضافة",
+      "استبعاد",
+      "فصل"
+    ],
+    "answer": "ضم"
+  },
+  {
+    "question": "for good",
+    "options": [
+      "إلى الأبد",
+      "فترة طويلة",
+      "لاحقًا",
+      "مؤقتًا"
+    ],
+    "answer": "إلى الأبد"
+  },
+  {
+    "question": "I quit smoking for good.",
+    "options": [
+      "أقلعت عن التدخين نهائيًا.",
+      "بدأت التدخين من جديد.",
+      "أقلعت عن التدخين مؤقتًا.",
+      "أفكر في الإقلاع عن التدخين."
+    ],
+    "answer": "أقلعت عن التدخين نهائيًا."
+  },
+  {
+    "question": "exhaustive",
+    "options": [
+      "شامل",
+      "مرهق",
+      "ممل",
+      "بسيط"
+    ],
+    "answer": "شامل"
+  },
+  {
+    "question": "duties",
+    "options": [
+      "واجبات",
+      "حقوق",
+      "أوامر",
+      "أنشطة"
+    ],
+    "answer": "واجبات"
+  },
+  {
+    "question": "offboarding",
+    "options": [
+      "إنهاء العمل",
+      "التوظيف",
+      "الترقية",
+      "الانتقال"
+    ],
+    "answer": "إنهاء العمل"
+  },
+  {
+    "question": "clingy",
+    "options": [
+      "متعلق بشدة",
+      "بارد",
+      "متردد",
+      "مزعج"
+    ],
+    "answer": "متعلق بشدة"
+  },
+  {
+    "question": "Segregation",
+    "options": [
+      "فصل",
+      "دمج",
+      "تقسيم",
+      "توزيع"
+    ],
+    "answer": "فصل"
+  },
+  {
+    "question": "embezzlement",
+    "options": [
+      "اختلاس",
+      "سرقة",
+      "رشوة",
+      "تزوير"
+    ],
+    "answer": "اختلاس"
+  },
+  {
+    "question": "split up",
+    "options": [
+      "انفصل",
+      "اجتمع",
+      "تعاون",
+      "هاجر"
+    ],
+    "answer": "انفصل"
+  },
+  {
+    "question": "abide by",
+    "options": [
+      "يطيع",
+      "يعارض",
+      "يتجاهل",
+      "يخطط"
+    ],
+    "answer": "يطيع"
+  },
+  {
+    "question": "ancillary",
+    "options": [
+      "ثانوي",
+      "رئيسي",
+      "مكمل",
+      "تابع"
+    ],
+    "answer": "ثانوي"
+  },
+  {
+    "question": "rainbow",
+    "options": [
+      "قوس قزح",
+      "ضوء الشمس",
+      "مطر خفيف",
+      "ضباب"
+    ],
+    "answer": "قوس قزح"
+  },
+  {
+    "question": "personnel",
+    "options": [
+      "الموظفون",
+      "المعدات",
+      "الإدارة",
+      "الرواتب"
+    ],
+    "answer": "الموظفون"
+  },
+  {
+    "question": "accredited",
+    "options": [
+      "معتمد",
+      "مرخص",
+      "مسجل",
+      "مراقب"
+    ],
+    "answer": "معتمد"
+  },
+  {
+    "question": "jog",
+    "options": [
+      "يركض بخفة",
+      "يمشي",
+      "يهرول",
+      "يقفز"
+    ],
+    "answer": "يركض بخفة"
+  },
+  {
+    "question": "sausage",
+    "options": [
+      "نقانق",
+      "كبدة",
+      "كفتة",
+      "ستيك"
+    ],
+    "answer": "نقانق"
+  },
+  {
+    "question": "boast",
+    "options": [
+      "يتفاخر",
+      "ينتقد",
+      "يحسد",
+      "يتجاهل"
+    ],
+    "answer": "يتفاخر"
+  },
+  {
+    "question": "cloth",
+    "options": [
+      "قماش",
+      "قميص",
+      "لباس",
+      "بطانية"
+    ],
+    "answer": "قماش"
+  },
+  {
+    "question": "doll",
+    "options": [
+      "دمية",
+      "لعبة",
+      "مجسم",
+      "طفلة"
+    ],
+    "answer": "دمية"
+  },
+  {
+    "question": "outing",
+    "options": [
+      "نزهة",
+      "رحلة",
+      "زيارة",
+      "مشوار"
+    ],
+    "answer": "نزهة"
+  },
+  {
+    "question": "intensive",
+    "options": [
+      "مكثف",
+      "سريع",
+      "متكرر",
+      "مستمر"
+    ],
+    "answer": "مكثف"
+  },
+  {
+    "question": "soak",
+    "options": [
+      "ينقع",
+      "يبلل",
+      "يغسل",
+      "يعصر"
+    ],
+    "answer": "ينقع"
+  },
+  {
+    "question": "obvious",
+    "options": [
+      "واضح",
+      "غامض",
+      "مشوش",
+      "دقيق"
+    ],
+    "answer": "واضح"
+  },
+  {
+    "question": "demonstrations",
+    "options": [
+      "مظاهرات",
+      "احتفالات",
+      "محاضرات",
+      "مناقشات"
+    ],
+    "answer": "مظاهرات"
+  },
+  {
+    "question": "siege",
+    "options": [
+      "حصار",
+      "هجوم",
+      "دفاع",
+      "مراقبة"
+    ],
+    "answer": "حصار"
+  },
+  {
+    "question": "invention",
+    "options": [
+      "اختراع",
+      "اكتشاف",
+      "نظرية",
+      "خطة"
+    ],
+    "answer": "اختراع"
+  },
+  {
+    "question": "oppression",
+    "options": [
+      "قمع",
+      "عنف",
+      "خيانة",
+      "تهديد"
+    ],
+    "answer": "قمع"
+  },
+  {
+    "question": "tyrranny",
+    "options": [
+      "استبداد",
+      "ديكتاتورية",
+      "عنصرية",
+      "فساد"
+    ],
+    "answer": "استبداد"
+  },
+  {
+    "question": "discrimination",
+    "options": [
+      "تمييز",
+      "عدالة",
+      "مساواة",
+      "عقوبة"
+    ],
+    "answer": "تمييز"
+  },
+  {
+    "question": "show me the ropes",
+    "options": [
+      "أرني كيف أبدأ",
+      "دلني على المكان",
+      "عرفني على القوانين",
+      "خذني في جولة"
+    ],
+    "answer": "أرني كيف أبدأ"
+  },
+  {
+    "question": "cutback",
+    "options": [
+      "خفض",
+      "زيادة",
+      "تعديل",
+      "دمج"
+    ],
+    "answer": "خفض"
+  },
+  {
+    "question": "council",
+    "options": [
+      "مجلس",
+      "محكمة",
+      "بلدية",
+      "مكتب"
+    ],
+    "answer": "مجلس"
+  },
+  {
+    "question": "tumble dryer",
+    "options": [
+      "مجفف ملابس",
+      "غسالة",
+      "مكواة",
+      "منشر"
+    ],
+    "answer": "مجفف ملابس"
+  },
+  {
+    "question": "tumble",
+    "options": [
+      "يسقط",
+      "يدور",
+      "يمشي",
+      "يركض"
+    ],
+    "answer": "يسقط"
+  },
+  {
+    "question": "after you",
+    "options": [
+      "من بعدك",
+      "أنت أولًا",
+      "لاحقًا",
+      "اذهب قبلي"
+    ],
+    "answer": "من بعدك"
+  },
+  {
+    "question": "stop snooping",
+    "options": [
+      "توقف عن التطفل",
+      "توقف عن الكلام",
+      "لا تراقب",
+      "توقف عن السؤال"
+    ],
+    "answer": "توقف عن التطفل"
+  },
+  {
+    "question": "watch your mouth",
+    "options": [
+      "راقب ألفاظك",
+      "اسكت",
+      "تكلم بلطف",
+      "كن مهذبًا"
+    ],
+    "answer": "راقب ألفاظك"
+  },
+  {
+    "question": "keep your nose clean",
+    "options": [
+      "لا تتورط بالمشاكل",
+      "نظف أنفك",
+      "انتبه",
+      "التزم الصمت"
+    ],
+    "answer": "لا تتورط بالمشاكل"
+  },
+  {
+    "question": "dimples",
+    "options": [
+      "غمازات",
+      "ندوب",
+      "شامات",
+      "نمش"
+    ],
+    "answer": "غمازات"
+  },
+  {
+    "question": "birthmark",
+    "options": [
+      "وحمة",
+      "ندبة",
+      "شامة",
+      "نمش"
+    ],
+    "answer": "وحمة"
+  },
+  {
+    "question": "freckles",
+    "options": [
+      "نمش",
+      "شامات",
+      "حبوب",
+      "بقع"
+    ],
+    "answer": "نمش"
+  },
+  {
+    "question": "mole",
+    "options": [
+      "شامة",
+      "وحمة",
+      "نمش",
+      "ندبة"
+    ],
+    "answer": "شامة"
+  },
+  {
+    "question": "scar",
+    "options": [
+      "ندبة",
+      "شامة",
+      "جرح",
+      "علامة"
+    ],
+    "answer": "ندبة"
+  },
+  {
+    "question": "strech mark",
+    "options": [
+      "علامات تمدد",
+      "ندبات",
+      "كدمات",
+      "تجاعيد"
+    ],
+    "answer": "علامات تمدد"
+  },
+  {
+    "question": "wrinkles",
+    "options": [
+      "تجاعيد",
+      "بقع",
+      "ندبات",
+      "حبوب"
+    ],
+    "answer": "تجاعيد"
+  },
+  {
+    "question": "pores",
+    "options": [
+      "مسامات",
+      "نتوءات",
+      "بقع",
+      "قشور"
+    ],
+    "answer": "مسامات"
+  },
+  {
+    "question": "do not belittle me",
+    "options": [
+      "لا تستخف بي",
+      "لا تتجاهلني",
+      "لا تصرخ في وجهي",
+      "لا تخدعني"
+    ],
+    "answer": "لا تستخف بي"
+  },
+  {
+    "question": "slander",
+    "options": [
+      "افتراء",
+      "صدق",
+      "مديح",
+      "نقد بناء"
+    ],
+    "answer": "افتراء"
+  },
+  {
+    "question": "my hands are tied",
+    "options": [
+      "يديّ مقيدتان",
+      "أنا مشغول",
+      "لا أستطيع المساعدة",
+      "سأراك لاحقًا"
+    ],
+    "answer": "يديّ مقيدتان"
   },
   {
     "question": "two",
@@ -41801,6 +46971,16 @@
       "باب"
     ],
     "answer": "شيء لا تتذكر اسمه"
+  },
+  {
+    "question": "lounge",
+    "options": [
+      "يسترخي",
+      "يهاجم",
+      "يقفز",
+      "يصرخ"
+    ],
+    "answer": "يسترخي"
   },
   {
     "question": "terribly",

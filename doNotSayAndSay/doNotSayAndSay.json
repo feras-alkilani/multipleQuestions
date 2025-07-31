@@ -1,0 +1,1342 @@
+[
+  {
+    "question": "Do not say: Remove a password , say:",
+    "options": [
+      "Log out the password",
+      "Go jogging",
+      "Hurry back",
+      "Move out furniture"
+    ],
+    "answer": "Log out the password"
+  },
+  {
+    "question": "Do not say: Remove the name , say:",
+    "options": [
+      "Improve",
+      "Get some rest",
+      "Take off makeup",
+      "Cross off the name"
+    ],
+    "answer": "Cross off the name"
+  },
+  {
+    "question": "Do not say: Remove a sticker , say:",
+    "options": [
+      "Get some rest",
+      "Peel off the sticker",
+      "Go outside",
+      "Make an effort"
+    ],
+    "answer": "Peel off the sticker"
+  },
+  {
+    "question": "Do not say: Remove makeup , say:",
+    "options": [
+      "Complete homework",
+      "Take off makeup",
+      "Prepare",
+      "Have lunch"
+    ],
+    "answer": "Take off makeup"
+  },
+  {
+    "question": "Do not say: Remove stains , say:",
+    "options": [
+      "Wipe off stains",
+      "Clean up",
+      "Tease",
+      "Move out furniture"
+    ],
+    "answer": "Wipe off stains"
+  },
+  {
+    "question": "Do not say: Remove the lid , say:",
+    "options": [
+      "Sign",
+      "Wash off dirt",
+      "Pop off the lid",
+      "Take a test"
+    ],
+    "answer": "Pop off the lid"
+  },
+  {
+    "question": "Do not say: Remove shoes , say:",
+    "options": [
+      "Repeat the mistake",
+      "Clean up",
+      "Slip off shoes",
+      "Draw a sketch"
+    ],
+    "answer": "Slip off shoes"
+  },
+  {
+    "question": "Do not say: Remove the dirt , say:",
+    "options": [
+      "Get some rest",
+      "Wash off dirt",
+      "Make a decision",
+      "Have fun"
+    ],
+    "answer": "Wash off dirt"
+  },
+  {
+    "question": "Do not say: Remove paint , say:",
+    "options": [
+      "Scrape off paint",
+      "Discuss",
+      "Set off",
+      "File a complaint"
+    ],
+    "answer": "Scrape off paint"
+  },
+  {
+    "question": "Do not say: Remove dust , say:",
+    "options": [
+      "Take off clothes",
+      "Plan",
+      "Brush off the dust",
+      "Speak up"
+    ],
+    "answer": "Brush off the dust"
+  },
+  {
+    "question": "Do not say: Remove the nail , say:",
+    "options": [
+      "Give news",
+      "Repeat the mistake",
+      "Brush off the dust",
+      "Pull out the nail"
+    ],
+    "answer": "Pull out the nail"
+  },
+  {
+    "question": "Do not say: Remove furniture , say:",
+    "options": [
+      "Make a decision",
+      "Give news",
+      "Move out furniture",
+      "Have breakfast"
+    ],
+    "answer": "Move out furniture"
+  },
+  {
+    "question": "Do not say: Remove garbage , say:",
+    "options": [
+      "Act",
+      "Take out the garbage",
+      "Apologize",
+      "Have a rest"
+    ],
+    "answer": "Take out the garbage"
+  },
+  {
+    "question": "Do not say: Remove a bandage , say:",
+    "options": [
+      "Pull off the bandage",
+      "Have breakfast",
+      "Make arrangements",
+      "Perform duty"
+    ],
+    "answer": "Pull off the bandage"
+  },
+  {
+    "question": "Do not say: Do a decision , say:",
+    "options": [
+      "Start work",
+      "Go swimming",
+      "Throw a party",
+      "Make a decision"
+    ],
+    "answer": "Make a decision"
+  },
+  {
+    "question": "Do not say: Do a mistake , say:",
+    "options": [
+      "Hurry back",
+      "Meditate",
+      "Make a mistake",
+      "Go outside"
+    ],
+    "answer": "Make a mistake"
+  },
+  {
+    "question": "Do not say: Do an effort , say:",
+    "options": [
+      "Make an effort",
+      "Slip off shoes",
+      "File a complaint",
+      "Start work"
+    ],
+    "answer": "Make an effort"
+  },
+  {
+    "question": "Do not say: Say an apology , say:",
+    "options": [
+      "Show interest",
+      "Improve",
+      "Wash off dirt",
+      "Apologize"
+    ],
+    "answer": "Apologize"
+  },
+  {
+    "question": "Do not say: Say a lie , say:",
+    "options": [
+      "Make a decision",
+      "React",
+      "Tell a lie",
+      "Become friends"
+    ],
+    "answer": "Tell a lie"
+  },
+  {
+    "question": "Do not say: Say news , say:",
+    "options": [
+      "Go shopping",
+      "Make a mistake",
+      "Log out the password",
+      "Give news"
+    ],
+    "answer": "Give news"
+  },
+  {
+    "question": "Do not say: Take a rest , say:",
+    "options": [
+      "Repeat the mistake",
+      "Invest",
+      "Have a rest",
+      "Take an exam"
+    ],
+    "answer": "Have a rest"
+  },
+  {
+    "question": "Do not say: Take food , say:",
+    "options": [
+      "Go outside",
+      "Take out the garbage",
+      "Grab food",
+      "Take off clothes"
+    ],
+    "answer": "Grab food"
+  },
+  {
+    "question": "Do not say: Make clean , say:",
+    "options": [
+      "Arrive at the office",
+      "Clean up",
+      "Have a rest",
+      "Take medicine"
+    ],
+    "answer": "Clean up"
+  },
+  {
+    "question": "Do not say: Make fast , say:",
+    "options": [
+      "Slip off shoes",
+      "Run a business",
+      "Move out furniture",
+      "Speed up"
+    ],
+    "answer": "Speed up"
+  },
+  {
+    "question": "Do not say: Stop working , say:",
+    "options": [
+      "Start work",
+      "Arrive at the office",
+      "Show interest",
+      "Shut down (a machine)"
+    ],
+    "answer": "Shut down (a machine)"
+  },
+  {
+    "question": "Do not say: Start a journey , say:",
+    "options": [
+      "Act",
+      "Perform duty",
+      "Complete homework",
+      "Set off"
+    ],
+    "answer": "Set off"
+  },
+  {
+    "question": "Do not say: Start talking , say:",
+    "options": [
+      "Make a mistake",
+      "Speak up",
+      "Ask for help",
+      "Perform duty"
+    ],
+    "answer": "Speak up"
+  },
+  {
+    "question": "Do not say: Look carefully , say:",
+    "options": [
+      "Check out / Look over",
+      "React",
+      "Book (a seat, hotel, etc.)",
+      "Pop off the lid"
+    ],
+    "answer": "Check out / Look over"
+  },
+  {
+    "question": "Do not say: Look angrily , say:",
+    "options": [
+      "Meditate",
+      "Glare at",
+      "Make a decision",
+      "Grab food"
+    ],
+    "answer": "Glare at"
+  },
+  {
+    "question": "Do not say: Look secretly , say:",
+    "options": [
+      "Scrape off paint",
+      "Worry",
+      "Hang up",
+      "Peek at"
+    ],
+    "answer": "Peek at"
+  },
+  {
+    "question": "Do not say: Look quickly , say:",
+    "options": [
+      "Glance at",
+      "Arrive at the office",
+      "Attend an interview",
+      "Take off clothes"
+    ],
+    "answer": "Glance at"
+  },
+  {
+    "question": "Do not say: Get knowledge , say:",
+    "options": [
+      "Make a mistake",
+      "Slip off shoes",
+      "Learn",
+      "Sign"
+    ],
+    "answer": "Learn"
+  },
+  {
+    "question": "Do not say: Make it ready , say:",
+    "options": [
+      "Show interest",
+      "Prepare",
+      "Shut down (a machine)",
+      "Peel off the sticker"
+    ],
+    "answer": "Prepare"
+  },
+  {
+    "question": "Do not say: Make quiet , say:",
+    "options": [
+      "Wash off dirt",
+      "Register",
+      "Calm down",
+      "Make a phone call"
+    ],
+    "answer": "Calm down"
+  },
+  {
+    "question": "Do not say: Open the light , say:",
+    "options": [
+      "Turn on the light",
+      "Cross off the name",
+      "Worry",
+      "Go outside"
+    ],
+    "answer": "Turn on the light"
+  },
+  {
+    "question": "Do not say: Close the light , say:",
+    "options": [
+      "Take a picture",
+      "Turn off the light",
+      "Take a test",
+      "Make progress"
+    ],
+    "answer": "Turn off the light"
+  },
+  {
+    "question": "Do not say: Make a photo , say:",
+    "options": [
+      "Build a relationship",
+      "Ask for help",
+      "Hurry back",
+      "Take a photo"
+    ],
+    "answer": "Take a photo"
+  },
+  {
+    "question": "Do not say: Do a mistake , say:",
+    "options": [
+      "Invest",
+      "Make a mistake",
+      "Cheat or Copy",
+      "Hurry back"
+    ],
+    "answer": "Make a mistake"
+  },
+  {
+    "question": "Do not say: Do homework , say:",
+    "options": [
+      "Complete homework",
+      "Show interest",
+      "Come inside",
+      "Scrape off paint"
+    ],
+    "answer": "Complete homework"
+  },
+  {
+    "question": "Do not say: Eat medicine , say:",
+    "options": [
+      "Go swimming",
+      "Take a picture",
+      "Wipe off stains",
+      "Take medicine"
+    ],
+    "answer": "Take medicine"
+  },
+  {
+    "question": "Do not say: See a dream , say:",
+    "options": [
+      "Have a dream",
+      "Meditate",
+      "Move out furniture",
+      "Take a photo"
+    ],
+    "answer": "Have a dream"
+  },
+  {
+    "question": "Do not say: Give an exam , say:",
+    "options": [
+      "Prepare",
+      "Improve",
+      "Pull off the bandage",
+      "Take an exam"
+    ],
+    "answer": "Take an exam"
+  },
+  {
+    "question": "Do not say: Pass time , say:",
+    "options": [
+      "Spend time",
+      "Deliver a speech",
+      "Pull off the bandage",
+      "Smile"
+    ],
+    "answer": "Spend time"
+  },
+  {
+    "question": "Do not say: Return back , say:",
+    "options": [
+      "Return",
+      "Go jogging",
+      "Take off clothes",
+      "Ask for permission"
+    ],
+    "answer": "Return"
+  },
+  {
+    "question": "Do not say: Discuss about , say:",
+    "options": [
+      "Discuss",
+      "Build a relationship",
+      "Make noise",
+      "Draw a sketch"
+    ],
+    "answer": "Discuss"
+  },
+  {
+    "question": "Do not say: Revert back , say:",
+    "options": [
+      "Arrive at the office",
+      "Reply",
+      "Take off clothes",
+      "Scrape off paint"
+    ],
+    "answer": "Reply"
+  },
+  {
+    "question": "Do not say: Do a job , say:",
+    "options": [
+      "Work",
+      "Make a call",
+      "Learn",
+      "Go outside"
+    ],
+    "answer": "Work"
+  },
+  {
+    "question": "Do not say: Say lies , say:",
+    "options": [
+      "Check out / Look over",
+      "Tell lies",
+      "Get some rest",
+      "Repeat the mistake"
+    ],
+    "answer": "Tell lies"
+  },
+  {
+    "question": "Do not say: Speak truth , say:",
+    "options": [
+      "Meditate",
+      "Go outside",
+      "Act",
+      "Tell the truth"
+    ],
+    "answer": "Tell the truth"
+  },
+  {
+    "question": "Do not say: Do party , say:",
+    "options": [
+      "Throw a party",
+      "Turn on the light",
+      "Wear clothes",
+      "Get some rest"
+    ],
+    "answer": "Throw a party"
+  },
+  {
+    "question": "Do not say: Give a speech , say:",
+    "options": [
+      "Attend an interview",
+      "Apply makeup",
+      "File a complaint",
+      "Deliver a speech"
+    ],
+    "answer": "Deliver a speech"
+  },
+  {
+    "question": "Do not say: Cut the call , say:",
+    "options": [
+      "Take a test",
+      "Cause pain",
+      "Take a test",
+      "Hang up"
+    ],
+    "answer": "Hang up"
+  },
+  {
+    "question": "Do not say: Join the job , say:",
+    "options": [
+      "Take an exam",
+      "Take an exam",
+      "Start work",
+      "Tell the truth"
+    ],
+    "answer": "Start work"
+  },
+  {
+    "question": "Do not say: Do jogging , say:",
+    "options": [
+      "Turn on the light",
+      "Apply makeup",
+      "Go jogging",
+      "Come inside"
+    ],
+    "answer": "Go jogging"
+  },
+  {
+    "question": "Do not say: Do swimming , say:",
+    "options": [
+      "Go jogging",
+      "Make a decision",
+      "Go swimming",
+      "Throw a party"
+    ],
+    "answer": "Go swimming"
+  },
+  {
+    "question": "Do not say: Go for shopping , say:",
+    "options": [
+      "Have a bath",
+      "Hurry back",
+      "Wipe off stains",
+      "Go shopping"
+    ],
+    "answer": "Go shopping"
+  },
+  {
+    "question": "Do not say: Come to office , say:",
+    "options": [
+      "Show respect",
+      "Arrive at the office",
+      "Make noise",
+      "Make efforts"
+    ],
+    "answer": "Arrive at the office"
+  },
+  {
+    "question": "Do not say: Do progress , say:",
+    "options": [
+      "Make progress",
+      "Sign",
+      "Have dinner",
+      "Go shopping"
+    ],
+    "answer": "Make progress"
+  },
+  {
+    "question": "Do not say: Take rest , say:",
+    "options": [
+      "Spend time",
+      "Hurry back",
+      "Check out / Look over",
+      "Get some rest"
+    ],
+    "answer": "Get some rest"
+  },
+  {
+    "question": "Do not say: Give a test , say:",
+    "options": [
+      "File a complaint",
+      "Take a test",
+      "Have a rest",
+      "Deliver a speech"
+    ],
+    "answer": "Take a test"
+  },
+  {
+    "question": "Do not say: Take revenge , say:",
+    "options": [
+      "Tell the truth",
+      "Get revenge",
+      "Go shopping",
+      "Smile"
+    ],
+    "answer": "Get revenge"
+  },
+  {
+    "question": "Do not say: Come back fast , say:",
+    "options": [
+      "Tell the truth",
+      "Hurry back",
+      "Fulfill the need",
+      "Register"
+    ],
+    "answer": "Hurry back"
+  },
+  {
+    "question": "Do not say: Do a phone call , say:",
+    "options": [
+      "Smile",
+      "Clean up",
+      "Make a phone call",
+      "Show interest"
+    ],
+    "answer": "Make a phone call"
+  },
+  {
+    "question": "Do not say: Take a decision , say:",
+    "options": [
+      "Clean up",
+      "Complete homework",
+      "Have dinner",
+      "Make a decision"
+    ],
+    "answer": "Make a decision"
+  },
+  {
+    "question": "Do not say: Make a party , say:",
+    "options": [
+      "Register",
+      "Host a party",
+      "Have a rest",
+      "Have a bath"
+    ],
+    "answer": "Host a party"
+  },
+  {
+    "question": "Do not say: Do noise , say:",
+    "options": [
+      "Make noise",
+      "Work",
+      "Ask a question",
+      "Repeat the mistake"
+    ],
+    "answer": "Make noise"
+  },
+  {
+    "question": "Do not say: Do a plan , say:",
+    "options": [
+      "Make a plan",
+      "Turn off the light",
+      "Take a picture",
+      "Go jogging"
+    ],
+    "answer": "Make a plan"
+  },
+  {
+    "question": "Do not say: Go to outside , say:",
+    "options": [
+      "Go outside",
+      "Take off clothes",
+      "Work",
+      "React"
+    ],
+    "answer": "Go outside"
+  },
+  {
+    "question": "Do not say: Come to inside , say:",
+    "options": [
+      "Have lunch",
+      "File a complaint",
+      "Come inside",
+      "Discuss"
+    ],
+    "answer": "Come inside"
+  },
+  {
+    "question": "Do not say: Do brushing , say:",
+    "options": [
+      "Brush your teeth",
+      "Turn on the light",
+      "Make progress",
+      "Have a bath"
+    ],
+    "answer": "Brush your teeth"
+  },
+  {
+    "question": "Do not say: Take a breakfast , say:",
+    "options": [
+      "Have breakfast",
+      "Take a test",
+      "Throw a party",
+      "Tease"
+    ],
+    "answer": "Have breakfast"
+  },
+  {
+    "question": "Do not say: Take a lunch , say:",
+    "options": [
+      "Have lunch",
+      "Take an exam",
+      "Have breakfast",
+      "Complete homework"
+    ],
+    "answer": "Have lunch"
+  },
+  {
+    "question": "Do not say: Take a dinner , say:",
+    "options": [
+      "Take a test",
+      "Spend time",
+      "Have dinner",
+      "Throw a party"
+    ],
+    "answer": "Have dinner"
+  },
+  {
+    "question": "Do not say: Put a question , say:",
+    "options": [
+      "Arrive at the office",
+      "Grab food",
+      "Ask a question",
+      "Deliver a speech"
+    ],
+    "answer": "Ask a question"
+  },
+  {
+    "question": "Do not say: Give pain , say:",
+    "options": [
+      "Cause pain",
+      "Tell lies",
+      "Tell the truth",
+      "Make noise"
+    ],
+    "answer": "Cause pain"
+  },
+  {
+    "question": "Do not say: Take a bath , say:",
+    "options": [
+      "Have a bath",
+      "Work out",
+      "Apologize",
+      "Make noise"
+    ],
+    "answer": "Have a bath"
+  },
+  {
+    "question": "Do not say: Take a shower , say:",
+    "options": [
+      "Go swimming",
+      "Have a shower",
+      "Make a promise",
+      "Pull out the nail"
+    ],
+    "answer": "Have a shower"
+  },
+  {
+    "question": "Do not say: Make friends , say:",
+    "options": [
+      "Take a test",
+      "Turn on the light",
+      "Turn off the light",
+      "Become friends"
+    ],
+    "answer": "Become friends"
+  },
+  {
+    "question": "Do not say: Do fun , say:",
+    "options": [
+      "Plan",
+      "Offer a gift",
+      "Make a payment",
+      "Have fun"
+    ],
+    "answer": "Have fun"
+  },
+  {
+    "question": "Do not say: Do the cleaning , say:",
+    "options": [
+      "Clean up",
+      "Go outside",
+      "Sign",
+      "Make a mistake"
+    ],
+    "answer": "Clean up"
+  },
+  {
+    "question": "Do not say: Put clothes , say:",
+    "options": [
+      "Wear clothes",
+      "Reply",
+      "Speak up",
+      "Cause pain"
+    ],
+    "answer": "Wear clothes"
+  },
+  {
+    "question": "Do not say: Remove clothes , say:",
+    "options": [
+      "Log out the password",
+      "Speak up",
+      "Take off clothes",
+      "Pull off the bandage"
+    ],
+    "answer": "Take off clothes"
+  },
+  {
+    "question": "Do not say: Do a complaint , say:",
+    "options": [
+      "Peek at",
+      "Discuss",
+      "Fulfill the need",
+      "File a complaint"
+    ],
+    "answer": "File a complaint"
+  },
+  {
+    "question": "Do not say: Say sorry , say:",
+    "options": [
+      "Clean up",
+      "Apologize",
+      "Ask for help",
+      "Become friends"
+    ],
+    "answer": "Apologize"
+  },
+  {
+    "question": "Do not say: Do a promise , say:",
+    "options": [
+      "Make a mistake",
+      "Register",
+      "Take an exam",
+      "Make a promise"
+    ],
+    "answer": "Make a promise"
+  },
+  {
+    "question": "Do not say: Do exercise , say:",
+    "options": [
+      "Work out",
+      "Take a picture",
+      "Return",
+      "Host a party"
+    ],
+    "answer": "Work out"
+  },
+  {
+    "question": "Do not say: Do meditation , say:",
+    "options": [
+      "Host a party",
+      "Meditate",
+      "Plan",
+      "Brush your teeth"
+    ],
+    "answer": "Meditate"
+  },
+  {
+    "question": "Do not say: Do investment , say:",
+    "options": [
+      "Tell a lie",
+      "Make efforts",
+      "Attend class",
+      "Invest"
+    ],
+    "answer": "Invest"
+  },
+  {
+    "question": "Do not say: Do the needful , say:",
+    "options": [
+      "Take revenge",
+      "Peek at",
+      "Take necessary action",
+      "Wash off dirt"
+    ],
+    "answer": "Take necessary action"
+  },
+  {
+    "question": "Do not say: Take tension , say:",
+    "options": [
+      "Make an effort",
+      "Worry",
+      "Peel off the sticker",
+      "Make a decision"
+    ],
+    "answer": "Worry"
+  },
+  {
+    "question": "Do not say: Get sleep , say:",
+    "options": [
+      "Fall asleep",
+      "Shut down (a machine)",
+      "Take an exam",
+      "Pop off the lid"
+    ],
+    "answer": "Fall asleep"
+  },
+  {
+    "question": "Do not say: Make relationship , say:",
+    "options": [
+      "Smile",
+      "Fall asleep",
+      "Return",
+      "Build a relationship"
+    ],
+    "answer": "Build a relationship"
+  },
+  {
+    "question": "Do not say: Do a sketch , say:",
+    "options": [
+      "Worry",
+      "Draw a sketch",
+      "Make a payment",
+      "Have fun"
+    ],
+    "answer": "Draw a sketch"
+  },
+  {
+    "question": "Do not say: Do makeup , say:",
+    "options": [
+      "Attend class",
+      "Apply makeup",
+      "Scrape off paint",
+      "Make a mistake"
+    ],
+    "answer": "Apply makeup"
+  },
+  {
+    "question": "Do not say: Do a call , say:",
+    "options": [
+      "Make a call",
+      "Glance at",
+      "Pop off the lid",
+      "Hang up"
+    ],
+    "answer": "Make a call"
+  },
+  {
+    "question": "Do not say: Do mistake , say:",
+    "options": [
+      "Make a mistake",
+      "Arrive at the office",
+      "Brush off the dust",
+      "Take an exam"
+    ],
+    "answer": "Make a mistake"
+  },
+  {
+    "question": "Do not say: Do shopping , say:",
+    "options": [
+      "Make a mistake",
+      "Work",
+      "Go shopping",
+      "Have a rest"
+    ],
+    "answer": "Go shopping"
+  },
+  {
+    "question": "Do not say: Give exam , say:",
+    "options": [
+      "Learn",
+      "Take necessary action",
+      "Take an exam",
+      "Attend class"
+    ],
+    "answer": "Take an exam"
+  },
+  {
+    "question": "Do not say: Give test , say:",
+    "options": [
+      "Take a test",
+      "Give news",
+      "Have breakfast",
+      "Attend class"
+    ],
+    "answer": "Take a test"
+  },
+  {
+    "question": "Do not say: Do homework , say:",
+    "options": [
+      "Make a decision",
+      "Make a plan",
+      "Complete homework",
+      "Have a dream"
+    ],
+    "answer": "Complete homework"
+  },
+  {
+    "question": "Do not say: Take decision , say:",
+    "options": [
+      "Make progress",
+      "Make a decision",
+      "Improve",
+      "Complete homework"
+    ],
+    "answer": "Make a decision"
+  },
+  {
+    "question": "Do not say: Give advice , say:",
+    "options": [
+      "Get revenge",
+      "Move out furniture",
+      "Make a decision",
+      "Offer advice"
+    ],
+    "answer": "Offer advice"
+  },
+  {
+    "question": "Do not say: Do duty , say:",
+    "options": [
+      "Perform duty",
+      "Take a test",
+      "Clean up",
+      "Reply"
+    ],
+    "answer": "Perform duty"
+  },
+  {
+    "question": "Do not say: Take photo , say:",
+    "options": [
+      "Make a call",
+      "Go shopping",
+      "Make a decision",
+      "Take a picture"
+    ],
+    "answer": "Take a picture"
+  },
+  {
+    "question": "Do not say: Take rest , say:",
+    "options": [
+      "Get some rest",
+      "Make a mistake",
+      "Take out the garbage",
+      "Glare at"
+    ],
+    "answer": "Get some rest"
+  },
+  {
+    "question": "Do not say: Give a gift , say:",
+    "options": [
+      "Have a rest",
+      "Throw a party",
+      "Reply",
+      "Offer a gift"
+    ],
+    "answer": "Offer a gift"
+  },
+  {
+    "question": "Do not say: Do business , say:",
+    "options": [
+      "Meditate",
+      "Run a business",
+      "Work",
+      "Arrive at the office"
+    ],
+    "answer": "Run a business"
+  },
+  {
+    "question": "Do not say: Do job , say:",
+    "options": [
+      "Pull off the bandage",
+      "Make a decision",
+      "Work a job",
+      "Look after"
+    ],
+    "answer": "Work a job"
+  },
+  {
+    "question": "Do not say: Give interview , say:",
+    "options": [
+      "Scrape off paint",
+      "Attend an interview",
+      "Prepare",
+      "Go shopping"
+    ],
+    "answer": "Attend an interview"
+  },
+  {
+    "question": "Do not say: Give example , say:",
+    "options": [
+      "Ask for help",
+      "Show respect",
+      "Cause pain",
+      "Provide an example"
+    ],
+    "answer": "Provide an example"
+  },
+  {
+    "question": "Do not say: Put attention , say:",
+    "options": [
+      "Pay attention",
+      "Build a relationship",
+      "Go shopping",
+      "Work"
+    ],
+    "answer": "Pay attention"
+  },
+  {
+    "question": "Do not say: Do efforts , say:",
+    "options": [
+      "Take necessary action",
+      "File a complaint",
+      "Book (a seat, hotel, etc.)",
+      "Make efforts"
+    ],
+    "answer": "Make efforts"
+  },
+  {
+    "question": "Do not say: Take permission , say:",
+    "options": [
+      "Take a test",
+      "Brush your teeth",
+      "Make a plan",
+      "Ask for permission"
+    ],
+    "answer": "Ask for permission"
+  },
+  {
+    "question": "Do not say: Make fun of , say:",
+    "options": [
+      "Look after",
+      "Tease",
+      "Get some rest",
+      "Take an exam"
+    ],
+    "answer": "Tease"
+  },
+  {
+    "question": "Do not say: Do mistake again , say:",
+    "options": [
+      "Tell lies",
+      "Make a call",
+      "Make progress",
+      "Repeat the mistake"
+    ],
+    "answer": "Repeat the mistake"
+  },
+  {
+    "question": "Do not say: Do copy , say:",
+    "options": [
+      "Cheat or Copy",
+      "Take a photo",
+      "Make a mistake",
+      "Work out"
+    ],
+    "answer": "Cheat or Copy"
+  },
+  {
+    "question": "Do not say: Give respect , say:",
+    "options": [
+      "Fall asleep",
+      "Show respect",
+      "File a complaint",
+      "Take an exam"
+    ],
+    "answer": "Show respect"
+  },
+  {
+    "question": "Do not say: Make smile , say:",
+    "options": [
+      "Spend time",
+      "Smile",
+      "Complete homework",
+      "Make a mistake"
+    ],
+    "answer": "Smile"
+  },
+  {
+    "question": "Do not say: Take help , say:",
+    "options": [
+      "Ask for help",
+      "Give news",
+      "Fulfill the need",
+      "Log out the password"
+    ],
+    "answer": "Ask for help"
+  },
+  {
+    "question": "Do not say: Put signature , say:",
+    "options": [
+      "Wear clothes",
+      "Hurry back",
+      "Brush off the dust",
+      "Sign"
+    ],
+    "answer": "Sign"
+  },
+  {
+    "question": "Do not say: Do registration , say:",
+    "options": [
+      "Reply",
+      "Brush off the dust",
+      "Register",
+      "Make an effort"
+    ],
+    "answer": "Register"
+  },
+  {
+    "question": "Do not say: Do booking , say:",
+    "options": [
+      "Go shopping",
+      "Take necessary action",
+      "Book (a seat, hotel, etc.)",
+      "Have dinner"
+    ],
+    "answer": "Book (a seat, hotel, etc.)"
+  },
+  {
+    "question": "Do not say: Do payment , say:",
+    "options": [
+      "Complete homework",
+      "Host a party",
+      "Make a payment",
+      "Make noise"
+    ],
+    "answer": "Make a payment"
+  },
+  {
+    "question": "Do not say: Take class , say:",
+    "options": [
+      "Attend class",
+      "Make a decision",
+      "Register",
+      "Make arrangements"
+    ],
+    "answer": "Attend class"
+  },
+  {
+    "question": "Do not say: Take interest , say:",
+    "options": [
+      "Speak up",
+      "Clean up",
+      "Get revenge",
+      "Show interest"
+    ],
+    "answer": "Show interest"
+  },
+  {
+    "question": "Do not say: Do arrangements , say:",
+    "options": [
+      "Make arrangements",
+      "Make efforts",
+      "Take necessary action",
+      "Make a plan"
+    ],
+    "answer": "Make arrangements"
+  },
+  {
+    "question": "Do not say: Take action , say:",
+    "options": [
+      "Make a plan",
+      "Show interest",
+      "Pay attention",
+      "Act"
+    ],
+    "answer": "Act"
+  },
+  {
+    "question": "Do not say: Do improvement , say:",
+    "options": [
+      "Have fun",
+      "Make a decision",
+      "Make progress",
+      "Improve"
+    ],
+    "answer": "Improve"
+  },
+  {
+    "question": "Do not say: Make revenge , say:",
+    "options": [
+      "Have breakfast",
+      "Make progress",
+      "Take revenge",
+      "Turn on the light"
+    ],
+    "answer": "Take revenge"
+  },
+  {
+    "question": "Do not say: Do planning , say:",
+    "options": [
+      "Make noise",
+      "Go shopping",
+      "Take necessary action",
+      "Plan"
+    ],
+    "answer": "Plan"
+  },
+  {
+    "question": "Do not say: Do progress , say:",
+    "options": [
+      "Make progress",
+      "Work out",
+      "Have a dream",
+      "Pay attention"
+    ],
+    "answer": "Make progress"
+  },
+  {
+    "question": "Do not say: Take care of , say:",
+    "options": [
+      "Look after",
+      "Run a business",
+      "Throw a party",
+      "Work"
+    ],
+    "answer": "Look after"
+  },
+  {
+    "question": "Do not say: Do the need , say:",
+    "options": [
+      "Make a phone call",
+      "Fall asleep",
+      "Cause pain",
+      "Fulfill the need"
+    ],
+    "answer": "Fulfill the need"
+  },
+  {
+    "question": "Do not say: Give reaction , say:",
+    "options": [
+      "React",
+      "Come inside",
+      "Tease",
+      "Grab food"
+    ],
+    "answer": "React"
+  }
+]
