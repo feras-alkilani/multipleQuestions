@@ -636,6 +636,213 @@
     ],
     "answer": "clean, erase, remove"
   },{
+    "question": "incur",
+    "options": [
+      "Suffer, experience, sustain",
+      "Avoid, evade, escape",
+      "Cause, trigger, produce",
+      "Receive, accept, gain"
+    ],
+    "answer": "Suffer, experience, sustain"
+  },
+  {
+    "question": "step up",
+    "options": [
+      "Increase, intensify, advance",
+      "Retreat, withdraw, back",
+      "Pause, delay, halt",
+      "Reduce, lessen, minimize"
+    ],
+    "answer": "Increase, intensify, advance"
+  },
+  {
+    "question": "die of starvation",
+    "options": [
+      "Starve, perish, waste away",
+      "Live, survive, endure",
+      "Thrive, prosper, bloom",
+      "Eat, nourish, feed"
+    ],
+    "answer": "Starve, perish, waste away"
+  },
+  {
+    "question": "focus",
+    "options": [
+      "Concentrate, direct, center",
+      "Ignore, neglect, overlook",
+      "Spread, scatter, disperse",
+      "Adjust, modify, change"
+    ],
+    "answer": "Concentrate, direct, center"
+  },
+  {
+    "question": "save",
+    "options": [
+      "Rescue, preserve, protect",
+      "Waste, squander, misuse",
+      "Spend, consume, exhaust",
+      "Release, free, discharge"
+    ],
+    "answer": "Rescue, preserve, protect"
+  },
+  {
+    "question": "rest",
+    "options": [
+      "Pause, relax, repose",
+      "Work, labor, toil",
+      "Move, act, proceed",
+      "Think, ponder, reflect"
+    ],
+    "answer": "Pause, relax, repose"
+  },
+  {
+    "question": "sit",
+    "options": [
+      "Perch, settle, remain",
+      "Stand, rise, ascend",
+      "Lie, recline, sprawl",
+      "Walk, move, stroll"
+    ],
+    "answer": "Perch, settle, remain"
+  },{
+    "question": "redeem",
+    "options": [
+      "recover, compensate, exchange",
+      "lose, forget, waste",
+      "break, destroy, damage",
+      "hide, ignore, reject"
+    ],
+    "answer": "recover, compensate, exchange"
+  },
+  {
+    "question": "confuse",
+    "options": [
+      "mislead, bewilder, puzzle",
+      "explain, clarify, simplify",
+      "ignore, avoid, neglect",
+      "fix, repair, mend"
+    ],
+    "answer": "mislead, bewilder, puzzle"
+  },
+  {
+    "question": "break into",
+    "options": [
+      "enter forcefully, invade, intrude",
+      "leave, exit, escape",
+      "build, construct, create",
+      "repair, fix, mend"
+    ],
+    "answer": "enter forcefully, invade, intrude"
+  },
+  {
+    "question": "tick off",
+    "options": [
+      "annoy, irritate, anger",
+      "approve, accept, praise",
+      "ignore, neglect, avoid",
+      "help, assist, support"
+    ],
+    "answer": "annoy, irritate, anger"
+  },{
+    "question": "housed",
+    "options": [
+      "accommodated, sheltered, lodged",
+      "released, freed, evacuated",
+      "ignored, neglected, abandoned",
+      "built, constructed, created"
+    ],
+    "answer": "accommodated, sheltered, lodged"
+  },
+  {
+    "question": "deport",
+    "options": [
+      "expel, exile, banish",
+      "invite, welcome, accept",
+      "detain, arrest, imprison",
+      "support, assist, help"
+    ],
+    "answer": "expel, exile, banish"
+  },
+  {
+    "question": "strengthen",
+    "options": [
+      "fortify, reinforce, boost",
+      "weaken, reduce, diminish",
+      "ignore, neglect, overlook",
+      "break, damage, harm"
+    ],
+    "answer": "fortify, reinforce, boost"
+  },
+  {
+    "question": "paint",
+    "options": [
+      "color, coat, decorate",
+      "erase, remove, wipe",
+      "cut, carve, sculpt",
+      "build, create, form"
+    ],
+    "answer": "color, coat, decorate"
+  },
+  {
+    "question": "elevate",
+    "options": [
+      "raise, lift, heighten",
+      "lower, drop, reduce",
+      "ignore, neglect, forget",
+      "break, damage, destroy"
+    ],
+    "answer": "raise, lift, heighten"
+  },
+  {
+    "question": "sustain",
+    "options": [
+      "maintain, support, endure",
+      "break, destroy, ruin",
+      "ignore, neglect, abandon",
+      "stop, cease, halt"
+    ],
+    "answer": "maintain, support, endure"
+  },
+  {
+    "question": "murder",
+    "options": [
+      "kill, slay, assassinate",
+      "heal, save, protect",
+      "help, assist, support",
+      "create, build, form"
+    ],
+    "answer": "kill, slay, assassinate"
+  },
+  {
+    "question": "clarify",
+    "options": [
+      "explain, illuminate, simplify",
+      "confuse, obscure, complicate",
+      "hide, cover, conceal",
+      "ignore, neglect, avoid"
+    ],
+    "answer": "explain, illuminate, simplify"
+  },
+  {
+    "question": "cut down",
+    "options": [
+      "Reduce, decrease, lessen",
+      "Increase, enlarge, expand",
+      "Build, create, produce",
+      "Preserve, maintain, keep"
+    ],
+    "answer": "Reduce, decrease, lessen"
+  },
+  {
+    "question": "misuse",
+    "options": [
+      "Abuse, exploit, mishandle",
+      "Use, apply, employ",
+      "Protect, guard, shield",
+      "Ignore, neglect, avoid"
+    ],
+    "answer": "Abuse, exploit, mishandle"
+  },{
     "question": "luring",
     "options": [
       "Attract, entice, seduce",

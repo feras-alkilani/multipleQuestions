@@ -15764,12 +15764,12 @@
   {
     "question": "مرة أخرى",
     "options": [
-      "yet",
+      "yet again",
       "premise",
       "overnight",
       "backseat driver"
     ],
-    "answer": "yet"
+    "answer": "yet again"
   },
   {
     "question": "الشهود",
@@ -16424,12 +16424,1182 @@
   {
     "question": "شجاعة",
     "options": [
-      "guts  شجاعة / جرأة",
+      "guts",
       "mayoral",
       "assembly",
       "nominee"
     ],
-    "answer": "guts  شجاعة / جرأة"
+    "answer": "guts"
+  },
+  {
+    "question": "رقم مجاني",
+    "options": [
+      "toll-free",
+      "incur",
+      "farewell",
+      "dubious"
+    ],
+    "answer": "toll-free"
+  },
+  {
+    "question": "يتحمل (تكاليف أو عواقب)",
+    "options": [
+      "step up",
+      "incur",
+      "cut down on",
+      "focus"
+    ],
+    "answer": "incur"
+  },
+  {
+    "question": "لتجنب الرسوم غير المتوقعة",
+    "options": [
+      "dubious",
+      "To avoid unexpected charges",
+      "save your breath",
+      "farewell"
+    ],
+    "answer": "To avoid unexpected charges"
+  },
+  {
+    "question": "هام أو مهم",
+    "options": [
+      "significant",
+      "frayed",
+      "paternity leave",
+      "graveyard"
+    ],
+    "answer": "significant"
+  },
+  {
+    "question": "لقد فشل مرة أخرى",
+    "options": [
+      "grave",
+      "he failed yet again",
+      "uptight about",
+      "farewell"
+    ],
+    "answer": "he failed yet again"
+  },
+  {
+    "question": "إنذار الحريق قد انطلق",
+    "options": [
+      "cut down on",
+      "the fire alarm has sounded",
+      "dubious",
+      "step up"
+    ],
+    "answer": "the fire alarm has sounded"
+  },
+  {
+    "question": "مقبرة",
+    "options": [
+      "graveyard",
+      "carpentry",
+      "lobby",
+      "focus"
+    ],
+    "answer": "graveyard"
+  },
+  {
+    "question": "يتقدم أو يرتقي",
+    "options": [
+      "farewell",
+      "step up",
+      "cut down on",
+      "incur"
+    ],
+    "answer": "step up"
+  },
+  {
+    "question": "يموت جوعاً",
+    "options": [
+      "dubious",
+      "die of starvation",
+      "cut down on",
+      "fat cat"
+    ],
+    "answer": "die of starvation"
+  },
+  {
+    "question": "يركز",
+    "options": [
+      "focus",
+      "carpentry",
+      "farewell",
+      "uptight about"
+    ],
+    "answer": "focus"
+  },
+  {
+    "question": "قبر",
+    "options": [
+      "grave",
+      "lobby",
+      "dubious",
+      "farewell"
+    ],
+    "answer": "grave"
+  },
+  {
+    "question": "سجناء",
+    "options": [
+      "graveyard",
+      "Prisoners",
+      "farewell",
+      "dubious"
+    ],
+    "answer": "Prisoners"
+  },
+  {
+    "question": "عدس",
+    "options": [
+      "lentils",
+      "farewell",
+      "carpentry",
+      "dubious"
+    ],
+    "answer": "lentils"
+  },
+  {
+    "question": "كما لم يحدث من قبل",
+    "options": [
+      "farewell",
+      "dubious",
+      "like never before",
+      "cut down on"
+    ],
+    "answer": "like never before"
+  },
+  {
+    "question": "سأقص شعري بنفسي VS سأجعل أحدهم يقص شعري",
+    "options": [
+      "I will cut my hair VS I will have my hair cut",
+      "farewell",
+      "dubious",
+      "uptight about"
+    ],
+    "answer": "I will cut my hair VS I will have my hair cut"
+  },
+  {
+    "question": "فاس (قبعة مغربية تقليدية)",
+    "options": [
+      "farewell",
+      "fez",
+      "graveyard",
+      "dubious"
+    ],
+    "answer": "fez"
+  },
+  {
+    "question": "إجازة أبوة",
+    "options": [
+      "dubious",
+      "paternity leave",
+      "farewell",
+      "grave"
+    ],
+    "answer": "paternity leave"
+  },
+  {
+    "question": "إجازة أمومة",
+    "options": [
+      "dubious",
+      "maternity leave",
+      "farewell",
+      "focus"
+    ],
+    "answer": "maternity leave"
+  },
+  {
+    "question": "إجازة والدية",
+    "options": [
+      "parental leave",
+      "dubious",
+      "farewell",
+      "graveyard"
+    ],
+    "answer": "parental leave"
+  },
+  {
+    "question": "مشبوه أو مثير للشك",
+    "options": [
+      "dubious",
+      "farewell",
+      "uptight about",
+      "grave"
+    ],
+    "answer": "dubious"
+  },
+  {
+    "question": "شعر لولبي أو مجعد جداً",
+    "options": [
+      "farewell",
+      "coily hair",
+      "dubious",
+      "focus"
+    ],
+    "answer": "coily hair"
+  },
+  {
+    "question": "إنه لبق",
+    "options": [
+      "He is tactful",
+      "dubious",
+      "farewell",
+      "graveyard"
+    ],
+    "answer": "He is tactful"
+  },
+  {
+    "question": "أعترف بخطئي، أنا آسف - حقك عليّ",
+    "options": [
+      "I stand corrected أنا آسف - حقك عليي",
+      "dubious",
+      "farewell",
+      "focus"
+    ],
+    "answer": "I stand corrected أنا آسف - حقك عليي"
+  },
+  {
+    "question": "خطئي",
+    "options": [
+      "dubious",
+      "my bad",
+      "farewell",
+      "graveyard"
+    ],
+    "answer": "my bad"
+  },
+  {
+    "question": "ماذا قلت؟ أعد من فضلك",
+    "options": [
+      "farewell",
+      "dubious",
+      "come again",
+      "graveyard"
+    ],
+    "answer": "come again"
+  },
+  {
+    "question": "لا تحسبوني",
+    "options": [
+      "count me out لا تحسبوني",
+      "I will pass لا تحسبوني",
+      "farewell",
+      "dubious"
+    ],
+    "answer": "count me out لا تحسبوني"
+  },
+  {
+    "question": "لن أشارك",
+    "options": [
+      "I will pass لا تحسبوني",
+      "count me out لا تحسبوني",
+      "dubious",
+      "farewell"
+    ],
+    "answer": "I will pass لا تحسبوني"
+  },
+  {
+    "question": "لا تضيع أنفاسك بالكلام",
+    "options": [
+      "farewell",
+      "save your breath",
+      "dubious",
+      "graveyard"
+    ],
+    "answer": "save your breath"
+  },
+  {
+    "question": "لقد أثبتت وجهة نظري",
+    "options": [
+      "I rest my case",
+      "dubious",
+      "farewell",
+      "focus"
+    ],
+    "answer": "I rest my case"
+  },
+  {
+    "question": "أنا متردد",
+    "options": [
+      "I sit on the fence أنا متردد",
+      "farewell",
+      "dubious",
+      "focus"
+    ],
+    "answer": "I sit on the fence أنا متردد"
+  },
+  {
+    "question": "سياج",
+    "options": [
+      "dubious",
+      "fence",
+      "farewell",
+      "graveyard"
+    ],
+    "answer": "fence"
+  },
+  {
+    "question": "أنا مشغول نوعاً ما",
+    "options": [
+      "I'm kinda busy",
+      "dubious",
+      "farewell",
+      "focus"
+    ],
+    "answer": "I'm kinda busy"
+  },
+  {
+    "question": "مسلسل كسر الشر",
+    "options": [
+      "dubious",
+      "farewell",
+      "breaking bad",
+      "graveyard"
+    ],
+    "answer": "breaking bad"
+  },
+  {
+    "question": "عربة أطفال",
+    "options": [
+      "stroller",
+      "dubious",
+      "farewell",
+      "focus"
+    ],
+    "answer": "stroller"
+  },
+  {
+    "question": "رجل ثري",
+    "options": [
+      "farewell",
+      "fat cat رجل ثري",
+      "dubious",
+      "focus"
+    ],
+    "answer": "fat cat رجل ثري"
+  },
+  {
+    "question": "شبيه بالشكل",
+    "options": [
+      "dubious",
+      "doppelganger",
+      "farewell",
+      "graveyard"
+    ],
+    "answer": "doppelganger"
+  },
+  {
+    "question": "فاتورة: أنت مدين بهذا المبلغ",
+    "options": [
+      "dubious",
+      "Bill You owe this.",
+      "farewell",
+      "focus"
+    ],
+    "answer": "Bill You owe this."
+  },
+  {
+    "question": "إيصال: لقد دفعت هذا المبلغ",
+    "options": [
+      "dubious",
+      "Receipt  You’ve paid this.",
+      "farewell",
+      "focus"
+    ],
+    "answer": "Receipt  You’ve paid this."
+  },
+  {
+    "question": "مهترئ",
+    "options": [
+      "dubious",
+      "frayed",
+      "farewell",
+      "graveyard"
+    ],
+    "answer": "frayed"
+  },
+  {
+    "question": "السحاب عالق",
+    "options": [
+      "dubious",
+      "farewell",
+      "the zipper is jammed",
+      "focus"
+    ],
+    "answer": "the zipper is jammed"
+  },
+  {
+    "question": "الوشاح مشبوك بخيط",
+    "options": [
+      "dubious",
+      "farewell",
+      "the scarf is snagged",
+      "focus"
+    ],
+    "answer": "the scarf is snagged"
+  },
+  {
+    "question": "الكنزة مشبكة كرات قماش",
+    "options": [
+      "dubious",
+      "farewell",
+      "the sweater is pilled",
+      "focus"
+    ],
+    "answer": "the sweater is pilled"
+  },
+  {
+    "question": "الأظافر متقشرة",
+    "options": [
+      "dubious",
+      "farewell",
+      "the nails is chipped",
+      "focus"
+    ],
+    "answer": "the nails is chipped"
+  },
+  {
+    "question": "الطاولة مخدوشة",
+    "options": [
+      "dubious",
+      "farewell",
+      "the table is scuffed",
+      "focus"
+    ],
+    "answer": "the table is scuffed"
+  },
+  {
+    "question": "قلق بشأن",
+    "options": [
+      "dubious",
+      "uptight about",
+      "farewell",
+      "focus"
+    ],
+    "answer": "uptight about"
+  },
+  {
+    "question": "أنا متوتر أو قلق",
+    "options": [
+      "dubious",
+      "farewell",
+      "I am uptight أنا متوتر أو قلق",
+      "focus"
+    ],
+    "answer": "I am uptight أنا متوتر أو قلق"
+  },
+  {
+    "question": "أنا متحفظ أو صارم في التصرفات",
+    "options": [
+      "dubious",
+      "farewell",
+      "I am upyight متحفظ أو صارم في التصرفات",
+      "focus"
+    ],
+    "answer": "I am upyight متحفظ أو صارم في التصرفات"
+  },
+  {
+    "question": "لدي مشكلة معه (عامية)",
+    "options": [
+      "dubious",
+      "I have beef with him عامية تعني أنني لدي مشكلة معه",
+      "farewell",
+      "focus"
+    ],
+    "answer": "I have beef with him عامية تعني أنني لدي مشكلة معه"
+  },
+  {
+    "question": "نجارة",
+    "options": [
+      "dubious",
+      "carpentry",
+      "farewell",
+      "focus"
+    ],
+    "answer": "carpentry"
+  },
+  {
+    "question": "وداع",
+    "options": [
+      "dubious",
+      "farewell",
+      "graveyard",
+      "focus"
+    ],
+    "answer": "farewell"
+  },
+  {
+    "question": "يقلل من",
+    "options": [
+      "dubious",
+      "cut down on",
+      "farewell",
+      "focus"
+    ],
+    "answer": "cut down on"
+  },
+  {
+    "question": "بشكل هائل",
+    "options": [
+      "dubious",
+      "enormously",
+      "farewell",
+      "focus"
+    ],
+    "answer": "enormously"
+  },
+  {
+    "question": "سباق الفئران",
+    "options": [
+      "a rat race",
+      "puppy love",
+      "A pep talk",
+      "broken into"
+    ],
+    "answer": "a rat race"
+  },
+  {
+    "question": "حب مراهقة أو إعجاب سطحي",
+    "options": [
+      "puppy love",
+      "redeem",
+      "snippet",
+      "rooster"
+    ],
+    "answer": "puppy love"
+  },
+  {
+    "question": "كلمة تشجيعية",
+    "options": [
+      "A pep talk",
+      "confusion",
+      "tick off",
+      "lioness"
+    ],
+    "answer": "A pep talk"
+  },
+  {
+    "question": "اقتحم",
+    "options": [
+      "broken into",
+      "redeem",
+      "duckling",
+      "masculine"
+    ],
+    "answer": "broken into"
+  },
+  {
+    "question": "يسترد",
+    "options": [
+      "redeem",
+      "snippet",
+      "implied",
+      "bitch"
+    ],
+    "answer": "redeem"
+  },
+  {
+    "question": "ارتباك",
+    "options": [
+      "confusion",
+      "rapper",
+      "phonetic",
+      "ewe"
+    ],
+    "answer": "confusion"
+  },
+  {
+    "question": "مقتطف",
+    "options": [
+      "snippet",
+      "lamp",
+      "roleplays",
+      "bull"
+    ],
+    "answer": "snippet"
+  },
+  {
+    "question": "ديك",
+    "options": [
+      "rooster",
+      "duck",
+      "drake",
+      "queen"
+    ],
+    "answer": "rooster"
+  },
+  {
+    "question": "دجاجة",
+    "options": [
+      "hen",
+      "cub",
+      "lioness",
+      "kitten"
+    ],
+    "answer": "hen"
+  },
+  {
+    "question": "فرخ دجاج",
+    "options": [
+      "chick",
+      "duckling",
+      "puppy",
+      "tom"
+    ],
+    "answer": "chick"
+  },
+  {
+    "question": "لبؤة",
+    "options": [
+      "lioness",
+      "ram",
+      "ewe",
+      "bull"
+    ],
+    "answer": "lioness"
+  },
+  {
+    "question": "شبل",
+    "options": [
+      "cub",
+      "puppy",
+      "kitten",
+      "lamp"
+    ],
+    "answer": "cub"
+  },
+  {
+    "question": "كبش",
+    "options": [
+      "ram",
+      "drake",
+      "bull",
+      "lamp"
+    ],
+    "answer": "ram"
+  },
+  {
+    "question": "نعجة",
+    "options": [
+      "ewe",
+      "duck",
+      "lamp",
+      "queen"
+    ],
+    "answer": "ewe"
+  },
+  {
+    "question": "ذكر البط",
+    "options": [
+      "drake",
+      "duck",
+      "duckling",
+      "tom"
+    ],
+    "answer": "drake"
+  },
+  {
+    "question": "بطة",
+    "options": [
+      "duck",
+      "kitten",
+      "queen",
+      "puppy"
+    ],
+    "answer": "duck"
+  },
+  {
+    "question": "أنثى الكلب",
+    "options": [
+      "bitch",
+      "lioness",
+      "queen",
+      "hen"
+    ],
+    "answer": "bitch"
+  },
+  {
+    "question": "القط الذكر",
+    "options": [
+      "tom",
+      "cub",
+      "kitten",
+      "ram"
+    ],
+    "answer": "tom"
+  },
+  {
+    "question": "ثور",
+    "options": [
+      "bull",
+      "ram",
+      "drake",
+      "duck"
+    ],
+    "answer": "bull"
+  },
+  {
+    "question": "حَمَل",
+    "options": [
+      "lamp",
+      "duckling",
+      "puppy",
+      "kitten"
+    ],
+    "answer": "lamp"
+  },
+  {
+    "question": "فرخ البط",
+    "options": [
+      "duckling",
+      "puppy",
+      "kitten",
+      "cub"
+    ],
+    "answer": "duckling"
+  },
+  {
+    "question": "جرو",
+    "options": [
+      "puppy",
+      "kitten",
+      "cub",
+      "lamp"
+    ],
+    "answer": "puppy"
+  },
+  {
+    "question": "أنثى القط",
+    "options": [
+      "queen",
+      "lioness",
+      "hen",
+      "bitch"
+    ],
+    "answer": "queen"
+  },
+  {
+    "question": "هر",
+    "options": [
+      "kitten",
+      "puppy",
+      "cub",
+      "duckling"
+    ],
+    "answer": "kitten"
+  },
+  {
+    "question": "صوتي",
+    "options": [
+      "phonetic",
+      "rhythm",
+      "rapper",
+      "implied"
+    ],
+    "answer": "phonetic"
+  },
+  {
+    "question": "مغني راب",
+    "options": [
+      "rapper",
+      "roleplays",
+      "tick off",
+      "clarification"
+    ],
+    "answer": "rapper"
+  },
+  {
+    "question": "تمثيل أدوار",
+    "options": [
+      "roleplays",
+      "rhythm",
+      "contraction",
+      "masculine"
+    ],
+    "answer": "roleplays"
+  },
+  {
+    "question": "إيقاع",
+    "options": [
+      "rhythm",
+      "phonetic",
+      "tick off",
+      "snippet"
+    ],
+    "answer": "rhythm"
+  },
+  {
+    "question": "توضيح",
+    "options": [
+      "clarification",
+      "implied",
+      "redeem",
+      "confusion"
+    ],
+    "answer": "clarification"
+  },
+  {
+    "question": "يغضب",
+    "options": [
+      "tick off",
+      "murder",
+      "roleplays",
+      "redeem"
+    ],
+    "answer": "tick off"
+  },
+  {
+    "question": "يقتل",
+    "options": [
+      "murder",
+      "tick off",
+      "puppy love",
+      "a rat race"
+    ],
+    "answer": "murder"
+  },
+  {
+    "question": "نائب",
+    "options": [
+      "deputy",
+      "gibraltar",
+      "Artificial intelligence",
+      "deepfake"
+    ],
+    "answer": "deputy"
+  },
+  {
+    "question": "جبل طارق",
+    "options": [
+      "deputy",
+      "gibraltar",
+      "hospitality",
+      "housed"
+    ],
+    "answer": "gibraltar"
+  },
+  {
+    "question": "الذكاء الاصطناعي",
+    "options": [
+      "deepfake",
+      "Artificial intelligence",
+      "to cool the computer",
+      "convenient"
+    ],
+    "answer": "Artificial intelligence"
+  },
+  {
+    "question": "تزييف عميق",
+    "options": [
+      "deepfake",
+      "hospitality",
+      "predictions",
+      "strengthen"
+    ],
+    "answer": "deepfake"
+  },
+  {
+    "question": "مستضاف",
+    "options": [
+      "housed",
+      "hospitality",
+      "nutrition",
+      "sweetheart"
+    ],
+    "answer": "housed"
+  },
+  {
+    "question": "الضيافة",
+    "options": [
+      "housed",
+      "hospitality",
+      "paint",
+      "painter"
+    ],
+    "answer": "hospitality"
+  },
+  {
+    "question": "تبريد الحاسوب",
+    "options": [
+      "to cool the computer",
+      "defective",
+      "defect",
+      "elevate"
+    ],
+    "answer": "to cool the computer"
+  },
+  {
+    "question": "مريح",
+    "options": [
+      "convenient",
+      "specifically",
+      "in peace",
+      "meatball"
+    ],
+    "answer": "convenient"
+  },
+  {
+    "question": "توقعات",
+    "options": [
+      "predictions",
+      "treatment of data",
+      "sip of water",
+      "strengthen"
+    ],
+    "answer": "predictions"
+  },
+  {
+    "question": "رشفه ماء",
+    "options": [
+      "sip of water",
+      "nutrition",
+      "sweetheart",
+      "meatball"
+    ],
+    "answer": "sip of water"
+  },
+  {
+    "question": "معالجة البيانات",
+    "options": [
+      "treatment of data",
+      "paint",
+      "painter",
+      "elevate"
+    ],
+    "answer": "treatment of data"
+  },
+  {
+    "question": "لا تزال بحاجة للاستحمام.",
+    "options": [
+      "You still need to shower.",
+      "deport",
+      "defect",
+      "sustain"
+    ],
+    "answer": "You still need to shower."
+  },
+  {
+    "question": "حبيبي",
+    "options": [
+      "sweetheart",
+      "strengthen",
+      "nutrition",
+      "in peace"
+    ],
+    "answer": "sweetheart"
+  },
+  {
+    "question": "حافظة أقلام",
+    "options": [
+      "pencil case",
+      "defective",
+      "ash",
+      "ashes"
+    ],
+    "answer": "pencil case"
+  },
+  {
+    "question": "بشكل محدد",
+    "options": [
+      "specifically",
+      "deport",
+      "strengthen",
+      "sustain"
+    ],
+    "answer": "specifically"
+  },
+  {
+    "question": "رماد",
+    "options": [
+      "ashes",
+      "ash",
+      "paint",
+      "painter"
+    ],
+    "answer": "ashes"
+  },
+  {
+    "question": "رماد",
+    "options": [
+      "ash",
+      "ashes",
+      "defect",
+      "defective"
+    ],
+    "answer": "ash"
+  },
+  {
+    "question": "ترحيل",
+    "options": [
+      "deport",
+      "elevate",
+      "sustain",
+      "strengthen"
+    ],
+    "answer": "deport"
+  },
+  {
+    "question": "في سلام",
+    "options": [
+      "in peace",
+      "convenient",
+      "sweetheart",
+      "nutrition"
+    ],
+    "answer": "in peace"
+  },
+  {
+    "question": "كُرة اللحم",
+    "options": [
+      "meatball",
+      "painter",
+      "defect",
+      "strengthen"
+    ],
+    "answer": "meatball"
+  },
+  {
+    "question": "تغذية",
+    "options": [
+      "nutrition",
+      "strengthen",
+      "sustain",
+      "paint"
+    ],
+    "answer": "nutrition"
+  },
+  {
+    "question": "تقوية",
+    "options": [
+      "strengthen",
+      "defective",
+      "defect",
+      "deport"
+    ],
+    "answer": "strengthen"
+  },
+  {
+    "question": "رسم",
+    "options": [
+      "paint",
+      "painter",
+      "deputy",
+      "ash"
+    ],
+    "answer": "paint"
+  },
+  {
+    "question": "رسام",
+    "options": [
+      "painter",
+      "paint",
+      "nutrition",
+      "sweetheart"
+    ],
+    "answer": "painter"
+  },
+  {
+    "question": "معيب",
+    "options": [
+      "defective",
+      "defect",
+      "elevate",
+      "sustain"
+    ],
+    "answer": "defective"
+  },
+  {
+    "question": "عيب",
+    "options": [
+      "defect",
+      "defective",
+      "deport",
+      "in peace"
+    ],
+    "answer": "defect"
+  },
+  {
+    "question": "رفع",
+    "options": [
+      "elevate",
+      "sustain",
+      "strengthen",
+      "defect"
+    ],
+    "answer": "elevate"
+  },
+  {
+    "question": "دعم / الحفاظ على",
+    "options": [
+      "sustain",
+      "elevate",
+      "deport",
+      "paint"
+    ],
+    "answer": "sustain"
+  },
+  {
+    "question": "اصطناعي",
+    "options": [
+      "Artificial",
+      "deepfake",
+      "nutrition",
+      "sweetheart"
+    ],
+    "answer": "Artificial"
+  },
+  {
+    "question": "اختصار",
+    "options": [
+      "contraction",
+      "implied",
+      "masculine",
+      "rhythm"
+    ],
+    "answer": "contraction"
+  },
+  {
+    "question": "مذكر",
+    "options": [
+      "masculine",
+      "queen",
+      "bull",
+      "lioness"
+    ],
+    "answer": "masculine"
+  },
+  {
+    "question": "ضمني",
+    "options": [
+      "implied",
+      "clarification",
+      "redeem",
+      "snippet"
+    ],
+    "answer": "implied"
+  },
+  {
+    "question": "ردهة أو بهو",
+    "options": [
+      "dubious",
+      "lobby",
+      "farewell",
+      "focus"
+    ],
+    "answer": "lobby"
+  },
+  {
+    "question": "إساءة الاستخدام",
+    "options": [
+      "dubious",
+      "misuse",
+      "farewell",
+      "focus"
+    ],
+    "answer": "misuse"
   },
   {
     "question": "مُنقذ",
@@ -36222,6 +37392,26 @@
     "answer": "offender"
   },
   {
+    "question": "قفز من كرسيه",
+    "options": [
+      "He jumped off the bed",
+      "He sprang up from his chair",
+      "He sat down quietly",
+      "He leaned back on the sofa"
+    ],
+    "answer": "He sprang up from his chair"
+  },
+  {
+    "question": "محلات جديدة تستمر في الظهور في كل مكان",
+    "options": [
+      "Old shops are closing",
+      "New shops keep springing up everywhere.",
+      "People are leaving the city",
+      "The market is shrinking"
+    ],
+    "answer": "New shops keep springing up everywhere."
+  },
+  {
     "question": "ما الفرق بدقة بين الكلمات فيما يخص كلمة لقطات فيديو",
     "options": [
       "footage",
@@ -36242,27 +37432,7 @@
     "answer": "to counter"
   },
   {
-    "question": "New shops keep springing up everywhere.",
-    "options": [
-      "المحلات الجديدة تظهر في كل مكان بسرعة.",
-      "المحلات القديمة تغلق ببطء.",
-      "هناك نقص في المحلات.",
-      "تُفتح المحلات أحيانًا."
-    ],
-    "answer": "المحلات الجديدة تظهر في كل مكان بسرعة."
-  },
-  {
-    "question": "He sprang up from his chair.",
-    "options": [
-      "نهض فجأة من كرسيه",
-      "جلس ببطء على الكرسي",
-      "سقط عن الكرسي",
-      "انزلق من الكرسي"
-    ],
-    "answer": "نهض فجأة من كرسيه"
-  },
-  {
-    "question": "nurtured",
+    "question": "رعى",
     "options": [
       "neglected",
       "abused",
@@ -36272,7 +37442,7 @@
     "answer": "nurtured"
   },
   {
-    "question": "perceived",
+    "question": "شَعَرَ",
     "options": [
       "ignored",
       "missed",
@@ -36282,7 +37452,7 @@
     "answer": "perceived"
   },
   {
-    "question": "generic",
+    "question": "عام",
     "options": [
       "unique",
       "special",
@@ -39249,7 +40419,8 @@
       "Decorate, display, arrange"
     ],
     "answer": "Conceal, cover, veil"
-  },{
+  },
+  {
     "question": "يتأثر بشكل سلبي",
     "options": [
       "positively",
